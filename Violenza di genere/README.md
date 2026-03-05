@@ -120,7 +120,3 @@ Questo rende il processo di pulizia:
 
 Questa repository copre la fase di **data cleaning**.  
 La fase successiva del progetto sarà dedicata all’**analisi SQL** e all’esplorazione dei pattern presenti nei dati sulla violenza di genere.
-
-## Autrice
-
-Progetto sviluppato come parte di un percorso da **Junior Data Analyst**, con focus su pulizia dei dati, standardizzazione, riproducibilità e preparazione all’analisi.
