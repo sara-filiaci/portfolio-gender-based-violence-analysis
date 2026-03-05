@@ -1,0 +1,4025 @@
+﻿territorio,sesso,età,periodo,numero_vittime
+italia,maschi,non indicato,2015,3
+italia,maschi,non indicato,2016,2
+italia,maschi,non indicato,2017,3
+italia,maschi,non indicato,2020,3
+italia,maschi,non indicato,2021,19
+italia,maschi,non indicato,2022,20
+italia,maschi,non indicato,2023,52
+italia,maschi,non indicato,2024,52
+italia,maschi,fino a 17 anni,2015,4
+italia,maschi,fino a 17 anni,2016,3
+italia,maschi,fino a 17 anni,2017,4
+italia,maschi,fino a 17 anni,2018,5
+italia,maschi,fino a 17 anni,2019,6
+italia,maschi,fino a 17 anni,2020,26
+italia,maschi,fino a 17 anni,2021,34
+italia,maschi,fino a 17 anni,2022,17
+italia,maschi,fino a 17 anni,2023,16
+italia,maschi,fino a 17 anni,2024,12
+italia,maschi,18-24 anni,2015,18
+italia,maschi,18-24 anni,2016,24
+italia,maschi,18-24 anni,2017,17
+italia,maschi,18-24 anni,2018,18
+italia,maschi,18-24 anni,2019,18
+italia,maschi,18-24 anni,2020,49
+italia,maschi,18-24 anni,2021,50
+italia,maschi,18-24 anni,2022,30
+italia,maschi,18-24 anni,2023,47
+italia,maschi,18-24 anni,2024,28
+italia,maschi,25-34 anni,2015,42
+italia,maschi,25-34 anni,2016,48
+italia,maschi,25-34 anni,2017,56
+italia,maschi,25-34 anni,2018,30
+italia,maschi,25-34 anni,2019,29
+italia,maschi,25-34 anni,2020,70
+italia,maschi,25-34 anni,2021,54
+italia,maschi,25-34 anni,2022,40
+italia,maschi,25-34 anni,2023,79
+italia,maschi,25-34 anni,2024,45
+italia,maschi,35-44 anni,2015,60
+italia,maschi,35-44 anni,2016,76
+italia,maschi,35-44 anni,2017,66
+italia,maschi,35-44 anni,2018,51
+italia,maschi,35-44 anni,2019,49
+italia,maschi,35-44 anni,2020,82
+italia,maschi,35-44 anni,2021,54
+italia,maschi,35-44 anni,2022,41
+italia,maschi,35-44 anni,2023,68
+italia,maschi,35-44 anni,2024,48
+italia,maschi,45-54 anni,2015,78
+italia,maschi,45-54 anni,2016,59
+italia,maschi,45-54 anni,2017,42
+italia,maschi,45-54 anni,2018,51
+italia,maschi,45-54 anni,2019,38
+italia,maschi,45-54 anni,2020,69
+italia,maschi,45-54 anni,2021,43
+italia,maschi,45-54 anni,2022,31
+italia,maschi,45-54 anni,2023,43
+italia,maschi,45-54 anni,2024,42
+italia,maschi,55-64 anni,2015,25
+italia,maschi,55-64 anni,2016,33
+italia,maschi,55-64 anni,2017,24
+italia,maschi,55-64 anni,2018,30
+italia,maschi,55-64 anni,2019,23
+italia,maschi,55-64 anni,2020,48
+italia,maschi,55-64 anni,2021,28
+italia,maschi,55-64 anni,2022,18
+italia,maschi,55-64 anni,2023,23
+italia,maschi,55-64 anni,2024,10
+italia,maschi,65 anni e più,2015,37
+italia,maschi,65 anni e più,2016,23
+italia,maschi,65 anni e più,2017,24
+italia,maschi,65 anni e più,2018,28
+italia,maschi,65 anni e più,2019,28
+italia,maschi,65 anni e più,2020,35
+italia,maschi,65 anni e più,2021,34
+italia,maschi,65 anni e più,2022,18
+italia,maschi,65 anni e più,2023,43
+italia,maschi,65 anni e più,2024,36
+italia,maschi,non disponibile,2015,44
+italia,maschi,non disponibile,2016,27
+italia,maschi,non disponibile,2017,50
+italia,maschi,non disponibile,2018,48
+italia,maschi,non disponibile,2019,27
+italia,maschi,non disponibile,2020,189
+italia,maschi,non disponibile,2021,224
+italia,maschi,non disponibile,2022,47
+italia,maschi,non disponibile,2023,54
+italia,maschi,non disponibile,2024,160
+italia,femmine,non indicato,2015,40
+italia,femmine,non indicato,2016,61
+italia,femmine,non indicato,2017,78
+italia,femmine,non indicato,2018,40
+italia,femmine,non indicato,2019,9
+italia,femmine,non indicato,2020,88
+italia,femmine,non indicato,2021,418
+italia,femmine,non indicato,2022,479
+italia,femmine,non indicato,2023,1259
+italia,femmine,non indicato,2024,781
+italia,femmine,fino a 17 anni,2015,52
+italia,femmine,fino a 17 anni,2016,51
+italia,femmine,fino a 17 anni,2017,68
+italia,femmine,fino a 17 anni,2018,87
+italia,femmine,fino a 17 anni,2019,93
+italia,femmine,fino a 17 anni,2020,242
+italia,femmine,fino a 17 anni,2021,388
+italia,femmine,fino a 17 anni,2022,232
+italia,femmine,fino a 17 anni,2023,314
+italia,femmine,fino a 17 anni,2024,272
+italia,femmine,18-24 anni,2015,496
+italia,femmine,18-24 anni,2016,486
+italia,femmine,18-24 anni,2017,500
+italia,femmine,18-24 anni,2018,589
+italia,femmine,18-24 anni,2019,672
+italia,femmine,18-24 anni,2020,1072
+italia,femmine,18-24 anni,2021,1297
+italia,femmine,18-24 anni,2022,1123
+italia,femmine,18-24 anni,2023,1419
+italia,femmine,18-24 anni,2024,1117
+italia,femmine,25-34 anni,2015,1402
+italia,femmine,25-34 anni,2016,1384
+italia,femmine,25-34 anni,2017,1345
+italia,femmine,25-34 anni,2018,1505
+italia,femmine,25-34 anni,2019,1606
+italia,femmine,25-34 anni,2020,2100
+italia,femmine,25-34 anni,2021,2034
+italia,femmine,25-34 anni,2022,1832
+italia,femmine,25-34 anni,2023,2506
+italia,femmine,25-34 anni,2024,2014
+italia,femmine,35-44 anni,2015,2034
+italia,femmine,35-44 anni,2016,2065
+italia,femmine,35-44 anni,2017,1972
+italia,femmine,35-44 anni,2018,2236
+italia,femmine,35-44 anni,2019,2178
+italia,femmine,35-44 anni,2020,2758
+italia,femmine,35-44 anni,2021,2425
+italia,femmine,35-44 anni,2022,2381
+italia,femmine,35-44 anni,2023,3042
+italia,femmine,35-44 anni,2024,2475
+italia,femmine,45-54 anni,2015,1619
+italia,femmine,45-54 anni,2016,1731
+italia,femmine,45-54 anni,2017,1563
+italia,femmine,45-54 anni,2018,2119
+italia,femmine,45-54 anni,2019,1767
+italia,femmine,45-54 anni,2020,2350
+italia,femmine,45-54 anni,2021,2287
+italia,femmine,45-54 anni,2022,2074
+italia,femmine,45-54 anni,2023,2540
+italia,femmine,45-54 anni,2024,2209
+italia,femmine,55-64 anni,2015,891
+italia,femmine,55-64 anni,2016,888
+italia,femmine,55-64 anni,2017,811
+italia,femmine,55-64 anni,2018,1006
+italia,femmine,55-64 anni,2019,859
+italia,femmine,55-64 anni,2020,1325
+italia,femmine,55-64 anni,2021,1291
+italia,femmine,55-64 anni,2022,1074
+italia,femmine,55-64 anni,2023,962
+italia,femmine,55-64 anni,2024,820
+italia,femmine,65 anni e più,2015,687
+italia,femmine,65 anni e più,2016,714
+italia,femmine,65 anni e più,2017,639
+italia,femmine,65 anni e più,2018,768
+italia,femmine,65 anni e più,2019,611
+italia,femmine,65 anni e più,2020,1250
+italia,femmine,65 anni e più,2021,1333
+italia,femmine,65 anni e più,2022,895
+italia,femmine,65 anni e più,2023,1431
+italia,femmine,65 anni e più,2024,1269
+italia,femmine,non disponibile,2015,549
+italia,femmine,non disponibile,2016,450
+italia,femmine,non disponibile,2017,823
+italia,femmine,non disponibile,2018,991
+italia,femmine,non disponibile,2019,632
+italia,femmine,non disponibile,2020,3943
+italia,femmine,non disponibile,2021,4247
+italia,femmine,non disponibile,2022,1542
+italia,femmine,non disponibile,2023,982
+italia,femmine,non disponibile,2024,5160
+italia,non indicato,non indicato,2023,36
+italia,non indicato,non indicato,2024,18
+italia,non indicato,fino a 17 anni,2023,5
+italia,non indicato,fino a 17 anni,2024,4
+italia,non indicato,18-24 anni,2023,7
+italia,non indicato,18-24 anni,2024,5
+italia,non indicato,25-34 anni,2021,1
+italia,non indicato,25-34 anni,2023,8
+italia,non indicato,25-34 anni,2024,5
+italia,non indicato,35-44 anni,2023,8
+italia,non indicato,35-44 anni,2024,3
+italia,non indicato,45-54 anni,2023,9
+italia,non indicato,45-54 anni,2024,2
+italia,non indicato,55-64 anni,2024,1
+italia,non indicato,65 anni e più,2023,3
+italia,non indicato,65 anni e più,2024,1
+italia,non indicato,non disponibile,2015,1
+italia,non indicato,non disponibile,2019,2
+italia,non indicato,non disponibile,2020,9
+italia,non indicato,non disponibile,2021,11
+italia,non indicato,non disponibile,2022,15
+italia,non indicato,non disponibile,2023,1327
+italia,non indicato,non disponibile,2024,1042
+nord ovest,maschi,non indicato,2015,2
+nord ovest,maschi,non indicato,2020,1
+nord ovest,maschi,non indicato,2021,1
+nord ovest,maschi,non indicato,2022,5
+nord ovest,maschi,non indicato,2023,10
+nord ovest,maschi,non indicato,2024,8
+nord ovest,maschi,fino a 17 anni,2016,1
+nord ovest,maschi,fino a 17 anni,2017,1
+nord ovest,maschi,fino a 17 anni,2018,2
+nord ovest,maschi,fino a 17 anni,2019,1
+nord ovest,maschi,fino a 17 anni,2020,4
+nord ovest,maschi,fino a 17 anni,2021,6
+nord ovest,maschi,fino a 17 anni,2022,3
+nord ovest,maschi,fino a 17 anni,2023,3
+nord ovest,maschi,fino a 17 anni,2024,3
+nord ovest,maschi,18-24 anni,2015,4
+nord ovest,maschi,18-24 anni,2016,5
+nord ovest,maschi,18-24 anni,2017,9
+nord ovest,maschi,18-24 anni,2018,6
+nord ovest,maschi,18-24 anni,2019,4
+nord ovest,maschi,18-24 anni,2020,8
+nord ovest,maschi,18-24 anni,2021,14
+nord ovest,maschi,18-24 anni,2022,4
+nord ovest,maschi,18-24 anni,2023,15
+nord ovest,maschi,18-24 anni,2024,4
+nord ovest,maschi,25-34 anni,2015,5
+nord ovest,maschi,25-34 anni,2016,15
+nord ovest,maschi,25-34 anni,2017,5
+nord ovest,maschi,25-34 anni,2018,10
+nord ovest,maschi,25-34 anni,2019,10
+nord ovest,maschi,25-34 anni,2020,13
+nord ovest,maschi,25-34 anni,2021,13
+nord ovest,maschi,25-34 anni,2022,8
+nord ovest,maschi,25-34 anni,2023,19
+nord ovest,maschi,25-34 anni,2024,11
+nord ovest,maschi,35-44 anni,2015,14
+nord ovest,maschi,35-44 anni,2016,19
+nord ovest,maschi,35-44 anni,2017,16
+nord ovest,maschi,35-44 anni,2018,10
+nord ovest,maschi,35-44 anni,2019,17
+nord ovest,maschi,35-44 anni,2020,19
+nord ovest,maschi,35-44 anni,2021,10
+nord ovest,maschi,35-44 anni,2022,12
+nord ovest,maschi,35-44 anni,2023,16
+nord ovest,maschi,35-44 anni,2024,11
+nord ovest,maschi,45-54 anni,2015,32
+nord ovest,maschi,45-54 anni,2016,13
+nord ovest,maschi,45-54 anni,2017,11
+nord ovest,maschi,45-54 anni,2018,13
+nord ovest,maschi,45-54 anni,2019,7
+nord ovest,maschi,45-54 anni,2020,15
+nord ovest,maschi,45-54 anni,2021,8
+nord ovest,maschi,45-54 anni,2022,6
+nord ovest,maschi,45-54 anni,2023,10
+nord ovest,maschi,45-54 anni,2024,10
+nord ovest,maschi,55-64 anni,2015,2
+nord ovest,maschi,55-64 anni,2016,5
+nord ovest,maschi,55-64 anni,2017,8
+nord ovest,maschi,55-64 anni,2018,6
+nord ovest,maschi,55-64 anni,2019,7
+nord ovest,maschi,55-64 anni,2020,9
+nord ovest,maschi,55-64 anni,2021,8
+nord ovest,maschi,55-64 anni,2022,2
+nord ovest,maschi,55-64 anni,2023,11
+nord ovest,maschi,55-64 anni,2024,2
+nord ovest,maschi,65 anni e più,2015,11
+nord ovest,maschi,65 anni e più,2016,3
+nord ovest,maschi,65 anni e più,2017,10
+nord ovest,maschi,65 anni e più,2018,3
+nord ovest,maschi,65 anni e più,2019,6
+nord ovest,maschi,65 anni e più,2020,9
+nord ovest,maschi,65 anni e più,2021,12
+nord ovest,maschi,65 anni e più,2022,4
+nord ovest,maschi,65 anni e più,2023,5
+nord ovest,maschi,65 anni e più,2024,9
+nord ovest,maschi,non disponibile,2015,2
+nord ovest,maschi,non disponibile,2016,3
+nord ovest,maschi,non disponibile,2017,11
+nord ovest,maschi,non disponibile,2018,11
+nord ovest,maschi,non disponibile,2019,4
+nord ovest,maschi,non disponibile,2020,24
+nord ovest,maschi,non disponibile,2021,31
+nord ovest,maschi,non disponibile,2022,7
+nord ovest,maschi,non disponibile,2023,7
+nord ovest,maschi,non disponibile,2024,32
+nord ovest,femmine,non indicato,2015,7
+nord ovest,femmine,non indicato,2016,15
+nord ovest,femmine,non indicato,2017,30
+nord ovest,femmine,non indicato,2018,12
+nord ovest,femmine,non indicato,2019,1
+nord ovest,femmine,non indicato,2020,15
+nord ovest,femmine,non indicato,2021,77
+nord ovest,femmine,non indicato,2022,93
+nord ovest,femmine,non indicato,2023,227
+nord ovest,femmine,non indicato,2024,149
+nord ovest,femmine,fino a 17 anni,2015,13
+nord ovest,femmine,fino a 17 anni,2016,15
+nord ovest,femmine,fino a 17 anni,2017,18
+nord ovest,femmine,fino a 17 anni,2018,21
+nord ovest,femmine,fino a 17 anni,2019,26
+nord ovest,femmine,fino a 17 anni,2020,47
+nord ovest,femmine,fino a 17 anni,2021,85
+nord ovest,femmine,fino a 17 anni,2022,57
+nord ovest,femmine,fino a 17 anni,2023,62
+nord ovest,femmine,fino a 17 anni,2024,64
+nord ovest,femmine,18-24 anni,2015,149
+nord ovest,femmine,18-24 anni,2016,171
+nord ovest,femmine,18-24 anni,2017,155
+nord ovest,femmine,18-24 anni,2018,171
+nord ovest,femmine,18-24 anni,2019,201
+nord ovest,femmine,18-24 anni,2020,281
+nord ovest,femmine,18-24 anni,2021,296
+nord ovest,femmine,18-24 anni,2022,325
+nord ovest,femmine,18-24 anni,2023,377
+nord ovest,femmine,18-24 anni,2024,341
+nord ovest,femmine,25-34 anni,2015,382
+nord ovest,femmine,25-34 anni,2016,420
+nord ovest,femmine,25-34 anni,2017,392
+nord ovest,femmine,25-34 anni,2018,370
+nord ovest,femmine,25-34 anni,2019,413
+nord ovest,femmine,25-34 anni,2020,575
+nord ovest,femmine,25-34 anni,2021,518
+nord ovest,femmine,25-34 anni,2022,501
+nord ovest,femmine,25-34 anni,2023,612
+nord ovest,femmine,25-34 anni,2024,594
+nord ovest,femmine,35-44 anni,2015,557
+nord ovest,femmine,35-44 anni,2016,620
+nord ovest,femmine,35-44 anni,2017,558
+nord ovest,femmine,35-44 anni,2018,613
+nord ovest,femmine,35-44 anni,2019,581
+nord ovest,femmine,35-44 anni,2020,680
+nord ovest,femmine,35-44 anni,2021,606
+nord ovest,femmine,35-44 anni,2022,627
+nord ovest,femmine,35-44 anni,2023,708
+nord ovest,femmine,35-44 anni,2024,732
+nord ovest,femmine,45-54 anni,2015,403
+nord ovest,femmine,45-54 anni,2016,444
+nord ovest,femmine,45-54 anni,2017,425
+nord ovest,femmine,45-54 anni,2018,506
+nord ovest,femmine,45-54 anni,2019,477
+nord ovest,femmine,45-54 anni,2020,603
+nord ovest,femmine,45-54 anni,2021,583
+nord ovest,femmine,45-54 anni,2022,545
+nord ovest,femmine,45-54 anni,2023,647
+nord ovest,femmine,45-54 anni,2024,648
+nord ovest,femmine,55-64 anni,2015,249
+nord ovest,femmine,55-64 anni,2016,261
+nord ovest,femmine,55-64 anni,2017,205
+nord ovest,femmine,55-64 anni,2018,240
+nord ovest,femmine,55-64 anni,2019,209
+nord ovest,femmine,55-64 anni,2020,332
+nord ovest,femmine,55-64 anni,2021,306
+nord ovest,femmine,55-64 anni,2022,271
+nord ovest,femmine,55-64 anni,2023,252
+nord ovest,femmine,55-64 anni,2024,207
+nord ovest,femmine,65 anni e più,2015,201
+nord ovest,femmine,65 anni e più,2016,196
+nord ovest,femmine,65 anni e più,2017,175
+nord ovest,femmine,65 anni e più,2018,213
+nord ovest,femmine,65 anni e più,2019,162
+nord ovest,femmine,65 anni e più,2020,337
+nord ovest,femmine,65 anni e più,2021,332
+nord ovest,femmine,65 anni e più,2022,216
+nord ovest,femmine,65 anni e più,2023,332
+nord ovest,femmine,65 anni e più,2024,295
+nord ovest,femmine,non disponibile,2015,116
+nord ovest,femmine,non disponibile,2016,71
+nord ovest,femmine,non disponibile,2017,117
+nord ovest,femmine,non disponibile,2018,174
+nord ovest,femmine,non disponibile,2019,89
+nord ovest,femmine,non disponibile,2020,702
+nord ovest,femmine,non disponibile,2021,729
+nord ovest,femmine,non disponibile,2022,159
+nord ovest,femmine,non disponibile,2023,167
+nord ovest,femmine,non disponibile,2024,1305
+nord ovest,non indicato,non indicato,2023,5
+nord ovest,non indicato,non indicato,2024,2
+nord ovest,non indicato,18-24 anni,2024,1
+nord ovest,non indicato,25-34 anni,2023,1
+nord ovest,non indicato,25-34 anni,2024,1
+nord ovest,non indicato,35-44 anni,2023,4
+nord ovest,non indicato,35-44 anni,2024,2
+nord ovest,non indicato,45-54 anni,2023,3
+nord ovest,non indicato,65 anni e più,2023,2
+nord ovest,non indicato,non disponibile,2023,55
+nord ovest,non indicato,non disponibile,2024,44
+piemonte,maschi,non indicato,2022,2
+piemonte,maschi,non indicato,2023,1
+piemonte,maschi,non indicato,2024,3
+piemonte,maschi,fino a 17 anni,2016,1
+piemonte,maschi,fino a 17 anni,2020,1
+piemonte,maschi,fino a 17 anni,2021,3
+piemonte,maschi,fino a 17 anni,2022,1
+piemonte,maschi,fino a 17 anni,2024,1
+piemonte,maschi,18-24 anni,2015,1
+piemonte,maschi,18-24 anni,2016,1
+piemonte,maschi,18-24 anni,2017,5
+piemonte,maschi,18-24 anni,2018,1
+piemonte,maschi,18-24 anni,2020,2
+piemonte,maschi,18-24 anni,2021,4
+piemonte,maschi,18-24 anni,2022,1
+piemonte,maschi,18-24 anni,2023,4
+piemonte,maschi,18-24 anni,2024,1
+piemonte,maschi,25-34 anni,2015,1
+piemonte,maschi,25-34 anni,2016,4
+piemonte,maschi,25-34 anni,2017,1
+piemonte,maschi,25-34 anni,2018,2
+piemonte,maschi,25-34 anni,2019,2
+piemonte,maschi,25-34 anni,2020,3
+piemonte,maschi,25-34 anni,2021,3
+piemonte,maschi,25-34 anni,2022,2
+piemonte,maschi,25-34 anni,2023,4
+piemonte,maschi,25-34 anni,2024,1
+piemonte,maschi,35-44 anni,2015,3
+piemonte,maschi,35-44 anni,2016,6
+piemonte,maschi,35-44 anni,2017,3
+piemonte,maschi,35-44 anni,2018,2
+piemonte,maschi,35-44 anni,2019,6
+piemonte,maschi,35-44 anni,2020,4
+piemonte,maschi,35-44 anni,2021,3
+piemonte,maschi,35-44 anni,2023,3
+piemonte,maschi,35-44 anni,2024,3
+piemonte,maschi,45-54 anni,2015,14
+piemonte,maschi,45-54 anni,2016,2
+piemonte,maschi,45-54 anni,2017,4
+piemonte,maschi,45-54 anni,2018,2
+piemonte,maschi,45-54 anni,2019,3
+piemonte,maschi,45-54 anni,2020,4
+piemonte,maschi,45-54 anni,2021,3
+piemonte,maschi,45-54 anni,2022,1
+piemonte,maschi,45-54 anni,2023,2
+piemonte,maschi,45-54 anni,2024,3
+piemonte,maschi,55-64 anni,2015,1
+piemonte,maschi,55-64 anni,2016,3
+piemonte,maschi,55-64 anni,2017,2
+piemonte,maschi,55-64 anni,2018,1
+piemonte,maschi,55-64 anni,2019,2
+piemonte,maschi,55-64 anni,2020,3
+piemonte,maschi,55-64 anni,2021,3
+piemonte,maschi,55-64 anni,2023,3
+piemonte,maschi,65 anni e più,2015,4
+piemonte,maschi,65 anni e più,2016,2
+piemonte,maschi,65 anni e più,2017,5
+piemonte,maschi,65 anni e più,2018,1
+piemonte,maschi,65 anni e più,2019,2
+piemonte,maschi,65 anni e più,2020,3
+piemonte,maschi,65 anni e più,2021,6
+piemonte,maschi,65 anni e più,2022,2
+piemonte,maschi,65 anni e più,2023,2
+piemonte,maschi,65 anni e più,2024,2
+piemonte,maschi,non disponibile,2017,8
+piemonte,maschi,non disponibile,2018,4
+piemonte,maschi,non disponibile,2020,6
+piemonte,maschi,non disponibile,2021,11
+piemonte,maschi,non disponibile,2022,3
+piemonte,maschi,non disponibile,2024,12
+piemonte,femmine,non indicato,2015,4
+piemonte,femmine,non indicato,2016,4
+piemonte,femmine,non indicato,2017,7
+piemonte,femmine,non indicato,2018,4
+piemonte,femmine,non indicato,2020,4
+piemonte,femmine,non indicato,2021,22
+piemonte,femmine,non indicato,2022,20
+piemonte,femmine,non indicato,2023,66
+piemonte,femmine,non indicato,2024,34
+piemonte,femmine,fino a 17 anni,2015,1
+piemonte,femmine,fino a 17 anni,2016,1
+piemonte,femmine,fino a 17 anni,2017,5
+piemonte,femmine,fino a 17 anni,2018,7
+piemonte,femmine,fino a 17 anni,2019,5
+piemonte,femmine,fino a 17 anni,2020,8
+piemonte,femmine,fino a 17 anni,2021,25
+piemonte,femmine,fino a 17 anni,2022,10
+piemonte,femmine,fino a 17 anni,2023,10
+piemonte,femmine,fino a 17 anni,2024,19
+piemonte,femmine,18-24 anni,2015,35
+piemonte,femmine,18-24 anni,2016,43
+piemonte,femmine,18-24 anni,2017,43
+piemonte,femmine,18-24 anni,2018,50
+piemonte,femmine,18-24 anni,2019,65
+piemonte,femmine,18-24 anni,2020,75
+piemonte,femmine,18-24 anni,2021,76
+piemonte,femmine,18-24 anni,2022,102
+piemonte,femmine,18-24 anni,2023,104
+piemonte,femmine,18-24 anni,2024,78
+piemonte,femmine,25-34 anni,2015,127
+piemonte,femmine,25-34 anni,2016,127
+piemonte,femmine,25-34 anni,2017,101
+piemonte,femmine,25-34 anni,2018,116
+piemonte,femmine,25-34 anni,2019,107
+piemonte,femmine,25-34 anni,2020,151
+piemonte,femmine,25-34 anni,2021,114
+piemonte,femmine,25-34 anni,2022,129
+piemonte,femmine,25-34 anni,2023,159
+piemonte,femmine,25-34 anni,2024,140
+piemonte,femmine,35-44 anni,2015,169
+piemonte,femmine,35-44 anni,2016,187
+piemonte,femmine,35-44 anni,2017,165
+piemonte,femmine,35-44 anni,2018,177
+piemonte,femmine,35-44 anni,2019,153
+piemonte,femmine,35-44 anni,2020,171
+piemonte,femmine,35-44 anni,2021,157
+piemonte,femmine,35-44 anni,2022,146
+piemonte,femmine,35-44 anni,2023,173
+piemonte,femmine,35-44 anni,2024,177
+piemonte,femmine,45-54 anni,2015,127
+piemonte,femmine,45-54 anni,2016,138
+piemonte,femmine,45-54 anni,2017,140
+piemonte,femmine,45-54 anni,2018,150
+piemonte,femmine,45-54 anni,2019,150
+piemonte,femmine,45-54 anni,2020,171
+piemonte,femmine,45-54 anni,2021,174
+piemonte,femmine,45-54 anni,2022,151
+piemonte,femmine,45-54 anni,2023,177
+piemonte,femmine,45-54 anni,2024,171
+piemonte,femmine,55-64 anni,2015,80
+piemonte,femmine,55-64 anni,2016,99
+piemonte,femmine,55-64 anni,2017,65
+piemonte,femmine,55-64 anni,2018,91
+piemonte,femmine,55-64 anni,2019,72
+piemonte,femmine,55-64 anni,2020,100
+piemonte,femmine,55-64 anni,2021,93
+piemonte,femmine,55-64 anni,2022,76
+piemonte,femmine,55-64 anni,2023,68
+piemonte,femmine,55-64 anni,2024,58
+piemonte,femmine,65 anni e più,2015,65
+piemonte,femmine,65 anni e più,2016,65
+piemonte,femmine,65 anni e più,2017,63
+piemonte,femmine,65 anni e più,2018,69
+piemonte,femmine,65 anni e più,2019,52
+piemonte,femmine,65 anni e più,2020,100
+piemonte,femmine,65 anni e più,2021,92
+piemonte,femmine,65 anni e più,2022,66
+piemonte,femmine,65 anni e più,2023,104
+piemonte,femmine,65 anni e più,2024,72
+piemonte,femmine,non disponibile,2015,37
+piemonte,femmine,non disponibile,2016,20
+piemonte,femmine,non disponibile,2017,34
+piemonte,femmine,non disponibile,2018,45
+piemonte,femmine,non disponibile,2019,28
+piemonte,femmine,non disponibile,2020,205
+piemonte,femmine,non disponibile,2021,199
+piemonte,femmine,non disponibile,2022,47
+piemonte,femmine,non disponibile,2023,50
+piemonte,femmine,non disponibile,2024,327
+piemonte,non indicato,non indicato,2023,2
+piemonte,non indicato,35-44 anni,2024,1
+piemonte,non indicato,45-54 anni,2023,2
+piemonte,non indicato,non disponibile,2023,14
+piemonte,non indicato,non disponibile,2024,9
+liguria,maschi,non indicato,2015,1
+liguria,maschi,non indicato,2023,1
+liguria,maschi,fino a 17 anni,2020,1
+liguria,maschi,18-24 anni,2016,1
+liguria,maschi,18-24 anni,2017,1
+liguria,maschi,18-24 anni,2018,1
+liguria,maschi,18-24 anni,2020,1
+liguria,maschi,18-24 anni,2021,3
+liguria,maschi,18-24 anni,2023,1
+liguria,maschi,25-34 anni,2015,1
+liguria,maschi,25-34 anni,2016,1
+liguria,maschi,25-34 anni,2021,2
+liguria,maschi,25-34 anni,2022,2
+liguria,maschi,25-34 anni,2023,3
+liguria,maschi,25-34 anni,2024,1
+liguria,maschi,35-44 anni,2016,1
+liguria,maschi,35-44 anni,2018,2
+liguria,maschi,35-44 anni,2019,1
+liguria,maschi,35-44 anni,2020,5
+liguria,maschi,35-44 anni,2022,1
+liguria,maschi,35-44 anni,2023,1
+liguria,maschi,35-44 anni,2024,1
+liguria,maschi,45-54 anni,2015,3
+liguria,maschi,45-54 anni,2016,2
+liguria,maschi,45-54 anni,2017,2
+liguria,maschi,45-54 anni,2018,3
+liguria,maschi,45-54 anni,2019,1
+liguria,maschi,45-54 anni,2020,2
+liguria,maschi,45-54 anni,2021,1
+liguria,maschi,45-54 anni,2022,1
+liguria,maschi,45-54 anni,2024,1
+liguria,maschi,55-64 anni,2015,1
+liguria,maschi,55-64 anni,2016,1
+liguria,maschi,55-64 anni,2017,2
+liguria,maschi,55-64 anni,2019,1
+liguria,maschi,55-64 anni,2021,1
+liguria,maschi,55-64 anni,2023,1
+liguria,maschi,65 anni e più,2015,1
+liguria,maschi,65 anni e più,2019,1
+liguria,maschi,65 anni e più,2020,1
+liguria,maschi,65 anni e più,2024,2
+liguria,maschi,non disponibile,2019,1
+liguria,maschi,non disponibile,2020,5
+liguria,maschi,non disponibile,2021,2
+liguria,maschi,non disponibile,2023,1
+liguria,maschi,non disponibile,2024,2
+liguria,femmine,non indicato,2015,1
+liguria,femmine,non indicato,2016,1
+liguria,femmine,non indicato,2017,2
+liguria,femmine,non indicato,2020,1
+liguria,femmine,non indicato,2021,4
+liguria,femmine,non indicato,2022,3
+liguria,femmine,non indicato,2023,16
+liguria,femmine,non indicato,2024,13
+liguria,femmine,fino a 17 anni,2015,2
+liguria,femmine,fino a 17 anni,2016,2
+liguria,femmine,fino a 17 anni,2019,2
+liguria,femmine,fino a 17 anni,2020,4
+liguria,femmine,fino a 17 anni,2021,7
+liguria,femmine,fino a 17 anni,2022,3
+liguria,femmine,fino a 17 anni,2023,9
+liguria,femmine,fino a 17 anni,2024,5
+liguria,femmine,18-24 anni,2015,21
+liguria,femmine,18-24 anni,2016,17
+liguria,femmine,18-24 anni,2017,13
+liguria,femmine,18-24 anni,2018,8
+liguria,femmine,18-24 anni,2019,20
+liguria,femmine,18-24 anni,2020,22
+liguria,femmine,18-24 anni,2021,21
+liguria,femmine,18-24 anni,2022,22
+liguria,femmine,18-24 anni,2023,17
+liguria,femmine,18-24 anni,2024,27
+liguria,femmine,25-34 anni,2015,26
+liguria,femmine,25-34 anni,2016,28
+liguria,femmine,25-34 anni,2017,40
+liguria,femmine,25-34 anni,2018,29
+liguria,femmine,25-34 anni,2019,36
+liguria,femmine,25-34 anni,2020,54
+liguria,femmine,25-34 anni,2021,46
+liguria,femmine,25-34 anni,2022,47
+liguria,femmine,25-34 anni,2023,38
+liguria,femmine,25-34 anni,2024,38
+liguria,femmine,35-44 anni,2015,39
+liguria,femmine,35-44 anni,2016,53
+liguria,femmine,35-44 anni,2017,41
+liguria,femmine,35-44 anni,2018,44
+liguria,femmine,35-44 anni,2019,41
+liguria,femmine,35-44 anni,2020,56
+liguria,femmine,35-44 anni,2021,44
+liguria,femmine,35-44 anni,2022,49
+liguria,femmine,35-44 anni,2023,55
+liguria,femmine,35-44 anni,2024,69
+liguria,femmine,45-54 anni,2015,43
+liguria,femmine,45-54 anni,2016,40
+liguria,femmine,45-54 anni,2017,45
+liguria,femmine,45-54 anni,2018,62
+liguria,femmine,45-54 anni,2019,46
+liguria,femmine,45-54 anni,2020,54
+liguria,femmine,45-54 anni,2021,52
+liguria,femmine,45-54 anni,2022,59
+liguria,femmine,45-54 anni,2023,49
+liguria,femmine,45-54 anni,2024,54
+liguria,femmine,55-64 anni,2015,39
+liguria,femmine,55-64 anni,2016,30
+liguria,femmine,55-64 anni,2017,14
+liguria,femmine,55-64 anni,2018,36
+liguria,femmine,55-64 anni,2019,21
+liguria,femmine,55-64 anni,2020,30
+liguria,femmine,55-64 anni,2021,29
+liguria,femmine,55-64 anni,2022,31
+liguria,femmine,55-64 anni,2023,30
+liguria,femmine,55-64 anni,2024,14
+liguria,femmine,65 anni e più,2015,23
+liguria,femmine,65 anni e più,2016,28
+liguria,femmine,65 anni e più,2017,21
+liguria,femmine,65 anni e più,2018,30
+liguria,femmine,65 anni e più,2019,15
+liguria,femmine,65 anni e più,2020,40
+liguria,femmine,65 anni e più,2021,37
+liguria,femmine,65 anni e più,2022,12
+liguria,femmine,65 anni e più,2023,31
+liguria,femmine,65 anni e più,2024,36
+liguria,femmine,non disponibile,2015,11
+liguria,femmine,non disponibile,2016,10
+liguria,femmine,non disponibile,2017,7
+liguria,femmine,non disponibile,2018,19
+liguria,femmine,non disponibile,2019,3
+liguria,femmine,non disponibile,2020,46
+liguria,femmine,non disponibile,2021,70
+liguria,femmine,non disponibile,2022,5
+liguria,femmine,non disponibile,2023,18
+liguria,femmine,non disponibile,2024,104
+liguria,non indicato,35-44 anni,2023,2
+liguria,non indicato,non disponibile,2023,4
+liguria,non indicato,non disponibile,2024,3
+lombardia,maschi,non indicato,2015,1
+lombardia,maschi,non indicato,2020,1
+lombardia,maschi,non indicato,2021,1
+lombardia,maschi,non indicato,2022,2
+lombardia,maschi,non indicato,2023,8
+lombardia,maschi,non indicato,2024,5
+lombardia,maschi,fino a 17 anni,2017,1
+lombardia,maschi,fino a 17 anni,2018,2
+lombardia,maschi,fino a 17 anni,2019,1
+lombardia,maschi,fino a 17 anni,2020,2
+lombardia,maschi,fino a 17 anni,2021,3
+lombardia,maschi,fino a 17 anni,2022,2
+lombardia,maschi,fino a 17 anni,2023,3
+lombardia,maschi,fino a 17 anni,2024,2
+lombardia,maschi,18-24 anni,2015,3
+lombardia,maschi,18-24 anni,2016,3
+lombardia,maschi,18-24 anni,2017,3
+lombardia,maschi,18-24 anni,2018,4
+lombardia,maschi,18-24 anni,2019,4
+lombardia,maschi,18-24 anni,2020,5
+lombardia,maschi,18-24 anni,2021,7
+lombardia,maschi,18-24 anni,2022,2
+lombardia,maschi,18-24 anni,2023,10
+lombardia,maschi,18-24 anni,2024,3
+lombardia,maschi,25-34 anni,2015,3
+lombardia,maschi,25-34 anni,2016,10
+lombardia,maschi,25-34 anni,2017,4
+lombardia,maschi,25-34 anni,2018,8
+lombardia,maschi,25-34 anni,2019,8
+lombardia,maschi,25-34 anni,2020,10
+lombardia,maschi,25-34 anni,2021,8
+lombardia,maschi,25-34 anni,2022,4
+lombardia,maschi,25-34 anni,2023,12
+lombardia,maschi,25-34 anni,2024,9
+lombardia,maschi,35-44 anni,2015,11
+lombardia,maschi,35-44 anni,2016,12
+lombardia,maschi,35-44 anni,2017,13
+lombardia,maschi,35-44 anni,2018,6
+lombardia,maschi,35-44 anni,2019,10
+lombardia,maschi,35-44 anni,2020,10
+lombardia,maschi,35-44 anni,2021,7
+lombardia,maschi,35-44 anni,2022,11
+lombardia,maschi,35-44 anni,2023,12
+lombardia,maschi,35-44 anni,2024,7
+lombardia,maschi,45-54 anni,2015,15
+lombardia,maschi,45-54 anni,2016,9
+lombardia,maschi,45-54 anni,2017,5
+lombardia,maschi,45-54 anni,2018,7
+lombardia,maschi,45-54 anni,2019,3
+lombardia,maschi,45-54 anni,2020,9
+lombardia,maschi,45-54 anni,2021,4
+lombardia,maschi,45-54 anni,2022,4
+lombardia,maschi,45-54 anni,2023,8
+lombardia,maschi,45-54 anni,2024,5
+lombardia,maschi,55-64 anni,2016,1
+lombardia,maschi,55-64 anni,2017,4
+lombardia,maschi,55-64 anni,2018,5
+lombardia,maschi,55-64 anni,2019,4
+lombardia,maschi,55-64 anni,2020,6
+lombardia,maschi,55-64 anni,2021,4
+lombardia,maschi,55-64 anni,2022,2
+lombardia,maschi,55-64 anni,2023,7
+lombardia,maschi,55-64 anni,2024,2
+lombardia,maschi,65 anni e più,2015,6
+lombardia,maschi,65 anni e più,2016,1
+lombardia,maschi,65 anni e più,2017,4
+lombardia,maschi,65 anni e più,2018,2
+lombardia,maschi,65 anni e più,2019,3
+lombardia,maschi,65 anni e più,2020,5
+lombardia,maschi,65 anni e più,2021,6
+lombardia,maschi,65 anni e più,2022,2
+lombardia,maschi,65 anni e più,2023,3
+lombardia,maschi,65 anni e più,2024,5
+lombardia,maschi,non disponibile,2015,2
+lombardia,maschi,non disponibile,2016,3
+lombardia,maschi,non disponibile,2017,3
+lombardia,maschi,non disponibile,2018,7
+lombardia,maschi,non disponibile,2019,3
+lombardia,maschi,non disponibile,2020,13
+lombardia,maschi,non disponibile,2021,18
+lombardia,maschi,non disponibile,2022,4
+lombardia,maschi,non disponibile,2023,6
+lombardia,maschi,non disponibile,2024,17
+lombardia,femmine,non indicato,2015,2
+lombardia,femmine,non indicato,2016,10
+lombardia,femmine,non indicato,2017,21
+lombardia,femmine,non indicato,2018,8
+lombardia,femmine,non indicato,2019,1
+lombardia,femmine,non indicato,2020,10
+lombardia,femmine,non indicato,2021,51
+lombardia,femmine,non indicato,2022,69
+lombardia,femmine,non indicato,2023,145
+lombardia,femmine,non indicato,2024,100
+lombardia,femmine,fino a 17 anni,2015,10
+lombardia,femmine,fino a 17 anni,2016,12
+lombardia,femmine,fino a 17 anni,2017,13
+lombardia,femmine,fino a 17 anni,2018,14
+lombardia,femmine,fino a 17 anni,2019,19
+lombardia,femmine,fino a 17 anni,2020,35
+lombardia,femmine,fino a 17 anni,2021,53
+lombardia,femmine,fino a 17 anni,2022,44
+lombardia,femmine,fino a 17 anni,2023,43
+lombardia,femmine,fino a 17 anni,2024,40
+lombardia,femmine,18-24 anni,2015,93
+lombardia,femmine,18-24 anni,2016,110
+lombardia,femmine,18-24 anni,2017,99
+lombardia,femmine,18-24 anni,2018,111
+lombardia,femmine,18-24 anni,2019,116
+lombardia,femmine,18-24 anni,2020,184
+lombardia,femmine,18-24 anni,2021,199
+lombardia,femmine,18-24 anni,2022,198
+lombardia,femmine,18-24 anni,2023,255
+lombardia,femmine,18-24 anni,2024,235
+lombardia,femmine,25-34 anni,2015,226
+lombardia,femmine,25-34 anni,2016,262
+lombardia,femmine,25-34 anni,2017,251
+lombardia,femmine,25-34 anni,2018,225
+lombardia,femmine,25-34 anni,2019,267
+lombardia,femmine,25-34 anni,2020,368
+lombardia,femmine,25-34 anni,2021,357
+lombardia,femmine,25-34 anni,2022,321
+lombardia,femmine,25-34 anni,2023,413
+lombardia,femmine,25-34 anni,2024,415
+lombardia,femmine,35-44 anni,2015,346
+lombardia,femmine,35-44 anni,2016,377
+lombardia,femmine,35-44 anni,2017,345
+lombardia,femmine,35-44 anni,2018,390
+lombardia,femmine,35-44 anni,2019,383
+lombardia,femmine,35-44 anni,2020,451
+lombardia,femmine,35-44 anni,2021,402
+lombardia,femmine,35-44 anni,2022,431
+lombardia,femmine,35-44 anni,2023,479
+lombardia,femmine,35-44 anni,2024,482
+lombardia,femmine,45-54 anni,2015,233
+lombardia,femmine,45-54 anni,2016,265
+lombardia,femmine,45-54 anni,2017,239
+lombardia,femmine,45-54 anni,2018,291
+lombardia,femmine,45-54 anni,2019,279
+lombardia,femmine,45-54 anni,2020,374
+lombardia,femmine,45-54 anni,2021,357
+lombardia,femmine,45-54 anni,2022,332
+lombardia,femmine,45-54 anni,2023,421
+lombardia,femmine,45-54 anni,2024,421
+lombardia,femmine,55-64 anni,2015,127
+lombardia,femmine,55-64 anni,2016,132
+lombardia,femmine,55-64 anni,2017,126
+lombardia,femmine,55-64 anni,2018,113
+lombardia,femmine,55-64 anni,2019,116
+lombardia,femmine,55-64 anni,2020,201
+lombardia,femmine,55-64 anni,2021,183
+lombardia,femmine,55-64 anni,2022,163
+lombardia,femmine,55-64 anni,2023,154
+lombardia,femmine,55-64 anni,2024,134
+lombardia,femmine,65 anni e più,2015,110
+lombardia,femmine,65 anni e più,2016,100
+lombardia,femmine,65 anni e più,2017,91
+lombardia,femmine,65 anni e più,2018,112
+lombardia,femmine,65 anni e più,2019,95
+lombardia,femmine,65 anni e più,2020,195
+lombardia,femmine,65 anni e più,2021,203
+lombardia,femmine,65 anni e più,2022,137
+lombardia,femmine,65 anni e più,2023,195
+lombardia,femmine,65 anni e più,2024,183
+lombardia,femmine,non disponibile,2015,68
+lombardia,femmine,non disponibile,2016,41
+lombardia,femmine,non disponibile,2017,75
+lombardia,femmine,non disponibile,2018,110
+lombardia,femmine,non disponibile,2019,58
+lombardia,femmine,non disponibile,2020,445
+lombardia,femmine,non disponibile,2021,459
+lombardia,femmine,non disponibile,2022,107
+lombardia,femmine,non disponibile,2023,99
+lombardia,femmine,non disponibile,2024,867
+lombardia,non indicato,non indicato,2023,3
+lombardia,non indicato,non indicato,2024,2
+lombardia,non indicato,18-24 anni,2024,1
+lombardia,non indicato,25-34 anni,2023,1
+lombardia,non indicato,25-34 anni,2024,1
+lombardia,non indicato,35-44 anni,2023,2
+lombardia,non indicato,35-44 anni,2024,1
+lombardia,non indicato,45-54 anni,2023,1
+lombardia,non indicato,65 anni e più,2023,2
+lombardia,non indicato,non disponibile,2023,36
+lombardia,non indicato,non disponibile,2024,32
+nord est,maschi,non indicato,2022,2
+nord est,maschi,non indicato,2023,6
+nord est,maschi,non indicato,2024,2
+nord est,maschi,fino a 17 anni,2016,2
+nord est,maschi,fino a 17 anni,2017,1
+nord est,maschi,fino a 17 anni,2021,5
+nord est,maschi,fino a 17 anni,2022,5
+nord est,maschi,fino a 17 anni,2023,2
+nord est,maschi,fino a 17 anni,2024,1
+nord est,maschi,18-24 anni,2015,3
+nord est,maschi,18-24 anni,2016,4
+nord est,maschi,18-24 anni,2017,2
+nord est,maschi,18-24 anni,2018,1
+nord est,maschi,18-24 anni,2019,3
+nord est,maschi,18-24 anni,2020,13
+nord est,maschi,18-24 anni,2021,3
+nord est,maschi,18-24 anni,2022,3
+nord est,maschi,18-24 anni,2023,6
+nord est,maschi,18-24 anni,2024,4
+nord est,maschi,25-34 anni,2015,6
+nord est,maschi,25-34 anni,2016,1
+nord est,maschi,25-34 anni,2017,6
+nord est,maschi,25-34 anni,2018,3
+nord est,maschi,25-34 anni,2019,6
+nord est,maschi,25-34 anni,2020,9
+nord est,maschi,25-34 anni,2021,5
+nord est,maschi,25-34 anni,2022,5
+nord est,maschi,25-34 anni,2023,13
+nord est,maschi,25-34 anni,2024,5
+nord est,maschi,35-44 anni,2015,9
+nord est,maschi,35-44 anni,2016,11
+nord est,maschi,35-44 anni,2017,10
+nord est,maschi,35-44 anni,2018,8
+nord est,maschi,35-44 anni,2019,3
+nord est,maschi,35-44 anni,2020,11
+nord est,maschi,35-44 anni,2021,8
+nord est,maschi,35-44 anni,2022,5
+nord est,maschi,35-44 anni,2023,10
+nord est,maschi,35-44 anni,2024,6
+nord est,maschi,45-54 anni,2015,16
+nord est,maschi,45-54 anni,2016,11
+nord est,maschi,45-54 anni,2017,5
+nord est,maschi,45-54 anni,2018,3
+nord est,maschi,45-54 anni,2019,10
+nord est,maschi,45-54 anni,2020,11
+nord est,maschi,45-54 anni,2021,6
+nord est,maschi,45-54 anni,2022,4
+nord est,maschi,45-54 anni,2023,7
+nord est,maschi,45-54 anni,2024,4
+nord est,maschi,55-64 anni,2015,4
+nord est,maschi,55-64 anni,2016,2
+nord est,maschi,55-64 anni,2017,4
+nord est,maschi,55-64 anni,2018,7
+nord est,maschi,55-64 anni,2019,6
+nord est,maschi,55-64 anni,2020,14
+nord est,maschi,55-64 anni,2021,3
+nord est,maschi,55-64 anni,2022,4
+nord est,maschi,55-64 anni,2023,1
+nord est,maschi,55-64 anni,2024,3
+nord est,maschi,65 anni e più,2015,6
+nord est,maschi,65 anni e più,2016,6
+nord est,maschi,65 anni e più,2017,2
+nord est,maschi,65 anni e più,2018,5
+nord est,maschi,65 anni e più,2019,3
+nord est,maschi,65 anni e più,2020,3
+nord est,maschi,65 anni e più,2021,1
+nord est,maschi,65 anni e più,2023,6
+nord est,maschi,65 anni e più,2024,7
+nord est,maschi,non disponibile,2015,5
+nord est,maschi,non disponibile,2016,2
+nord est,maschi,non disponibile,2017,6
+nord est,maschi,non disponibile,2018,4
+nord est,maschi,non disponibile,2019,1
+nord est,maschi,non disponibile,2020,17
+nord est,maschi,non disponibile,2021,30
+nord est,maschi,non disponibile,2022,1
+nord est,maschi,non disponibile,2023,9
+nord est,maschi,non disponibile,2024,18
+nord est,femmine,non indicato,2015,7
+nord est,femmine,non indicato,2016,9
+nord est,femmine,non indicato,2017,7
+nord est,femmine,non indicato,2018,9
+nord est,femmine,non indicato,2019,2
+nord est,femmine,non indicato,2020,8
+nord est,femmine,non indicato,2021,56
+nord est,femmine,non indicato,2022,65
+nord est,femmine,non indicato,2023,155
+nord est,femmine,non indicato,2024,114
+nord est,femmine,fino a 17 anni,2015,7
+nord est,femmine,fino a 17 anni,2016,8
+nord est,femmine,fino a 17 anni,2017,6
+nord est,femmine,fino a 17 anni,2018,12
+nord est,femmine,fino a 17 anni,2019,14
+nord est,femmine,fino a 17 anni,2020,28
+nord est,femmine,fino a 17 anni,2021,56
+nord est,femmine,fino a 17 anni,2022,35
+nord est,femmine,fino a 17 anni,2023,48
+nord est,femmine,fino a 17 anni,2024,51
+nord est,femmine,18-24 anni,2015,74
+nord est,femmine,18-24 anni,2016,65
+nord est,femmine,18-24 anni,2017,62
+nord est,femmine,18-24 anni,2018,103
+nord est,femmine,18-24 anni,2019,109
+nord est,femmine,18-24 anni,2020,163
+nord est,femmine,18-24 anni,2021,210
+nord est,femmine,18-24 anni,2022,180
+nord est,femmine,18-24 anni,2023,208
+nord est,femmine,18-24 anni,2024,196
+nord est,femmine,25-34 anni,2015,165
+nord est,femmine,25-34 anni,2016,159
+nord est,femmine,25-34 anni,2017,177
+nord est,femmine,25-34 anni,2018,198
+nord est,femmine,25-34 anni,2019,261
+nord est,femmine,25-34 anni,2020,299
+nord est,femmine,25-34 anni,2021,300
+nord est,femmine,25-34 anni,2022,295
+nord est,femmine,25-34 anni,2023,434
+nord est,femmine,25-34 anni,2024,416
+nord est,femmine,35-44 anni,2015,280
+nord est,femmine,35-44 anni,2016,250
+nord est,femmine,35-44 anni,2017,289
+nord est,femmine,35-44 anni,2018,284
+nord est,femmine,35-44 anni,2019,293
+nord est,femmine,35-44 anni,2020,399
+nord est,femmine,35-44 anni,2021,368
+nord est,femmine,35-44 anni,2022,361
+nord est,femmine,35-44 anni,2023,456
+nord est,femmine,35-44 anni,2024,483
+nord est,femmine,45-54 anni,2015,221
+nord est,femmine,45-54 anni,2016,249
+nord est,femmine,45-54 anni,2017,179
+nord est,femmine,45-54 anni,2018,274
+nord est,femmine,45-54 anni,2019,234
+nord est,femmine,45-54 anni,2020,325
+nord est,femmine,45-54 anni,2021,357
+nord est,femmine,45-54 anni,2022,343
+nord est,femmine,45-54 anni,2023,398
+nord est,femmine,45-54 anni,2024,414
+nord est,femmine,55-64 anni,2015,110
+nord est,femmine,55-64 anni,2016,120
+nord est,femmine,55-64 anni,2017,99
+nord est,femmine,55-64 anni,2018,169
+nord est,femmine,55-64 anni,2019,120
+nord est,femmine,55-64 anni,2020,182
+nord est,femmine,55-64 anni,2021,221
+nord est,femmine,55-64 anni,2022,170
+nord est,femmine,55-64 anni,2023,145
+nord est,femmine,55-64 anni,2024,133
+nord est,femmine,65 anni e più,2015,124
+nord est,femmine,65 anni e più,2016,102
+nord est,femmine,65 anni e più,2017,92
+nord est,femmine,65 anni e più,2018,123
+nord est,femmine,65 anni e più,2019,88
+nord est,femmine,65 anni e più,2020,177
+nord est,femmine,65 anni e più,2021,193
+nord est,femmine,65 anni e più,2022,134
+nord est,femmine,65 anni e più,2023,216
+nord est,femmine,65 anni e più,2024,227
+nord est,femmine,non disponibile,2015,38
+nord est,femmine,non disponibile,2016,47
+nord est,femmine,non disponibile,2017,64
+nord est,femmine,non disponibile,2018,83
+nord est,femmine,non disponibile,2019,75
+nord est,femmine,non disponibile,2020,424
+nord est,femmine,non disponibile,2021,517
+nord est,femmine,non disponibile,2022,119
+nord est,femmine,non disponibile,2023,115
+nord est,femmine,non disponibile,2024,978
+nord est,non indicato,non indicato,2023,3
+nord est,non indicato,18-24 anni,2023,1
+nord est,non indicato,18-24 anni,2024,1
+nord est,non indicato,25-34 anni,2023,3
+nord est,non indicato,25-34 anni,2024,2
+nord est,non indicato,35-44 anni,2024,1
+nord est,non indicato,45-54 anni,2023,2
+nord est,non indicato,45-54 anni,2024,2
+nord est,non indicato,non disponibile,2023,27
+nord est,non indicato,non disponibile,2024,46
+trentino alto adige,maschi,non indicato,2023,1
+trentino alto adige,maschi,18-24 anni,2023,1
+trentino alto adige,maschi,25-34 anni,2024,1
+trentino alto adige,maschi,35-44 anni,2023,1
+trentino alto adige,maschi,35-44 anni,2024,1
+trentino alto adige,maschi,45-54 anni,2023,1
+trentino alto adige,maschi,non disponibile,2020,1
+trentino alto adige,maschi,non disponibile,2024,2
+trentino alto adige,femmine,non indicato,2023,8
+trentino alto adige,femmine,non indicato,2024,5
+trentino alto adige,femmine,fino a 17 anni,2023,4
+trentino alto adige,femmine,fino a 17 anni,2024,3
+trentino alto adige,femmine,18-24 anni,2021,1
+trentino alto adige,femmine,18-24 anni,2023,15
+trentino alto adige,femmine,18-24 anni,2024,13
+trentino alto adige,femmine,25-34 anni,2023,36
+trentino alto adige,femmine,25-34 anni,2024,21
+trentino alto adige,femmine,35-44 anni,2020,1
+trentino alto adige,femmine,35-44 anni,2023,27
+trentino alto adige,femmine,35-44 anni,2024,22
+trentino alto adige,femmine,45-54 anni,2022,1
+trentino alto adige,femmine,45-54 anni,2023,27
+trentino alto adige,femmine,45-54 anni,2024,26
+trentino alto adige,femmine,55-64 anni,2023,4
+trentino alto adige,femmine,55-64 anni,2024,6
+trentino alto adige,femmine,65 anni e più,2020,1
+trentino alto adige,femmine,65 anni e più,2023,8
+trentino alto adige,femmine,65 anni e più,2024,11
+trentino alto adige,femmine,non disponibile,2020,4
+trentino alto adige,femmine,non disponibile,2021,2
+trentino alto adige,femmine,non disponibile,2023,11
+trentino alto adige,femmine,non disponibile,2024,43
+trentino alto adige,non indicato,25-34 anni,2023,1
+trentino alto adige,non indicato,non disponibile,2023,1
+bolzano,maschi,18-24 anni,2022,2
+bolzano,maschi,25-34 anni,2015,1
+bolzano,maschi,25-34 anni,2020,2
+bolzano,maschi,55-64 anni,2015,1
+bolzano,maschi,55-64 anni,2020,2
+bolzano,maschi,non disponibile,2021,3
+bolzano,femmine,non indicato,2021,2
+bolzano,femmine,non indicato,2022,1
+bolzano,femmine,fino a 17 anni,2017,1
+bolzano,femmine,fino a 17 anni,2021,4
+bolzano,femmine,fino a 17 anni,2022,1
+bolzano,femmine,18-24 anni,2015,1
+bolzano,femmine,18-24 anni,2017,1
+bolzano,femmine,18-24 anni,2018,1
+bolzano,femmine,18-24 anni,2020,3
+bolzano,femmine,18-24 anni,2021,5
+bolzano,femmine,18-24 anni,2022,4
+bolzano,femmine,25-34 anni,2015,1
+bolzano,femmine,25-34 anni,2016,4
+bolzano,femmine,25-34 anni,2017,2
+bolzano,femmine,25-34 anni,2018,1
+bolzano,femmine,25-34 anni,2019,5
+bolzano,femmine,25-34 anni,2020,10
+bolzano,femmine,25-34 anni,2021,5
+bolzano,femmine,25-34 anni,2022,6
+bolzano,femmine,35-44 anni,2015,6
+bolzano,femmine,35-44 anni,2017,1
+bolzano,femmine,35-44 anni,2018,3
+bolzano,femmine,35-44 anni,2019,7
+bolzano,femmine,35-44 anni,2020,2
+bolzano,femmine,35-44 anni,2021,8
+bolzano,femmine,35-44 anni,2022,13
+bolzano,femmine,45-54 anni,2015,3
+bolzano,femmine,45-54 anni,2016,1
+bolzano,femmine,45-54 anni,2017,1
+bolzano,femmine,45-54 anni,2018,5
+bolzano,femmine,45-54 anni,2019,1
+bolzano,femmine,45-54 anni,2020,3
+bolzano,femmine,45-54 anni,2021,2
+bolzano,femmine,45-54 anni,2022,9
+bolzano,femmine,55-64 anni,2016,5
+bolzano,femmine,55-64 anni,2017,1
+bolzano,femmine,55-64 anni,2018,2
+bolzano,femmine,55-64 anni,2019,4
+bolzano,femmine,55-64 anni,2020,3
+bolzano,femmine,55-64 anni,2021,3
+bolzano,femmine,55-64 anni,2022,2
+bolzano,femmine,65 anni e più,2016,3
+bolzano,femmine,65 anni e più,2019,2
+bolzano,femmine,65 anni e più,2020,2
+bolzano,femmine,65 anni e più,2021,5
+bolzano,femmine,65 anni e più,2022,4
+bolzano,femmine,non disponibile,2015,1
+bolzano,femmine,non disponibile,2016,1
+bolzano,femmine,non disponibile,2018,2
+bolzano,femmine,non disponibile,2020,5
+bolzano,femmine,non disponibile,2021,4
+bolzano,femmine,non disponibile,2022,2
+trento,maschi,non indicato,2022,1
+trento,maschi,18-24 anni,2020,2
+trento,maschi,25-34 anni,2016,2
+trento,maschi,25-34 anni,2017,1
+trento,maschi,25-34 anni,2020,1
+trento,maschi,25-34 anni,2021,4
+trento,maschi,35-44 anni,2021,1
+trento,maschi,45-54 anni,2015,1
+trento,maschi,45-54 anni,2016,1
+trento,maschi,45-54 anni,2017,1
+trento,maschi,45-54 anni,2018,1
+trento,maschi,45-54 anni,2020,1
+trento,maschi,45-54 anni,2021,2
+trento,maschi,55-64 anni,2021,1
+trento,maschi,65 anni e più,2015,1
+trento,maschi,non disponibile,2015,3
+trento,maschi,non disponibile,2018,2
+trento,maschi,non disponibile,2020,2
+trento,maschi,non disponibile,2021,2
+trento,femmine,non indicato,2016,1
+trento,femmine,non indicato,2021,2
+trento,femmine,non indicato,2022,6
+trento,femmine,fino a 17 anni,2015,1
+trento,femmine,fino a 17 anni,2019,2
+trento,femmine,fino a 17 anni,2020,1
+trento,femmine,fino a 17 anni,2021,6
+trento,femmine,18-24 anni,2015,2
+trento,femmine,18-24 anni,2016,4
+trento,femmine,18-24 anni,2017,4
+trento,femmine,18-24 anni,2018,7
+trento,femmine,18-24 anni,2019,7
+trento,femmine,18-24 anni,2020,10
+trento,femmine,18-24 anni,2021,9
+trento,femmine,18-24 anni,2022,8
+trento,femmine,25-34 anni,2015,6
+trento,femmine,25-34 anni,2016,7
+trento,femmine,25-34 anni,2017,4
+trento,femmine,25-34 anni,2018,10
+trento,femmine,25-34 anni,2019,16
+trento,femmine,25-34 anni,2020,15
+trento,femmine,25-34 anni,2021,20
+trento,femmine,25-34 anni,2022,12
+trento,femmine,35-44 anni,2015,11
+trento,femmine,35-44 anni,2016,10
+trento,femmine,35-44 anni,2017,6
+trento,femmine,35-44 anni,2018,13
+trento,femmine,35-44 anni,2019,16
+trento,femmine,35-44 anni,2020,14
+trento,femmine,35-44 anni,2021,19
+trento,femmine,35-44 anni,2022,16
+trento,femmine,45-54 anni,2015,5
+trento,femmine,45-54 anni,2016,9
+trento,femmine,45-54 anni,2017,6
+trento,femmine,45-54 anni,2018,12
+trento,femmine,45-54 anni,2019,13
+trento,femmine,45-54 anni,2020,13
+trento,femmine,45-54 anni,2021,15
+trento,femmine,45-54 anni,2022,8
+trento,femmine,55-64 anni,2015,3
+trento,femmine,55-64 anni,2016,4
+trento,femmine,55-64 anni,2017,2
+trento,femmine,55-64 anni,2018,7
+trento,femmine,55-64 anni,2019,4
+trento,femmine,55-64 anni,2020,4
+trento,femmine,55-64 anni,2021,11
+trento,femmine,55-64 anni,2022,16
+trento,femmine,65 anni e più,2015,6
+trento,femmine,65 anni e più,2016,4
+trento,femmine,65 anni e più,2018,4
+trento,femmine,65 anni e più,2019,3
+trento,femmine,65 anni e più,2020,6
+trento,femmine,65 anni e più,2021,4
+trento,femmine,65 anni e più,2022,3
+trento,femmine,non disponibile,2015,2
+trento,femmine,non disponibile,2016,2
+trento,femmine,non disponibile,2017,1
+trento,femmine,non disponibile,2018,4
+trento,femmine,non disponibile,2019,1
+trento,femmine,non disponibile,2020,13
+trento,femmine,non disponibile,2021,27
+trento,femmine,non disponibile,2022,6
+veneto,maschi,non indicato,2022,2
+veneto,maschi,non indicato,2023,3
+veneto,maschi,non indicato,2024,1
+veneto,maschi,fino a 17 anni,2016,2
+veneto,maschi,fino a 17 anni,2017,1
+veneto,maschi,fino a 17 anni,2021,4
+veneto,maschi,fino a 17 anni,2023,1
+veneto,maschi,fino a 17 anni,2024,1
+veneto,maschi,18-24 anni,2015,3
+veneto,maschi,18-24 anni,2016,3
+veneto,maschi,18-24 anni,2018,1
+veneto,maschi,18-24 anni,2019,1
+veneto,maschi,18-24 anni,2020,7
+veneto,maschi,18-24 anni,2021,1
+veneto,maschi,18-24 anni,2022,1
+veneto,maschi,18-24 anni,2023,3
+veneto,maschi,18-24 anni,2024,3
+veneto,maschi,25-34 anni,2015,4
+veneto,maschi,25-34 anni,2016,1
+veneto,maschi,25-34 anni,2017,3
+veneto,maschi,25-34 anni,2019,4
+veneto,maschi,25-34 anni,2020,4
+veneto,maschi,25-34 anni,2022,3
+veneto,maschi,25-34 anni,2023,5
+veneto,maschi,25-34 anni,2024,2
+veneto,maschi,35-44 anni,2015,4
+veneto,maschi,35-44 anni,2016,2
+veneto,maschi,35-44 anni,2017,3
+veneto,maschi,35-44 anni,2018,7
+veneto,maschi,35-44 anni,2019,1
+veneto,maschi,35-44 anni,2020,5
+veneto,maschi,35-44 anni,2021,7
+veneto,maschi,35-44 anni,2022,1
+veneto,maschi,35-44 anni,2023,2
+veneto,maschi,35-44 anni,2024,1
+veneto,maschi,45-54 anni,2015,8
+veneto,maschi,45-54 anni,2016,5
+veneto,maschi,45-54 anni,2017,4
+veneto,maschi,45-54 anni,2018,1
+veneto,maschi,45-54 anni,2019,5
+veneto,maschi,45-54 anni,2020,4
+veneto,maschi,45-54 anni,2021,2
+veneto,maschi,45-54 anni,2022,2
+veneto,maschi,45-54 anni,2023,1
+veneto,maschi,45-54 anni,2024,2
+veneto,maschi,55-64 anni,2015,2
+veneto,maschi,55-64 anni,2016,1
+veneto,maschi,55-64 anni,2017,1
+veneto,maschi,55-64 anni,2018,5
+veneto,maschi,55-64 anni,2019,2
+veneto,maschi,55-64 anni,2020,10
+veneto,maschi,55-64 anni,2021,3
+veneto,maschi,55-64 anni,2022,1
+veneto,maschi,55-64 anni,2024,1
+veneto,maschi,65 anni e più,2015,3
+veneto,maschi,65 anni e più,2016,3
+veneto,maschi,65 anni e più,2017,2
+veneto,maschi,65 anni e più,2018,2
+veneto,maschi,65 anni e più,2019,2
+veneto,maschi,65 anni e più,2021,1
+veneto,maschi,65 anni e più,2023,4
+veneto,maschi,65 anni e più,2024,3
+veneto,maschi,non disponibile,2016,1
+veneto,maschi,non disponibile,2017,1
+veneto,maschi,non disponibile,2018,2
+veneto,maschi,non disponibile,2020,6
+veneto,maschi,non disponibile,2021,10
+veneto,maschi,non disponibile,2023,9
+veneto,maschi,non disponibile,2024,6
+veneto,femmine,non indicato,2015,3
+veneto,femmine,non indicato,2016,4
+veneto,femmine,non indicato,2017,3
+veneto,femmine,non indicato,2018,4
+veneto,femmine,non indicato,2019,1
+veneto,femmine,non indicato,2020,3
+veneto,femmine,non indicato,2021,22
+veneto,femmine,non indicato,2022,38
+veneto,femmine,non indicato,2023,79
+veneto,femmine,non indicato,2024,50
+veneto,femmine,fino a 17 anni,2015,6
+veneto,femmine,fino a 17 anni,2016,7
+veneto,femmine,fino a 17 anni,2017,2
+veneto,femmine,fino a 17 anni,2018,4
+veneto,femmine,fino a 17 anni,2019,6
+veneto,femmine,fino a 17 anni,2020,18
+veneto,femmine,fino a 17 anni,2021,27
+veneto,femmine,fino a 17 anni,2022,17
+veneto,femmine,fino a 17 anni,2023,19
+veneto,femmine,fino a 17 anni,2024,24
+veneto,femmine,18-24 anni,2015,31
+veneto,femmine,18-24 anni,2016,29
+veneto,femmine,18-24 anni,2017,39
+veneto,femmine,18-24 anni,2018,56
+veneto,femmine,18-24 anni,2019,59
+veneto,femmine,18-24 anni,2020,80
+veneto,femmine,18-24 anni,2021,113
+veneto,femmine,18-24 anni,2022,96
+veneto,femmine,18-24 anni,2023,97
+veneto,femmine,18-24 anni,2024,87
+veneto,femmine,25-34 anni,2015,74
+veneto,femmine,25-34 anni,2016,70
+veneto,femmine,25-34 anni,2017,89
+veneto,femmine,25-34 anni,2018,93
+veneto,femmine,25-34 anni,2019,131
+veneto,femmine,25-34 anni,2020,132
+veneto,femmine,25-34 anni,2021,142
+veneto,femmine,25-34 anni,2022,138
+veneto,femmine,25-34 anni,2023,181
+veneto,femmine,25-34 anni,2024,175
+veneto,femmine,35-44 anni,2015,132
+veneto,femmine,35-44 anni,2016,112
+veneto,femmine,35-44 anni,2017,132
+veneto,femmine,35-44 anni,2018,123
+veneto,femmine,35-44 anni,2019,144
+veneto,femmine,35-44 anni,2020,192
+veneto,femmine,35-44 anni,2021,205
+veneto,femmine,35-44 anni,2022,177
+veneto,femmine,35-44 anni,2023,210
+veneto,femmine,35-44 anni,2024,209
+veneto,femmine,45-54 anni,2015,96
+veneto,femmine,45-54 anni,2016,117
+veneto,femmine,45-54 anni,2017,87
+veneto,femmine,45-54 anni,2018,147
+veneto,femmine,45-54 anni,2019,125
+veneto,femmine,45-54 anni,2020,161
+veneto,femmine,45-54 anni,2021,177
+veneto,femmine,45-54 anni,2022,175
+veneto,femmine,45-54 anni,2023,210
+veneto,femmine,45-54 anni,2024,197
+veneto,femmine,55-64 anni,2015,62
+veneto,femmine,55-64 anni,2016,58
+veneto,femmine,55-64 anni,2017,48
+veneto,femmine,55-64 anni,2018,85
+veneto,femmine,55-64 anni,2019,55
+veneto,femmine,55-64 anni,2020,85
+veneto,femmine,55-64 anni,2021,111
+veneto,femmine,55-64 anni,2022,76
+veneto,femmine,55-64 anni,2023,70
+veneto,femmine,55-64 anni,2024,68
+veneto,femmine,65 anni e più,2015,57
+veneto,femmine,65 anni e più,2016,50
+veneto,femmine,65 anni e più,2017,43
+veneto,femmine,65 anni e più,2018,65
+veneto,femmine,65 anni e più,2019,47
+veneto,femmine,65 anni e più,2020,78
+veneto,femmine,65 anni e più,2021,96
+veneto,femmine,65 anni e più,2022,82
+veneto,femmine,65 anni e più,2023,103
+veneto,femmine,65 anni e più,2024,107
+veneto,femmine,non disponibile,2015,19
+veneto,femmine,non disponibile,2016,21
+veneto,femmine,non disponibile,2017,32
+veneto,femmine,non disponibile,2018,37
+veneto,femmine,non disponibile,2019,43
+veneto,femmine,non disponibile,2020,207
+veneto,femmine,non disponibile,2021,248
+veneto,femmine,non disponibile,2022,62
+veneto,femmine,non disponibile,2023,45
+veneto,femmine,non disponibile,2024,476
+veneto,non indicato,non indicato,2023,1
+veneto,non indicato,18-24 anni,2024,1
+veneto,non indicato,25-34 anni,2023,1
+veneto,non indicato,45-54 anni,2023,2
+veneto,non indicato,45-54 anni,2024,2
+veneto,non indicato,non disponibile,2023,10
+veneto,non indicato,non disponibile,2024,20
+friuli venezia giulia,maschi,fino a 17 anni,2022,1
+friuli venezia giulia,maschi,18-24 anni,2017,2
+friuli venezia giulia,maschi,18-24 anni,2019,1
+friuli venezia giulia,maschi,18-24 anni,2020,2
+friuli venezia giulia,maschi,25-34 anni,2015,1
+friuli venezia giulia,maschi,25-34 anni,2018,1
+friuli venezia giulia,maschi,25-34 anni,2019,1
+friuli venezia giulia,maschi,25-34 anni,2021,1
+friuli venezia giulia,maschi,25-34 anni,2023,1
+friuli venezia giulia,maschi,35-44 anni,2019,1
+friuli venezia giulia,maschi,35-44 anni,2020,1
+friuli venezia giulia,maschi,35-44 anni,2022,1
+friuli venezia giulia,maschi,35-44 anni,2023,2
+friuli venezia giulia,maschi,35-44 anni,2024,1
+friuli venezia giulia,maschi,45-54 anni,2015,2
+friuli venezia giulia,maschi,45-54 anni,2016,1
+friuli venezia giulia,maschi,45-54 anni,2019,1
+friuli venezia giulia,maschi,45-54 anni,2023,1
+friuli venezia giulia,maschi,55-64 anni,2015,2
+friuli venezia giulia,maschi,55-64 anni,2018,1
+friuli venezia giulia,maschi,55-64 anni,2020,1
+friuli venezia giulia,maschi,65 anni e più,2018,2
+friuli venezia giulia,maschi,65 anni e più,2019,1
+friuli venezia giulia,maschi,65 anni e più,2020,2
+friuli venezia giulia,maschi,non disponibile,2015,1
+friuli venezia giulia,maschi,non disponibile,2020,4
+friuli venezia giulia,maschi,non disponibile,2021,3
+friuli venezia giulia,maschi,non disponibile,2024,1
+friuli venezia giulia,femmine,non indicato,2016,1
+friuli venezia giulia,femmine,non indicato,2017,4
+friuli venezia giulia,femmine,non indicato,2020,2
+friuli venezia giulia,femmine,non indicato,2021,6
+friuli venezia giulia,femmine,non indicato,2022,6
+friuli venezia giulia,femmine,non indicato,2023,12
+friuli venezia giulia,femmine,non indicato,2024,14
+friuli venezia giulia,femmine,fino a 17 anni,2017,1
+friuli venezia giulia,femmine,fino a 17 anni,2018,1
+friuli venezia giulia,femmine,fino a 17 anni,2019,1
+friuli venezia giulia,femmine,fino a 17 anni,2020,1
+friuli venezia giulia,femmine,fino a 17 anni,2021,2
+friuli venezia giulia,femmine,fino a 17 anni,2022,4
+friuli venezia giulia,femmine,fino a 17 anni,2023,2
+friuli venezia giulia,femmine,fino a 17 anni,2024,5
+friuli venezia giulia,femmine,18-24 anni,2015,9
+friuli venezia giulia,femmine,18-24 anni,2016,7
+friuli venezia giulia,femmine,18-24 anni,2017,3
+friuli venezia giulia,femmine,18-24 anni,2018,7
+friuli venezia giulia,femmine,18-24 anni,2019,10
+friuli venezia giulia,femmine,18-24 anni,2020,10
+friuli venezia giulia,femmine,18-24 anni,2021,10
+friuli venezia giulia,femmine,18-24 anni,2022,14
+friuli venezia giulia,femmine,18-24 anni,2023,19
+friuli venezia giulia,femmine,18-24 anni,2024,14
+friuli venezia giulia,femmine,25-34 anni,2015,8
+friuli venezia giulia,femmine,25-34 anni,2016,16
+friuli venezia giulia,femmine,25-34 anni,2017,11
+friuli venezia giulia,femmine,25-34 anni,2018,14
+friuli venezia giulia,femmine,25-34 anni,2019,21
+friuli venezia giulia,femmine,25-34 anni,2020,20
+friuli venezia giulia,femmine,25-34 anni,2021,23
+friuli venezia giulia,femmine,25-34 anni,2022,19
+friuli venezia giulia,femmine,25-34 anni,2023,30
+friuli venezia giulia,femmine,25-34 anni,2024,38
+friuli venezia giulia,femmine,35-44 anni,2015,25
+friuli venezia giulia,femmine,35-44 anni,2016,29
+friuli venezia giulia,femmine,35-44 anni,2017,39
+friuli venezia giulia,femmine,35-44 anni,2018,32
+friuli venezia giulia,femmine,35-44 anni,2019,10
+friuli venezia giulia,femmine,35-44 anni,2020,37
+friuli venezia giulia,femmine,35-44 anni,2021,22
+friuli venezia giulia,femmine,35-44 anni,2022,25
+friuli venezia giulia,femmine,35-44 anni,2023,32
+friuli venezia giulia,femmine,35-44 anni,2024,38
+friuli venezia giulia,femmine,45-54 anni,2015,25
+friuli venezia giulia,femmine,45-54 anni,2016,33
+friuli venezia giulia,femmine,45-54 anni,2017,19
+friuli venezia giulia,femmine,45-54 anni,2018,31
+friuli venezia giulia,femmine,45-54 anni,2019,32
+friuli venezia giulia,femmine,45-54 anni,2020,21
+friuli venezia giulia,femmine,45-54 anni,2021,24
+friuli venezia giulia,femmine,45-54 anni,2022,26
+friuli venezia giulia,femmine,45-54 anni,2023,20
+friuli venezia giulia,femmine,45-54 anni,2024,30
+friuli venezia giulia,femmine,55-64 anni,2015,15
+friuli venezia giulia,femmine,55-64 anni,2016,12
+friuli venezia giulia,femmine,55-64 anni,2017,12
+friuli venezia giulia,femmine,55-64 anni,2018,18
+friuli venezia giulia,femmine,55-64 anni,2019,17
+friuli venezia giulia,femmine,55-64 anni,2020,19
+friuli venezia giulia,femmine,55-64 anni,2021,23
+friuli venezia giulia,femmine,55-64 anni,2022,13
+friuli venezia giulia,femmine,55-64 anni,2023,15
+friuli venezia giulia,femmine,55-64 anni,2024,11
+friuli venezia giulia,femmine,65 anni e più,2015,19
+friuli venezia giulia,femmine,65 anni e più,2016,14
+friuli venezia giulia,femmine,65 anni e più,2017,11
+friuli venezia giulia,femmine,65 anni e più,2018,19
+friuli venezia giulia,femmine,65 anni e più,2019,12
+friuli venezia giulia,femmine,65 anni e più,2020,21
+friuli venezia giulia,femmine,65 anni e più,2021,24
+friuli venezia giulia,femmine,65 anni e più,2022,12
+friuli venezia giulia,femmine,65 anni e più,2023,23
+friuli venezia giulia,femmine,65 anni e più,2024,16
+friuli venezia giulia,femmine,non disponibile,2015,8
+friuli venezia giulia,femmine,non disponibile,2016,6
+friuli venezia giulia,femmine,non disponibile,2017,6
+friuli venezia giulia,femmine,non disponibile,2018,6
+friuli venezia giulia,femmine,non disponibile,2019,3
+friuli venezia giulia,femmine,non disponibile,2020,30
+friuli venezia giulia,femmine,non disponibile,2021,35
+friuli venezia giulia,femmine,non disponibile,2022,11
+friuli venezia giulia,femmine,non disponibile,2023,15
+friuli venezia giulia,femmine,non disponibile,2024,95
+friuli venezia giulia,non indicato,non disponibile,2023,3
+friuli venezia giulia,non indicato,non disponibile,2024,6
+emilia romagna,maschi,non indicato,2023,2
+emilia romagna,maschi,non indicato,2024,1
+emilia romagna,maschi,fino a 17 anni,2021,1
+emilia romagna,maschi,fino a 17 anni,2022,4
+emilia romagna,maschi,fino a 17 anni,2023,1
+emilia romagna,maschi,18-24 anni,2016,1
+emilia romagna,maschi,18-24 anni,2019,1
+emilia romagna,maschi,18-24 anni,2020,4
+emilia romagna,maschi,18-24 anni,2021,2
+emilia romagna,maschi,18-24 anni,2022,2
+emilia romagna,maschi,18-24 anni,2023,2
+emilia romagna,maschi,18-24 anni,2024,1
+emilia romagna,maschi,25-34 anni,2015,1
+emilia romagna,maschi,25-34 anni,2017,3
+emilia romagna,maschi,25-34 anni,2018,2
+emilia romagna,maschi,25-34 anni,2019,1
+emilia romagna,maschi,25-34 anni,2020,5
+emilia romagna,maschi,25-34 anni,2021,4
+emilia romagna,maschi,25-34 anni,2022,2
+emilia romagna,maschi,25-34 anni,2023,7
+emilia romagna,maschi,25-34 anni,2024,2
+emilia romagna,maschi,35-44 anni,2015,5
+emilia romagna,maschi,35-44 anni,2016,9
+emilia romagna,maschi,35-44 anni,2017,7
+emilia romagna,maschi,35-44 anni,2018,1
+emilia romagna,maschi,35-44 anni,2019,1
+emilia romagna,maschi,35-44 anni,2020,5
+emilia romagna,maschi,35-44 anni,2021,1
+emilia romagna,maschi,35-44 anni,2022,3
+emilia romagna,maschi,35-44 anni,2023,5
+emilia romagna,maschi,35-44 anni,2024,3
+emilia romagna,maschi,45-54 anni,2015,6
+emilia romagna,maschi,45-54 anni,2016,5
+emilia romagna,maschi,45-54 anni,2017,1
+emilia romagna,maschi,45-54 anni,2018,2
+emilia romagna,maschi,45-54 anni,2019,4
+emilia romagna,maschi,45-54 anni,2020,7
+emilia romagna,maschi,45-54 anni,2021,4
+emilia romagna,maschi,45-54 anni,2022,2
+emilia romagna,maschi,45-54 anni,2023,4
+emilia romagna,maschi,45-54 anni,2024,2
+emilia romagna,maschi,55-64 anni,2016,1
+emilia romagna,maschi,55-64 anni,2017,3
+emilia romagna,maschi,55-64 anni,2018,1
+emilia romagna,maschi,55-64 anni,2019,4
+emilia romagna,maschi,55-64 anni,2020,3
+emilia romagna,maschi,55-64 anni,2022,3
+emilia romagna,maschi,55-64 anni,2023,1
+emilia romagna,maschi,55-64 anni,2024,2
+emilia romagna,maschi,65 anni e più,2015,3
+emilia romagna,maschi,65 anni e più,2016,3
+emilia romagna,maschi,65 anni e più,2018,1
+emilia romagna,maschi,65 anni e più,2020,1
+emilia romagna,maschi,65 anni e più,2023,2
+emilia romagna,maschi,65 anni e più,2024,4
+emilia romagna,maschi,non disponibile,2015,4
+emilia romagna,maschi,non disponibile,2016,1
+emilia romagna,maschi,non disponibile,2017,5
+emilia romagna,maschi,non disponibile,2018,2
+emilia romagna,maschi,non disponibile,2019,1
+emilia romagna,maschi,non disponibile,2020,6
+emilia romagna,maschi,non disponibile,2021,17
+emilia romagna,maschi,non disponibile,2022,1
+emilia romagna,maschi,non disponibile,2024,9
+emilia romagna,femmine,non indicato,2015,4
+emilia romagna,femmine,non indicato,2016,4
+emilia romagna,femmine,non indicato,2018,5
+emilia romagna,femmine,non indicato,2019,1
+emilia romagna,femmine,non indicato,2020,3
+emilia romagna,femmine,non indicato,2021,28
+emilia romagna,femmine,non indicato,2022,21
+emilia romagna,femmine,non indicato,2023,56
+emilia romagna,femmine,non indicato,2024,45
+emilia romagna,femmine,fino a 17 anni,2015,1
+emilia romagna,femmine,fino a 17 anni,2016,1
+emilia romagna,femmine,fino a 17 anni,2017,3
+emilia romagna,femmine,fino a 17 anni,2018,7
+emilia romagna,femmine,fino a 17 anni,2019,7
+emilia romagna,femmine,fino a 17 anni,2020,9
+emilia romagna,femmine,fino a 17 anni,2021,27
+emilia romagna,femmine,fino a 17 anni,2022,14
+emilia romagna,femmine,fino a 17 anni,2023,23
+emilia romagna,femmine,fino a 17 anni,2024,19
+emilia romagna,femmine,18-24 anni,2015,34
+emilia romagna,femmine,18-24 anni,2016,29
+emilia romagna,femmine,18-24 anni,2017,20
+emilia romagna,femmine,18-24 anni,2018,40
+emilia romagna,femmine,18-24 anni,2019,40
+emilia romagna,femmine,18-24 anni,2020,73
+emilia romagna,femmine,18-24 anni,2021,86
+emilia romagna,femmine,18-24 anni,2022,70
+emilia romagna,femmine,18-24 anni,2023,77
+emilia romagna,femmine,18-24 anni,2024,82
+emilia romagna,femmine,25-34 anni,2015,83
+emilia romagna,femmine,25-34 anni,2016,73
+emilia romagna,femmine,25-34 anni,2017,77
+emilia romagna,femmine,25-34 anni,2018,91
+emilia romagna,femmine,25-34 anni,2019,109
+emilia romagna,femmine,25-34 anni,2020,147
+emilia romagna,femmine,25-34 anni,2021,135
+emilia romagna,femmine,25-34 anni,2022,138
+emilia romagna,femmine,25-34 anni,2023,187
+emilia romagna,femmine,25-34 anni,2024,182
+emilia romagna,femmine,35-44 anni,2015,123
+emilia romagna,femmine,35-44 anni,2016,109
+emilia romagna,femmine,35-44 anni,2017,118
+emilia romagna,femmine,35-44 anni,2018,129
+emilia romagna,femmine,35-44 anni,2019,139
+emilia romagna,femmine,35-44 anni,2020,169
+emilia romagna,femmine,35-44 anni,2021,141
+emilia romagna,femmine,35-44 anni,2022,159
+emilia romagna,femmine,35-44 anni,2023,187
+emilia romagna,femmine,35-44 anni,2024,214
+emilia romagna,femmine,45-54 anni,2015,100
+emilia romagna,femmine,45-54 anni,2016,99
+emilia romagna,femmine,45-54 anni,2017,73
+emilia romagna,femmine,45-54 anni,2018,96
+emilia romagna,femmine,45-54 anni,2019,77
+emilia romagna,femmine,45-54 anni,2020,143
+emilia romagna,femmine,45-54 anni,2021,156
+emilia romagna,femmine,45-54 anni,2022,141
+emilia romagna,femmine,45-54 anni,2023,141
+emilia romagna,femmine,45-54 anni,2024,161
+emilia romagna,femmine,55-64 anni,2015,33
+emilia romagna,femmine,55-64 anni,2016,50
+emilia romagna,femmine,55-64 anni,2017,39
+emilia romagna,femmine,55-64 anni,2018,66
+emilia romagna,femmine,55-64 anni,2019,48
+emilia romagna,femmine,55-64 anni,2020,78
+emilia romagna,femmine,55-64 anni,2021,87
+emilia romagna,femmine,55-64 anni,2022,81
+emilia romagna,femmine,55-64 anni,2023,56
+emilia romagna,femmine,55-64 anni,2024,48
+emilia romagna,femmine,65 anni e più,2015,48
+emilia romagna,femmine,65 anni e più,2016,38
+emilia romagna,femmine,65 anni e più,2017,38
+emilia romagna,femmine,65 anni e più,2018,39
+emilia romagna,femmine,65 anni e più,2019,29
+emilia romagna,femmine,65 anni e più,2020,77
+emilia romagna,femmine,65 anni e più,2021,73
+emilia romagna,femmine,65 anni e più,2022,40
+emilia romagna,femmine,65 anni e più,2023,82
+emilia romagna,femmine,65 anni e più,2024,93
+emilia romagna,femmine,non disponibile,2015,11
+emilia romagna,femmine,non disponibile,2016,20
+emilia romagna,femmine,non disponibile,2017,26
+emilia romagna,femmine,non disponibile,2018,40
+emilia romagna,femmine,non disponibile,2019,29
+emilia romagna,femmine,non disponibile,2020,183
+emilia romagna,femmine,non disponibile,2021,232
+emilia romagna,femmine,non disponibile,2022,46
+emilia romagna,femmine,non disponibile,2023,44
+emilia romagna,femmine,non disponibile,2024,364
+emilia romagna,non indicato,non indicato,2023,2
+emilia romagna,non indicato,18-24 anni,2023,1
+emilia romagna,non indicato,25-34 anni,2023,1
+emilia romagna,non indicato,25-34 anni,2024,2
+emilia romagna,non indicato,35-44 anni,2024,1
+emilia romagna,non indicato,non disponibile,2023,13
+emilia romagna,non indicato,non disponibile,2024,20
+centro,maschi,non indicato,2016,2
+centro,maschi,non indicato,2020,1
+centro,maschi,non indicato,2021,5
+centro,maschi,non indicato,2022,3
+centro,maschi,non indicato,2023,12
+centro,maschi,non indicato,2024,9
+centro,maschi,fino a 17 anni,2015,2
+centro,maschi,fino a 17 anni,2017,1
+centro,maschi,fino a 17 anni,2018,2
+centro,maschi,fino a 17 anni,2019,3
+centro,maschi,fino a 17 anni,2020,8
+centro,maschi,fino a 17 anni,2021,5
+centro,maschi,fino a 17 anni,2022,4
+centro,maschi,fino a 17 anni,2023,2
+centro,maschi,fino a 17 anni,2024,3
+centro,maschi,18-24 anni,2015,2
+centro,maschi,18-24 anni,2016,6
+centro,maschi,18-24 anni,2017,3
+centro,maschi,18-24 anni,2018,4
+centro,maschi,18-24 anni,2019,1
+centro,maschi,18-24 anni,2020,10
+centro,maschi,18-24 anni,2021,15
+centro,maschi,18-24 anni,2022,8
+centro,maschi,18-24 anni,2023,6
+centro,maschi,18-24 anni,2024,5
+centro,maschi,25-34 anni,2015,5
+centro,maschi,25-34 anni,2016,16
+centro,maschi,25-34 anni,2017,15
+centro,maschi,25-34 anni,2018,5
+centro,maschi,25-34 anni,2019,5
+centro,maschi,25-34 anni,2020,24
+centro,maschi,25-34 anni,2021,13
+centro,maschi,25-34 anni,2022,15
+centro,maschi,25-34 anni,2023,17
+centro,maschi,25-34 anni,2024,12
+centro,maschi,35-44 anni,2015,16
+centro,maschi,35-44 anni,2016,17
+centro,maschi,35-44 anni,2017,17
+centro,maschi,35-44 anni,2018,11
+centro,maschi,35-44 anni,2019,16
+centro,maschi,35-44 anni,2020,21
+centro,maschi,35-44 anni,2021,13
+centro,maschi,35-44 anni,2022,13
+centro,maschi,35-44 anni,2023,11
+centro,maschi,35-44 anni,2024,8
+centro,maschi,45-54 anni,2015,13
+centro,maschi,45-54 anni,2016,14
+centro,maschi,45-54 anni,2017,14
+centro,maschi,45-54 anni,2018,14
+centro,maschi,45-54 anni,2019,8
+centro,maschi,45-54 anni,2020,19
+centro,maschi,45-54 anni,2021,10
+centro,maschi,45-54 anni,2022,7
+centro,maschi,45-54 anni,2023,9
+centro,maschi,45-54 anni,2024,15
+centro,maschi,55-64 anni,2015,8
+centro,maschi,55-64 anni,2016,7
+centro,maschi,55-64 anni,2017,3
+centro,maschi,55-64 anni,2018,5
+centro,maschi,55-64 anni,2019,6
+centro,maschi,55-64 anni,2020,8
+centro,maschi,55-64 anni,2021,8
+centro,maschi,55-64 anni,2022,7
+centro,maschi,55-64 anni,2023,2
+centro,maschi,65 anni e più,2015,7
+centro,maschi,65 anni e più,2016,7
+centro,maschi,65 anni e più,2017,6
+centro,maschi,65 anni e più,2018,8
+centro,maschi,65 anni e più,2019,7
+centro,maschi,65 anni e più,2020,7
+centro,maschi,65 anni e più,2021,7
+centro,maschi,65 anni e più,2022,6
+centro,maschi,65 anni e più,2023,9
+centro,maschi,65 anni e più,2024,7
+centro,maschi,non disponibile,2015,3
+centro,maschi,non disponibile,2016,7
+centro,maschi,non disponibile,2017,4
+centro,maschi,non disponibile,2018,8
+centro,maschi,non disponibile,2019,2
+centro,maschi,non disponibile,2020,32
+centro,maschi,non disponibile,2021,25
+centro,maschi,non disponibile,2022,7
+centro,maschi,non disponibile,2023,8
+centro,maschi,non disponibile,2024,28
+centro,femmine,non indicato,2015,11
+centro,femmine,non indicato,2016,15
+centro,femmine,non indicato,2017,21
+centro,femmine,non indicato,2018,6
+centro,femmine,non indicato,2019,1
+centro,femmine,non indicato,2020,18
+centro,femmine,non indicato,2021,68
+centro,femmine,non indicato,2022,84
+centro,femmine,non indicato,2023,219
+centro,femmine,non indicato,2024,130
+centro,femmine,fino a 17 anni,2015,15
+centro,femmine,fino a 17 anni,2016,15
+centro,femmine,fino a 17 anni,2017,17
+centro,femmine,fino a 17 anni,2018,19
+centro,femmine,fino a 17 anni,2019,19
+centro,femmine,fino a 17 anni,2020,38
+centro,femmine,fino a 17 anni,2021,70
+centro,femmine,fino a 17 anni,2022,47
+centro,femmine,fino a 17 anni,2023,59
+centro,femmine,fino a 17 anni,2024,46
+centro,femmine,18-24 anni,2015,110
+centro,femmine,18-24 anni,2016,94
+centro,femmine,18-24 anni,2017,104
+centro,femmine,18-24 anni,2018,117
+centro,femmine,18-24 anni,2019,144
+centro,femmine,18-24 anni,2020,207
+centro,femmine,18-24 anni,2021,281
+centro,femmine,18-24 anni,2022,252
+centro,femmine,18-24 anni,2023,302
+centro,femmine,18-24 anni,2024,248
+centro,femmine,25-34 anni,2015,318
+centro,femmine,25-34 anni,2016,295
+centro,femmine,25-34 anni,2017,243
+centro,femmine,25-34 anni,2018,351
+centro,femmine,25-34 anni,2019,361
+centro,femmine,25-34 anni,2020,432
+centro,femmine,25-34 anni,2021,419
+centro,femmine,25-34 anni,2022,446
+centro,femmine,25-34 anni,2023,530
+centro,femmine,25-34 anni,2024,457
+centro,femmine,35-44 anni,2015,447
+centro,femmine,35-44 anni,2016,445
+centro,femmine,35-44 anni,2017,379
+centro,femmine,35-44 anni,2018,522
+centro,femmine,35-44 anni,2019,509
+centro,femmine,35-44 anni,2020,596
+centro,femmine,35-44 anni,2021,566
+centro,femmine,35-44 anni,2022,579
+centro,femmine,35-44 anni,2023,690
+centro,femmine,35-44 anni,2024,584
+centro,femmine,45-54 anni,2015,345
+centro,femmine,45-54 anni,2016,375
+centro,femmine,45-54 anni,2017,349
+centro,femmine,45-54 anni,2018,537
+centro,femmine,45-54 anni,2019,423
+centro,femmine,45-54 anni,2020,523
+centro,femmine,45-54 anni,2021,561
+centro,femmine,45-54 anni,2022,497
+centro,femmine,45-54 anni,2023,607
+centro,femmine,45-54 anni,2024,486
+centro,femmine,55-64 anni,2015,208
+centro,femmine,55-64 anni,2016,198
+centro,femmine,55-64 anni,2017,179
+centro,femmine,55-64 anni,2018,214
+centro,femmine,55-64 anni,2019,225
+centro,femmine,55-64 anni,2020,267
+centro,femmine,55-64 anni,2021,294
+centro,femmine,55-64 anni,2022,260
+centro,femmine,55-64 anni,2023,206
+centro,femmine,55-64 anni,2024,184
+centro,femmine,65 anni e più,2015,169
+centro,femmine,65 anni e più,2016,177
+centro,femmine,65 anni e più,2017,160
+centro,femmine,65 anni e più,2018,184
+centro,femmine,65 anni e più,2019,165
+centro,femmine,65 anni e più,2020,260
+centro,femmine,65 anni e più,2021,322
+centro,femmine,65 anni e più,2022,210
+centro,femmine,65 anni e più,2023,305
+centro,femmine,65 anni e più,2024,304
+centro,femmine,non disponibile,2015,92
+centro,femmine,non disponibile,2016,64
+centro,femmine,non disponibile,2017,118
+centro,femmine,non disponibile,2018,146
+centro,femmine,non disponibile,2019,94
+centro,femmine,non disponibile,2020,712
+centro,femmine,non disponibile,2021,804
+centro,femmine,non disponibile,2022,198
+centro,femmine,non disponibile,2023,144
+centro,femmine,non disponibile,2024,1134
+centro,non indicato,non indicato,2023,5
+centro,non indicato,non indicato,2024,4
+centro,non indicato,18-24 anni,2023,1
+centro,non indicato,18-24 anni,2024,1
+centro,non indicato,25-34 anni,2021,1
+centro,non indicato,25-34 anni,2023,1
+centro,non indicato,35-44 anni,2023,4
+centro,non indicato,45-54 anni,2023,4
+centro,non indicato,65 anni e più,2023,1
+centro,non indicato,65 anni e più,2024,1
+centro,non indicato,non disponibile,2023,59
+centro,non indicato,non disponibile,2024,58
+toscana,maschi,non indicato,2021,2
+toscana,maschi,non indicato,2022,3
+toscana,maschi,non indicato,2023,6
+toscana,maschi,non indicato,2024,3
+toscana,maschi,fino a 17 anni,2015,1
+toscana,maschi,fino a 17 anni,2020,3
+toscana,maschi,fino a 17 anni,2021,1
+toscana,maschi,fino a 17 anni,2022,3
+toscana,maschi,fino a 17 anni,2023,1
+toscana,maschi,18-24 anni,2015,1
+toscana,maschi,18-24 anni,2016,1
+toscana,maschi,18-24 anni,2017,1
+toscana,maschi,18-24 anni,2018,1
+toscana,maschi,18-24 anni,2020,5
+toscana,maschi,18-24 anni,2021,3
+toscana,maschi,18-24 anni,2023,1
+toscana,maschi,18-24 anni,2024,1
+toscana,maschi,25-34 anni,2016,2
+toscana,maschi,25-34 anni,2017,5
+toscana,maschi,25-34 anni,2020,9
+toscana,maschi,25-34 anni,2021,4
+toscana,maschi,25-34 anni,2022,3
+toscana,maschi,25-34 anni,2023,2
+toscana,maschi,25-34 anni,2024,3
+toscana,maschi,35-44 anni,2015,4
+toscana,maschi,35-44 anni,2016,2
+toscana,maschi,35-44 anni,2017,5
+toscana,maschi,35-44 anni,2018,3
+toscana,maschi,35-44 anni,2019,1
+toscana,maschi,35-44 anni,2020,4
+toscana,maschi,35-44 anni,2021,4
+toscana,maschi,35-44 anni,2022,6
+toscana,maschi,35-44 anni,2023,1
+toscana,maschi,35-44 anni,2024,2
+toscana,maschi,45-54 anni,2015,1
+toscana,maschi,45-54 anni,2016,9
+toscana,maschi,45-54 anni,2017,5
+toscana,maschi,45-54 anni,2018,3
+toscana,maschi,45-54 anni,2019,1
+toscana,maschi,45-54 anni,2020,7
+toscana,maschi,45-54 anni,2021,7
+toscana,maschi,45-54 anni,2022,3
+toscana,maschi,45-54 anni,2023,2
+toscana,maschi,45-54 anni,2024,4
+toscana,maschi,55-64 anni,2016,2
+toscana,maschi,55-64 anni,2017,1
+toscana,maschi,55-64 anni,2018,1
+toscana,maschi,55-64 anni,2019,1
+toscana,maschi,55-64 anni,2020,1
+toscana,maschi,55-64 anni,2021,4
+toscana,maschi,55-64 anni,2022,2
+toscana,maschi,65 anni e più,2015,3
+toscana,maschi,65 anni e più,2016,5
+toscana,maschi,65 anni e più,2017,4
+toscana,maschi,65 anni e più,2018,4
+toscana,maschi,65 anni e più,2020,3
+toscana,maschi,65 anni e più,2021,2
+toscana,maschi,65 anni e più,2023,4
+toscana,maschi,65 anni e più,2024,1
+toscana,maschi,non disponibile,2017,2
+toscana,maschi,non disponibile,2018,2
+toscana,maschi,non disponibile,2020,8
+toscana,maschi,non disponibile,2021,4
+toscana,maschi,non disponibile,2022,2
+toscana,maschi,non disponibile,2023,2
+toscana,maschi,non disponibile,2024,8
+toscana,femmine,non indicato,2015,2
+toscana,femmine,non indicato,2016,2
+toscana,femmine,non indicato,2017,5
+toscana,femmine,non indicato,2018,3
+toscana,femmine,non indicato,2020,8
+toscana,femmine,non indicato,2021,11
+toscana,femmine,non indicato,2022,11
+toscana,femmine,non indicato,2023,53
+toscana,femmine,non indicato,2024,29
+toscana,femmine,fino a 17 anni,2015,2
+toscana,femmine,fino a 17 anni,2016,1
+toscana,femmine,fino a 17 anni,2017,4
+toscana,femmine,fino a 17 anni,2018,12
+toscana,femmine,fino a 17 anni,2019,5
+toscana,femmine,fino a 17 anni,2020,14
+toscana,femmine,fino a 17 anni,2021,13
+toscana,femmine,fino a 17 anni,2022,18
+toscana,femmine,fino a 17 anni,2023,17
+toscana,femmine,fino a 17 anni,2024,15
+toscana,femmine,18-24 anni,2015,20
+toscana,femmine,18-24 anni,2016,14
+toscana,femmine,18-24 anni,2017,24
+toscana,femmine,18-24 anni,2018,31
+toscana,femmine,18-24 anni,2019,31
+toscana,femmine,18-24 anni,2020,59
+toscana,femmine,18-24 anni,2021,83
+toscana,femmine,18-24 anni,2022,60
+toscana,femmine,18-24 anni,2023,66
+toscana,femmine,18-24 anni,2024,79
+toscana,femmine,25-34 anni,2015,73
+toscana,femmine,25-34 anni,2016,45
+toscana,femmine,25-34 anni,2017,69
+toscana,femmine,25-34 anni,2018,100
+toscana,femmine,25-34 anni,2019,111
+toscana,femmine,25-34 anni,2020,116
+toscana,femmine,25-34 anni,2021,104
+toscana,femmine,25-34 anni,2022,105
+toscana,femmine,25-34 anni,2023,131
+toscana,femmine,25-34 anni,2024,135
+toscana,femmine,35-44 anni,2015,104
+toscana,femmine,35-44 anni,2016,87
+toscana,femmine,35-44 anni,2017,100
+toscana,femmine,35-44 anni,2018,131
+toscana,femmine,35-44 anni,2019,138
+toscana,femmine,35-44 anni,2020,167
+toscana,femmine,35-44 anni,2021,143
+toscana,femmine,35-44 anni,2022,122
+toscana,femmine,35-44 anni,2023,142
+toscana,femmine,35-44 anni,2024,153
+toscana,femmine,45-54 anni,2015,64
+toscana,femmine,45-54 anni,2016,86
+toscana,femmine,45-54 anni,2017,105
+toscana,femmine,45-54 anni,2018,132
+toscana,femmine,45-54 anni,2019,106
+toscana,femmine,45-54 anni,2020,135
+toscana,femmine,45-54 anni,2021,158
+toscana,femmine,45-54 anni,2022,130
+toscana,femmine,45-54 anni,2023,138
+toscana,femmine,45-54 anni,2024,136
+toscana,femmine,55-64 anni,2015,48
+toscana,femmine,55-64 anni,2016,38
+toscana,femmine,55-64 anni,2017,49
+toscana,femmine,55-64 anni,2018,60
+toscana,femmine,55-64 anni,2019,42
+toscana,femmine,55-64 anni,2020,80
+toscana,femmine,55-64 anni,2021,58
+toscana,femmine,55-64 anni,2022,59
+toscana,femmine,55-64 anni,2023,61
+toscana,femmine,55-64 anni,2024,56
+toscana,femmine,65 anni e più,2015,49
+toscana,femmine,65 anni e più,2016,40
+toscana,femmine,65 anni e più,2017,41
+toscana,femmine,65 anni e più,2018,56
+toscana,femmine,65 anni e più,2019,57
+toscana,femmine,65 anni e più,2020,77
+toscana,femmine,65 anni e più,2021,88
+toscana,femmine,65 anni e più,2022,54
+toscana,femmine,65 anni e più,2023,82
+toscana,femmine,65 anni e più,2024,79
+toscana,femmine,non disponibile,2015,17
+toscana,femmine,non disponibile,2016,10
+toscana,femmine,non disponibile,2017,30
+toscana,femmine,non disponibile,2018,34
+toscana,femmine,non disponibile,2019,26
+toscana,femmine,non disponibile,2020,173
+toscana,femmine,non disponibile,2021,169
+toscana,femmine,non disponibile,2022,57
+toscana,femmine,non disponibile,2023,34
+toscana,femmine,non disponibile,2024,313
+toscana,non indicato,non indicato,2023,2
+toscana,non indicato,non indicato,2024,1
+toscana,non indicato,45-54 anni,2023,1
+toscana,non indicato,65 anni e più,2024,1
+toscana,non indicato,non disponibile,2023,13
+toscana,non indicato,non disponibile,2024,15
+umbria,maschi,non indicato,2024,1
+umbria,maschi,fino a 17 anni,2015,1
+umbria,maschi,fino a 17 anni,2021,1
+umbria,maschi,18-24 anni,2016,2
+umbria,maschi,18-24 anni,2017,1
+umbria,maschi,18-24 anni,2018,1
+umbria,maschi,18-24 anni,2022,1
+umbria,maschi,18-24 anni,2023,1
+umbria,maschi,25-34 anni,2017,2
+umbria,maschi,25-34 anni,2019,1
+umbria,maschi,25-34 anni,2022,1
+umbria,maschi,25-34 anni,2023,1
+umbria,maschi,35-44 anni,2015,1
+umbria,maschi,35-44 anni,2017,2
+umbria,maschi,45-54 anni,2015,1
+umbria,maschi,45-54 anni,2019,1
+umbria,maschi,55-64 anni,2015,1
+umbria,maschi,55-64 anni,2016,1
+umbria,maschi,55-64 anni,2018,1
+umbria,maschi,55-64 anni,2022,2
+umbria,maschi,65 anni e più,2019,1
+umbria,maschi,65 anni e più,2022,1
+umbria,maschi,non disponibile,2019,1
+umbria,maschi,non disponibile,2020,2
+umbria,maschi,non disponibile,2023,1
+umbria,maschi,non disponibile,2024,2
+umbria,femmine,non indicato,2015,1
+umbria,femmine,non indicato,2017,1
+umbria,femmine,non indicato,2020,1
+umbria,femmine,non indicato,2021,2
+umbria,femmine,non indicato,2022,3
+umbria,femmine,non indicato,2023,14
+umbria,femmine,non indicato,2024,6
+umbria,femmine,fino a 17 anni,2018,1
+umbria,femmine,fino a 17 anni,2020,5
+umbria,femmine,fino a 17 anni,2021,9
+umbria,femmine,fino a 17 anni,2022,3
+umbria,femmine,fino a 17 anni,2023,2
+umbria,femmine,fino a 17 anni,2024,3
+umbria,femmine,18-24 anni,2015,10
+umbria,femmine,18-24 anni,2016,4
+umbria,femmine,18-24 anni,2017,6
+umbria,femmine,18-24 anni,2018,5
+umbria,femmine,18-24 anni,2019,4
+umbria,femmine,18-24 anni,2020,11
+umbria,femmine,18-24 anni,2021,14
+umbria,femmine,18-24 anni,2022,20
+umbria,femmine,18-24 anni,2023,18
+umbria,femmine,18-24 anni,2024,12
+umbria,femmine,25-34 anni,2015,17
+umbria,femmine,25-34 anni,2016,17
+umbria,femmine,25-34 anni,2017,9
+umbria,femmine,25-34 anni,2018,17
+umbria,femmine,25-34 anni,2019,18
+umbria,femmine,25-34 anni,2020,21
+umbria,femmine,25-34 anni,2021,25
+umbria,femmine,25-34 anni,2022,27
+umbria,femmine,25-34 anni,2023,34
+umbria,femmine,25-34 anni,2024,36
+umbria,femmine,35-44 anni,2015,26
+umbria,femmine,35-44 anni,2016,30
+umbria,femmine,35-44 anni,2017,20
+umbria,femmine,35-44 anni,2018,28
+umbria,femmine,35-44 anni,2019,28
+umbria,femmine,35-44 anni,2020,28
+umbria,femmine,35-44 anni,2021,21
+umbria,femmine,35-44 anni,2022,32
+umbria,femmine,35-44 anni,2023,53
+umbria,femmine,35-44 anni,2024,35
+umbria,femmine,45-54 anni,2015,19
+umbria,femmine,45-54 anni,2016,24
+umbria,femmine,45-54 anni,2017,25
+umbria,femmine,45-54 anni,2018,34
+umbria,femmine,45-54 anni,2019,23
+umbria,femmine,45-54 anni,2020,27
+umbria,femmine,45-54 anni,2021,35
+umbria,femmine,45-54 anni,2022,26
+umbria,femmine,45-54 anni,2023,45
+umbria,femmine,45-54 anni,2024,26
+umbria,femmine,55-64 anni,2015,19
+umbria,femmine,55-64 anni,2016,8
+umbria,femmine,55-64 anni,2017,14
+umbria,femmine,55-64 anni,2018,16
+umbria,femmine,55-64 anni,2019,20
+umbria,femmine,55-64 anni,2020,11
+umbria,femmine,55-64 anni,2021,16
+umbria,femmine,55-64 anni,2022,15
+umbria,femmine,55-64 anni,2023,7
+umbria,femmine,55-64 anni,2024,9
+umbria,femmine,65 anni e più,2015,13
+umbria,femmine,65 anni e più,2016,10
+umbria,femmine,65 anni e più,2017,12
+umbria,femmine,65 anni e più,2018,9
+umbria,femmine,65 anni e più,2019,4
+umbria,femmine,65 anni e più,2020,8
+umbria,femmine,65 anni e più,2021,19
+umbria,femmine,65 anni e più,2022,15
+umbria,femmine,65 anni e più,2023,13
+umbria,femmine,65 anni e più,2024,22
+umbria,femmine,non disponibile,2015,7
+umbria,femmine,non disponibile,2016,1
+umbria,femmine,non disponibile,2017,13
+umbria,femmine,non disponibile,2018,6
+umbria,femmine,non disponibile,2019,2
+umbria,femmine,non disponibile,2020,30
+umbria,femmine,non disponibile,2021,30
+umbria,femmine,non disponibile,2022,8
+umbria,femmine,non disponibile,2023,10
+umbria,femmine,non disponibile,2024,63
+umbria,non indicato,non disponibile,2023,1
+umbria,non indicato,non disponibile,2024,5
+marche,maschi,non indicato,2023,1
+marche,maschi,fino a 17 anni,2018,1
+marche,maschi,18-24 anni,2020,2
+marche,maschi,18-24 anni,2021,1
+marche,maschi,18-24 anni,2022,1
+marche,maschi,18-24 anni,2023,2
+marche,maschi,18-24 anni,2024,3
+marche,maschi,25-34 anni,2015,1
+marche,maschi,25-34 anni,2016,2
+marche,maschi,25-34 anni,2018,1
+marche,maschi,25-34 anni,2020,7
+marche,maschi,25-34 anni,2021,2
+marche,maschi,25-34 anni,2022,2
+marche,maschi,25-34 anni,2023,2
+marche,maschi,25-34 anni,2024,1
+marche,maschi,35-44 anni,2015,1
+marche,maschi,35-44 anni,2016,3
+marche,maschi,35-44 anni,2018,1
+marche,maschi,35-44 anni,2019,2
+marche,maschi,35-44 anni,2020,1
+marche,maschi,35-44 anni,2021,2
+marche,maschi,35-44 anni,2022,1
+marche,maschi,35-44 anni,2023,1
+marche,maschi,35-44 anni,2024,1
+marche,maschi,45-54 anni,2015,3
+marche,maschi,45-54 anni,2016,1
+marche,maschi,45-54 anni,2017,1
+marche,maschi,45-54 anni,2020,1
+marche,maschi,45-54 anni,2024,1
+marche,maschi,55-64 anni,2016,2
+marche,maschi,55-64 anni,2017,1
+marche,maschi,55-64 anni,2020,1
+marche,maschi,55-64 anni,2021,1
+marche,maschi,65 anni e più,2019,2
+marche,maschi,65 anni e più,2021,1
+marche,maschi,65 anni e più,2022,2
+marche,maschi,65 anni e più,2023,1
+marche,maschi,65 anni e più,2024,1
+marche,maschi,non disponibile,2015,1
+marche,maschi,non disponibile,2016,1
+marche,maschi,non disponibile,2018,1
+marche,maschi,non disponibile,2020,4
+marche,maschi,non disponibile,2021,3
+marche,maschi,non disponibile,2022,2
+marche,maschi,non disponibile,2024,3
+marche,femmine,non indicato,2015,1
+marche,femmine,non indicato,2017,3
+marche,femmine,non indicato,2020,1
+marche,femmine,non indicato,2021,8
+marche,femmine,non indicato,2022,14
+marche,femmine,non indicato,2023,19
+marche,femmine,non indicato,2024,13
+marche,femmine,fino a 17 anni,2015,5
+marche,femmine,fino a 17 anni,2017,2
+marche,femmine,fino a 17 anni,2018,2
+marche,femmine,fino a 17 anni,2019,3
+marche,femmine,fino a 17 anni,2020,2
+marche,femmine,fino a 17 anni,2021,5
+marche,femmine,fino a 17 anni,2022,6
+marche,femmine,fino a 17 anni,2023,7
+marche,femmine,fino a 17 anni,2024,7
+marche,femmine,18-24 anni,2015,8
+marche,femmine,18-24 anni,2016,12
+marche,femmine,18-24 anni,2017,16
+marche,femmine,18-24 anni,2018,16
+marche,femmine,18-24 anni,2019,14
+marche,femmine,18-24 anni,2020,16
+marche,femmine,18-24 anni,2021,37
+marche,femmine,18-24 anni,2022,30
+marche,femmine,18-24 anni,2023,26
+marche,femmine,18-24 anni,2024,30
+marche,femmine,25-34 anni,2015,30
+marche,femmine,25-34 anni,2016,41
+marche,femmine,25-34 anni,2017,24
+marche,femmine,25-34 anni,2018,51
+marche,femmine,25-34 anni,2019,36
+marche,femmine,25-34 anni,2020,64
+marche,femmine,25-34 anni,2021,41
+marche,femmine,25-34 anni,2022,54
+marche,femmine,25-34 anni,2023,36
+marche,femmine,25-34 anni,2024,49
+marche,femmine,35-44 anni,2015,58
+marche,femmine,35-44 anni,2016,53
+marche,femmine,35-44 anni,2017,47
+marche,femmine,35-44 anni,2018,52
+marche,femmine,35-44 anni,2019,55
+marche,femmine,35-44 anni,2020,48
+marche,femmine,35-44 anni,2021,65
+marche,femmine,35-44 anni,2022,51
+marche,femmine,35-44 anni,2023,60
+marche,femmine,35-44 anni,2024,56
+marche,femmine,45-54 anni,2015,51
+marche,femmine,45-54 anni,2016,45
+marche,femmine,45-54 anni,2017,28
+marche,femmine,45-54 anni,2018,57
+marche,femmine,45-54 anni,2019,34
+marche,femmine,45-54 anni,2020,43
+marche,femmine,45-54 anni,2021,56
+marche,femmine,45-54 anni,2022,41
+marche,femmine,45-54 anni,2023,57
+marche,femmine,45-54 anni,2024,48
+marche,femmine,55-64 anni,2015,29
+marche,femmine,55-64 anni,2016,29
+marche,femmine,55-64 anni,2017,17
+marche,femmine,55-64 anni,2018,16
+marche,femmine,55-64 anni,2019,19
+marche,femmine,55-64 anni,2020,30
+marche,femmine,55-64 anni,2021,32
+marche,femmine,55-64 anni,2022,27
+marche,femmine,55-64 anni,2023,20
+marche,femmine,55-64 anni,2024,23
+marche,femmine,65 anni e più,2015,22
+marche,femmine,65 anni e più,2016,14
+marche,femmine,65 anni e più,2017,20
+marche,femmine,65 anni e più,2018,14
+marche,femmine,65 anni e più,2019,14
+marche,femmine,65 anni e più,2020,23
+marche,femmine,65 anni e più,2021,25
+marche,femmine,65 anni e più,2022,13
+marche,femmine,65 anni e più,2023,25
+marche,femmine,65 anni e più,2024,22
+marche,femmine,non disponibile,2015,11
+marche,femmine,non disponibile,2016,9
+marche,femmine,non disponibile,2017,14
+marche,femmine,non disponibile,2018,18
+marche,femmine,non disponibile,2019,6
+marche,femmine,non disponibile,2020,58
+marche,femmine,non disponibile,2021,74
+marche,femmine,non disponibile,2022,20
+marche,femmine,non disponibile,2023,17
+marche,femmine,non disponibile,2024,113
+marche,non indicato,18-24 anni,2023,1
+marche,non indicato,18-24 anni,2024,1
+marche,non indicato,non disponibile,2023,4
+marche,non indicato,non disponibile,2024,6
+lazio,maschi,non indicato,2016,2
+lazio,maschi,non indicato,2020,1
+lazio,maschi,non indicato,2021,3
+lazio,maschi,non indicato,2023,5
+lazio,maschi,non indicato,2024,5
+lazio,maschi,fino a 17 anni,2017,1
+lazio,maschi,fino a 17 anni,2018,1
+lazio,maschi,fino a 17 anni,2019,3
+lazio,maschi,fino a 17 anni,2020,5
+lazio,maschi,fino a 17 anni,2021,3
+lazio,maschi,fino a 17 anni,2022,1
+lazio,maschi,fino a 17 anni,2023,1
+lazio,maschi,fino a 17 anni,2024,3
+lazio,maschi,18-24 anni,2015,1
+lazio,maschi,18-24 anni,2016,3
+lazio,maschi,18-24 anni,2017,1
+lazio,maschi,18-24 anni,2018,2
+lazio,maschi,18-24 anni,2019,1
+lazio,maschi,18-24 anni,2020,3
+lazio,maschi,18-24 anni,2021,11
+lazio,maschi,18-24 anni,2022,6
+lazio,maschi,18-24 anni,2023,2
+lazio,maschi,18-24 anni,2024,1
+lazio,maschi,25-34 anni,2015,4
+lazio,maschi,25-34 anni,2016,12
+lazio,maschi,25-34 anni,2017,8
+lazio,maschi,25-34 anni,2018,4
+lazio,maschi,25-34 anni,2019,4
+lazio,maschi,25-34 anni,2020,8
+lazio,maschi,25-34 anni,2021,7
+lazio,maschi,25-34 anni,2022,9
+lazio,maschi,25-34 anni,2023,12
+lazio,maschi,25-34 anni,2024,8
+lazio,maschi,35-44 anni,2015,10
+lazio,maschi,35-44 anni,2016,12
+lazio,maschi,35-44 anni,2017,10
+lazio,maschi,35-44 anni,2018,7
+lazio,maschi,35-44 anni,2019,13
+lazio,maschi,35-44 anni,2020,16
+lazio,maschi,35-44 anni,2021,7
+lazio,maschi,35-44 anni,2022,6
+lazio,maschi,35-44 anni,2023,9
+lazio,maschi,35-44 anni,2024,5
+lazio,maschi,45-54 anni,2015,8
+lazio,maschi,45-54 anni,2016,4
+lazio,maschi,45-54 anni,2017,8
+lazio,maschi,45-54 anni,2018,11
+lazio,maschi,45-54 anni,2019,6
+lazio,maschi,45-54 anni,2020,11
+lazio,maschi,45-54 anni,2021,3
+lazio,maschi,45-54 anni,2022,4
+lazio,maschi,45-54 anni,2023,7
+lazio,maschi,45-54 anni,2024,10
+lazio,maschi,55-64 anni,2015,7
+lazio,maschi,55-64 anni,2016,2
+lazio,maschi,55-64 anni,2017,1
+lazio,maschi,55-64 anni,2018,3
+lazio,maschi,55-64 anni,2019,5
+lazio,maschi,55-64 anni,2020,6
+lazio,maschi,55-64 anni,2021,3
+lazio,maschi,55-64 anni,2022,3
+lazio,maschi,55-64 anni,2023,2
+lazio,maschi,65 anni e più,2015,4
+lazio,maschi,65 anni e più,2016,2
+lazio,maschi,65 anni e più,2017,2
+lazio,maschi,65 anni e più,2018,4
+lazio,maschi,65 anni e più,2019,4
+lazio,maschi,65 anni e più,2020,4
+lazio,maschi,65 anni e più,2021,4
+lazio,maschi,65 anni e più,2022,3
+lazio,maschi,65 anni e più,2023,4
+lazio,maschi,65 anni e più,2024,5
+lazio,maschi,non disponibile,2015,2
+lazio,maschi,non disponibile,2016,6
+lazio,maschi,non disponibile,2017,2
+lazio,maschi,non disponibile,2018,5
+lazio,maschi,non disponibile,2019,1
+lazio,maschi,non disponibile,2020,18
+lazio,maschi,non disponibile,2021,18
+lazio,maschi,non disponibile,2022,3
+lazio,maschi,non disponibile,2023,5
+lazio,maschi,non disponibile,2024,15
+lazio,femmine,non indicato,2015,7
+lazio,femmine,non indicato,2016,13
+lazio,femmine,non indicato,2017,12
+lazio,femmine,non indicato,2018,3
+lazio,femmine,non indicato,2019,1
+lazio,femmine,non indicato,2020,8
+lazio,femmine,non indicato,2021,47
+lazio,femmine,non indicato,2022,56
+lazio,femmine,non indicato,2023,133
+lazio,femmine,non indicato,2024,82
+lazio,femmine,fino a 17 anni,2015,8
+lazio,femmine,fino a 17 anni,2016,14
+lazio,femmine,fino a 17 anni,2017,11
+lazio,femmine,fino a 17 anni,2018,4
+lazio,femmine,fino a 17 anni,2019,11
+lazio,femmine,fino a 17 anni,2020,17
+lazio,femmine,fino a 17 anni,2021,43
+lazio,femmine,fino a 17 anni,2022,20
+lazio,femmine,fino a 17 anni,2023,33
+lazio,femmine,fino a 17 anni,2024,21
+lazio,femmine,18-24 anni,2015,72
+lazio,femmine,18-24 anni,2016,64
+lazio,femmine,18-24 anni,2017,58
+lazio,femmine,18-24 anni,2018,65
+lazio,femmine,18-24 anni,2019,95
+lazio,femmine,18-24 anni,2020,121
+lazio,femmine,18-24 anni,2021,147
+lazio,femmine,18-24 anni,2022,142
+lazio,femmine,18-24 anni,2023,192
+lazio,femmine,18-24 anni,2024,127
+lazio,femmine,25-34 anni,2015,198
+lazio,femmine,25-34 anni,2016,192
+lazio,femmine,25-34 anni,2017,141
+lazio,femmine,25-34 anni,2018,183
+lazio,femmine,25-34 anni,2019,196
+lazio,femmine,25-34 anni,2020,231
+lazio,femmine,25-34 anni,2021,249
+lazio,femmine,25-34 anni,2022,260
+lazio,femmine,25-34 anni,2023,329
+lazio,femmine,25-34 anni,2024,237
+lazio,femmine,35-44 anni,2015,259
+lazio,femmine,35-44 anni,2016,275
+lazio,femmine,35-44 anni,2017,212
+lazio,femmine,35-44 anni,2018,311
+lazio,femmine,35-44 anni,2019,288
+lazio,femmine,35-44 anni,2020,353
+lazio,femmine,35-44 anni,2021,337
+lazio,femmine,35-44 anni,2022,374
+lazio,femmine,35-44 anni,2023,435
+lazio,femmine,35-44 anni,2024,340
+lazio,femmine,45-54 anni,2015,211
+lazio,femmine,45-54 anni,2016,220
+lazio,femmine,45-54 anni,2017,191
+lazio,femmine,45-54 anni,2018,314
+lazio,femmine,45-54 anni,2019,260
+lazio,femmine,45-54 anni,2020,318
+lazio,femmine,45-54 anni,2021,312
+lazio,femmine,45-54 anni,2022,300
+lazio,femmine,45-54 anni,2023,367
+lazio,femmine,45-54 anni,2024,276
+lazio,femmine,55-64 anni,2015,112
+lazio,femmine,55-64 anni,2016,123
+lazio,femmine,55-64 anni,2017,99
+lazio,femmine,55-64 anni,2018,122
+lazio,femmine,55-64 anni,2019,144
+lazio,femmine,55-64 anni,2020,146
+lazio,femmine,55-64 anni,2021,188
+lazio,femmine,55-64 anni,2022,159
+lazio,femmine,55-64 anni,2023,118
+lazio,femmine,55-64 anni,2024,96
+lazio,femmine,65 anni e più,2015,85
+lazio,femmine,65 anni e più,2016,113
+lazio,femmine,65 anni e più,2017,87
+lazio,femmine,65 anni e più,2018,105
+lazio,femmine,65 anni e più,2019,90
+lazio,femmine,65 anni e più,2020,152
+lazio,femmine,65 anni e più,2021,190
+lazio,femmine,65 anni e più,2022,128
+lazio,femmine,65 anni e più,2023,185
+lazio,femmine,65 anni e più,2024,181
+lazio,femmine,non disponibile,2015,57
+lazio,femmine,non disponibile,2016,44
+lazio,femmine,non disponibile,2017,61
+lazio,femmine,non disponibile,2018,88
+lazio,femmine,non disponibile,2019,60
+lazio,femmine,non disponibile,2020,451
+lazio,femmine,non disponibile,2021,531
+lazio,femmine,non disponibile,2022,113
+lazio,femmine,non disponibile,2023,83
+lazio,femmine,non disponibile,2024,645
+lazio,non indicato,non indicato,2023,3
+lazio,non indicato,non indicato,2024,3
+lazio,non indicato,25-34 anni,2021,1
+lazio,non indicato,25-34 anni,2023,1
+lazio,non indicato,35-44 anni,2023,4
+lazio,non indicato,45-54 anni,2023,3
+lazio,non indicato,65 anni e più,2023,1
+lazio,non indicato,non disponibile,2023,41
+lazio,non indicato,non disponibile,2024,32
+sud,maschi,non indicato,2021,2
+sud,maschi,non indicato,2022,1
+sud,maschi,non indicato,2023,3
+sud,maschi,non indicato,2024,10
+sud,maschi,fino a 17 anni,2015,1
+sud,maschi,fino a 17 anni,2018,1
+sud,maschi,fino a 17 anni,2019,1
+sud,maschi,fino a 17 anni,2020,5
+sud,maschi,fino a 17 anni,2021,4
+sud,maschi,fino a 17 anni,2022,1
+sud,maschi,18-24 anni,2015,8
+sud,maschi,18-24 anni,2016,3
+sud,maschi,18-24 anni,2017,2
+sud,maschi,18-24 anni,2018,4
+sud,maschi,18-24 anni,2019,3
+sud,maschi,18-24 anni,2020,6
+sud,maschi,18-24 anni,2021,6
+sud,maschi,18-24 anni,2022,6
+sud,maschi,18-24 anni,2023,4
+sud,maschi,18-24 anni,2024,6
+sud,maschi,25-34 anni,2015,19
+sud,maschi,25-34 anni,2016,8
+sud,maschi,25-34 anni,2017,17
+sud,maschi,25-34 anni,2018,6
+sud,maschi,25-34 anni,2019,5
+sud,maschi,25-34 anni,2020,9
+sud,maschi,25-34 anni,2021,6
+sud,maschi,25-34 anni,2022,5
+sud,maschi,25-34 anni,2023,9
+sud,maschi,25-34 anni,2024,9
+sud,maschi,35-44 anni,2015,16
+sud,maschi,35-44 anni,2016,22
+sud,maschi,35-44 anni,2017,13
+sud,maschi,35-44 anni,2018,12
+sud,maschi,35-44 anni,2019,11
+sud,maschi,35-44 anni,2020,15
+sud,maschi,35-44 anni,2021,7
+sud,maschi,35-44 anni,2022,6
+sud,maschi,35-44 anni,2023,11
+sud,maschi,35-44 anni,2024,14
+sud,maschi,45-54 anni,2015,10
+sud,maschi,45-54 anni,2016,9
+sud,maschi,45-54 anni,2017,3
+sud,maschi,45-54 anni,2018,15
+sud,maschi,45-54 anni,2019,7
+sud,maschi,45-54 anni,2020,11
+sud,maschi,45-54 anni,2021,11
+sud,maschi,45-54 anni,2022,5
+sud,maschi,45-54 anni,2023,5
+sud,maschi,45-54 anni,2024,7
+sud,maschi,55-64 anni,2015,6
+sud,maschi,55-64 anni,2016,13
+sud,maschi,55-64 anni,2017,8
+sud,maschi,55-64 anni,2018,8
+sud,maschi,55-64 anni,2019,4
+sud,maschi,55-64 anni,2020,7
+sud,maschi,55-64 anni,2021,3
+sud,maschi,55-64 anni,2022,3
+sud,maschi,55-64 anni,2023,5
+sud,maschi,65 anni e più,2015,8
+sud,maschi,65 anni e più,2016,4
+sud,maschi,65 anni e più,2017,4
+sud,maschi,65 anni e più,2018,7
+sud,maschi,65 anni e più,2019,9
+sud,maschi,65 anni e più,2020,9
+sud,maschi,65 anni e più,2021,7
+sud,maschi,65 anni e più,2022,3
+sud,maschi,65 anni e più,2023,14
+sud,maschi,65 anni e più,2024,5
+sud,maschi,non disponibile,2015,5
+sud,maschi,non disponibile,2016,7
+sud,maschi,non disponibile,2017,5
+sud,maschi,non disponibile,2018,9
+sud,maschi,non disponibile,2019,3
+sud,maschi,non disponibile,2020,20
+sud,maschi,non disponibile,2021,38
+sud,maschi,non disponibile,2022,8
+sud,maschi,non disponibile,2023,3
+sud,maschi,non disponibile,2024,29
+sud,femmine,non indicato,2015,12
+sud,femmine,non indicato,2016,9
+sud,femmine,non indicato,2017,12
+sud,femmine,non indicato,2018,10
+sud,femmine,non indicato,2019,1
+sud,femmine,non indicato,2020,14
+sud,femmine,non indicato,2021,56
+sud,femmine,non indicato,2022,65
+sud,femmine,non indicato,2023,168
+sud,femmine,non indicato,2024,109
+sud,femmine,fino a 17 anni,2015,9
+sud,femmine,fino a 17 anni,2016,11
+sud,femmine,fino a 17 anni,2017,12
+sud,femmine,fino a 17 anni,2018,17
+sud,femmine,fino a 17 anni,2019,18
+sud,femmine,fino a 17 anni,2020,35
+sud,femmine,fino a 17 anni,2021,44
+sud,femmine,fino a 17 anni,2022,33
+sud,femmine,fino a 17 anni,2023,64
+sud,femmine,fino a 17 anni,2024,46
+sud,femmine,18-24 anni,2015,114
+sud,femmine,18-24 anni,2016,94
+sud,femmine,18-24 anni,2017,93
+sud,femmine,18-24 anni,2018,108
+sud,femmine,18-24 anni,2019,125
+sud,femmine,18-24 anni,2020,197
+sud,femmine,18-24 anni,2021,265
+sud,femmine,18-24 anni,2022,148
+sud,femmine,18-24 anni,2023,188
+sud,femmine,18-24 anni,2024,178
+sud,femmine,25-34 anni,2015,338
+sud,femmine,25-34 anni,2016,296
+sud,femmine,25-34 anni,2017,300
+sud,femmine,25-34 anni,2018,342
+sud,femmine,25-34 anni,2019,357
+sud,femmine,25-34 anni,2020,423
+sud,femmine,25-34 anni,2021,425
+sud,femmine,25-34 anni,2022,353
+sud,femmine,25-34 anni,2023,392
+sud,femmine,25-34 anni,2024,311
+sud,femmine,35-44 anni,2015,490
+sud,femmine,35-44 anni,2016,467
+sud,femmine,35-44 anni,2017,406
+sud,femmine,35-44 anni,2018,503
+sud,femmine,35-44 anni,2019,493
+sud,femmine,35-44 anni,2020,619
+sud,femmine,35-44 anni,2021,541
+sud,femmine,35-44 anni,2022,524
+sud,femmine,35-44 anni,2023,548
+sud,femmine,35-44 anni,2024,427
+sud,femmine,45-54 anni,2015,445
+sud,femmine,45-54 anni,2016,406
+sud,femmine,45-54 anni,2017,334
+sud,femmine,45-54 anni,2018,496
+sud,femmine,45-54 anni,2019,405
+sud,femmine,45-54 anni,2020,488
+sud,femmine,45-54 anni,2021,514
+sud,femmine,45-54 anni,2022,465
+sud,femmine,45-54 anni,2023,415
+sud,femmine,45-54 anni,2024,441
+sud,femmine,55-64 anni,2015,195
+sud,femmine,55-64 anni,2016,184
+sud,femmine,55-64 anni,2017,159
+sud,femmine,55-64 anni,2018,235
+sud,femmine,55-64 anni,2019,193
+sud,femmine,55-64 anni,2020,280
+sud,femmine,55-64 anni,2021,280
+sud,femmine,55-64 anni,2022,241
+sud,femmine,55-64 anni,2023,190
+sud,femmine,55-64 anni,2024,194
+sud,femmine,65 anni e più,2015,112
+sud,femmine,65 anni e più,2016,150
+sud,femmine,65 anni e più,2017,100
+sud,femmine,65 anni e più,2018,149
+sud,femmine,65 anni e più,2019,115
+sud,femmine,65 anni e più,2020,221
+sud,femmine,65 anni e più,2021,273
+sud,femmine,65 anni e più,2022,214
+sud,femmine,65 anni e più,2023,311
+sud,femmine,65 anni e più,2024,248
+sud,femmine,non disponibile,2015,95
+sud,femmine,non disponibile,2016,93
+sud,femmine,non disponibile,2017,125
+sud,femmine,non disponibile,2018,177
+sud,femmine,non disponibile,2019,99
+sud,femmine,non disponibile,2020,605
+sud,femmine,non disponibile,2021,607
+sud,femmine,non disponibile,2022,153
+sud,femmine,non disponibile,2023,101
+sud,femmine,non disponibile,2024,883
+sud,non indicato,non indicato,2023,5
+sud,non indicato,non indicato,2024,1
+sud,non indicato,fino a 17 anni,2024,1
+sud,non indicato,18-24 anni,2023,1
+sud,non indicato,18-24 anni,2024,1
+sud,non indicato,25-34 anni,2023,1
+sud,non indicato,25-34 anni,2024,2
+sud,non indicato,55-64 anni,2024,1
+sud,non indicato,non disponibile,2023,43
+sud,non indicato,non disponibile,2024,46
+abruzzo,maschi,non indicato,2021,1
+abruzzo,maschi,non indicato,2024,1
+abruzzo,maschi,fino a 17 anni,2022,1
+abruzzo,maschi,18-24 anni,2015,3
+abruzzo,maschi,18-24 anni,2020,1
+abruzzo,maschi,25-34 anni,2015,3
+abruzzo,maschi,25-34 anni,2016,4
+abruzzo,maschi,25-34 anni,2017,2
+abruzzo,maschi,25-34 anni,2018,2
+abruzzo,maschi,25-34 anni,2020,2
+abruzzo,maschi,25-34 anni,2022,1
+abruzzo,maschi,25-34 anni,2023,3
+abruzzo,maschi,25-34 anni,2024,2
+abruzzo,maschi,35-44 anni,2015,2
+abruzzo,maschi,35-44 anni,2016,1
+abruzzo,maschi,35-44 anni,2017,2
+abruzzo,maschi,35-44 anni,2018,1
+abruzzo,maschi,35-44 anni,2020,1
+abruzzo,maschi,35-44 anni,2021,2
+abruzzo,maschi,35-44 anni,2022,2
+abruzzo,maschi,35-44 anni,2024,3
+abruzzo,maschi,45-54 anni,2015,1
+abruzzo,maschi,45-54 anni,2016,1
+abruzzo,maschi,45-54 anni,2018,1
+abruzzo,maschi,45-54 anni,2020,2
+abruzzo,maschi,45-54 anni,2024,1
+abruzzo,maschi,55-64 anni,2015,1
+abruzzo,maschi,55-64 anni,2016,3
+abruzzo,maschi,55-64 anni,2017,2
+abruzzo,maschi,55-64 anni,2018,1
+abruzzo,maschi,55-64 anni,2020,1
+abruzzo,maschi,65 anni e più,2017,1
+abruzzo,maschi,65 anni e più,2020,2
+abruzzo,maschi,65 anni e più,2021,1
+abruzzo,maschi,65 anni e più,2023,1
+abruzzo,maschi,non disponibile,2015,2
+abruzzo,maschi,non disponibile,2016,2
+abruzzo,maschi,non disponibile,2018,2
+abruzzo,maschi,non disponibile,2020,1
+abruzzo,maschi,non disponibile,2021,5
+abruzzo,maschi,non disponibile,2023,1
+abruzzo,maschi,non disponibile,2024,4
+abruzzo,femmine,non indicato,2015,3
+abruzzo,femmine,non indicato,2017,1
+abruzzo,femmine,non indicato,2018,1
+abruzzo,femmine,non indicato,2020,4
+abruzzo,femmine,non indicato,2021,7
+abruzzo,femmine,non indicato,2022,9
+abruzzo,femmine,non indicato,2023,21
+abruzzo,femmine,non indicato,2024,10
+abruzzo,femmine,fino a 17 anni,2015,1
+abruzzo,femmine,fino a 17 anni,2016,1
+abruzzo,femmine,fino a 17 anni,2017,1
+abruzzo,femmine,fino a 17 anni,2019,3
+abruzzo,femmine,fino a 17 anni,2020,3
+abruzzo,femmine,fino a 17 anni,2021,5
+abruzzo,femmine,fino a 17 anni,2022,6
+abruzzo,femmine,fino a 17 anni,2023,7
+abruzzo,femmine,fino a 17 anni,2024,7
+abruzzo,femmine,18-24 anni,2015,11
+abruzzo,femmine,18-24 anni,2016,5
+abruzzo,femmine,18-24 anni,2017,6
+abruzzo,femmine,18-24 anni,2018,15
+abruzzo,femmine,18-24 anni,2019,15
+abruzzo,femmine,18-24 anni,2020,17
+abruzzo,femmine,18-24 anni,2021,30
+abruzzo,femmine,18-24 anni,2022,20
+abruzzo,femmine,18-24 anni,2023,18
+abruzzo,femmine,18-24 anni,2024,16
+abruzzo,femmine,25-34 anni,2015,23
+abruzzo,femmine,25-34 anni,2016,38
+abruzzo,femmine,25-34 anni,2017,41
+abruzzo,femmine,25-34 anni,2018,43
+abruzzo,femmine,25-34 anni,2019,46
+abruzzo,femmine,25-34 anni,2020,50
+abruzzo,femmine,25-34 anni,2021,36
+abruzzo,femmine,25-34 anni,2022,40
+abruzzo,femmine,25-34 anni,2023,47
+abruzzo,femmine,25-34 anni,2024,26
+abruzzo,femmine,35-44 anni,2015,57
+abruzzo,femmine,35-44 anni,2016,51
+abruzzo,femmine,35-44 anni,2017,46
+abruzzo,femmine,35-44 anni,2018,53
+abruzzo,femmine,35-44 anni,2019,45
+abruzzo,femmine,35-44 anni,2020,54
+abruzzo,femmine,35-44 anni,2021,66
+abruzzo,femmine,35-44 anni,2022,60
+abruzzo,femmine,35-44 anni,2023,71
+abruzzo,femmine,35-44 anni,2024,41
+abruzzo,femmine,45-54 anni,2015,35
+abruzzo,femmine,45-54 anni,2016,38
+abruzzo,femmine,45-54 anni,2017,34
+abruzzo,femmine,45-54 anni,2018,58
+abruzzo,femmine,45-54 anni,2019,27
+abruzzo,femmine,45-54 anni,2020,45
+abruzzo,femmine,45-54 anni,2021,41
+abruzzo,femmine,45-54 anni,2022,41
+abruzzo,femmine,45-54 anni,2023,35
+abruzzo,femmine,45-54 anni,2024,31
+abruzzo,femmine,55-64 anni,2015,22
+abruzzo,femmine,55-64 anni,2016,19
+abruzzo,femmine,55-64 anni,2017,26
+abruzzo,femmine,55-64 anni,2018,22
+abruzzo,femmine,55-64 anni,2019,23
+abruzzo,femmine,55-64 anni,2020,29
+abruzzo,femmine,55-64 anni,2021,26
+abruzzo,femmine,55-64 anni,2022,26
+abruzzo,femmine,55-64 anni,2023,19
+abruzzo,femmine,55-64 anni,2024,14
+abruzzo,femmine,65 anni e più,2015,7
+abruzzo,femmine,65 anni e più,2016,19
+abruzzo,femmine,65 anni e più,2017,10
+abruzzo,femmine,65 anni e più,2018,7
+abruzzo,femmine,65 anni e più,2019,18
+abruzzo,femmine,65 anni e più,2020,21
+abruzzo,femmine,65 anni e più,2021,27
+abruzzo,femmine,65 anni e più,2022,17
+abruzzo,femmine,65 anni e più,2023,43
+abruzzo,femmine,65 anni e più,2024,20
+abruzzo,femmine,non disponibile,2015,12
+abruzzo,femmine,non disponibile,2016,4
+abruzzo,femmine,non disponibile,2017,9
+abruzzo,femmine,non disponibile,2018,18
+abruzzo,femmine,non disponibile,2019,11
+abruzzo,femmine,non disponibile,2020,66
+abruzzo,femmine,non disponibile,2021,52
+abruzzo,femmine,non disponibile,2022,16
+abruzzo,femmine,non disponibile,2023,11
+abruzzo,femmine,non disponibile,2024,93
+abruzzo,non indicato,non indicato,2023,1
+abruzzo,non indicato,25-34 anni,2024,1
+abruzzo,non indicato,non disponibile,2023,4
+abruzzo,non indicato,non disponibile,2024,5
+molise,maschi,18-24 anni,2018,1
+molise,maschi,18-24 anni,2024,1
+molise,maschi,25-34 anni,2020,1
+molise,maschi,35-44 anni,2015,1
+molise,maschi,35-44 anni,2016,1
+molise,maschi,35-44 anni,2017,1
+molise,maschi,35-44 anni,2020,3
+molise,maschi,45-54 anni,2019,1
+molise,maschi,45-54 anni,2021,1
+molise,maschi,55-64 anni,2017,1
+molise,maschi,55-64 anni,2019,1
+molise,maschi,non disponibile,2024,1
+molise,femmine,non indicato,2021,1
+molise,femmine,non indicato,2022,1
+molise,femmine,non indicato,2023,1
+molise,femmine,non indicato,2024,2
+molise,femmine,fino a 17 anni,2020,1
+molise,femmine,fino a 17 anni,2024,1
+molise,femmine,18-24 anni,2015,5
+molise,femmine,18-24 anni,2016,1
+molise,femmine,18-24 anni,2017,1
+molise,femmine,18-24 anni,2019,4
+molise,femmine,18-24 anni,2020,5
+molise,femmine,18-24 anni,2021,6
+molise,femmine,18-24 anni,2023,9
+molise,femmine,18-24 anni,2024,5
+molise,femmine,25-34 anni,2015,6
+molise,femmine,25-34 anni,2016,6
+molise,femmine,25-34 anni,2017,5
+molise,femmine,25-34 anni,2018,4
+molise,femmine,25-34 anni,2019,5
+molise,femmine,25-34 anni,2020,9
+molise,femmine,25-34 anni,2021,5
+molise,femmine,25-34 anni,2022,7
+molise,femmine,25-34 anni,2023,15
+molise,femmine,25-34 anni,2024,4
+molise,femmine,35-44 anni,2015,11
+molise,femmine,35-44 anni,2016,10
+molise,femmine,35-44 anni,2017,4
+molise,femmine,35-44 anni,2018,6
+molise,femmine,35-44 anni,2019,7
+molise,femmine,35-44 anni,2020,13
+molise,femmine,35-44 anni,2021,8
+molise,femmine,35-44 anni,2022,7
+molise,femmine,35-44 anni,2023,7
+molise,femmine,35-44 anni,2024,6
+molise,femmine,45-54 anni,2015,7
+molise,femmine,45-54 anni,2016,7
+molise,femmine,45-54 anni,2017,4
+molise,femmine,45-54 anni,2018,11
+molise,femmine,45-54 anni,2019,5
+molise,femmine,45-54 anni,2020,3
+molise,femmine,45-54 anni,2021,5
+molise,femmine,45-54 anni,2022,10
+molise,femmine,45-54 anni,2023,5
+molise,femmine,45-54 anni,2024,2
+molise,femmine,55-64 anni,2015,3
+molise,femmine,55-64 anni,2016,2
+molise,femmine,55-64 anni,2017,1
+molise,femmine,55-64 anni,2018,1
+molise,femmine,55-64 anni,2019,8
+molise,femmine,55-64 anni,2020,5
+molise,femmine,55-64 anni,2021,4
+molise,femmine,55-64 anni,2022,4
+molise,femmine,55-64 anni,2023,6
+molise,femmine,55-64 anni,2024,10
+molise,femmine,65 anni e più,2015,1
+molise,femmine,65 anni e più,2016,1
+molise,femmine,65 anni e più,2017,1
+molise,femmine,65 anni e più,2019,1
+molise,femmine,65 anni e più,2020,3
+molise,femmine,65 anni e più,2021,3
+molise,femmine,65 anni e più,2022,4
+molise,femmine,65 anni e più,2023,3
+molise,femmine,65 anni e più,2024,5
+molise,femmine,non disponibile,2015,4
+molise,femmine,non disponibile,2016,4
+molise,femmine,non disponibile,2017,2
+molise,femmine,non disponibile,2018,1
+molise,femmine,non disponibile,2019,1
+molise,femmine,non disponibile,2020,6
+molise,femmine,non disponibile,2021,8
+molise,femmine,non disponibile,2022,2
+molise,femmine,non disponibile,2023,1
+molise,femmine,non disponibile,2024,21
+molise,non indicato,non disponibile,2023,1
+molise,non indicato,non disponibile,2024,3
+campania,maschi,non indicato,2022,1
+campania,maschi,non indicato,2023,2
+campania,maschi,non indicato,2024,6
+campania,maschi,fino a 17 anni,2018,1
+campania,maschi,fino a 17 anni,2019,1
+campania,maschi,fino a 17 anni,2020,3
+campania,maschi,18-24 anni,2015,4
+campania,maschi,18-24 anni,2016,2
+campania,maschi,18-24 anni,2017,1
+campania,maschi,18-24 anni,2018,1
+campania,maschi,18-24 anni,2019,2
+campania,maschi,18-24 anni,2020,2
+campania,maschi,18-24 anni,2021,2
+campania,maschi,18-24 anni,2022,5
+campania,maschi,18-24 anni,2023,3
+campania,maschi,18-24 anni,2024,4
+campania,maschi,25-34 anni,2015,9
+campania,maschi,25-34 anni,2017,4
+campania,maschi,25-34 anni,2018,1
+campania,maschi,25-34 anni,2019,3
+campania,maschi,25-34 anni,2020,3
+campania,maschi,25-34 anni,2021,4
+campania,maschi,25-34 anni,2022,2
+campania,maschi,25-34 anni,2023,4
+campania,maschi,25-34 anni,2024,5
+campania,maschi,35-44 anni,2015,8
+campania,maschi,35-44 anni,2016,15
+campania,maschi,35-44 anni,2017,8
+campania,maschi,35-44 anni,2018,6
+campania,maschi,35-44 anni,2019,5
+campania,maschi,35-44 anni,2020,6
+campania,maschi,35-44 anni,2021,1
+campania,maschi,35-44 anni,2022,3
+campania,maschi,35-44 anni,2023,4
+campania,maschi,35-44 anni,2024,5
+campania,maschi,45-54 anni,2015,4
+campania,maschi,45-54 anni,2016,5
+campania,maschi,45-54 anni,2017,2
+campania,maschi,45-54 anni,2018,9
+campania,maschi,45-54 anni,2019,2
+campania,maschi,45-54 anni,2020,3
+campania,maschi,45-54 anni,2021,2
+campania,maschi,45-54 anni,2022,2
+campania,maschi,45-54 anni,2023,3
+campania,maschi,45-54 anni,2024,4
+campania,maschi,55-64 anni,2015,2
+campania,maschi,55-64 anni,2016,5
+campania,maschi,55-64 anni,2017,4
+campania,maschi,55-64 anni,2018,5
+campania,maschi,55-64 anni,2019,1
+campania,maschi,55-64 anni,2020,3
+campania,maschi,55-64 anni,2021,1
+campania,maschi,55-64 anni,2022,2
+campania,maschi,55-64 anni,2023,2
+campania,maschi,65 anni e più,2015,2
+campania,maschi,65 anni e più,2016,1
+campania,maschi,65 anni e più,2018,3
+campania,maschi,65 anni e più,2019,5
+campania,maschi,65 anni e più,2021,4
+campania,maschi,65 anni e più,2022,1
+campania,maschi,65 anni e più,2023,3
+campania,maschi,65 anni e più,2024,2
+campania,maschi,non disponibile,2015,1
+campania,maschi,non disponibile,2016,4
+campania,maschi,non disponibile,2017,4
+campania,maschi,non disponibile,2018,4
+campania,maschi,non disponibile,2020,8
+campania,maschi,non disponibile,2021,21
+campania,maschi,non disponibile,2022,7
+campania,maschi,non disponibile,2023,1
+campania,maschi,non disponibile,2024,13
+campania,femmine,non indicato,2015,5
+campania,femmine,non indicato,2016,4
+campania,femmine,non indicato,2017,5
+campania,femmine,non indicato,2018,6
+campania,femmine,non indicato,2019,1
+campania,femmine,non indicato,2020,6
+campania,femmine,non indicato,2021,25
+campania,femmine,non indicato,2022,22
+campania,femmine,non indicato,2023,78
+campania,femmine,non indicato,2024,42
+campania,femmine,fino a 17 anni,2015,4
+campania,femmine,fino a 17 anni,2016,7
+campania,femmine,fino a 17 anni,2017,4
+campania,femmine,fino a 17 anni,2018,7
+campania,femmine,fino a 17 anni,2019,3
+campania,femmine,fino a 17 anni,2020,15
+campania,femmine,fino a 17 anni,2021,18
+campania,femmine,fino a 17 anni,2022,17
+campania,femmine,fino a 17 anni,2023,18
+campania,femmine,fino a 17 anni,2024,13
+campania,femmine,18-24 anni,2015,57
+campania,femmine,18-24 anni,2016,55
+campania,femmine,18-24 anni,2017,46
+campania,femmine,18-24 anni,2018,65
+campania,femmine,18-24 anni,2019,56
+campania,femmine,18-24 anni,2020,87
+campania,femmine,18-24 anni,2021,108
+campania,femmine,18-24 anni,2022,69
+campania,femmine,18-24 anni,2023,72
+campania,femmine,18-24 anni,2024,82
+campania,femmine,25-34 anni,2015,180
+campania,femmine,25-34 anni,2016,139
+campania,femmine,25-34 anni,2017,131
+campania,femmine,25-34 anni,2018,155
+campania,femmine,25-34 anni,2019,171
+campania,femmine,25-34 anni,2020,188
+campania,femmine,25-34 anni,2021,192
+campania,femmine,25-34 anni,2022,149
+campania,femmine,25-34 anni,2023,172
+campania,femmine,25-34 anni,2024,137
+campania,femmine,35-44 anni,2015,232
+campania,femmine,35-44 anni,2016,209
+campania,femmine,35-44 anni,2017,183
+campania,femmine,35-44 anni,2018,252
+campania,femmine,35-44 anni,2019,242
+campania,femmine,35-44 anni,2020,268
+campania,femmine,35-44 anni,2021,231
+campania,femmine,35-44 anni,2022,254
+campania,femmine,35-44 anni,2023,244
+campania,femmine,35-44 anni,2024,197
+campania,femmine,45-54 anni,2015,217
+campania,femmine,45-54 anni,2016,203
+campania,femmine,45-54 anni,2017,166
+campania,femmine,45-54 anni,2018,208
+campania,femmine,45-54 anni,2019,182
+campania,femmine,45-54 anni,2020,232
+campania,femmine,45-54 anni,2021,239
+campania,femmine,45-54 anni,2022,206
+campania,femmine,45-54 anni,2023,177
+campania,femmine,45-54 anni,2024,222
+campania,femmine,55-64 anni,2015,90
+campania,femmine,55-64 anni,2016,89
+campania,femmine,55-64 anni,2017,77
+campania,femmine,55-64 anni,2018,113
+campania,femmine,55-64 anni,2019,87
+campania,femmine,55-64 anni,2020,123
+campania,femmine,55-64 anni,2021,126
+campania,femmine,55-64 anni,2022,104
+campania,femmine,55-64 anni,2023,81
+campania,femmine,55-64 anni,2024,83
+campania,femmine,65 anni e più,2015,45
+campania,femmine,65 anni e più,2016,68
+campania,femmine,65 anni e più,2017,43
+campania,femmine,65 anni e più,2018,75
+campania,femmine,65 anni e più,2019,52
+campania,femmine,65 anni e più,2020,102
+campania,femmine,65 anni e più,2021,131
+campania,femmine,65 anni e più,2022,75
+campania,femmine,65 anni e più,2023,144
+campania,femmine,65 anni e più,2024,120
+campania,femmine,non disponibile,2015,44
+campania,femmine,non disponibile,2016,56
+campania,femmine,non disponibile,2017,67
+campania,femmine,non disponibile,2018,79
+campania,femmine,non disponibile,2019,51
+campania,femmine,non disponibile,2020,274
+campania,femmine,non disponibile,2021,302
+campania,femmine,non disponibile,2022,72
+campania,femmine,non disponibile,2023,47
+campania,femmine,non disponibile,2024,391
+campania,non indicato,non indicato,2023,2
+campania,non indicato,fino a 17 anni,2024,1
+campania,non indicato,18-24 anni,2023,1
+campania,non indicato,18-24 anni,2024,1
+campania,non indicato,25-34 anni,2023,1
+campania,non indicato,25-34 anni,2024,1
+campania,non indicato,non disponibile,2023,24
+campania,non indicato,non disponibile,2024,16
+puglia,maschi,non indicato,2021,1
+puglia,maschi,non indicato,2023,1
+puglia,maschi,non indicato,2024,3
+puglia,maschi,fino a 17 anni,2015,1
+puglia,maschi,fino a 17 anni,2020,2
+puglia,maschi,fino a 17 anni,2021,2
+puglia,maschi,18-24 anni,2015,1
+puglia,maschi,18-24 anni,2016,1
+puglia,maschi,18-24 anni,2017,1
+puglia,maschi,18-24 anni,2018,1
+puglia,maschi,18-24 anni,2020,2
+puglia,maschi,18-24 anni,2021,2
+puglia,maschi,18-24 anni,2022,1
+puglia,maschi,18-24 anni,2023,1
+puglia,maschi,25-34 anni,2015,6
+puglia,maschi,25-34 anni,2016,2
+puglia,maschi,25-34 anni,2017,6
+puglia,maschi,25-34 anni,2018,3
+puglia,maschi,25-34 anni,2019,2
+puglia,maschi,25-34 anni,2020,3
+puglia,maschi,25-34 anni,2022,1
+puglia,maschi,25-34 anni,2023,2
+puglia,maschi,25-34 anni,2024,1
+puglia,maschi,35-44 anni,2015,4
+puglia,maschi,35-44 anni,2016,4
+puglia,maschi,35-44 anni,2017,2
+puglia,maschi,35-44 anni,2018,3
+puglia,maschi,35-44 anni,2019,5
+puglia,maschi,35-44 anni,2020,4
+puglia,maschi,35-44 anni,2021,4
+puglia,maschi,35-44 anni,2023,6
+puglia,maschi,35-44 anni,2024,4
+puglia,maschi,45-54 anni,2015,4
+puglia,maschi,45-54 anni,2016,1
+puglia,maschi,45-54 anni,2017,1
+puglia,maschi,45-54 anni,2018,5
+puglia,maschi,45-54 anni,2019,2
+puglia,maschi,45-54 anni,2020,3
+puglia,maschi,45-54 anni,2021,5
+puglia,maschi,45-54 anni,2022,2
+puglia,maschi,45-54 anni,2023,1
+puglia,maschi,45-54 anni,2024,2
+puglia,maschi,55-64 anni,2015,2
+puglia,maschi,55-64 anni,2016,3
+puglia,maschi,55-64 anni,2017,1
+puglia,maschi,55-64 anni,2018,2
+puglia,maschi,55-64 anni,2019,1
+puglia,maschi,55-64 anni,2020,2
+puglia,maschi,55-64 anni,2021,2
+puglia,maschi,55-64 anni,2022,1
+puglia,maschi,55-64 anni,2023,2
+puglia,maschi,65 anni e più,2015,4
+puglia,maschi,65 anni e più,2016,2
+puglia,maschi,65 anni e più,2017,2
+puglia,maschi,65 anni e più,2018,4
+puglia,maschi,65 anni e più,2019,4
+puglia,maschi,65 anni e più,2020,7
+puglia,maschi,65 anni e più,2022,1
+puglia,maschi,65 anni e più,2023,6
+puglia,maschi,65 anni e più,2024,3
+puglia,maschi,non disponibile,2015,2
+puglia,maschi,non disponibile,2016,1
+puglia,maschi,non disponibile,2017,1
+puglia,maschi,non disponibile,2018,3
+puglia,maschi,non disponibile,2019,2
+puglia,maschi,non disponibile,2020,9
+puglia,maschi,non disponibile,2021,7
+puglia,maschi,non disponibile,2022,1
+puglia,maschi,non disponibile,2024,10
+puglia,femmine,non indicato,2015,2
+puglia,femmine,non indicato,2016,4
+puglia,femmine,non indicato,2017,3
+puglia,femmine,non indicato,2018,2
+puglia,femmine,non indicato,2020,2
+puglia,femmine,non indicato,2021,14
+puglia,femmine,non indicato,2022,21
+puglia,femmine,non indicato,2023,42
+puglia,femmine,non indicato,2024,41
+puglia,femmine,fino a 17 anni,2015,4
+puglia,femmine,fino a 17 anni,2016,3
+puglia,femmine,fino a 17 anni,2017,5
+puglia,femmine,fino a 17 anni,2018,7
+puglia,femmine,fino a 17 anni,2019,6
+puglia,femmine,fino a 17 anni,2020,11
+puglia,femmine,fino a 17 anni,2021,13
+puglia,femmine,fino a 17 anni,2022,8
+puglia,femmine,fino a 17 anni,2023,24
+puglia,femmine,fino a 17 anni,2024,16
+puglia,femmine,18-24 anni,2015,29
+puglia,femmine,18-24 anni,2016,18
+puglia,femmine,18-24 anni,2017,25
+puglia,femmine,18-24 anni,2018,20
+puglia,femmine,18-24 anni,2019,36
+puglia,femmine,18-24 anni,2020,67
+puglia,femmine,18-24 anni,2021,88
+puglia,femmine,18-24 anni,2022,36
+puglia,femmine,18-24 anni,2023,66
+puglia,femmine,18-24 anni,2024,50
+puglia,femmine,25-34 anni,2015,96
+puglia,femmine,25-34 anni,2016,70
+puglia,femmine,25-34 anni,2017,78
+puglia,femmine,25-34 anni,2018,90
+puglia,femmine,25-34 anni,2019,83
+puglia,femmine,25-34 anni,2020,117
+puglia,femmine,25-34 anni,2021,137
+puglia,femmine,25-34 anni,2022,99
+puglia,femmine,25-34 anni,2023,102
+puglia,femmine,25-34 anni,2024,102
+puglia,femmine,35-44 anni,2015,128
+puglia,femmine,35-44 anni,2016,142
+puglia,femmine,35-44 anni,2017,118
+puglia,femmine,35-44 anni,2018,128
+puglia,femmine,35-44 anni,2019,117
+puglia,femmine,35-44 anni,2020,162
+puglia,femmine,35-44 anni,2021,156
+puglia,femmine,35-44 anni,2022,141
+puglia,femmine,35-44 anni,2023,144
+puglia,femmine,35-44 anni,2024,137
+puglia,femmine,45-54 anni,2015,116
+puglia,femmine,45-54 anni,2016,94
+puglia,femmine,45-54 anni,2017,88
+puglia,femmine,45-54 anni,2018,171
+puglia,femmine,45-54 anni,2019,124
+puglia,femmine,45-54 anni,2020,148
+puglia,femmine,45-54 anni,2021,146
+puglia,femmine,45-54 anni,2022,140
+puglia,femmine,45-54 anni,2023,130
+puglia,femmine,45-54 anni,2024,139
+puglia,femmine,55-64 anni,2015,56
+puglia,femmine,55-64 anni,2016,51
+puglia,femmine,55-64 anni,2017,34
+puglia,femmine,55-64 anni,2018,66
+puglia,femmine,55-64 anni,2019,49
+puglia,femmine,55-64 anni,2020,73
+puglia,femmine,55-64 anni,2021,84
+puglia,femmine,55-64 anni,2022,68
+puglia,femmine,55-64 anni,2023,62
+puglia,femmine,55-64 anni,2024,63
+puglia,femmine,65 anni e più,2015,39
+puglia,femmine,65 anni e più,2016,43
+puglia,femmine,65 anni e più,2017,36
+puglia,femmine,65 anni e più,2018,47
+puglia,femmine,65 anni e più,2019,28
+puglia,femmine,65 anni e più,2020,69
+puglia,femmine,65 anni e più,2021,79
+puglia,femmine,65 anni e più,2022,77
+puglia,femmine,65 anni e più,2023,78
+puglia,femmine,65 anni e più,2024,83
+puglia,femmine,non disponibile,2015,25
+puglia,femmine,non disponibile,2016,23
+puglia,femmine,non disponibile,2017,27
+puglia,femmine,non disponibile,2018,59
+puglia,femmine,non disponibile,2019,21
+puglia,femmine,non disponibile,2020,171
+puglia,femmine,non disponibile,2021,162
+puglia,femmine,non disponibile,2022,45
+puglia,femmine,non disponibile,2023,30
+puglia,femmine,non disponibile,2024,258
+puglia,non indicato,non indicato,2023,2
+puglia,non indicato,non indicato,2024,1
+puglia,non indicato,non disponibile,2023,7
+puglia,non indicato,non disponibile,2024,16
+basilicata,maschi,18-24 anni,2019,1
+basilicata,maschi,18-24 anni,2024,1
+basilicata,maschi,35-44 anni,2022,1
+basilicata,maschi,35-44 anni,2023,1
+basilicata,maschi,35-44 anni,2024,1
+basilicata,maschi,45-54 anni,2015,1
+basilicata,maschi,45-54 anni,2016,2
+basilicata,maschi,45-54 anni,2019,1
+basilicata,maschi,45-54 anni,2023,1
+basilicata,maschi,55-64 anni,2015,1
+basilicata,maschi,55-64 anni,2016,1
+basilicata,maschi,55-64 anni,2023,1
+basilicata,maschi,65 anni e più,2022,1
+basilicata,maschi,non disponibile,2019,1
+basilicata,maschi,non disponibile,2023,1
+basilicata,femmine,non indicato,2018,1
+basilicata,femmine,non indicato,2021,3
+basilicata,femmine,non indicato,2022,1
+basilicata,femmine,non indicato,2023,6
+basilicata,femmine,non indicato,2024,3
+basilicata,femmine,fino a 17 anni,2019,2
+basilicata,femmine,fino a 17 anni,2020,1
+basilicata,femmine,fino a 17 anni,2021,5
+basilicata,femmine,fino a 17 anni,2023,1
+basilicata,femmine,fino a 17 anni,2024,2
+basilicata,femmine,18-24 anni,2015,3
+basilicata,femmine,18-24 anni,2016,2
+basilicata,femmine,18-24 anni,2017,4
+basilicata,femmine,18-24 anni,2018,2
+basilicata,femmine,18-24 anni,2019,1
+basilicata,femmine,18-24 anni,2020,7
+basilicata,femmine,18-24 anni,2021,13
+basilicata,femmine,18-24 anni,2022,6
+basilicata,femmine,18-24 anni,2023,9
+basilicata,femmine,18-24 anni,2024,4
+basilicata,femmine,25-34 anni,2015,5
+basilicata,femmine,25-34 anni,2016,9
+basilicata,femmine,25-34 anni,2017,10
+basilicata,femmine,25-34 anni,2018,14
+basilicata,femmine,25-34 anni,2019,17
+basilicata,femmine,25-34 anni,2020,9
+basilicata,femmine,25-34 anni,2021,10
+basilicata,femmine,25-34 anni,2022,12
+basilicata,femmine,25-34 anni,2023,8
+basilicata,femmine,25-34 anni,2024,9
+basilicata,femmine,35-44 anni,2015,14
+basilicata,femmine,35-44 anni,2016,14
+basilicata,femmine,35-44 anni,2017,15
+basilicata,femmine,35-44 anni,2018,11
+basilicata,femmine,35-44 anni,2019,25
+basilicata,femmine,35-44 anni,2020,22
+basilicata,femmine,35-44 anni,2021,8
+basilicata,femmine,35-44 anni,2022,11
+basilicata,femmine,35-44 anni,2023,20
+basilicata,femmine,35-44 anni,2024,10
+basilicata,femmine,45-54 anni,2015,13
+basilicata,femmine,45-54 anni,2016,10
+basilicata,femmine,45-54 anni,2017,11
+basilicata,femmine,45-54 anni,2018,14
+basilicata,femmine,45-54 anni,2019,15
+basilicata,femmine,45-54 anni,2020,15
+basilicata,femmine,45-54 anni,2021,17
+basilicata,femmine,45-54 anni,2022,27
+basilicata,femmine,45-54 anni,2023,21
+basilicata,femmine,45-54 anni,2024,15
+basilicata,femmine,55-64 anni,2015,8
+basilicata,femmine,55-64 anni,2016,1
+basilicata,femmine,55-64 anni,2017,4
+basilicata,femmine,55-64 anni,2018,5
+basilicata,femmine,55-64 anni,2019,3
+basilicata,femmine,55-64 anni,2020,8
+basilicata,femmine,55-64 anni,2021,16
+basilicata,femmine,55-64 anni,2022,6
+basilicata,femmine,55-64 anni,2023,4
+basilicata,femmine,55-64 anni,2024,8
+basilicata,femmine,65 anni e più,2015,4
+basilicata,femmine,65 anni e più,2016,2
+basilicata,femmine,65 anni e più,2017,2
+basilicata,femmine,65 anni e più,2018,3
+basilicata,femmine,65 anni e più,2019,2
+basilicata,femmine,65 anni e più,2020,4
+basilicata,femmine,65 anni e più,2021,7
+basilicata,femmine,65 anni e più,2022,10
+basilicata,femmine,65 anni e più,2023,13
+basilicata,femmine,65 anni e più,2024,7
+basilicata,femmine,non disponibile,2017,4
+basilicata,femmine,non disponibile,2018,6
+basilicata,femmine,non disponibile,2019,1
+basilicata,femmine,non disponibile,2020,16
+basilicata,femmine,non disponibile,2021,21
+basilicata,femmine,non disponibile,2022,5
+basilicata,femmine,non disponibile,2023,2
+basilicata,femmine,non disponibile,2024,23
+basilicata,non indicato,non disponibile,2024,1
+calabria,maschi,fino a 17 anni,2021,2
+calabria,maschi,18-24 anni,2018,1
+calabria,maschi,18-24 anni,2020,1
+calabria,maschi,18-24 anni,2021,2
+calabria,maschi,25-34 anni,2015,1
+calabria,maschi,25-34 anni,2016,2
+calabria,maschi,25-34 anni,2017,5
+calabria,maschi,25-34 anni,2021,2
+calabria,maschi,25-34 anni,2022,1
+calabria,maschi,25-34 anni,2024,1
+calabria,maschi,35-44 anni,2015,1
+calabria,maschi,35-44 anni,2016,1
+calabria,maschi,35-44 anni,2018,2
+calabria,maschi,35-44 anni,2019,1
+calabria,maschi,35-44 anni,2020,1
+calabria,maschi,35-44 anni,2024,1
+calabria,maschi,45-54 anni,2019,1
+calabria,maschi,45-54 anni,2020,3
+calabria,maschi,45-54 anni,2021,3
+calabria,maschi,45-54 anni,2022,1
+calabria,maschi,55-64 anni,2016,1
+calabria,maschi,55-64 anni,2019,1
+calabria,maschi,55-64 anni,2020,1
+calabria,maschi,65 anni e più,2015,2
+calabria,maschi,65 anni e più,2016,1
+calabria,maschi,65 anni e più,2017,1
+calabria,maschi,65 anni e più,2021,2
+calabria,maschi,65 anni e più,2023,4
+calabria,maschi,non disponibile,2020,2
+calabria,maschi,non disponibile,2021,5
+calabria,maschi,non disponibile,2024,1
+calabria,femmine,non indicato,2015,2
+calabria,femmine,non indicato,2016,1
+calabria,femmine,non indicato,2017,3
+calabria,femmine,non indicato,2020,2
+calabria,femmine,non indicato,2021,6
+calabria,femmine,non indicato,2022,11
+calabria,femmine,non indicato,2023,20
+calabria,femmine,non indicato,2024,11
+calabria,femmine,fino a 17 anni,2017,2
+calabria,femmine,fino a 17 anni,2018,3
+calabria,femmine,fino a 17 anni,2019,4
+calabria,femmine,fino a 17 anni,2020,4
+calabria,femmine,fino a 17 anni,2021,3
+calabria,femmine,fino a 17 anni,2022,2
+calabria,femmine,fino a 17 anni,2023,14
+calabria,femmine,fino a 17 anni,2024,7
+calabria,femmine,18-24 anni,2015,9
+calabria,femmine,18-24 anni,2016,13
+calabria,femmine,18-24 anni,2017,11
+calabria,femmine,18-24 anni,2018,6
+calabria,femmine,18-24 anni,2019,13
+calabria,femmine,18-24 anni,2020,14
+calabria,femmine,18-24 anni,2021,20
+calabria,femmine,18-24 anni,2022,17
+calabria,femmine,18-24 anni,2023,14
+calabria,femmine,18-24 anni,2024,21
+calabria,femmine,25-34 anni,2015,28
+calabria,femmine,25-34 anni,2016,34
+calabria,femmine,25-34 anni,2017,35
+calabria,femmine,25-34 anni,2018,36
+calabria,femmine,25-34 anni,2019,35
+calabria,femmine,25-34 anni,2020,50
+calabria,femmine,25-34 anni,2021,45
+calabria,femmine,25-34 anni,2022,46
+calabria,femmine,25-34 anni,2023,48
+calabria,femmine,25-34 anni,2024,33
+calabria,femmine,35-44 anni,2015,48
+calabria,femmine,35-44 anni,2016,41
+calabria,femmine,35-44 anni,2017,40
+calabria,femmine,35-44 anni,2018,53
+calabria,femmine,35-44 anni,2019,57
+calabria,femmine,35-44 anni,2020,100
+calabria,femmine,35-44 anni,2021,72
+calabria,femmine,35-44 anni,2022,51
+calabria,femmine,35-44 anni,2023,62
+calabria,femmine,35-44 anni,2024,36
+calabria,femmine,45-54 anni,2015,57
+calabria,femmine,45-54 anni,2016,54
+calabria,femmine,45-54 anni,2017,31
+calabria,femmine,45-54 anni,2018,34
+calabria,femmine,45-54 anni,2019,52
+calabria,femmine,45-54 anni,2020,45
+calabria,femmine,45-54 anni,2021,66
+calabria,femmine,45-54 anni,2022,41
+calabria,femmine,45-54 anni,2023,47
+calabria,femmine,45-54 anni,2024,32
+calabria,femmine,55-64 anni,2015,16
+calabria,femmine,55-64 anni,2016,22
+calabria,femmine,55-64 anni,2017,17
+calabria,femmine,55-64 anni,2018,28
+calabria,femmine,55-64 anni,2019,23
+calabria,femmine,55-64 anni,2020,42
+calabria,femmine,55-64 anni,2021,24
+calabria,femmine,55-64 anni,2022,33
+calabria,femmine,55-64 anni,2023,18
+calabria,femmine,55-64 anni,2024,16
+calabria,femmine,65 anni e più,2015,16
+calabria,femmine,65 anni e più,2016,17
+calabria,femmine,65 anni e più,2017,8
+calabria,femmine,65 anni e più,2018,17
+calabria,femmine,65 anni e più,2019,14
+calabria,femmine,65 anni e più,2020,22
+calabria,femmine,65 anni e più,2021,26
+calabria,femmine,65 anni e più,2022,31
+calabria,femmine,65 anni e più,2023,30
+calabria,femmine,65 anni e più,2024,13
+calabria,femmine,non disponibile,2015,10
+calabria,femmine,non disponibile,2016,6
+calabria,femmine,non disponibile,2017,16
+calabria,femmine,non disponibile,2018,14
+calabria,femmine,non disponibile,2019,14
+calabria,femmine,non disponibile,2020,72
+calabria,femmine,non disponibile,2021,62
+calabria,femmine,non disponibile,2022,13
+calabria,femmine,non disponibile,2023,10
+calabria,femmine,non disponibile,2024,97
+calabria,non indicato,55-64 anni,2024,1
+calabria,non indicato,non disponibile,2023,7
+calabria,non indicato,non disponibile,2024,5
+isole,maschi,non indicato,2015,1
+isole,maschi,non indicato,2017,2
+isole,maschi,non indicato,2021,2
+isole,maschi,non indicato,2023,4
+isole,maschi,non indicato,2024,1
+isole,maschi,fino a 17 anni,2015,1
+isole,maschi,fino a 17 anni,2019,1
+isole,maschi,fino a 17 anni,2020,2
+isole,maschi,fino a 17 anni,2021,2
+isole,maschi,fino a 17 anni,2022,1
+isole,maschi,fino a 17 anni,2024,3
+isole,maschi,18-24 anni,2016,4
+isole,maschi,18-24 anni,2018,1
+isole,maschi,18-24 anni,2019,6
+isole,maschi,18-24 anni,2020,1
+isole,maschi,18-24 anni,2021,1
+isole,maschi,18-24 anni,2022,2
+isole,maschi,18-24 anni,2023,2
+isole,maschi,18-24 anni,2024,1
+isole,maschi,25-34 anni,2015,4
+isole,maschi,25-34 anni,2016,5
+isole,maschi,25-34 anni,2017,4
+isole,maschi,25-34 anni,2018,3
+isole,maschi,25-34 anni,2019,1
+isole,maschi,25-34 anni,2020,8
+isole,maschi,25-34 anni,2021,5
+isole,maschi,25-34 anni,2022,2
+isole,maschi,25-34 anni,2023,2
+isole,maschi,25-34 anni,2024,2
+isole,maschi,35-44 anni,2015,5
+isole,maschi,35-44 anni,2016,4
+isole,maschi,35-44 anni,2017,7
+isole,maschi,35-44 anni,2018,6
+isole,maschi,35-44 anni,2020,5
+isole,maschi,35-44 anni,2021,5
+isole,maschi,35-44 anni,2022,1
+isole,maschi,35-44 anni,2023,8
+isole,maschi,35-44 anni,2024,4
+isole,maschi,45-54 anni,2015,4
+isole,maschi,45-54 anni,2016,6
+isole,maschi,45-54 anni,2017,4
+isole,maschi,45-54 anni,2018,3
+isole,maschi,45-54 anni,2019,3
+isole,maschi,45-54 anni,2020,9
+isole,maschi,45-54 anni,2021,4
+isole,maschi,45-54 anni,2022,5
+isole,maschi,45-54 anni,2023,3
+isole,maschi,45-54 anni,2024,1
+isole,maschi,55-64 anni,2015,3
+isole,maschi,55-64 anni,2016,4
+isole,maschi,55-64 anni,2017,1
+isole,maschi,55-64 anni,2018,2
+isole,maschi,55-64 anni,2020,4
+isole,maschi,55-64 anni,2021,3
+isole,maschi,55-64 anni,2022,1
+isole,maschi,55-64 anni,2023,1
+isole,maschi,55-64 anni,2024,3
+isole,maschi,65 anni e più,2015,3
+isole,maschi,65 anni e più,2017,1
+isole,maschi,65 anni e più,2018,5
+isole,maschi,65 anni e più,2019,3
+isole,maschi,65 anni e più,2020,3
+isole,maschi,65 anni e più,2021,3
+isole,maschi,65 anni e più,2022,1
+isole,maschi,65 anni e più,2024,4
+isole,maschi,non disponibile,2015,5
+isole,maschi,non disponibile,2016,2
+isole,maschi,non disponibile,2018,3
+isole,maschi,non disponibile,2019,2
+isole,maschi,non disponibile,2020,10
+isole,maschi,non disponibile,2021,10
+isole,maschi,non disponibile,2022,3
+isole,maschi,non disponibile,2023,2
+isole,maschi,non disponibile,2024,6
+isole,femmine,non indicato,2016,11
+isole,femmine,non indicato,2017,5
+isole,femmine,non indicato,2018,1
+isole,femmine,non indicato,2019,2
+isole,femmine,non indicato,2020,4
+isole,femmine,non indicato,2021,27
+isole,femmine,non indicato,2022,32
+isole,femmine,non indicato,2023,60
+isole,femmine,non indicato,2024,36
+isole,femmine,fino a 17 anni,2015,4
+isole,femmine,fino a 17 anni,2016,2
+isole,femmine,fino a 17 anni,2017,8
+isole,femmine,fino a 17 anni,2018,8
+isole,femmine,fino a 17 anni,2019,7
+isole,femmine,fino a 17 anni,2020,21
+isole,femmine,fino a 17 anni,2021,12
+isole,femmine,fino a 17 anni,2022,11
+isole,femmine,fino a 17 anni,2023,16
+isole,femmine,fino a 17 anni,2024,16
+isole,femmine,18-24 anni,2015,30
+isole,femmine,18-24 anni,2016,41
+isole,femmine,18-24 anni,2017,34
+isole,femmine,18-24 anni,2018,38
+isole,femmine,18-24 anni,2019,42
+isole,femmine,18-24 anni,2020,79
+isole,femmine,18-24 anni,2021,80
+isole,femmine,18-24 anni,2022,110
+isole,femmine,18-24 anni,2023,85
+isole,femmine,18-24 anni,2024,70
+isole,femmine,25-34 anni,2015,140
+isole,femmine,25-34 anni,2016,150
+isole,femmine,25-34 anni,2017,122
+isole,femmine,25-34 anni,2018,143
+isole,femmine,25-34 anni,2019,131
+isole,femmine,25-34 anni,2020,148
+isole,femmine,25-34 anni,2021,165
+isole,femmine,25-34 anni,2022,135
+isole,femmine,25-34 anni,2023,140
+isole,femmine,25-34 anni,2024,119
+isole,femmine,35-44 anni,2015,190
+isole,femmine,35-44 anni,2016,211
+isole,femmine,35-44 anni,2017,184
+isole,femmine,35-44 anni,2018,177
+isole,femmine,35-44 anni,2019,203
+isole,femmine,35-44 anni,2020,218
+isole,femmine,35-44 anni,2021,209
+isole,femmine,35-44 anni,2022,175
+isole,femmine,35-44 anni,2023,208
+isole,femmine,35-44 anni,2024,162
+isole,femmine,45-54 anni,2015,147
+isole,femmine,45-54 anni,2016,176
+isole,femmine,45-54 anni,2017,152
+isole,femmine,45-54 anni,2018,197
+isole,femmine,45-54 anni,2019,140
+isole,femmine,45-54 anni,2020,190
+isole,femmine,45-54 anni,2021,184
+isole,femmine,45-54 anni,2022,154
+isole,femmine,45-54 anni,2023,146
+isole,femmine,45-54 anni,2024,153
+isole,femmine,55-64 anni,2015,99
+isole,femmine,55-64 anni,2016,93
+isole,femmine,55-64 anni,2017,101
+isole,femmine,55-64 anni,2018,93
+isole,femmine,55-64 anni,2019,83
+isole,femmine,55-64 anni,2020,137
+isole,femmine,55-64 anni,2021,123
+isole,femmine,55-64 anni,2022,93
+isole,femmine,55-64 anni,2023,61
+isole,femmine,55-64 anni,2024,74
+isole,femmine,65 anni e più,2015,56
+isole,femmine,65 anni e più,2016,55
+isole,femmine,65 anni e più,2017,66
+isole,femmine,65 anni e più,2018,67
+isole,femmine,65 anni e più,2019,55
+isole,femmine,65 anni e più,2020,100
+isole,femmine,65 anni e più,2021,134
+isole,femmine,65 anni e più,2022,86
+isole,femmine,65 anni e più,2023,113
+isole,femmine,65 anni e più,2024,118
+isole,femmine,non disponibile,2015,55
+isole,femmine,non disponibile,2016,38
+isole,femmine,non disponibile,2017,49
+isole,femmine,non disponibile,2018,60
+isole,femmine,non disponibile,2019,37
+isole,femmine,non disponibile,2020,220
+isole,femmine,non disponibile,2021,263
+isole,femmine,non disponibile,2022,49
+isole,femmine,non disponibile,2023,53
+isole,femmine,non disponibile,2024,340
+isole,non indicato,non indicato,2023,4
+isole,non indicato,non indicato,2024,1
+isole,non indicato,fino a 17 anni,2024,1
+isole,non indicato,18-24 anni,2023,1
+isole,non indicato,25-34 anni,2023,2
+isole,non indicato,non disponibile,2023,9
+isole,non indicato,non disponibile,2024,15
+sicilia,maschi,non indicato,2015,1
+sicilia,maschi,non indicato,2017,1
+sicilia,maschi,non indicato,2021,2
+sicilia,maschi,non indicato,2023,4
+sicilia,maschi,non indicato,2024,1
+sicilia,maschi,fino a 17 anni,2015,1
+sicilia,maschi,fino a 17 anni,2020,2
+sicilia,maschi,fino a 17 anni,2021,2
+sicilia,maschi,fino a 17 anni,2024,3
+sicilia,maschi,18-24 anni,2016,3
+sicilia,maschi,18-24 anni,2018,1
+sicilia,maschi,18-24 anni,2019,4
+sicilia,maschi,18-24 anni,2022,1
+sicilia,maschi,18-24 anni,2023,1
+sicilia,maschi,18-24 anni,2024,1
+sicilia,maschi,25-34 anni,2015,4
+sicilia,maschi,25-34 anni,2016,4
+sicilia,maschi,25-34 anni,2017,3
+sicilia,maschi,25-34 anni,2018,3
+sicilia,maschi,25-34 anni,2019,1
+sicilia,maschi,25-34 anni,2020,8
+sicilia,maschi,25-34 anni,2021,3
+sicilia,maschi,25-34 anni,2022,2
+sicilia,maschi,25-34 anni,2023,1
+sicilia,maschi,25-34 anni,2024,2
+sicilia,maschi,35-44 anni,2015,3
+sicilia,maschi,35-44 anni,2016,1
+sicilia,maschi,35-44 anni,2017,4
+sicilia,maschi,35-44 anni,2018,4
+sicilia,maschi,35-44 anni,2020,3
+sicilia,maschi,35-44 anni,2021,4
+sicilia,maschi,35-44 anni,2022,1
+sicilia,maschi,35-44 anni,2023,5
+sicilia,maschi,35-44 anni,2024,3
+sicilia,maschi,45-54 anni,2015,2
+sicilia,maschi,45-54 anni,2016,3
+sicilia,maschi,45-54 anni,2017,1
+sicilia,maschi,45-54 anni,2018,2
+sicilia,maschi,45-54 anni,2019,3
+sicilia,maschi,45-54 anni,2020,5
+sicilia,maschi,45-54 anni,2021,4
+sicilia,maschi,45-54 anni,2022,4
+sicilia,maschi,45-54 anni,2023,2
+sicilia,maschi,45-54 anni,2024,1
+sicilia,maschi,55-64 anni,2015,2
+sicilia,maschi,55-64 anni,2016,2
+sicilia,maschi,55-64 anni,2017,1
+sicilia,maschi,55-64 anni,2018,2
+sicilia,maschi,55-64 anni,2020,1
+sicilia,maschi,55-64 anni,2021,2
+sicilia,maschi,55-64 anni,2022,1
+sicilia,maschi,55-64 anni,2023,1
+sicilia,maschi,55-64 anni,2024,2
+sicilia,maschi,65 anni e più,2015,2
+sicilia,maschi,65 anni e più,2017,1
+sicilia,maschi,65 anni e più,2018,4
+sicilia,maschi,65 anni e più,2019,1
+sicilia,maschi,65 anni e più,2020,3
+sicilia,maschi,65 anni e più,2021,1
+sicilia,maschi,65 anni e più,2022,1
+sicilia,maschi,65 anni e più,2024,3
+sicilia,maschi,non disponibile,2015,3
+sicilia,maschi,non disponibile,2016,2
+sicilia,maschi,non disponibile,2019,1
+sicilia,maschi,non disponibile,2020,7
+sicilia,maschi,non disponibile,2021,7
+sicilia,maschi,non disponibile,2022,3
+sicilia,maschi,non disponibile,2023,2
+sicilia,maschi,non disponibile,2024,6
+sicilia,femmine,non indicato,2016,9
+sicilia,femmine,non indicato,2017,3
+sicilia,femmine,non indicato,2018,1
+sicilia,femmine,non indicato,2020,3
+sicilia,femmine,non indicato,2021,18
+sicilia,femmine,non indicato,2022,27
+sicilia,femmine,non indicato,2023,47
+sicilia,femmine,non indicato,2024,25
+sicilia,femmine,fino a 17 anni,2015,4
+sicilia,femmine,fino a 17 anni,2016,1
+sicilia,femmine,fino a 17 anni,2017,4
+sicilia,femmine,fino a 17 anni,2018,5
+sicilia,femmine,fino a 17 anni,2019,7
+sicilia,femmine,fino a 17 anni,2020,17
+sicilia,femmine,fino a 17 anni,2021,5
+sicilia,femmine,fino a 17 anni,2022,6
+sicilia,femmine,fino a 17 anni,2023,12
+sicilia,femmine,fino a 17 anni,2024,13
+sicilia,femmine,18-24 anni,2015,22
+sicilia,femmine,18-24 anni,2016,36
+sicilia,femmine,18-24 anni,2017,26
+sicilia,femmine,18-24 anni,2018,30
+sicilia,femmine,18-24 anni,2019,32
+sicilia,femmine,18-24 anni,2020,68
+sicilia,femmine,18-24 anni,2021,58
+sicilia,femmine,18-24 anni,2022,74
+sicilia,femmine,18-24 anni,2023,68
+sicilia,femmine,18-24 anni,2024,51
+sicilia,femmine,25-34 anni,2015,104
+sicilia,femmine,25-34 anni,2016,100
+sicilia,femmine,25-34 anni,2017,93
+sicilia,femmine,25-34 anni,2018,102
+sicilia,femmine,25-34 anni,2019,92
+sicilia,femmine,25-34 anni,2020,105
+sicilia,femmine,25-34 anni,2021,126
+sicilia,femmine,25-34 anni,2022,84
+sicilia,femmine,25-34 anni,2023,105
+sicilia,femmine,25-34 anni,2024,97
+sicilia,femmine,35-44 anni,2015,134
+sicilia,femmine,35-44 anni,2016,157
+sicilia,femmine,35-44 anni,2017,129
+sicilia,femmine,35-44 anni,2018,127
+sicilia,femmine,35-44 anni,2019,154
+sicilia,femmine,35-44 anni,2020,154
+sicilia,femmine,35-44 anni,2021,155
+sicilia,femmine,35-44 anni,2022,130
+sicilia,femmine,35-44 anni,2023,150
+sicilia,femmine,35-44 anni,2024,113
+sicilia,femmine,45-54 anni,2015,96
+sicilia,femmine,45-54 anni,2016,124
+sicilia,femmine,45-54 anni,2017,104
+sicilia,femmine,45-54 anni,2018,146
+sicilia,femmine,45-54 anni,2019,101
+sicilia,femmine,45-54 anni,2020,130
+sicilia,femmine,45-54 anni,2021,138
+sicilia,femmine,45-54 anni,2022,108
+sicilia,femmine,45-54 anni,2023,113
+sicilia,femmine,45-54 anni,2024,112
+sicilia,femmine,55-64 anni,2015,69
+sicilia,femmine,55-64 anni,2016,65
+sicilia,femmine,55-64 anni,2017,69
+sicilia,femmine,55-64 anni,2018,59
+sicilia,femmine,55-64 anni,2019,64
+sicilia,femmine,55-64 anni,2020,96
+sicilia,femmine,55-64 anni,2021,77
+sicilia,femmine,55-64 anni,2022,62
+sicilia,femmine,55-64 anni,2023,43
+sicilia,femmine,55-64 anni,2024,48
+sicilia,femmine,65 anni e più,2015,36
+sicilia,femmine,65 anni e più,2016,37
+sicilia,femmine,65 anni e più,2017,42
+sicilia,femmine,65 anni e più,2018,38
+sicilia,femmine,65 anni e più,2019,40
+sicilia,femmine,65 anni e più,2020,60
+sicilia,femmine,65 anni e più,2021,83
+sicilia,femmine,65 anni e più,2022,55
+sicilia,femmine,65 anni e più,2023,78
+sicilia,femmine,65 anni e più,2024,76
+sicilia,femmine,non disponibile,2015,39
+sicilia,femmine,non disponibile,2016,26
+sicilia,femmine,non disponibile,2017,34
+sicilia,femmine,non disponibile,2018,41
+sicilia,femmine,non disponibile,2019,25
+sicilia,femmine,non disponibile,2020,153
+sicilia,femmine,non disponibile,2021,203
+sicilia,femmine,non disponibile,2022,37
+sicilia,femmine,non disponibile,2023,36
+sicilia,femmine,non disponibile,2024,250
+sicilia,non indicato,non indicato,2023,4
+sicilia,non indicato,non indicato,2024,1
+sicilia,non indicato,fino a 17 anni,2024,1
+sicilia,non indicato,18-24 anni,2023,1
+sicilia,non indicato,25-34 anni,2023,2
+sicilia,non indicato,non disponibile,2023,7
+sicilia,non indicato,non disponibile,2024,10
+sardegna,maschi,non indicato,2017,1
+sardegna,maschi,fino a 17 anni,2019,1
+sardegna,maschi,fino a 17 anni,2022,1
+sardegna,maschi,18-24 anni,2016,1
+sardegna,maschi,18-24 anni,2019,2
+sardegna,maschi,18-24 anni,2020,1
+sardegna,maschi,18-24 anni,2021,1
+sardegna,maschi,18-24 anni,2022,1
+sardegna,maschi,18-24 anni,2023,1
+sardegna,maschi,25-34 anni,2016,1
+sardegna,maschi,25-34 anni,2017,1
+sardegna,maschi,25-34 anni,2021,2
+sardegna,maschi,25-34 anni,2023,1
+sardegna,maschi,35-44 anni,2015,2
+sardegna,maschi,35-44 anni,2016,3
+sardegna,maschi,35-44 anni,2017,3
+sardegna,maschi,35-44 anni,2018,2
+sardegna,maschi,35-44 anni,2020,2
+sardegna,maschi,35-44 anni,2021,1
+sardegna,maschi,35-44 anni,2023,3
+sardegna,maschi,35-44 anni,2024,1
+sardegna,maschi,45-54 anni,2015,2
+sardegna,maschi,45-54 anni,2016,3
+sardegna,maschi,45-54 anni,2017,3
+sardegna,maschi,45-54 anni,2018,1
+sardegna,maschi,45-54 anni,2020,4
+sardegna,maschi,45-54 anni,2022,1
+sardegna,maschi,45-54 anni,2023,1
+sardegna,maschi,55-64 anni,2015,1
+sardegna,maschi,55-64 anni,2016,2
+sardegna,maschi,55-64 anni,2020,3
+sardegna,maschi,55-64 anni,2021,1
+sardegna,maschi,55-64 anni,2024,1
+sardegna,maschi,65 anni e più,2015,1
+sardegna,maschi,65 anni e più,2018,1
+sardegna,maschi,65 anni e più,2019,2
+sardegna,maschi,65 anni e più,2021,2
+sardegna,maschi,65 anni e più,2024,1
+sardegna,maschi,non disponibile,2015,2
+sardegna,maschi,non disponibile,2018,3
+sardegna,maschi,non disponibile,2019,1
+sardegna,maschi,non disponibile,2020,3
+sardegna,maschi,non disponibile,2021,3
+sardegna,femmine,non indicato,2016,2
+sardegna,femmine,non indicato,2017,2
+sardegna,femmine,non indicato,2019,2
+sardegna,femmine,non indicato,2020,1
+sardegna,femmine,non indicato,2021,9
+sardegna,femmine,non indicato,2022,5
+sardegna,femmine,non indicato,2023,13
+sardegna,femmine,non indicato,2024,11
+sardegna,femmine,fino a 17 anni,2016,1
+sardegna,femmine,fino a 17 anni,2017,4
+sardegna,femmine,fino a 17 anni,2018,3
+sardegna,femmine,fino a 17 anni,2020,4
+sardegna,femmine,fino a 17 anni,2021,7
+sardegna,femmine,fino a 17 anni,2022,5
+sardegna,femmine,fino a 17 anni,2023,4
+sardegna,femmine,fino a 17 anni,2024,3
+sardegna,femmine,18-24 anni,2015,8
+sardegna,femmine,18-24 anni,2016,5
+sardegna,femmine,18-24 anni,2017,8
+sardegna,femmine,18-24 anni,2018,8
+sardegna,femmine,18-24 anni,2019,10
+sardegna,femmine,18-24 anni,2020,11
+sardegna,femmine,18-24 anni,2021,22
+sardegna,femmine,18-24 anni,2022,36
+sardegna,femmine,18-24 anni,2023,17
+sardegna,femmine,18-24 anni,2024,19
+sardegna,femmine,25-34 anni,2015,36
+sardegna,femmine,25-34 anni,2016,50
+sardegna,femmine,25-34 anni,2017,29
+sardegna,femmine,25-34 anni,2018,41
+sardegna,femmine,25-34 anni,2019,39
+sardegna,femmine,25-34 anni,2020,43
+sardegna,femmine,25-34 anni,2021,39
+sardegna,femmine,25-34 anni,2022,51
+sardegna,femmine,25-34 anni,2023,35
+sardegna,femmine,25-34 anni,2024,22
+sardegna,femmine,35-44 anni,2015,56
+sardegna,femmine,35-44 anni,2016,54
+sardegna,femmine,35-44 anni,2017,55
+sardegna,femmine,35-44 anni,2018,50
+sardegna,femmine,35-44 anni,2019,49
+sardegna,femmine,35-44 anni,2020,64
+sardegna,femmine,35-44 anni,2021,54
+sardegna,femmine,35-44 anni,2022,45
+sardegna,femmine,35-44 anni,2023,58
+sardegna,femmine,35-44 anni,2024,49
+sardegna,femmine,45-54 anni,2015,51
+sardegna,femmine,45-54 anni,2016,52
+sardegna,femmine,45-54 anni,2017,48
+sardegna,femmine,45-54 anni,2018,51
+sardegna,femmine,45-54 anni,2019,39
+sardegna,femmine,45-54 anni,2020,60
+sardegna,femmine,45-54 anni,2021,46
+sardegna,femmine,45-54 anni,2022,46
+sardegna,femmine,45-54 anni,2023,33
+sardegna,femmine,45-54 anni,2024,41
+sardegna,femmine,55-64 anni,2015,30
+sardegna,femmine,55-64 anni,2016,28
+sardegna,femmine,55-64 anni,2017,32
+sardegna,femmine,55-64 anni,2018,34
+sardegna,femmine,55-64 anni,2019,19
+sardegna,femmine,55-64 anni,2020,41
+sardegna,femmine,55-64 anni,2021,46
+sardegna,femmine,55-64 anni,2022,31
+sardegna,femmine,55-64 anni,2023,18
+sardegna,femmine,55-64 anni,2024,26
+sardegna,femmine,65 anni e più,2015,20
+sardegna,femmine,65 anni e più,2016,18
+sardegna,femmine,65 anni e più,2017,24
+sardegna,femmine,65 anni e più,2018,29
+sardegna,femmine,65 anni e più,2019,15
+sardegna,femmine,65 anni e più,2020,40
+sardegna,femmine,65 anni e più,2021,51
+sardegna,femmine,65 anni e più,2022,31
+sardegna,femmine,65 anni e più,2023,35
+sardegna,femmine,65 anni e più,2024,42
+sardegna,femmine,non disponibile,2015,16
+sardegna,femmine,non disponibile,2016,12
+sardegna,femmine,non disponibile,2017,15
+sardegna,femmine,non disponibile,2018,19
+sardegna,femmine,non disponibile,2019,12
+sardegna,femmine,non disponibile,2020,67
+sardegna,femmine,non disponibile,2021,60
+sardegna,femmine,non disponibile,2022,12
+sardegna,femmine,non disponibile,2023,17
+sardegna,femmine,non disponibile,2024,90
+sardegna,non indicato,non disponibile,2023,2
+sardegna,non indicato,non disponibile,2024,5
+non indicato,maschi,non indicato,2017,1
+non indicato,maschi,non indicato,2020,1
+non indicato,maschi,non indicato,2021,9
+non indicato,maschi,non indicato,2022,8
+non indicato,maschi,non indicato,2023,17
+non indicato,maschi,non indicato,2024,22
+non indicato,maschi,fino a 17 anni,2017,1
+non indicato,maschi,fino a 17 anni,2020,7
+non indicato,maschi,fino a 17 anni,2021,12
+non indicato,maschi,fino a 17 anni,2022,3
+non indicato,maschi,fino a 17 anni,2023,9
+non indicato,maschi,fino a 17 anni,2024,2
+non indicato,maschi,18-24 anni,2015,1
+non indicato,maschi,18-24 anni,2016,2
+non indicato,maschi,18-24 anni,2017,1
+non indicato,maschi,18-24 anni,2018,2
+non indicato,maschi,18-24 anni,2019,1
+non indicato,maschi,18-24 anni,2020,9
+non indicato,maschi,18-24 anni,2021,11
+non indicato,maschi,18-24 anni,2022,5
+non indicato,maschi,18-24 anni,2023,14
+non indicato,maschi,18-24 anni,2024,8
+non indicato,maschi,25-34 anni,2015,2
+non indicato,maschi,25-34 anni,2016,1
+non indicato,maschi,25-34 anni,2017,8
+non indicato,maschi,25-34 anni,2018,3
+non indicato,maschi,25-34 anni,2019,2
+non indicato,maschi,25-34 anni,2020,4
+non indicato,maschi,25-34 anni,2021,8
+non indicato,maschi,25-34 anni,2022,5
+non indicato,maschi,25-34 anni,2023,19
+non indicato,maschi,25-34 anni,2024,6
+non indicato,maschi,35-44 anni,2016,3
+non indicato,maschi,35-44 anni,2017,3
+non indicato,maschi,35-44 anni,2018,4
+non indicato,maschi,35-44 anni,2019,2
+non indicato,maschi,35-44 anni,2020,11
+non indicato,maschi,35-44 anni,2021,10
+non indicato,maschi,35-44 anni,2022,4
+non indicato,maschi,35-44 anni,2023,12
+non indicato,maschi,35-44 anni,2024,5
+non indicato,maschi,45-54 anni,2015,2
+non indicato,maschi,45-54 anni,2016,5
+non indicato,maschi,45-54 anni,2017,4
+non indicato,maschi,45-54 anni,2018,2
+non indicato,maschi,45-54 anni,2019,3
+non indicato,maschi,45-54 anni,2020,3
+non indicato,maschi,45-54 anni,2021,2
+non indicato,maschi,45-54 anni,2022,4
+non indicato,maschi,45-54 anni,2023,9
+non indicato,maschi,45-54 anni,2024,5
+non indicato,maschi,55-64 anni,2015,1
+non indicato,maschi,55-64 anni,2016,2
+non indicato,maschi,55-64 anni,2018,2
+non indicato,maschi,55-64 anni,2020,4
+non indicato,maschi,55-64 anni,2021,2
+non indicato,maschi,55-64 anni,2022,1
+non indicato,maschi,55-64 anni,2023,3
+non indicato,maschi,55-64 anni,2024,2
+non indicato,maschi,65 anni e più,2015,1
+non indicato,maschi,65 anni e più,2016,3
+non indicato,maschi,65 anni e più,2017,1
+non indicato,maschi,65 anni e più,2020,4
+non indicato,maschi,65 anni e più,2021,4
+non indicato,maschi,65 anni e più,2022,4
+non indicato,maschi,65 anni e più,2023,9
+non indicato,maschi,65 anni e più,2024,4
+non indicato,maschi,non disponibile,2015,21
+non indicato,maschi,non disponibile,2016,6
+non indicato,maschi,non disponibile,2017,24
+non indicato,maschi,non disponibile,2018,11
+non indicato,maschi,non disponibile,2019,15
+non indicato,maschi,non disponibile,2020,84
+non indicato,maschi,non disponibile,2021,85
+non indicato,maschi,non disponibile,2022,21
+non indicato,maschi,non disponibile,2023,25
+non indicato,maschi,non disponibile,2024,47
+non indicato,femmine,non indicato,2015,3
+non indicato,femmine,non indicato,2016,1
+non indicato,femmine,non indicato,2017,3
+non indicato,femmine,non indicato,2018,2
+non indicato,femmine,non indicato,2019,2
+non indicato,femmine,non indicato,2020,29
+non indicato,femmine,non indicato,2021,130
+non indicato,femmine,non indicato,2022,133
+non indicato,femmine,non indicato,2023,430
+non indicato,femmine,non indicato,2024,243
+non indicato,femmine,fino a 17 anni,2015,3
+non indicato,femmine,fino a 17 anni,2017,6
+non indicato,femmine,fino a 17 anni,2018,10
+non indicato,femmine,fino a 17 anni,2019,7
+non indicato,femmine,fino a 17 anni,2020,72
+non indicato,femmine,fino a 17 anni,2021,111
+non indicato,femmine,fino a 17 anni,2022,48
+non indicato,femmine,fino a 17 anni,2023,65
+non indicato,femmine,fino a 17 anni,2024,49
+non indicato,femmine,18-24 anni,2015,16
+non indicato,femmine,18-24 anni,2016,17
+non indicato,femmine,18-24 anni,2017,47
+non indicato,femmine,18-24 anni,2018,44
+non indicato,femmine,18-24 anni,2019,44
+non indicato,femmine,18-24 anni,2020,132
+non indicato,femmine,18-24 anni,2021,151
+non indicato,femmine,18-24 anni,2022,96
+non indicato,femmine,18-24 anni,2023,259
+non indicato,femmine,18-24 anni,2024,84
+non indicato,femmine,25-34 anni,2015,52
+non indicato,femmine,25-34 anni,2016,53
+non indicato,femmine,25-34 anni,2017,105
+non indicato,femmine,25-34 anni,2018,90
+non indicato,femmine,25-34 anni,2019,62
+non indicato,femmine,25-34 anni,2020,198
+non indicato,femmine,25-34 anni,2021,182
+non indicato,femmine,25-34 anni,2022,84
+non indicato,femmine,25-34 anni,2023,398
+non indicato,femmine,25-34 anni,2024,117
+non indicato,femmine,35-44 anni,2015,53
+non indicato,femmine,35-44 anni,2016,62
+non indicato,femmine,35-44 anni,2017,149
+non indicato,femmine,35-44 anni,2018,121
+non indicato,femmine,35-44 anni,2019,76
+non indicato,femmine,35-44 anni,2020,230
+non indicato,femmine,35-44 anni,2021,108
+non indicato,femmine,35-44 anni,2022,86
+non indicato,femmine,35-44 anni,2023,432
+non indicato,femmine,35-44 anni,2024,87
+non indicato,femmine,45-54 anni,2015,50
+non indicato,femmine,45-54 anni,2016,71
+non indicato,femmine,45-54 anni,2017,117
+non indicato,femmine,45-54 anni,2018,92
+non indicato,femmine,45-54 anni,2019,74
+non indicato,femmine,45-54 anni,2020,205
+non indicato,femmine,45-54 anni,2021,71
+non indicato,femmine,45-54 anni,2022,53
+non indicato,femmine,45-54 anni,2023,327
+non indicato,femmine,45-54 anni,2024,67
+non indicato,femmine,55-64 anni,2015,27
+non indicato,femmine,55-64 anni,2016,23
+non indicato,femmine,55-64 anni,2017,65
+non indicato,femmine,55-64 anni,2018,46
+non indicato,femmine,55-64 anni,2019,21
+non indicato,femmine,55-64 anni,2020,120
+non indicato,femmine,55-64 anni,2021,53
+non indicato,femmine,55-64 anni,2022,21
+non indicato,femmine,55-64 anni,2023,108
+non indicato,femmine,55-64 anni,2024,28
+non indicato,femmine,65 anni e più,2015,19
+non indicato,femmine,65 anni e più,2016,27
+non indicato,femmine,65 anni e più,2017,46
+non indicato,femmine,65 anni e più,2018,28
+non indicato,femmine,65 anni e più,2019,21
+non indicato,femmine,65 anni e più,2020,147
+non indicato,femmine,65 anni e più,2021,70
+non indicato,femmine,65 anni e più,2022,28
+non indicato,femmine,65 anni e più,2023,154
+non indicato,femmine,65 anni e più,2024,77
+non indicato,femmine,non disponibile,2015,150
+non indicato,femmine,non disponibile,2016,134
+non indicato,femmine,non disponibile,2017,349
+non indicato,femmine,non disponibile,2018,345
+non indicato,femmine,non disponibile,2019,237
+non indicato,femmine,non disponibile,2020,1262
+non indicato,femmine,non disponibile,2021,1296
+non indicato,femmine,non disponibile,2022,856
+non indicato,femmine,non disponibile,2023,402
+non indicato,femmine,non disponibile,2024,520
+non indicato,non indicato,non indicato,2023,14
+non indicato,non indicato,non indicato,2024,10
+non indicato,non indicato,fino a 17 anni,2023,5
+non indicato,non indicato,fino a 17 anni,2024,2
+non indicato,non indicato,18-24 anni,2023,3
+non indicato,non indicato,18-24 anni,2024,1
+non indicato,non indicato,non disponibile,2015,1
+non indicato,non indicato,non disponibile,2019,2
+non indicato,non indicato,non disponibile,2020,9
+non indicato,non indicato,non disponibile,2021,11
+non indicato,non indicato,non disponibile,2022,15
+non indicato,non indicato,non disponibile,2023,1134
+non indicato,non indicato,non disponibile,2024,833

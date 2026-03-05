@@ -1,0 +1,1931 @@
+﻿territorio,sesso,motivo_chiamata,periodo,numero_vittime
+italia,maschi,richiesta di aiuto vittima di stalking,2015,97
+italia,maschi,richiesta di aiuto vittima di stalking,2016,111
+italia,maschi,richiesta di aiuto vittima di stalking,2017,91
+italia,maschi,richiesta di aiuto vittima di stalking,2018,61
+italia,maschi,richiesta di aiuto vittima di stalking,2019,51
+italia,maschi,richiesta di aiuto vittima di stalking,2020,118
+italia,maschi,richiesta di aiuto vittima di stalking,2021,140
+italia,maschi,richiesta di aiuto vittima di stalking,2022,79
+italia,maschi,richiesta di aiuto vittima di stalking,2023,108
+italia,maschi,richiesta di aiuto vittima di stalking,2024,119
+italia,maschi,richiesta di aiuto vittima di violenza,2015,154
+italia,maschi,richiesta di aiuto vittima di violenza,2016,122
+italia,maschi,richiesta di aiuto vittima di violenza,2017,134
+italia,maschi,richiesta di aiuto vittima di violenza,2018,148
+italia,maschi,richiesta di aiuto vittima di violenza,2019,128
+italia,maschi,richiesta di aiuto vittima di violenza,2020,342
+italia,maschi,richiesta di aiuto vittima di violenza,2021,314
+italia,maschi,richiesta di aiuto vittima di violenza,2022,134
+italia,maschi,richiesta di aiuto vittima di violenza,2023,245
+italia,maschi,richiesta di aiuto vittima di violenza,2024,234
+italia,maschi,richiesta di aiuto per discriminazione,2016,1
+italia,maschi,richiesta di aiuto per discriminazione,2020,6
+italia,maschi,richiesta di aiuto per discriminazione,2021,5
+italia,maschi,richiesta di aiuto per discriminazione,2022,3
+italia,maschi,segnalazione di un caso di violenza,2015,44
+italia,maschi,segnalazione di un caso di violenza,2016,55
+italia,maschi,segnalazione di un caso di violenza,2017,50
+italia,maschi,segnalazione di un caso di violenza,2018,42
+italia,maschi,segnalazione di un caso di violenza,2019,27
+italia,maschi,segnalazione di un caso di violenza,2020,101
+italia,maschi,segnalazione di un caso di violenza,2021,80
+italia,maschi,segnalazione di un caso di violenza,2022,44
+italia,maschi,segnalazione di un caso di violenza,2023,72
+italia,maschi,segnalazione di un caso di violenza,2024,80
+italia,maschi,emergenza,2015,16
+italia,maschi,emergenza,2016,6
+italia,maschi,emergenza,2017,11
+italia,maschi,emergenza,2018,10
+italia,maschi,emergenza,2019,12
+italia,maschi,emergenza,2020,4
+italia,maschi,emergenza,2021,1
+italia,maschi,emergenza,2022,2
+italia,femmine,richiesta di aiuto vittima di stalking,2015,924
+italia,femmine,richiesta di aiuto vittima di stalking,2016,875
+italia,femmine,richiesta di aiuto vittima di stalking,2017,827
+italia,femmine,richiesta di aiuto vittima di stalking,2018,865
+italia,femmine,richiesta di aiuto vittima di stalking,2019,846
+italia,femmine,richiesta di aiuto vittima di stalking,2020,1224
+italia,femmine,richiesta di aiuto vittima di stalking,2021,1372
+italia,femmine,richiesta di aiuto vittima di stalking,2022,1056
+italia,femmine,richiesta di aiuto vittima di stalking,2023,1380
+italia,femmine,richiesta di aiuto vittima di stalking,2024,1872
+italia,femmine,richiesta di aiuto vittima di violenza,2015,5177
+italia,femmine,richiesta di aiuto vittima di violenza,2016,5312
+italia,femmine,richiesta di aiuto vittima di violenza,2017,5347
+italia,femmine,richiesta di aiuto vittima di violenza,2018,6906
+italia,femmine,richiesta di aiuto vittima di violenza,2019,6355
+italia,femmine,richiesta di aiuto vittima di violenza,2020,11310
+italia,femmine,richiesta di aiuto vittima di violenza,2021,11481
+italia,femmine,richiesta di aiuto vittima di violenza,2022,8993
+italia,femmine,richiesta di aiuto vittima di violenza,2023,11013
+italia,femmine,richiesta di aiuto vittima di violenza,2024,12435
+italia,femmine,richiesta di aiuto per discriminazione,2020,3
+italia,femmine,richiesta di aiuto per discriminazione,2021,6
+italia,femmine,richiesta di aiuto per discriminazione,2022,1
+italia,femmine,segnalazione di un caso di violenza,2015,1506
+italia,femmine,segnalazione di un caso di violenza,2016,1526
+italia,femmine,segnalazione di un caso di violenza,2017,1455
+italia,femmine,segnalazione di un caso di violenza,2018,1373
+italia,femmine,segnalazione di un caso di violenza,2019,1066
+italia,femmine,segnalazione di un caso di violenza,2020,2472
+italia,femmine,segnalazione di un caso di violenza,2021,2799
+italia,femmine,segnalazione di un caso di violenza,2022,1565
+italia,femmine,segnalazione di un caso di violenza,2023,2062
+italia,femmine,segnalazione di un caso di violenza,2024,1810
+italia,femmine,emergenza,2015,163
+italia,femmine,emergenza,2016,117
+italia,femmine,emergenza,2017,170
+italia,femmine,emergenza,2018,197
+italia,femmine,emergenza,2019,160
+italia,femmine,emergenza,2020,119
+italia,femmine,emergenza,2021,62
+italia,femmine,emergenza,2022,17
+italia,non indicato,richiesta di aiuto vittima di stalking,2023,108
+italia,non indicato,richiesta di aiuto vittima di stalking,2024,124
+italia,non indicato,richiesta di aiuto vittima di violenza,2023,1048
+italia,non indicato,richiesta di aiuto vittima di violenza,2024,826
+italia,non indicato,richiesta di aiuto per discriminazione,2021,1
+italia,non indicato,segnalazione di un caso di violenza,2023,164
+italia,non indicato,segnalazione di un caso di violenza,2024,90
+italia,non indicato,emergenza,2015,1
+italia,non indicato,emergenza,2019,2
+italia,non indicato,emergenza,2020,9
+italia,non indicato,emergenza,2021,11
+italia,non indicato,emergenza,2022,15
+italia,non indicato,emergenza,2023,83
+italia,non indicato,emergenza,2024,41
+nord ovest,maschi,richiesta di aiuto vittima di stalking,2015,32
+nord ovest,maschi,richiesta di aiuto vittima di stalking,2016,28
+nord ovest,maschi,richiesta di aiuto vittima di stalking,2017,17
+nord ovest,maschi,richiesta di aiuto vittima di stalking,2018,16
+nord ovest,maschi,richiesta di aiuto vittima di stalking,2019,12
+nord ovest,maschi,richiesta di aiuto vittima di stalking,2020,20
+nord ovest,maschi,richiesta di aiuto vittima di stalking,2021,26
+nord ovest,maschi,richiesta di aiuto vittima di stalking,2022,15
+nord ovest,maschi,richiesta di aiuto vittima di stalking,2023,22
+nord ovest,maschi,richiesta di aiuto vittima di stalking,2024,26
+nord ovest,maschi,richiesta di aiuto vittima di violenza,2015,29
+nord ovest,maschi,richiesta di aiuto vittima di violenza,2016,26
+nord ovest,maschi,richiesta di aiuto vittima di violenza,2017,38
+nord ovest,maschi,richiesta di aiuto vittima di violenza,2018,29
+nord ovest,maschi,richiesta di aiuto vittima di violenza,2019,34
+nord ovest,maschi,richiesta di aiuto vittima di violenza,2020,58
+nord ovest,maschi,richiesta di aiuto vittima di violenza,2021,59
+nord ovest,maschi,richiesta di aiuto vittima di violenza,2022,25
+nord ovest,maschi,richiesta di aiuto vittima di violenza,2023,50
+nord ovest,maschi,richiesta di aiuto vittima di violenza,2024,46
+nord ovest,maschi,richiesta di aiuto per discriminazione,2020,1
+nord ovest,maschi,richiesta di aiuto per discriminazione,2022,1
+nord ovest,maschi,segnalazione di un caso di violenza,2015,10
+nord ovest,maschi,segnalazione di un caso di violenza,2016,10
+nord ovest,maschi,segnalazione di un caso di violenza,2017,12
+nord ovest,maschi,segnalazione di un caso di violenza,2018,15
+nord ovest,maschi,segnalazione di un caso di violenza,2019,8
+nord ovest,maschi,segnalazione di un caso di violenza,2020,22
+nord ovest,maschi,segnalazione di un caso di violenza,2021,18
+nord ovest,maschi,segnalazione di un caso di violenza,2022,9
+nord ovest,maschi,segnalazione di un caso di violenza,2023,24
+nord ovest,maschi,segnalazione di un caso di violenza,2024,18
+nord ovest,maschi,emergenza,2015,1
+nord ovest,maschi,emergenza,2017,4
+nord ovest,maschi,emergenza,2018,1
+nord ovest,maschi,emergenza,2019,2
+nord ovest,maschi,emergenza,2020,1
+nord ovest,maschi,emergenza,2022,1
+nord ovest,femmine,richiesta di aiuto vittima di stalking,2015,263
+nord ovest,femmine,richiesta di aiuto vittima di stalking,2016,222
+nord ovest,femmine,richiesta di aiuto vittima di stalking,2017,208
+nord ovest,femmine,richiesta di aiuto vittima di stalking,2018,242
+nord ovest,femmine,richiesta di aiuto vittima di stalking,2019,212
+nord ovest,femmine,richiesta di aiuto vittima di stalking,2020,296
+nord ovest,femmine,richiesta di aiuto vittima di stalking,2021,297
+nord ovest,femmine,richiesta di aiuto vittima di stalking,2022,258
+nord ovest,femmine,richiesta di aiuto vittima di stalking,2023,330
+nord ovest,femmine,richiesta di aiuto vittima di stalking,2024,534
+nord ovest,femmine,richiesta di aiuto vittima di violenza,2015,1357
+nord ovest,femmine,richiesta di aiuto vittima di violenza,2016,1473
+nord ovest,femmine,richiesta di aiuto vittima di violenza,2017,1395
+nord ovest,femmine,richiesta di aiuto vittima di violenza,2018,1689
+nord ovest,femmine,richiesta di aiuto vittima di violenza,2019,1616
+nord ovest,femmine,richiesta di aiuto vittima di violenza,2020,2630
+nord ovest,femmine,richiesta di aiuto vittima di violenza,2021,2612
+nord ovest,femmine,richiesta di aiuto vittima di violenza,2022,2135
+nord ovest,femmine,richiesta di aiuto vittima di violenza,2023,2536
+nord ovest,femmine,richiesta di aiuto vittima di violenza,2024,3322
+nord ovest,femmine,richiesta di aiuto per discriminazione,2021,2
+nord ovest,femmine,segnalazione di un caso di violenza,2015,410
+nord ovest,femmine,segnalazione di un caso di violenza,2016,506
+nord ovest,femmine,segnalazione di un caso di violenza,2017,436
+nord ovest,femmine,segnalazione di un caso di violenza,2018,351
+nord ovest,femmine,segnalazione di un caso di violenza,2019,299
+nord ovest,femmine,segnalazione di un caso di violenza,2020,616
+nord ovest,femmine,segnalazione di un caso di violenza,2021,606
+nord ovest,femmine,segnalazione di un caso di violenza,2022,397
+nord ovest,femmine,segnalazione di un caso di violenza,2023,518
+nord ovest,femmine,segnalazione di un caso di violenza,2024,479
+nord ovest,femmine,emergenza,2015,47
+nord ovest,femmine,emergenza,2016,12
+nord ovest,femmine,emergenza,2017,36
+nord ovest,femmine,emergenza,2018,38
+nord ovest,femmine,emergenza,2019,32
+nord ovest,femmine,emergenza,2020,30
+nord ovest,femmine,emergenza,2021,15
+nord ovest,femmine,emergenza,2022,4
+nord ovest,non indicato,richiesta di aiuto vittima di stalking,2023,5
+nord ovest,non indicato,richiesta di aiuto vittima di stalking,2024,8
+nord ovest,non indicato,richiesta di aiuto vittima di violenza,2023,36
+nord ovest,non indicato,richiesta di aiuto vittima di violenza,2024,32
+nord ovest,non indicato,segnalazione di un caso di violenza,2023,18
+nord ovest,non indicato,segnalazione di un caso di violenza,2024,1
+nord ovest,non indicato,emergenza,2023,11
+nord ovest,non indicato,emergenza,2024,9
+piemonte,maschi,richiesta di aiuto vittima di stalking,2015,9
+piemonte,maschi,richiesta di aiuto vittima di stalking,2016,6
+piemonte,maschi,richiesta di aiuto vittima di stalking,2017,2
+piemonte,maschi,richiesta di aiuto vittima di stalking,2018,1
+piemonte,maschi,richiesta di aiuto vittima di stalking,2019,3
+piemonte,maschi,richiesta di aiuto vittima di stalking,2020,6
+piemonte,maschi,richiesta di aiuto vittima di stalking,2021,5
+piemonte,maschi,richiesta di aiuto vittima di stalking,2022,2
+piemonte,maschi,richiesta di aiuto vittima di stalking,2023,3
+piemonte,maschi,richiesta di aiuto vittima di stalking,2024,9
+piemonte,maschi,richiesta di aiuto vittima di violenza,2015,13
+piemonte,maschi,richiesta di aiuto vittima di violenza,2016,10
+piemonte,maschi,richiesta di aiuto vittima di violenza,2017,20
+piemonte,maschi,richiesta di aiuto vittima di violenza,2018,9
+piemonte,maschi,richiesta di aiuto vittima di violenza,2019,10
+piemonte,maschi,richiesta di aiuto vittima di violenza,2020,14
+piemonte,maschi,richiesta di aiuto vittima di violenza,2021,25
+piemonte,maschi,richiesta di aiuto vittima di violenza,2022,5
+piemonte,maschi,richiesta di aiuto vittima di violenza,2023,12
+piemonte,maschi,richiesta di aiuto vittima di violenza,2024,12
+piemonte,maschi,richiesta di aiuto per discriminazione,2022,1
+piemonte,maschi,segnalazione di un caso di violenza,2015,2
+piemonte,maschi,segnalazione di un caso di violenza,2016,3
+piemonte,maschi,segnalazione di un caso di violenza,2017,3
+piemonte,maschi,segnalazione di un caso di violenza,2018,2
+piemonte,maschi,segnalazione di un caso di violenza,2019,2
+piemonte,maschi,segnalazione di un caso di violenza,2020,5
+piemonte,maschi,segnalazione di un caso di violenza,2021,6
+piemonte,maschi,segnalazione di un caso di violenza,2022,4
+piemonte,maschi,segnalazione di un caso di violenza,2023,4
+piemonte,maschi,segnalazione di un caso di violenza,2024,5
+piemonte,maschi,emergenza,2017,3
+piemonte,maschi,emergenza,2018,1
+piemonte,maschi,emergenza,2020,1
+piemonte,femmine,richiesta di aiuto vittima di stalking,2015,83
+piemonte,femmine,richiesta di aiuto vittima di stalking,2016,58
+piemonte,femmine,richiesta di aiuto vittima di stalking,2017,52
+piemonte,femmine,richiesta di aiuto vittima di stalking,2018,65
+piemonte,femmine,richiesta di aiuto vittima di stalking,2019,48
+piemonte,femmine,richiesta di aiuto vittima di stalking,2020,77
+piemonte,femmine,richiesta di aiuto vittima di stalking,2021,74
+piemonte,femmine,richiesta di aiuto vittima di stalking,2022,71
+piemonte,femmine,richiesta di aiuto vittima di stalking,2023,79
+piemonte,femmine,richiesta di aiuto vittima di stalking,2024,120
+piemonte,femmine,richiesta di aiuto vittima di violenza,2015,418
+piemonte,femmine,richiesta di aiuto vittima di violenza,2016,482
+piemonte,femmine,richiesta di aiuto vittima di violenza,2017,427
+piemonte,femmine,richiesta di aiuto vittima di violenza,2018,521
+piemonte,femmine,richiesta di aiuto vittima di violenza,2019,493
+piemonte,femmine,richiesta di aiuto vittima di violenza,2020,735
+piemonte,femmine,richiesta di aiuto vittima di violenza,2021,725
+piemonte,femmine,richiesta di aiuto vittima di violenza,2022,587
+piemonte,femmine,richiesta di aiuto vittima di violenza,2023,697
+piemonte,femmine,richiesta di aiuto vittima di violenza,2024,817
+piemonte,femmine,richiesta di aiuto per discriminazione,2021,2
+piemonte,femmine,segnalazione di un caso di violenza,2015,128
+piemonte,femmine,segnalazione di un caso di violenza,2016,143
+piemonte,femmine,segnalazione di un caso di violenza,2017,134
+piemonte,femmine,segnalazione di un caso di violenza,2018,109
+piemonte,femmine,segnalazione di un caso di violenza,2019,85
+piemonte,femmine,segnalazione di un caso di violenza,2020,162
+piemonte,femmine,segnalazione di un caso di violenza,2021,149
+piemonte,femmine,segnalazione di un caso di violenza,2022,89
+piemonte,femmine,segnalazione di un caso di violenza,2023,135
+piemonte,femmine,segnalazione di un caso di violenza,2024,139
+piemonte,femmine,emergenza,2015,16
+piemonte,femmine,emergenza,2016,1
+piemonte,femmine,emergenza,2017,10
+piemonte,femmine,emergenza,2018,14
+piemonte,femmine,emergenza,2019,6
+piemonte,femmine,emergenza,2020,11
+piemonte,femmine,emergenza,2021,2
+piemonte,non indicato,richiesta di aiuto vittima di stalking,2023,2
+piemonte,non indicato,richiesta di aiuto vittima di stalking,2024,1
+piemonte,non indicato,richiesta di aiuto vittima di violenza,2023,9
+piemonte,non indicato,richiesta di aiuto vittima di violenza,2024,9
+piemonte,non indicato,segnalazione di un caso di violenza,2023,4
+piemonte,non indicato,emergenza,2023,3
+liguria,maschi,richiesta di aiuto vittima di stalking,2015,5
+liguria,maschi,richiesta di aiuto vittima di stalking,2016,3
+liguria,maschi,richiesta di aiuto vittima di stalking,2017,3
+liguria,maschi,richiesta di aiuto vittima di stalking,2018,2
+liguria,maschi,richiesta di aiuto vittima di stalking,2020,2
+liguria,maschi,richiesta di aiuto vittima di stalking,2021,3
+liguria,maschi,richiesta di aiuto vittima di stalking,2022,1
+liguria,maschi,richiesta di aiuto vittima di violenza,2015,2
+liguria,maschi,richiesta di aiuto vittima di violenza,2016,2
+liguria,maschi,richiesta di aiuto vittima di violenza,2017,1
+liguria,maschi,richiesta di aiuto vittima di violenza,2018,3
+liguria,maschi,richiesta di aiuto vittima di violenza,2019,3
+liguria,maschi,richiesta di aiuto vittima di violenza,2020,13
+liguria,maschi,richiesta di aiuto vittima di violenza,2021,5
+liguria,maschi,richiesta di aiuto vittima di violenza,2022,2
+liguria,maschi,richiesta di aiuto vittima di violenza,2023,4
+liguria,maschi,richiesta di aiuto vittima di violenza,2024,7
+liguria,maschi,segnalazione di un caso di violenza,2016,1
+liguria,maschi,segnalazione di un caso di violenza,2017,1
+liguria,maschi,segnalazione di un caso di violenza,2018,1
+liguria,maschi,segnalazione di un caso di violenza,2019,1
+liguria,maschi,segnalazione di un caso di violenza,2021,1
+liguria,maschi,segnalazione di un caso di violenza,2022,1
+liguria,maschi,segnalazione di un caso di violenza,2023,4
+liguria,maschi,emergenza,2019,1
+liguria,femmine,richiesta di aiuto vittima di stalking,2015,21
+liguria,femmine,richiesta di aiuto vittima di stalking,2016,17
+liguria,femmine,richiesta di aiuto vittima di stalking,2017,16
+liguria,femmine,richiesta di aiuto vittima di stalking,2018,23
+liguria,femmine,richiesta di aiuto vittima di stalking,2019,18
+liguria,femmine,richiesta di aiuto vittima di stalking,2020,26
+liguria,femmine,richiesta di aiuto vittima di stalking,2021,36
+liguria,femmine,richiesta di aiuto vittima di stalking,2022,23
+liguria,femmine,richiesta di aiuto vittima di stalking,2023,22
+liguria,femmine,richiesta di aiuto vittima di stalking,2024,41
+liguria,femmine,richiesta di aiuto vittima di violenza,2015,141
+liguria,femmine,richiesta di aiuto vittima di violenza,2016,138
+liguria,femmine,richiesta di aiuto vittima di violenza,2017,129
+liguria,femmine,richiesta di aiuto vittima di violenza,2018,175
+liguria,femmine,richiesta di aiuto vittima di violenza,2019,140
+liguria,femmine,richiesta di aiuto vittima di violenza,2020,227
+liguria,femmine,richiesta di aiuto vittima di violenza,2021,233
+liguria,femmine,richiesta di aiuto vittima di violenza,2022,181
+liguria,femmine,richiesta di aiuto vittima di violenza,2023,199
+liguria,femmine,richiesta di aiuto vittima di violenza,2024,284
+liguria,femmine,segnalazione di un caso di violenza,2015,38
+liguria,femmine,segnalazione di un caso di violenza,2016,51
+liguria,femmine,segnalazione di un caso di violenza,2017,37
+liguria,femmine,segnalazione di un caso di violenza,2018,29
+liguria,femmine,segnalazione di un caso di violenza,2019,26
+liguria,femmine,segnalazione di un caso di violenza,2020,52
+liguria,femmine,segnalazione di un caso di violenza,2021,40
+liguria,femmine,segnalazione di un caso di violenza,2022,27
+liguria,femmine,segnalazione di un caso di violenza,2023,42
+liguria,femmine,segnalazione di un caso di violenza,2024,35
+liguria,femmine,emergenza,2015,5
+liguria,femmine,emergenza,2016,3
+liguria,femmine,emergenza,2017,1
+liguria,femmine,emergenza,2018,1
+liguria,femmine,emergenza,2020,2
+liguria,femmine,emergenza,2021,1
+liguria,non indicato,richiesta di aiuto vittima di stalking,2023,1
+liguria,non indicato,richiesta di aiuto vittima di stalking,2024,1
+liguria,non indicato,richiesta di aiuto vittima di violenza,2023,2
+liguria,non indicato,richiesta di aiuto vittima di violenza,2024,2
+liguria,non indicato,segnalazione di un caso di violenza,2023,1
+liguria,non indicato,emergenza,2023,2
+lombardia,maschi,richiesta di aiuto vittima di stalking,2015,18
+lombardia,maschi,richiesta di aiuto vittima di stalking,2016,19
+lombardia,maschi,richiesta di aiuto vittima di stalking,2017,11
+lombardia,maschi,richiesta di aiuto vittima di stalking,2018,13
+lombardia,maschi,richiesta di aiuto vittima di stalking,2019,9
+lombardia,maschi,richiesta di aiuto vittima di stalking,2020,12
+lombardia,maschi,richiesta di aiuto vittima di stalking,2021,18
+lombardia,maschi,richiesta di aiuto vittima di stalking,2022,12
+lombardia,maschi,richiesta di aiuto vittima di stalking,2023,19
+lombardia,maschi,richiesta di aiuto vittima di stalking,2024,17
+lombardia,maschi,richiesta di aiuto vittima di violenza,2015,14
+lombardia,maschi,richiesta di aiuto vittima di violenza,2016,14
+lombardia,maschi,richiesta di aiuto vittima di violenza,2017,17
+lombardia,maschi,richiesta di aiuto vittima di violenza,2018,17
+lombardia,maschi,richiesta di aiuto vittima di violenza,2019,21
+lombardia,maschi,richiesta di aiuto vittima di violenza,2020,31
+lombardia,maschi,richiesta di aiuto vittima di violenza,2021,29
+lombardia,maschi,richiesta di aiuto vittima di violenza,2022,16
+lombardia,maschi,richiesta di aiuto vittima di violenza,2023,34
+lombardia,maschi,richiesta di aiuto vittima di violenza,2024,25
+lombardia,maschi,richiesta di aiuto per discriminazione,2020,1
+lombardia,maschi,segnalazione di un caso di violenza,2015,8
+lombardia,maschi,segnalazione di un caso di violenza,2016,6
+lombardia,maschi,segnalazione di un caso di violenza,2017,8
+lombardia,maschi,segnalazione di un caso di violenza,2018,11
+lombardia,maschi,segnalazione di un caso di violenza,2019,5
+lombardia,maschi,segnalazione di un caso di violenza,2020,17
+lombardia,maschi,segnalazione di un caso di violenza,2021,11
+lombardia,maschi,segnalazione di un caso di violenza,2022,4
+lombardia,maschi,segnalazione di un caso di violenza,2023,16
+lombardia,maschi,segnalazione di un caso di violenza,2024,13
+lombardia,maschi,emergenza,2015,1
+lombardia,maschi,emergenza,2017,1
+lombardia,maschi,emergenza,2019,1
+lombardia,maschi,emergenza,2022,1
+lombardia,femmine,richiesta di aiuto vittima di stalking,2015,158
+lombardia,femmine,richiesta di aiuto vittima di stalking,2016,147
+lombardia,femmine,richiesta di aiuto vittima di stalking,2017,139
+lombardia,femmine,richiesta di aiuto vittima di stalking,2018,152
+lombardia,femmine,richiesta di aiuto vittima di stalking,2019,144
+lombardia,femmine,richiesta di aiuto vittima di stalking,2020,192
+lombardia,femmine,richiesta di aiuto vittima di stalking,2021,187
+lombardia,femmine,richiesta di aiuto vittima di stalking,2022,162
+lombardia,femmine,richiesta di aiuto vittima di stalking,2023,227
+lombardia,femmine,richiesta di aiuto vittima di stalking,2024,372
+lombardia,femmine,richiesta di aiuto vittima di violenza,2015,791
+lombardia,femmine,richiesta di aiuto vittima di violenza,2016,848
+lombardia,femmine,richiesta di aiuto vittima di violenza,2017,833
+lombardia,femmine,richiesta di aiuto vittima di violenza,2018,986
+lombardia,femmine,richiesta di aiuto vittima di violenza,2019,976
+lombardia,femmine,richiesta di aiuto vittima di violenza,2020,1654
+lombardia,femmine,richiesta di aiuto vittima di violenza,2021,1650
+lombardia,femmine,richiesta di aiuto vittima di violenza,2022,1356
+lombardia,femmine,richiesta di aiuto vittima di violenza,2023,1636
+lombardia,femmine,richiesta di aiuto vittima di violenza,2024,2200
+lombardia,femmine,segnalazione di un caso di violenza,2015,240
+lombardia,femmine,segnalazione di un caso di violenza,2016,306
+lombardia,femmine,segnalazione di un caso di violenza,2017,264
+lombardia,femmine,segnalazione di un caso di violenza,2018,213
+lombardia,femmine,segnalazione di un caso di violenza,2019,188
+lombardia,femmine,segnalazione di un caso di violenza,2020,401
+lombardia,femmine,segnalazione di un caso di violenza,2021,415
+lombardia,femmine,segnalazione di un caso di violenza,2022,280
+lombardia,femmine,segnalazione di un caso di violenza,2023,341
+lombardia,femmine,segnalazione di un caso di violenza,2024,305
+lombardia,femmine,emergenza,2015,26
+lombardia,femmine,emergenza,2016,8
+lombardia,femmine,emergenza,2017,24
+lombardia,femmine,emergenza,2018,23
+lombardia,femmine,emergenza,2019,26
+lombardia,femmine,emergenza,2020,16
+lombardia,femmine,emergenza,2021,12
+lombardia,femmine,emergenza,2022,4
+lombardia,non indicato,richiesta di aiuto vittima di stalking,2023,2
+lombardia,non indicato,richiesta di aiuto vittima di stalking,2024,6
+lombardia,non indicato,richiesta di aiuto vittima di violenza,2023,25
+lombardia,non indicato,richiesta di aiuto vittima di violenza,2024,21
+lombardia,non indicato,segnalazione di un caso di violenza,2023,12
+lombardia,non indicato,segnalazione di un caso di violenza,2024,1
+lombardia,non indicato,emergenza,2023,6
+lombardia,non indicato,emergenza,2024,9
+nord est,maschi,richiesta di aiuto vittima di stalking,2015,17
+nord est,maschi,richiesta di aiuto vittima di stalking,2016,13
+nord est,maschi,richiesta di aiuto vittima di stalking,2017,14
+nord est,maschi,richiesta di aiuto vittima di stalking,2018,8
+nord est,maschi,richiesta di aiuto vittima di stalking,2019,10
+nord est,maschi,richiesta di aiuto vittima di stalking,2020,25
+nord est,maschi,richiesta di aiuto vittima di stalking,2021,25
+nord est,maschi,richiesta di aiuto vittima di stalking,2022,9
+nord est,maschi,richiesta di aiuto vittima di stalking,2023,17
+nord est,maschi,richiesta di aiuto vittima di stalking,2024,15
+nord est,maschi,richiesta di aiuto vittima di violenza,2015,24
+nord est,maschi,richiesta di aiuto vittima di violenza,2016,18
+nord est,maschi,richiesta di aiuto vittima di violenza,2017,14
+nord est,maschi,richiesta di aiuto vittima di violenza,2018,20
+nord est,maschi,richiesta di aiuto vittima di violenza,2019,17
+nord est,maschi,richiesta di aiuto vittima di violenza,2020,43
+nord est,maschi,richiesta di aiuto vittima di violenza,2021,28
+nord est,maschi,richiesta di aiuto vittima di violenza,2022,14
+nord est,maschi,richiesta di aiuto vittima di violenza,2023,39
+nord est,maschi,richiesta di aiuto vittima di violenza,2024,26
+nord est,maschi,richiesta di aiuto per discriminazione,2020,2
+nord est,maschi,richiesta di aiuto per discriminazione,2021,1
+nord est,maschi,segnalazione di un caso di violenza,2015,7
+nord est,maschi,segnalazione di un caso di violenza,2016,7
+nord est,maschi,segnalazione di un caso di violenza,2017,7
+nord est,maschi,segnalazione di un caso di violenza,2018,2
+nord est,maschi,segnalazione di un caso di violenza,2019,4
+nord est,maschi,segnalazione di un caso di violenza,2020,8
+nord est,maschi,segnalazione di un caso di violenza,2021,7
+nord est,maschi,segnalazione di un caso di violenza,2022,5
+nord est,maschi,segnalazione di un caso di violenza,2023,4
+nord est,maschi,segnalazione di un caso di violenza,2024,9
+nord est,maschi,emergenza,2015,1
+nord est,maschi,emergenza,2016,1
+nord est,maschi,emergenza,2017,1
+nord est,maschi,emergenza,2018,1
+nord est,maschi,emergenza,2019,1
+nord est,maschi,emergenza,2022,1
+nord est,femmine,richiesta di aiuto vittima di stalking,2015,93
+nord est,femmine,richiesta di aiuto vittima di stalking,2016,111
+nord est,femmine,richiesta di aiuto vittima di stalking,2017,102
+nord est,femmine,richiesta di aiuto vittima di stalking,2018,107
+nord est,femmine,richiesta di aiuto vittima di stalking,2019,122
+nord est,femmine,richiesta di aiuto vittima di stalking,2020,154
+nord est,femmine,richiesta di aiuto vittima di stalking,2021,218
+nord est,femmine,richiesta di aiuto vittima di stalking,2022,157
+nord est,femmine,richiesta di aiuto vittima di stalking,2023,222
+nord est,femmine,richiesta di aiuto vittima di stalking,2024,386
+nord est,femmine,richiesta di aiuto vittima di violenza,2015,687
+nord est,femmine,richiesta di aiuto vittima di violenza,2016,692
+nord est,femmine,richiesta di aiuto vittima di violenza,2017,678
+nord est,femmine,richiesta di aiuto vittima di violenza,2018,943
+nord est,femmine,richiesta di aiuto vittima di violenza,2019,912
+nord est,femmine,richiesta di aiuto vittima di violenza,2020,1529
+nord est,femmine,richiesta di aiuto vittima di violenza,2021,1650
+nord est,femmine,richiesta di aiuto vittima di violenza,2022,1350
+nord est,femmine,richiesta di aiuto vittima di violenza,2023,1634
+nord est,femmine,richiesta di aiuto vittima di violenza,2024,2325
+nord est,femmine,richiesta di aiuto per discriminazione,2020,1
+nord est,femmine,richiesta di aiuto per discriminazione,2021,2
+nord est,femmine,segnalazione di un caso di violenza,2015,228
+nord est,femmine,segnalazione di un caso di violenza,2016,193
+nord est,femmine,segnalazione di un caso di violenza,2017,184
+nord est,femmine,segnalazione di un caso di violenza,2018,179
+nord est,femmine,segnalazione di un caso di violenza,2019,140
+nord est,femmine,segnalazione di un caso di violenza,2020,308
+nord est,femmine,segnalazione di un caso di violenza,2021,400
+nord est,femmine,segnalazione di un caso di violenza,2022,195
+nord est,femmine,segnalazione di un caso di violenza,2023,319
+nord est,femmine,segnalazione di un caso di violenza,2024,301
+nord est,femmine,emergenza,2015,18
+nord est,femmine,emergenza,2016,13
+nord est,femmine,emergenza,2017,11
+nord est,femmine,emergenza,2018,26
+nord est,femmine,emergenza,2019,22
+nord est,femmine,emergenza,2020,13
+nord est,femmine,emergenza,2021,8
+nord est,non indicato,richiesta di aiuto vittima di stalking,2023,5
+nord est,non indicato,richiesta di aiuto vittima di stalking,2024,2
+nord est,non indicato,richiesta di aiuto vittima di violenza,2023,14
+nord est,non indicato,richiesta di aiuto vittima di violenza,2024,40
+nord est,non indicato,segnalazione di un caso di violenza,2023,4
+nord est,non indicato,segnalazione di un caso di violenza,2024,3
+nord est,non indicato,emergenza,2023,13
+nord est,non indicato,emergenza,2024,7
+trentino alto adige,maschi,richiesta di aiuto vittima di stalking,2020,1
+trentino alto adige,maschi,richiesta di aiuto vittima di stalking,2023,2
+trentino alto adige,maschi,richiesta di aiuto vittima di stalking,2024,1
+trentino alto adige,maschi,richiesta di aiuto vittima di violenza,2023,2
+trentino alto adige,maschi,richiesta di aiuto vittima di violenza,2024,3
+trentino alto adige,femmine,richiesta di aiuto vittima di stalking,2020,1
+trentino alto adige,femmine,richiesta di aiuto vittima di stalking,2023,15
+trentino alto adige,femmine,richiesta di aiuto vittima di stalking,2024,24
+trentino alto adige,femmine,richiesta di aiuto vittima di violenza,2020,2
+trentino alto adige,femmine,richiesta di aiuto vittima di violenza,2021,2
+trentino alto adige,femmine,richiesta di aiuto vittima di violenza,2022,1
+trentino alto adige,femmine,richiesta di aiuto vittima di violenza,2023,104
+trentino alto adige,femmine,richiesta di aiuto vittima di violenza,2024,109
+trentino alto adige,femmine,segnalazione di un caso di violenza,2020,3
+trentino alto adige,femmine,segnalazione di un caso di violenza,2021,1
+trentino alto adige,femmine,segnalazione di un caso di violenza,2023,21
+trentino alto adige,femmine,segnalazione di un caso di violenza,2024,17
+trentino alto adige,non indicato,emergenza,2023,2
+bolzano,maschi,richiesta di aiuto vittima di stalking,2015,1
+bolzano,maschi,richiesta di aiuto vittima di stalking,2020,1
+bolzano,maschi,richiesta di aiuto vittima di violenza,2015,1
+bolzano,maschi,richiesta di aiuto vittima di violenza,2021,3
+bolzano,maschi,richiesta di aiuto vittima di violenza,2022,2
+bolzano,maschi,richiesta di aiuto per discriminazione,2020,1
+bolzano,maschi,segnalazione di un caso di violenza,2020,2
+bolzano,femmine,richiesta di aiuto vittima di stalking,2015,1
+bolzano,femmine,richiesta di aiuto vittima di stalking,2017,2
+bolzano,femmine,richiesta di aiuto vittima di stalking,2018,4
+bolzano,femmine,richiesta di aiuto vittima di stalking,2019,2
+bolzano,femmine,richiesta di aiuto vittima di stalking,2020,2
+bolzano,femmine,richiesta di aiuto vittima di stalking,2021,5
+bolzano,femmine,richiesta di aiuto vittima di stalking,2022,5
+bolzano,femmine,richiesta di aiuto vittima di violenza,2015,9
+bolzano,femmine,richiesta di aiuto vittima di violenza,2016,11
+bolzano,femmine,richiesta di aiuto vittima di violenza,2017,5
+bolzano,femmine,richiesta di aiuto vittima di violenza,2018,9
+bolzano,femmine,richiesta di aiuto vittima di violenza,2019,11
+bolzano,femmine,richiesta di aiuto vittima di violenza,2020,23
+bolzano,femmine,richiesta di aiuto vittima di violenza,2021,23
+bolzano,femmine,richiesta di aiuto vittima di violenza,2022,28
+bolzano,femmine,segnalazione di un caso di violenza,2015,2
+bolzano,femmine,segnalazione di un caso di violenza,2016,3
+bolzano,femmine,segnalazione di un caso di violenza,2018,1
+bolzano,femmine,segnalazione di un caso di violenza,2019,6
+bolzano,femmine,segnalazione di un caso di violenza,2020,2
+bolzano,femmine,segnalazione di un caso di violenza,2021,10
+bolzano,femmine,segnalazione di un caso di violenza,2022,9
+bolzano,femmine,emergenza,2020,1
+trento,maschi,richiesta di aiuto vittima di stalking,2016,2
+trento,maschi,richiesta di aiuto vittima di stalking,2021,2
+trento,maschi,richiesta di aiuto vittima di violenza,2015,1
+trento,maschi,richiesta di aiuto vittima di violenza,2016,1
+trento,maschi,richiesta di aiuto vittima di violenza,2017,1
+trento,maschi,richiesta di aiuto vittima di violenza,2018,2
+trento,maschi,richiesta di aiuto vittima di violenza,2020,6
+trento,maschi,richiesta di aiuto vittima di violenza,2021,8
+trento,maschi,richiesta di aiuto vittima di violenza,2022,1
+trento,maschi,segnalazione di un caso di violenza,2015,1
+trento,maschi,segnalazione di un caso di violenza,2017,1
+trento,maschi,emergenza,2015,3
+trento,maschi,emergenza,2018,1
+trento,femmine,richiesta di aiuto vittima di stalking,2015,4
+trento,femmine,richiesta di aiuto vittima di stalking,2016,4
+trento,femmine,richiesta di aiuto vittima di stalking,2017,1
+trento,femmine,richiesta di aiuto vittima di stalking,2018,7
+trento,femmine,richiesta di aiuto vittima di stalking,2019,6
+trento,femmine,richiesta di aiuto vittima di stalking,2020,6
+trento,femmine,richiesta di aiuto vittima di stalking,2021,5
+trento,femmine,richiesta di aiuto vittima di stalking,2022,9
+trento,femmine,richiesta di aiuto vittima di violenza,2015,26
+trento,femmine,richiesta di aiuto vittima di violenza,2016,30
+trento,femmine,richiesta di aiuto vittima di violenza,2017,16
+trento,femmine,richiesta di aiuto vittima di violenza,2018,40
+trento,femmine,richiesta di aiuto vittima di violenza,2019,44
+trento,femmine,richiesta di aiuto vittima di violenza,2020,61
+trento,femmine,richiesta di aiuto vittima di violenza,2021,86
+trento,femmine,richiesta di aiuto vittima di violenza,2022,57
+trento,femmine,segnalazione di un caso di violenza,2015,6
+trento,femmine,segnalazione di un caso di violenza,2016,7
+trento,femmine,segnalazione di un caso di violenza,2017,6
+trento,femmine,segnalazione di un caso di violenza,2018,8
+trento,femmine,segnalazione di un caso di violenza,2019,12
+trento,femmine,segnalazione di un caso di violenza,2020,9
+trento,femmine,segnalazione di un caso di violenza,2021,22
+trento,femmine,segnalazione di un caso di violenza,2022,9
+trento,femmine,emergenza,2018,2
+veneto,maschi,richiesta di aiuto vittima di stalking,2015,10
+veneto,maschi,richiesta di aiuto vittima di stalking,2016,4
+veneto,maschi,richiesta di aiuto vittima di stalking,2017,6
+veneto,maschi,richiesta di aiuto vittima di stalking,2018,5
+veneto,maschi,richiesta di aiuto vittima di stalking,2019,5
+veneto,maschi,richiesta di aiuto vittima di stalking,2020,12
+veneto,maschi,richiesta di aiuto vittima di stalking,2021,13
+veneto,maschi,richiesta di aiuto vittima di stalking,2022,2
+veneto,maschi,richiesta di aiuto vittima di stalking,2023,7
+veneto,maschi,richiesta di aiuto vittima di stalking,2024,5
+veneto,maschi,richiesta di aiuto vittima di violenza,2015,11
+veneto,maschi,richiesta di aiuto vittima di violenza,2016,8
+veneto,maschi,richiesta di aiuto vittima di violenza,2017,6
+veneto,maschi,richiesta di aiuto vittima di violenza,2018,11
+veneto,maschi,richiesta di aiuto vittima di violenza,2019,8
+veneto,maschi,richiesta di aiuto vittima di violenza,2020,18
+veneto,maschi,richiesta di aiuto vittima di violenza,2021,9
+veneto,maschi,richiesta di aiuto vittima di violenza,2022,8
+veneto,maschi,richiesta di aiuto vittima di violenza,2023,18
+veneto,maschi,richiesta di aiuto vittima di violenza,2024,12
+veneto,maschi,richiesta di aiuto per discriminazione,2020,2
+veneto,maschi,richiesta di aiuto per discriminazione,2021,1
+veneto,maschi,segnalazione di un caso di violenza,2015,3
+veneto,maschi,segnalazione di un caso di violenza,2016,5
+veneto,maschi,segnalazione di un caso di violenza,2017,3
+veneto,maschi,segnalazione di un caso di violenza,2018,1
+veneto,maschi,segnalazione di un caso di violenza,2019,2
+veneto,maschi,segnalazione di un caso di violenza,2020,4
+veneto,maschi,segnalazione di un caso di violenza,2021,5
+veneto,maschi,segnalazione di un caso di violenza,2023,3
+veneto,maschi,segnalazione di un caso di violenza,2024,3
+veneto,maschi,emergenza,2016,1
+veneto,maschi,emergenza,2018,1
+veneto,femmine,richiesta di aiuto vittima di stalking,2015,40
+veneto,femmine,richiesta di aiuto vittima di stalking,2016,50
+veneto,femmine,richiesta di aiuto vittima di stalking,2017,50
+veneto,femmine,richiesta di aiuto vittima di stalking,2018,56
+veneto,femmine,richiesta di aiuto vittima di stalking,2019,54
+veneto,femmine,richiesta di aiuto vittima di stalking,2020,59
+veneto,femmine,richiesta di aiuto vittima di stalking,2021,109
+veneto,femmine,richiesta di aiuto vittima di stalking,2022,74
+veneto,femmine,richiesta di aiuto vittima di stalking,2023,97
+veneto,femmine,richiesta di aiuto vittima di stalking,2024,161
+veneto,femmine,richiesta di aiuto vittima di violenza,2015,322
+veneto,femmine,richiesta di aiuto vittima di violenza,2016,319
+veneto,femmine,richiesta di aiuto vittima di violenza,2017,325
+veneto,femmine,richiesta di aiuto vittima di violenza,2018,457
+veneto,femmine,richiesta di aiuto vittima di violenza,2019,470
+veneto,femmine,richiesta di aiuto vittima di violenza,2020,738
+veneto,femmine,richiesta di aiuto vittima di violenza,2021,830
+veneto,femmine,richiesta di aiuto vittima di violenza,2022,688
+veneto,femmine,richiesta di aiuto vittima di violenza,2023,773
+veneto,femmine,richiesta di aiuto vittima di violenza,2024,1092
+veneto,femmine,segnalazione di un caso di violenza,2015,112
+veneto,femmine,segnalazione di un caso di violenza,2016,94
+veneto,femmine,segnalazione di un caso di violenza,2017,98
+veneto,femmine,segnalazione di un caso di violenza,2018,89
+veneto,femmine,segnalazione di un caso di violenza,2019,78
+veneto,femmine,segnalazione di un caso di violenza,2020,153
+veneto,femmine,segnalazione di un caso di violenza,2021,199
+veneto,femmine,segnalazione di un caso di violenza,2022,99
+veneto,femmine,segnalazione di un caso di violenza,2023,144
+veneto,femmine,segnalazione di un caso di violenza,2024,140
+veneto,femmine,emergenza,2015,6
+veneto,femmine,emergenza,2016,5
+veneto,femmine,emergenza,2017,2
+veneto,femmine,emergenza,2018,12
+veneto,femmine,emergenza,2019,9
+veneto,femmine,emergenza,2020,6
+veneto,femmine,emergenza,2021,3
+veneto,non indicato,richiesta di aiuto vittima di stalking,2023,1
+veneto,non indicato,richiesta di aiuto vittima di stalking,2024,2
+veneto,non indicato,richiesta di aiuto vittima di violenza,2023,8
+veneto,non indicato,richiesta di aiuto vittima di violenza,2024,15
+veneto,non indicato,segnalazione di un caso di violenza,2024,2
+veneto,non indicato,emergenza,2023,5
+veneto,non indicato,emergenza,2024,4
+friuli venezia giulia,maschi,richiesta di aiuto vittima di stalking,2015,3
+friuli venezia giulia,maschi,richiesta di aiuto vittima di stalking,2019,1
+friuli venezia giulia,maschi,richiesta di aiuto vittima di stalking,2020,2
+friuli venezia giulia,maschi,richiesta di aiuto vittima di stalking,2023,1
+friuli venezia giulia,maschi,richiesta di aiuto vittima di stalking,2024,1
+friuli venezia giulia,maschi,richiesta di aiuto vittima di violenza,2015,3
+friuli venezia giulia,maschi,richiesta di aiuto vittima di violenza,2016,1
+friuli venezia giulia,maschi,richiesta di aiuto vittima di violenza,2017,2
+friuli venezia giulia,maschi,richiesta di aiuto vittima di violenza,2018,3
+friuli venezia giulia,maschi,richiesta di aiuto vittima di violenza,2019,4
+friuli venezia giulia,maschi,richiesta di aiuto vittima di violenza,2020,7
+friuli venezia giulia,maschi,richiesta di aiuto vittima di violenza,2021,3
+friuli venezia giulia,maschi,richiesta di aiuto vittima di violenza,2022,1
+friuli venezia giulia,maschi,richiesta di aiuto vittima di violenza,2023,3
+friuli venezia giulia,maschi,richiesta di aiuto vittima di violenza,2024,1
+friuli venezia giulia,maschi,segnalazione di un caso di violenza,2018,1
+friuli venezia giulia,maschi,segnalazione di un caso di violenza,2020,1
+friuli venezia giulia,maschi,segnalazione di un caso di violenza,2021,1
+friuli venezia giulia,maschi,segnalazione di un caso di violenza,2022,1
+friuli venezia giulia,femmine,richiesta di aiuto vittima di stalking,2015,8
+friuli venezia giulia,femmine,richiesta di aiuto vittima di stalking,2016,13
+friuli venezia giulia,femmine,richiesta di aiuto vittima di stalking,2017,9
+friuli venezia giulia,femmine,richiesta di aiuto vittima di stalking,2018,11
+friuli venezia giulia,femmine,richiesta di aiuto vittima di stalking,2019,6
+friuli venezia giulia,femmine,richiesta di aiuto vittima di stalking,2020,14
+friuli venezia giulia,femmine,richiesta di aiuto vittima di stalking,2021,17
+friuli venezia giulia,femmine,richiesta di aiuto vittima di stalking,2022,9
+friuli venezia giulia,femmine,richiesta di aiuto vittima di stalking,2023,15
+friuli venezia giulia,femmine,richiesta di aiuto vittima di stalking,2024,38
+friuli venezia giulia,femmine,richiesta di aiuto vittima di violenza,2015,72
+friuli venezia giulia,femmine,richiesta di aiuto vittima di violenza,2016,89
+friuli venezia giulia,femmine,richiesta di aiuto vittima di violenza,2017,79
+friuli venezia giulia,femmine,richiesta di aiuto vittima di violenza,2018,100
+friuli venezia giulia,femmine,richiesta di aiuto vittima di violenza,2019,93
+friuli venezia giulia,femmine,richiesta di aiuto vittima di violenza,2020,126
+friuli venezia giulia,femmine,richiesta di aiuto vittima di violenza,2021,117
+friuli venezia giulia,femmine,richiesta di aiuto vittima di violenza,2022,103
+friuli venezia giulia,femmine,richiesta di aiuto vittima di violenza,2023,130
+friuli venezia giulia,femmine,richiesta di aiuto vittima di violenza,2024,193
+friuli venezia giulia,femmine,segnalazione di un caso di violenza,2015,23
+friuli venezia giulia,femmine,segnalazione di un caso di violenza,2016,16
+friuli venezia giulia,femmine,segnalazione di un caso di violenza,2017,16
+friuli venezia giulia,femmine,segnalazione di un caso di violenza,2018,14
+friuli venezia giulia,femmine,segnalazione di un caso di violenza,2019,6
+friuli venezia giulia,femmine,segnalazione di un caso di violenza,2020,21
+friuli venezia giulia,femmine,segnalazione di un caso di violenza,2021,34
+friuli venezia giulia,femmine,segnalazione di un caso di violenza,2022,18
+friuli venezia giulia,femmine,segnalazione di un caso di violenza,2023,23
+friuli venezia giulia,femmine,segnalazione di un caso di violenza,2024,30
+friuli venezia giulia,femmine,emergenza,2015,6
+friuli venezia giulia,femmine,emergenza,2017,2
+friuli venezia giulia,femmine,emergenza,2018,3
+friuli venezia giulia,femmine,emergenza,2019,1
+friuli venezia giulia,femmine,emergenza,2021,1
+friuli venezia giulia,non indicato,richiesta di aiuto vittima di violenza,2024,5
+friuli venezia giulia,non indicato,segnalazione di un caso di violenza,2023,1
+friuli venezia giulia,non indicato,emergenza,2023,2
+friuli venezia giulia,non indicato,emergenza,2024,1
+emilia romagna,maschi,richiesta di aiuto vittima di stalking,2015,4
+emilia romagna,maschi,richiesta di aiuto vittima di stalking,2016,9
+emilia romagna,maschi,richiesta di aiuto vittima di stalking,2017,8
+emilia romagna,maschi,richiesta di aiuto vittima di stalking,2018,3
+emilia romagna,maschi,richiesta di aiuto vittima di stalking,2019,4
+emilia romagna,maschi,richiesta di aiuto vittima di stalking,2020,10
+emilia romagna,maschi,richiesta di aiuto vittima di stalking,2021,12
+emilia romagna,maschi,richiesta di aiuto vittima di stalking,2022,7
+emilia romagna,maschi,richiesta di aiuto vittima di stalking,2023,7
+emilia romagna,maschi,richiesta di aiuto vittima di stalking,2024,8
+emilia romagna,maschi,richiesta di aiuto vittima di violenza,2015,10
+emilia romagna,maschi,richiesta di aiuto vittima di violenza,2016,9
+emilia romagna,maschi,richiesta di aiuto vittima di violenza,2017,6
+emilia romagna,maschi,richiesta di aiuto vittima di violenza,2018,6
+emilia romagna,maschi,richiesta di aiuto vittima di violenza,2019,5
+emilia romagna,maschi,richiesta di aiuto vittima di violenza,2020,18
+emilia romagna,maschi,richiesta di aiuto vittima di violenza,2021,16
+emilia romagna,maschi,richiesta di aiuto vittima di violenza,2022,5
+emilia romagna,maschi,richiesta di aiuto vittima di violenza,2023,16
+emilia romagna,maschi,richiesta di aiuto vittima di violenza,2024,10
+emilia romagna,maschi,segnalazione di un caso di violenza,2015,4
+emilia romagna,maschi,segnalazione di un caso di violenza,2016,2
+emilia romagna,maschi,segnalazione di un caso di violenza,2017,4
+emilia romagna,maschi,segnalazione di un caso di violenza,2019,2
+emilia romagna,maschi,segnalazione di un caso di violenza,2020,3
+emilia romagna,maschi,segnalazione di un caso di violenza,2021,1
+emilia romagna,maschi,segnalazione di un caso di violenza,2022,4
+emilia romagna,maschi,segnalazione di un caso di violenza,2023,1
+emilia romagna,maschi,segnalazione di un caso di violenza,2024,6
+emilia romagna,maschi,emergenza,2015,1
+emilia romagna,maschi,emergenza,2017,1
+emilia romagna,maschi,emergenza,2019,1
+emilia romagna,maschi,emergenza,2022,1
+emilia romagna,femmine,richiesta di aiuto vittima di stalking,2015,45
+emilia romagna,femmine,richiesta di aiuto vittima di stalking,2016,48
+emilia romagna,femmine,richiesta di aiuto vittima di stalking,2017,43
+emilia romagna,femmine,richiesta di aiuto vittima di stalking,2018,40
+emilia romagna,femmine,richiesta di aiuto vittima di stalking,2019,62
+emilia romagna,femmine,richiesta di aiuto vittima di stalking,2020,80
+emilia romagna,femmine,richiesta di aiuto vittima di stalking,2021,92
+emilia romagna,femmine,richiesta di aiuto vittima di stalking,2022,74
+emilia romagna,femmine,richiesta di aiuto vittima di stalking,2023,95
+emilia romagna,femmine,richiesta di aiuto vittima di stalking,2024,163
+emilia romagna,femmine,richiesta di aiuto vittima di violenza,2015,293
+emilia romagna,femmine,richiesta di aiuto vittima di violenza,2016,284
+emilia romagna,femmine,richiesta di aiuto vittima di violenza,2017,274
+emilia romagna,femmine,richiesta di aiuto vittima di violenza,2018,386
+emilia romagna,femmine,richiesta di aiuto vittima di violenza,2019,349
+emilia romagna,femmine,richiesta di aiuto vittima di violenza,2020,663
+emilia romagna,femmine,richiesta di aiuto vittima di violenza,2021,701
+emilia romagna,femmine,richiesta di aiuto vittima di violenza,2022,558
+emilia romagna,femmine,richiesta di aiuto vittima di violenza,2023,627
+emilia romagna,femmine,richiesta di aiuto vittima di violenza,2024,931
+emilia romagna,femmine,richiesta di aiuto per discriminazione,2020,1
+emilia romagna,femmine,richiesta di aiuto per discriminazione,2021,2
+emilia romagna,femmine,segnalazione di un caso di violenza,2015,93
+emilia romagna,femmine,segnalazione di un caso di violenza,2016,83
+emilia romagna,femmine,segnalazione di un caso di violenza,2017,70
+emilia romagna,femmine,segnalazione di un caso di violenza,2018,76
+emilia romagna,femmine,segnalazione di un caso di violenza,2019,56
+emilia romagna,femmine,segnalazione di un caso di violenza,2020,131
+emilia romagna,femmine,segnalazione di un caso di violenza,2021,166
+emilia romagna,femmine,segnalazione di un caso di violenza,2022,78
+emilia romagna,femmine,segnalazione di un caso di violenza,2023,131
+emilia romagna,femmine,segnalazione di un caso di violenza,2024,114
+emilia romagna,femmine,emergenza,2015,6
+emilia romagna,femmine,emergenza,2016,8
+emilia romagna,femmine,emergenza,2017,7
+emilia romagna,femmine,emergenza,2018,11
+emilia romagna,femmine,emergenza,2019,12
+emilia romagna,femmine,emergenza,2020,7
+emilia romagna,femmine,emergenza,2021,4
+emilia romagna,non indicato,richiesta di aiuto vittima di stalking,2023,4
+emilia romagna,non indicato,richiesta di aiuto vittima di violenza,2023,6
+emilia romagna,non indicato,richiesta di aiuto vittima di violenza,2024,20
+emilia romagna,non indicato,segnalazione di un caso di violenza,2023,3
+emilia romagna,non indicato,segnalazione di un caso di violenza,2024,1
+emilia romagna,non indicato,emergenza,2023,4
+emilia romagna,non indicato,emergenza,2024,2
+centro,maschi,richiesta di aiuto vittima di stalking,2015,16
+centro,maschi,richiesta di aiuto vittima di stalking,2016,27
+centro,maschi,richiesta di aiuto vittima di stalking,2017,23
+centro,maschi,richiesta di aiuto vittima di stalking,2018,13
+centro,maschi,richiesta di aiuto vittima di stalking,2019,15
+centro,maschi,richiesta di aiuto vittima di stalking,2020,29
+centro,maschi,richiesta di aiuto vittima di stalking,2021,24
+centro,maschi,richiesta di aiuto vittima di stalking,2022,28
+centro,maschi,richiesta di aiuto vittima di stalking,2023,17
+centro,maschi,richiesta di aiuto vittima di stalking,2024,30
+centro,maschi,richiesta di aiuto vittima di violenza,2015,28
+centro,maschi,richiesta di aiuto vittima di violenza,2016,32
+centro,maschi,richiesta di aiuto vittima di violenza,2017,30
+centro,maschi,richiesta di aiuto vittima di violenza,2018,32
+centro,maschi,richiesta di aiuto vittima di violenza,2019,29
+centro,maschi,richiesta di aiuto vittima di violenza,2020,80
+centro,maschi,richiesta di aiuto vittima di violenza,2021,55
+centro,maschi,richiesta di aiuto vittima di violenza,2022,30
+centro,maschi,richiesta di aiuto vittima di violenza,2023,44
+centro,maschi,richiesta di aiuto vittima di violenza,2024,46
+centro,maschi,richiesta di aiuto per discriminazione,2020,1
+centro,maschi,richiesta di aiuto per discriminazione,2021,3
+centro,maschi,richiesta di aiuto per discriminazione,2022,1
+centro,maschi,segnalazione di un caso di violenza,2015,12
+centro,maschi,segnalazione di un caso di violenza,2016,17
+centro,maschi,segnalazione di un caso di violenza,2017,10
+centro,maschi,segnalazione di un caso di violenza,2018,10
+centro,maschi,segnalazione di un caso di violenza,2019,4
+centro,maschi,segnalazione di un caso di violenza,2020,19
+centro,maschi,segnalazione di un caso di violenza,2021,18
+centro,maschi,segnalazione di un caso di violenza,2022,11
+centro,maschi,segnalazione di un caso di violenza,2023,15
+centro,maschi,segnalazione di un caso di violenza,2024,11
+centro,maschi,emergenza,2018,2
+centro,maschi,emergenza,2020,1
+centro,maschi,emergenza,2021,1
+centro,femmine,richiesta di aiuto vittima di stalking,2015,211
+centro,femmine,richiesta di aiuto vittima di stalking,2016,210
+centro,femmine,richiesta di aiuto vittima di stalking,2017,185
+centro,femmine,richiesta di aiuto vittima di stalking,2018,198
+centro,femmine,richiesta di aiuto vittima di stalking,2019,232
+centro,femmine,richiesta di aiuto vittima di stalking,2020,241
+centro,femmine,richiesta di aiuto vittima di stalking,2021,334
+centro,femmine,richiesta di aiuto vittima di stalking,2022,245
+centro,femmine,richiesta di aiuto vittima di stalking,2023,294
+centro,femmine,richiesta di aiuto vittima di stalking,2024,410
+centro,femmine,richiesta di aiuto vittima di violenza,2015,1143
+centro,femmine,richiesta di aiuto vittima di violenza,2016,1116
+centro,femmine,richiesta di aiuto vittima di violenza,2017,1079
+centro,femmine,richiesta di aiuto vittima di violenza,2018,1550
+centro,femmine,richiesta di aiuto vittima di violenza,2019,1429
+centro,femmine,richiesta di aiuto vittima di violenza,2020,2283
+centro,femmine,richiesta di aiuto vittima di violenza,2021,2490
+centro,femmine,richiesta di aiuto vittima di violenza,2022,1967
+centro,femmine,richiesta di aiuto vittima di violenza,2023,2292
+centro,femmine,richiesta di aiuto vittima di violenza,2024,2802
+centro,femmine,richiesta di aiuto per discriminazione,2020,2
+centro,femmine,richiesta di aiuto per discriminazione,2022,1
+centro,femmine,segnalazione di un caso di violenza,2015,335
+centro,femmine,segnalazione di un caso di violenza,2016,327
+centro,femmine,segnalazione di un caso di violenza,2017,263
+centro,femmine,segnalazione di un caso di violenza,2018,307
+centro,femmine,segnalazione di un caso di violenza,2019,257
+centro,femmine,segnalazione di un caso di violenza,2020,502
+centro,femmine,segnalazione di un caso di violenza,2021,545
+centro,femmine,segnalazione di un caso di violenza,2022,358
+centro,femmine,segnalazione di un caso di violenza,2023,476
+centro,femmine,segnalazione di un caso di violenza,2024,361
+centro,femmine,emergenza,2015,26
+centro,femmine,emergenza,2016,25
+centro,femmine,emergenza,2017,43
+centro,femmine,emergenza,2018,41
+centro,femmine,emergenza,2019,23
+centro,femmine,emergenza,2020,25
+centro,femmine,emergenza,2021,16
+centro,femmine,emergenza,2022,2
+centro,non indicato,richiesta di aiuto vittima di stalking,2023,4
+centro,non indicato,richiesta di aiuto vittima di stalking,2024,5
+centro,non indicato,richiesta di aiuto vittima di violenza,2023,40
+centro,non indicato,richiesta di aiuto vittima di violenza,2024,43
+centro,non indicato,richiesta di aiuto per discriminazione,2021,1
+centro,non indicato,segnalazione di un caso di violenza,2023,12
+centro,non indicato,segnalazione di un caso di violenza,2024,6
+centro,non indicato,emergenza,2023,19
+centro,non indicato,emergenza,2024,10
+toscana,maschi,richiesta di aiuto vittima di stalking,2016,6
+toscana,maschi,richiesta di aiuto vittima di stalking,2017,7
+toscana,maschi,richiesta di aiuto vittima di stalking,2018,3
+toscana,maschi,richiesta di aiuto vittima di stalking,2019,1
+toscana,maschi,richiesta di aiuto vittima di stalking,2020,8
+toscana,maschi,richiesta di aiuto vittima di stalking,2021,12
+toscana,maschi,richiesta di aiuto vittima di stalking,2022,8
+toscana,maschi,richiesta di aiuto vittima di stalking,2023,4
+toscana,maschi,richiesta di aiuto vittima di stalking,2024,10
+toscana,maschi,richiesta di aiuto vittima di violenza,2015,8
+toscana,maschi,richiesta di aiuto vittima di violenza,2016,11
+toscana,maschi,richiesta di aiuto vittima di violenza,2017,12
+toscana,maschi,richiesta di aiuto vittima di violenza,2018,11
+toscana,maschi,richiesta di aiuto vittima di violenza,2019,1
+toscana,maschi,richiesta di aiuto vittima di violenza,2020,27
+toscana,maschi,richiesta di aiuto vittima di violenza,2021,16
+toscana,maschi,richiesta di aiuto vittima di violenza,2022,12
+toscana,maschi,richiesta di aiuto vittima di violenza,2023,10
+toscana,maschi,richiesta di aiuto vittima di violenza,2024,11
+toscana,maschi,segnalazione di un caso di violenza,2015,2
+toscana,maschi,segnalazione di un caso di violenza,2016,4
+toscana,maschi,segnalazione di un caso di violenza,2017,4
+toscana,maschi,segnalazione di un caso di violenza,2019,1
+toscana,maschi,segnalazione di un caso di violenza,2020,5
+toscana,maschi,segnalazione di un caso di violenza,2021,3
+toscana,maschi,segnalazione di un caso di violenza,2022,2
+toscana,maschi,segnalazione di un caso di violenza,2023,5
+toscana,maschi,segnalazione di un caso di violenza,2024,1
+toscana,femmine,richiesta di aiuto vittima di stalking,2015,46
+toscana,femmine,richiesta di aiuto vittima di stalking,2016,44
+toscana,femmine,richiesta di aiuto vittima di stalking,2017,57
+toscana,femmine,richiesta di aiuto vittima di stalking,2018,56
+toscana,femmine,richiesta di aiuto vittima di stalking,2019,73
+toscana,femmine,richiesta di aiuto vittima di stalking,2020,63
+toscana,femmine,richiesta di aiuto vittima di stalking,2021,99
+toscana,femmine,richiesta di aiuto vittima di stalking,2022,50
+toscana,femmine,richiesta di aiuto vittima di stalking,2023,69
+toscana,femmine,richiesta di aiuto vittima di stalking,2024,115
+toscana,femmine,richiesta di aiuto vittima di violenza,2015,251
+toscana,femmine,richiesta di aiuto vittima di violenza,2016,210
+toscana,femmine,richiesta di aiuto vittima di violenza,2017,285
+toscana,femmine,richiesta di aiuto vittima di violenza,2018,408
+toscana,femmine,richiesta di aiuto vittima di violenza,2019,375
+toscana,femmine,richiesta di aiuto vittima di violenza,2020,607
+toscana,femmine,richiesta di aiuto vittima di violenza,2021,588
+toscana,femmine,richiesta di aiuto vittima di violenza,2022,467
+toscana,femmine,richiesta di aiuto vittima di violenza,2023,556
+toscana,femmine,richiesta di aiuto vittima di violenza,2024,771
+toscana,femmine,segnalazione di un caso di violenza,2015,79
+toscana,femmine,segnalazione di un caso di violenza,2016,66
+toscana,femmine,segnalazione di un caso di violenza,2017,75
+toscana,femmine,segnalazione di un caso di violenza,2018,85
+toscana,femmine,segnalazione di un caso di violenza,2019,63
+toscana,femmine,segnalazione di un caso di violenza,2020,154
+toscana,femmine,segnalazione di un caso di violenza,2021,135
+toscana,femmine,segnalazione di un caso di violenza,2022,98
+toscana,femmine,segnalazione di un caso di violenza,2023,99
+toscana,femmine,segnalazione di un caso di violenza,2024,109
+toscana,femmine,emergenza,2015,3
+toscana,femmine,emergenza,2016,3
+toscana,femmine,emergenza,2017,10
+toscana,femmine,emergenza,2018,10
+toscana,femmine,emergenza,2019,5
+toscana,femmine,emergenza,2020,5
+toscana,femmine,emergenza,2021,5
+toscana,femmine,emergenza,2022,1
+toscana,non indicato,richiesta di aiuto vittima di stalking,2023,1
+toscana,non indicato,richiesta di aiuto vittima di stalking,2024,1
+toscana,non indicato,richiesta di aiuto vittima di violenza,2023,9
+toscana,non indicato,richiesta di aiuto vittima di violenza,2024,12
+toscana,non indicato,segnalazione di un caso di violenza,2023,3
+toscana,non indicato,segnalazione di un caso di violenza,2024,1
+toscana,non indicato,emergenza,2023,3
+toscana,non indicato,emergenza,2024,3
+umbria,maschi,richiesta di aiuto vittima di stalking,2016,1
+umbria,maschi,richiesta di aiuto vittima di stalking,2017,3
+umbria,maschi,richiesta di aiuto vittima di stalking,2019,2
+umbria,maschi,richiesta di aiuto vittima di stalking,2020,1
+umbria,maschi,richiesta di aiuto vittima di stalking,2022,3
+umbria,maschi,richiesta di aiuto vittima di stalking,2023,1
+umbria,maschi,richiesta di aiuto vittima di stalking,2024,2
+umbria,maschi,richiesta di aiuto vittima di violenza,2015,3
+umbria,maschi,richiesta di aiuto vittima di violenza,2016,1
+umbria,maschi,richiesta di aiuto vittima di violenza,2017,2
+umbria,maschi,richiesta di aiuto vittima di violenza,2018,2
+umbria,maschi,richiesta di aiuto vittima di violenza,2019,2
+umbria,maschi,richiesta di aiuto vittima di violenza,2020,1
+umbria,maschi,richiesta di aiuto vittima di violenza,2022,1
+umbria,maschi,richiesta di aiuto vittima di violenza,2023,2
+umbria,maschi,richiesta di aiuto vittima di violenza,2024,1
+umbria,maschi,segnalazione di un caso di violenza,2015,1
+umbria,maschi,segnalazione di un caso di violenza,2016,1
+umbria,maschi,segnalazione di un caso di violenza,2021,1
+umbria,maschi,segnalazione di un caso di violenza,2022,1
+umbria,femmine,richiesta di aiuto vittima di stalking,2015,14
+umbria,femmine,richiesta di aiuto vittima di stalking,2016,12
+umbria,femmine,richiesta di aiuto vittima di stalking,2017,11
+umbria,femmine,richiesta di aiuto vittima di stalking,2018,7
+umbria,femmine,richiesta di aiuto vittima di stalking,2019,7
+umbria,femmine,richiesta di aiuto vittima di stalking,2020,12
+umbria,femmine,richiesta di aiuto vittima di stalking,2021,26
+umbria,femmine,richiesta di aiuto vittima di stalking,2022,12
+umbria,femmine,richiesta di aiuto vittima di stalking,2023,14
+umbria,femmine,richiesta di aiuto vittima di stalking,2024,17
+umbria,femmine,richiesta di aiuto vittima di violenza,2015,74
+umbria,femmine,richiesta di aiuto vittima di violenza,2016,71
+umbria,femmine,richiesta di aiuto vittima di violenza,2017,70
+umbria,femmine,richiesta di aiuto vittima di violenza,2018,86
+umbria,femmine,richiesta di aiuto vittima di violenza,2019,83
+umbria,femmine,richiesta di aiuto vittima di violenza,2020,109
+umbria,femmine,richiesta di aiuto vittima di violenza,2021,121
+umbria,femmine,richiesta di aiuto vittima di violenza,2022,124
+umbria,femmine,richiesta di aiuto vittima di violenza,2023,154
+umbria,femmine,richiesta di aiuto vittima di violenza,2024,172
+umbria,femmine,segnalazione di un caso di violenza,2015,22
+umbria,femmine,segnalazione di un caso di violenza,2016,10
+umbria,femmine,segnalazione di un caso di violenza,2017,15
+umbria,femmine,segnalazione di un caso di violenza,2018,21
+umbria,femmine,segnalazione di un caso di violenza,2019,9
+umbria,femmine,segnalazione di un caso di violenza,2020,20
+umbria,femmine,segnalazione di un caso di violenza,2021,24
+umbria,femmine,segnalazione di un caso di violenza,2022,13
+umbria,femmine,segnalazione di un caso di violenza,2023,28
+umbria,femmine,segnalazione di un caso di violenza,2024,23
+umbria,femmine,emergenza,2015,2
+umbria,femmine,emergenza,2016,1
+umbria,femmine,emergenza,2017,4
+umbria,femmine,emergenza,2018,2
+umbria,femmine,emergenza,2020,1
+umbria,non indicato,richiesta di aiuto vittima di violenza,2023,1
+umbria,non indicato,richiesta di aiuto vittima di violenza,2024,5
+marche,maschi,richiesta di aiuto vittima di stalking,2015,3
+marche,maschi,richiesta di aiuto vittima di stalking,2016,4
+marche,maschi,richiesta di aiuto vittima di stalking,2017,1
+marche,maschi,richiesta di aiuto vittima di stalking,2018,1
+marche,maschi,richiesta di aiuto vittima di stalking,2019,1
+marche,maschi,richiesta di aiuto vittima di stalking,2020,5
+marche,maschi,richiesta di aiuto vittima di stalking,2021,2
+marche,maschi,richiesta di aiuto vittima di stalking,2022,4
+marche,maschi,richiesta di aiuto vittima di stalking,2023,1
+marche,maschi,richiesta di aiuto vittima di stalking,2024,1
+marche,maschi,richiesta di aiuto vittima di violenza,2015,1
+marche,maschi,richiesta di aiuto vittima di violenza,2016,3
+marche,maschi,richiesta di aiuto vittima di violenza,2017,1
+marche,maschi,richiesta di aiuto vittima di violenza,2018,2
+marche,maschi,richiesta di aiuto vittima di violenza,2019,2
+marche,maschi,richiesta di aiuto vittima di violenza,2020,8
+marche,maschi,richiesta di aiuto vittima di violenza,2021,3
+marche,maschi,richiesta di aiuto vittima di violenza,2022,3
+marche,maschi,richiesta di aiuto vittima di violenza,2023,5
+marche,maschi,richiesta di aiuto vittima di violenza,2024,5
+marche,maschi,segnalazione di un caso di violenza,2015,2
+marche,maschi,segnalazione di un caso di violenza,2016,2
+marche,maschi,segnalazione di un caso di violenza,2018,1
+marche,maschi,segnalazione di un caso di violenza,2019,1
+marche,maschi,segnalazione di un caso di violenza,2020,3
+marche,maschi,segnalazione di un caso di violenza,2021,5
+marche,maschi,segnalazione di un caso di violenza,2022,1
+marche,maschi,segnalazione di un caso di violenza,2023,1
+marche,maschi,segnalazione di un caso di violenza,2024,4
+marche,femmine,richiesta di aiuto vittima di stalking,2015,19
+marche,femmine,richiesta di aiuto vittima di stalking,2016,23
+marche,femmine,richiesta di aiuto vittima di stalking,2017,17
+marche,femmine,richiesta di aiuto vittima di stalking,2018,19
+marche,femmine,richiesta di aiuto vittima di stalking,2019,19
+marche,femmine,richiesta di aiuto vittima di stalking,2020,17
+marche,femmine,richiesta di aiuto vittima di stalking,2021,30
+marche,femmine,richiesta di aiuto vittima di stalking,2022,20
+marche,femmine,richiesta di aiuto vittima di stalking,2023,26
+marche,femmine,richiesta di aiuto vittima di stalking,2024,43
+marche,femmine,richiesta di aiuto vittima di violenza,2015,149
+marche,femmine,richiesta di aiuto vittima di violenza,2016,140
+marche,femmine,richiesta di aiuto vittima di violenza,2017,118
+marche,femmine,richiesta di aiuto vittima di violenza,2018,167
+marche,femmine,richiesta di aiuto vittima di violenza,2019,134
+marche,femmine,richiesta di aiuto vittima di violenza,2020,227
+marche,femmine,richiesta di aiuto vittima di violenza,2021,256
+marche,femmine,richiesta di aiuto vittima di violenza,2022,211
+marche,femmine,richiesta di aiuto vittima di violenza,2023,199
+marche,femmine,richiesta di aiuto vittima di violenza,2024,281
+marche,femmine,richiesta di aiuto per discriminazione,2022,1
+marche,femmine,segnalazione di un caso di violenza,2015,44
+marche,femmine,segnalazione di un caso di violenza,2016,38
+marche,femmine,segnalazione di un caso di violenza,2017,29
+marche,femmine,segnalazione di un caso di violenza,2018,38
+marche,femmine,segnalazione di un caso di violenza,2019,27
+marche,femmine,segnalazione di un caso di violenza,2020,41
+marche,femmine,segnalazione di un caso di violenza,2021,56
+marche,femmine,segnalazione di un caso di violenza,2022,24
+marche,femmine,segnalazione di un caso di violenza,2023,42
+marche,femmine,segnalazione di un caso di violenza,2024,37
+marche,femmine,emergenza,2015,3
+marche,femmine,emergenza,2016,2
+marche,femmine,emergenza,2017,7
+marche,femmine,emergenza,2018,2
+marche,femmine,emergenza,2019,1
+marche,femmine,emergenza,2021,1
+marche,non indicato,richiesta di aiuto vittima di stalking,2024,2
+marche,non indicato,richiesta di aiuto vittima di violenza,2023,3
+marche,non indicato,richiesta di aiuto vittima di violenza,2024,4
+marche,non indicato,segnalazione di un caso di violenza,2023,1
+marche,non indicato,emergenza,2023,1
+marche,non indicato,emergenza,2024,1
+lazio,maschi,richiesta di aiuto vittima di stalking,2015,13
+lazio,maschi,richiesta di aiuto vittima di stalking,2016,16
+lazio,maschi,richiesta di aiuto vittima di stalking,2017,12
+lazio,maschi,richiesta di aiuto vittima di stalking,2018,9
+lazio,maschi,richiesta di aiuto vittima di stalking,2019,11
+lazio,maschi,richiesta di aiuto vittima di stalking,2020,15
+lazio,maschi,richiesta di aiuto vittima di stalking,2021,10
+lazio,maschi,richiesta di aiuto vittima di stalking,2022,13
+lazio,maschi,richiesta di aiuto vittima di stalking,2023,11
+lazio,maschi,richiesta di aiuto vittima di stalking,2024,17
+lazio,maschi,richiesta di aiuto vittima di violenza,2015,16
+lazio,maschi,richiesta di aiuto vittima di violenza,2016,17
+lazio,maschi,richiesta di aiuto vittima di violenza,2017,15
+lazio,maschi,richiesta di aiuto vittima di violenza,2018,17
+lazio,maschi,richiesta di aiuto vittima di violenza,2019,24
+lazio,maschi,richiesta di aiuto vittima di violenza,2020,44
+lazio,maschi,richiesta di aiuto vittima di violenza,2021,36
+lazio,maschi,richiesta di aiuto vittima di violenza,2022,14
+lazio,maschi,richiesta di aiuto vittima di violenza,2023,27
+lazio,maschi,richiesta di aiuto vittima di violenza,2024,29
+lazio,maschi,richiesta di aiuto per discriminazione,2020,1
+lazio,maschi,richiesta di aiuto per discriminazione,2021,3
+lazio,maschi,richiesta di aiuto per discriminazione,2022,1
+lazio,maschi,segnalazione di un caso di violenza,2015,7
+lazio,maschi,segnalazione di un caso di violenza,2016,10
+lazio,maschi,segnalazione di un caso di violenza,2017,6
+lazio,maschi,segnalazione di un caso di violenza,2018,9
+lazio,maschi,segnalazione di un caso di violenza,2019,2
+lazio,maschi,segnalazione di un caso di violenza,2020,11
+lazio,maschi,segnalazione di un caso di violenza,2021,9
+lazio,maschi,segnalazione di un caso di violenza,2022,7
+lazio,maschi,segnalazione di un caso di violenza,2023,9
+lazio,maschi,segnalazione di un caso di violenza,2024,6
+lazio,maschi,emergenza,2018,2
+lazio,maschi,emergenza,2020,1
+lazio,maschi,emergenza,2021,1
+lazio,femmine,richiesta di aiuto vittima di stalking,2015,132
+lazio,femmine,richiesta di aiuto vittima di stalking,2016,131
+lazio,femmine,richiesta di aiuto vittima di stalking,2017,100
+lazio,femmine,richiesta di aiuto vittima di stalking,2018,116
+lazio,femmine,richiesta di aiuto vittima di stalking,2019,133
+lazio,femmine,richiesta di aiuto vittima di stalking,2020,149
+lazio,femmine,richiesta di aiuto vittima di stalking,2021,179
+lazio,femmine,richiesta di aiuto vittima di stalking,2022,163
+lazio,femmine,richiesta di aiuto vittima di stalking,2023,185
+lazio,femmine,richiesta di aiuto vittima di stalking,2024,235
+lazio,femmine,richiesta di aiuto vittima di violenza,2015,669
+lazio,femmine,richiesta di aiuto vittima di violenza,2016,695
+lazio,femmine,richiesta di aiuto vittima di violenza,2017,606
+lazio,femmine,richiesta di aiuto vittima di violenza,2018,889
+lazio,femmine,richiesta di aiuto vittima di violenza,2019,837
+lazio,femmine,richiesta di aiuto vittima di violenza,2020,1340
+lazio,femmine,richiesta di aiuto vittima di violenza,2021,1525
+lazio,femmine,richiesta di aiuto vittima di violenza,2022,1165
+lazio,femmine,richiesta di aiuto vittima di violenza,2023,1383
+lazio,femmine,richiesta di aiuto vittima di violenza,2024,1578
+lazio,femmine,richiesta di aiuto per discriminazione,2020,2
+lazio,femmine,segnalazione di un caso di violenza,2015,190
+lazio,femmine,segnalazione di un caso di violenza,2016,213
+lazio,femmine,segnalazione di un caso di violenza,2017,144
+lazio,femmine,segnalazione di un caso di violenza,2018,163
+lazio,femmine,segnalazione di un caso di violenza,2019,158
+lazio,femmine,segnalazione di un caso di violenza,2020,287
+lazio,femmine,segnalazione di un caso di violenza,2021,330
+lazio,femmine,segnalazione di un caso di violenza,2022,223
+lazio,femmine,segnalazione di un caso di violenza,2023,307
+lazio,femmine,segnalazione di un caso di violenza,2024,192
+lazio,femmine,emergenza,2015,18
+lazio,femmine,emergenza,2016,19
+lazio,femmine,emergenza,2017,22
+lazio,femmine,emergenza,2018,27
+lazio,femmine,emergenza,2019,17
+lazio,femmine,emergenza,2020,19
+lazio,femmine,emergenza,2021,10
+lazio,femmine,emergenza,2022,1
+lazio,non indicato,richiesta di aiuto vittima di stalking,2023,3
+lazio,non indicato,richiesta di aiuto vittima di stalking,2024,2
+lazio,non indicato,richiesta di aiuto vittima di violenza,2023,27
+lazio,non indicato,richiesta di aiuto vittima di violenza,2024,22
+lazio,non indicato,richiesta di aiuto per discriminazione,2021,1
+lazio,non indicato,segnalazione di un caso di violenza,2023,8
+lazio,non indicato,segnalazione di un caso di violenza,2024,5
+lazio,non indicato,emergenza,2023,15
+lazio,non indicato,emergenza,2024,6
+sud,maschi,richiesta di aiuto vittima di stalking,2015,19
+sud,maschi,richiesta di aiuto vittima di stalking,2016,25
+sud,maschi,richiesta di aiuto vittima di stalking,2017,19
+sud,maschi,richiesta di aiuto vittima di stalking,2018,13
+sud,maschi,richiesta di aiuto vittima di stalking,2019,10
+sud,maschi,richiesta di aiuto vittima di stalking,2020,12
+sud,maschi,richiesta di aiuto vittima di stalking,2021,17
+sud,maschi,richiesta di aiuto vittima di stalking,2022,11
+sud,maschi,richiesta di aiuto vittima di stalking,2023,20
+sud,maschi,richiesta di aiuto vittima di stalking,2024,14
+sud,maschi,richiesta di aiuto vittima di violenza,2015,44
+sud,maschi,richiesta di aiuto vittima di violenza,2016,27
+sud,maschi,richiesta di aiuto vittima di violenza,2017,22
+sud,maschi,richiesta di aiuto vittima di violenza,2018,40
+sud,maschi,richiesta di aiuto vittima di violenza,2019,25
+sud,maschi,richiesta di aiuto vittima di violenza,2020,58
+sud,maschi,richiesta di aiuto vittima di violenza,2021,60
+sud,maschi,richiesta di aiuto vittima di violenza,2022,19
+sud,maschi,richiesta di aiuto vittima di violenza,2023,28
+sud,maschi,richiesta di aiuto vittima di violenza,2024,55
+sud,maschi,richiesta di aiuto per discriminazione,2016,1
+sud,maschi,segnalazione di un caso di violenza,2015,7
+sud,maschi,segnalazione di un caso di violenza,2016,11
+sud,maschi,segnalazione di un caso di violenza,2017,9
+sud,maschi,segnalazione di un caso di violenza,2018,7
+sud,maschi,segnalazione di un caso di violenza,2019,5
+sud,maschi,segnalazione di un caso di violenza,2020,12
+sud,maschi,segnalazione di un caso di violenza,2021,7
+sud,maschi,segnalazione di un caso di violenza,2022,8
+sud,maschi,segnalazione di un caso di violenza,2023,6
+sud,maschi,segnalazione di un caso di violenza,2024,11
+sud,maschi,emergenza,2015,3
+sud,maschi,emergenza,2016,2
+sud,maschi,emergenza,2017,2
+sud,maschi,emergenza,2018,2
+sud,maschi,emergenza,2019,3
+sud,femmine,richiesta di aiuto vittima di stalking,2015,231
+sud,femmine,richiesta di aiuto vittima di stalking,2016,186
+sud,femmine,richiesta di aiuto vittima di stalking,2017,151
+sud,femmine,richiesta di aiuto vittima di stalking,2018,179
+sud,femmine,richiesta di aiuto vittima di stalking,2019,177
+sud,femmine,richiesta di aiuto vittima di stalking,2020,237
+sud,femmine,richiesta di aiuto vittima di stalking,2021,237
+sud,femmine,richiesta di aiuto vittima di stalking,2022,201
+sud,femmine,richiesta di aiuto vittima di stalking,2023,194
+sud,femmine,richiesta di aiuto vittima di stalking,2024,291
+sud,femmine,richiesta di aiuto vittima di violenza,2015,1181
+sud,femmine,richiesta di aiuto vittima di violenza,2016,1189
+sud,femmine,richiesta di aiuto vittima di violenza,2017,1079
+sud,femmine,richiesta di aiuto vittima di violenza,2018,1521
+sud,femmine,richiesta di aiuto vittima di violenza,2019,1380
+sud,femmine,richiesta di aiuto vittima di violenza,2020,2166
+sud,femmine,richiesta di aiuto vittima di violenza,2021,2251
+sud,femmine,richiesta di aiuto vittima di violenza,2022,1739
+sud,femmine,richiesta di aiuto vittima di violenza,2023,1887
+sud,femmine,richiesta di aiuto vittima di violenza,2024,2251
+sud,femmine,segnalazione di un caso di violenza,2015,356
+sud,femmine,segnalazione di un caso di violenza,2016,300
+sud,femmine,segnalazione di un caso di violenza,2017,269
+sud,femmine,segnalazione di un caso di violenza,2018,293
+sud,femmine,segnalazione di un caso di violenza,2019,209
+sud,femmine,segnalazione di un caso di violenza,2020,450
+sud,femmine,segnalazione di un caso di violenza,2021,508
+sud,femmine,segnalazione di un caso di violenza,2022,253
+sud,femmine,segnalazione di un caso di violenza,2023,296
+sud,femmine,segnalazione di un caso di violenza,2024,295
+sud,femmine,emergenza,2015,42
+sud,femmine,emergenza,2016,35
+sud,femmine,emergenza,2017,42
+sud,femmine,emergenza,2018,44
+sud,femmine,emergenza,2019,40
+sud,femmine,emergenza,2020,29
+sud,femmine,emergenza,2021,9
+sud,femmine,emergenza,2022,3
+sud,non indicato,richiesta di aiuto vittima di stalking,2023,2
+sud,non indicato,richiesta di aiuto vittima di stalking,2024,4
+sud,non indicato,richiesta di aiuto vittima di violenza,2023,33
+sud,non indicato,richiesta di aiuto vittima di violenza,2024,37
+sud,non indicato,segnalazione di un caso di violenza,2023,8
+sud,non indicato,segnalazione di un caso di violenza,2024,4
+sud,non indicato,emergenza,2023,7
+sud,non indicato,emergenza,2024,7
+abruzzo,maschi,richiesta di aiuto vittima di stalking,2015,1
+abruzzo,maschi,richiesta di aiuto vittima di stalking,2016,3
+abruzzo,maschi,richiesta di aiuto vittima di stalking,2017,2
+abruzzo,maschi,richiesta di aiuto vittima di stalking,2018,2
+abruzzo,maschi,richiesta di aiuto vittima di stalking,2020,4
+abruzzo,maschi,richiesta di aiuto vittima di stalking,2021,1
+abruzzo,maschi,richiesta di aiuto vittima di stalking,2022,1
+abruzzo,maschi,richiesta di aiuto vittima di stalking,2023,2
+abruzzo,maschi,richiesta di aiuto vittima di stalking,2024,2
+abruzzo,maschi,richiesta di aiuto vittima di violenza,2015,10
+abruzzo,maschi,richiesta di aiuto vittima di violenza,2016,5
+abruzzo,maschi,richiesta di aiuto vittima di violenza,2017,4
+abruzzo,maschi,richiesta di aiuto vittima di violenza,2018,4
+abruzzo,maschi,richiesta di aiuto vittima di violenza,2020,5
+abruzzo,maschi,richiesta di aiuto vittima di violenza,2021,7
+abruzzo,maschi,richiesta di aiuto vittima di violenza,2022,2
+abruzzo,maschi,richiesta di aiuto vittima di violenza,2023,3
+abruzzo,maschi,richiesta di aiuto vittima di violenza,2024,8
+abruzzo,maschi,segnalazione di un caso di violenza,2016,3
+abruzzo,maschi,segnalazione di un caso di violenza,2017,1
+abruzzo,maschi,segnalazione di un caso di violenza,2018,1
+abruzzo,maschi,segnalazione di un caso di violenza,2020,1
+abruzzo,maschi,segnalazione di un caso di violenza,2021,1
+abruzzo,maschi,segnalazione di un caso di violenza,2022,1
+abruzzo,maschi,segnalazione di un caso di violenza,2024,1
+abruzzo,maschi,emergenza,2015,1
+abruzzo,femmine,richiesta di aiuto vittima di stalking,2015,27
+abruzzo,femmine,richiesta di aiuto vittima di stalking,2016,21
+abruzzo,femmine,richiesta di aiuto vittima di stalking,2017,24
+abruzzo,femmine,richiesta di aiuto vittima di stalking,2018,23
+abruzzo,femmine,richiesta di aiuto vittima di stalking,2019,21
+abruzzo,femmine,richiesta di aiuto vittima di stalking,2020,26
+abruzzo,femmine,richiesta di aiuto vittima di stalking,2021,26
+abruzzo,femmine,richiesta di aiuto vittima di stalking,2022,26
+abruzzo,femmine,richiesta di aiuto vittima di stalking,2023,20
+abruzzo,femmine,richiesta di aiuto vittima di stalking,2024,26
+abruzzo,femmine,richiesta di aiuto vittima di violenza,2015,110
+abruzzo,femmine,richiesta di aiuto vittima di violenza,2016,116
+abruzzo,femmine,richiesta di aiuto vittima di violenza,2017,120
+abruzzo,femmine,richiesta di aiuto vittima di violenza,2018,164
+abruzzo,femmine,richiesta di aiuto vittima di violenza,2019,133
+abruzzo,femmine,richiesta di aiuto vittima di violenza,2020,229
+abruzzo,femmine,richiesta di aiuto vittima di violenza,2021,213
+abruzzo,femmine,richiesta di aiuto vittima di violenza,2022,188
+abruzzo,femmine,richiesta di aiuto vittima di violenza,2023,213
+abruzzo,femmine,richiesta di aiuto vittima di violenza,2024,195
+abruzzo,femmine,segnalazione di un caso di violenza,2015,28
+abruzzo,femmine,segnalazione di un caso di violenza,2016,37
+abruzzo,femmine,segnalazione di un caso di violenza,2017,27
+abruzzo,femmine,segnalazione di un caso di violenza,2018,26
+abruzzo,femmine,segnalazione di un caso di violenza,2019,28
+abruzzo,femmine,segnalazione di un caso di violenza,2020,34
+abruzzo,femmine,segnalazione di un caso di violenza,2021,49
+abruzzo,femmine,segnalazione di un caso di violenza,2022,21
+abruzzo,femmine,segnalazione di un caso di violenza,2023,39
+abruzzo,femmine,segnalazione di un caso di violenza,2024,37
+abruzzo,femmine,emergenza,2015,6
+abruzzo,femmine,emergenza,2016,1
+abruzzo,femmine,emergenza,2017,3
+abruzzo,femmine,emergenza,2018,4
+abruzzo,femmine,emergenza,2019,6
+abruzzo,femmine,emergenza,2021,2
+abruzzo,non indicato,richiesta di aiuto vittima di stalking,2023,1
+abruzzo,non indicato,richiesta di aiuto vittima di violenza,2023,3
+abruzzo,non indicato,richiesta di aiuto vittima di violenza,2024,5
+abruzzo,non indicato,segnalazione di un caso di violenza,2023,1
+abruzzo,non indicato,emergenza,2024,1
+molise,maschi,richiesta di aiuto vittima di stalking,2017,1
+molise,maschi,richiesta di aiuto vittima di violenza,2015,1
+molise,maschi,richiesta di aiuto vittima di violenza,2017,1
+molise,maschi,richiesta di aiuto vittima di violenza,2018,1
+molise,maschi,richiesta di aiuto vittima di violenza,2019,2
+molise,maschi,richiesta di aiuto vittima di violenza,2020,4
+molise,maschi,richiesta di aiuto vittima di violenza,2024,1
+molise,maschi,segnalazione di un caso di violenza,2016,1
+molise,maschi,segnalazione di un caso di violenza,2021,1
+molise,maschi,segnalazione di un caso di violenza,2024,1
+molise,femmine,richiesta di aiuto vittima di stalking,2015,3
+molise,femmine,richiesta di aiuto vittima di stalking,2016,7
+molise,femmine,richiesta di aiuto vittima di stalking,2017,1
+molise,femmine,richiesta di aiuto vittima di stalking,2018,1
+molise,femmine,richiesta di aiuto vittima di stalking,2019,1
+molise,femmine,richiesta di aiuto vittima di stalking,2020,4
+molise,femmine,richiesta di aiuto vittima di stalking,2021,4
+molise,femmine,richiesta di aiuto vittima di stalking,2022,4
+molise,femmine,richiesta di aiuto vittima di stalking,2023,4
+molise,femmine,richiesta di aiuto vittima di stalking,2024,8
+molise,femmine,richiesta di aiuto vittima di violenza,2015,24
+molise,femmine,richiesta di aiuto vittima di violenza,2016,22
+molise,femmine,richiesta di aiuto vittima di violenza,2017,13
+molise,femmine,richiesta di aiuto vittima di violenza,2018,17
+molise,femmine,richiesta di aiuto vittima di violenza,2019,29
+molise,femmine,richiesta di aiuto vittima di violenza,2020,31
+molise,femmine,richiesta di aiuto vittima di violenza,2021,28
+molise,femmine,richiesta di aiuto vittima di violenza,2022,26
+molise,femmine,richiesta di aiuto vittima di violenza,2023,37
+molise,femmine,richiesta di aiuto vittima di violenza,2024,41
+molise,femmine,segnalazione di un caso di violenza,2015,7
+molise,femmine,segnalazione di un caso di violenza,2016,2
+molise,femmine,segnalazione di un caso di violenza,2017,3
+molise,femmine,segnalazione di un caso di violenza,2018,4
+molise,femmine,segnalazione di un caso di violenza,2020,10
+molise,femmine,segnalazione di un caso di violenza,2021,8
+molise,femmine,segnalazione di un caso di violenza,2022,5
+molise,femmine,segnalazione di un caso di violenza,2023,6
+molise,femmine,segnalazione di un caso di violenza,2024,7
+molise,femmine,emergenza,2015,3
+molise,femmine,emergenza,2017,1
+molise,femmine,emergenza,2018,1
+molise,femmine,emergenza,2019,1
+molise,non indicato,richiesta di aiuto vittima di stalking,2024,2
+molise,non indicato,richiesta di aiuto vittima di violenza,2023,1
+molise,non indicato,richiesta di aiuto vittima di violenza,2024,1
+campania,maschi,richiesta di aiuto vittima di stalking,2015,13
+campania,maschi,richiesta di aiuto vittima di stalking,2016,16
+campania,maschi,richiesta di aiuto vittima di stalking,2017,9
+campania,maschi,richiesta di aiuto vittima di stalking,2018,5
+campania,maschi,richiesta di aiuto vittima di stalking,2019,5
+campania,maschi,richiesta di aiuto vittima di stalking,2020,4
+campania,maschi,richiesta di aiuto vittima di stalking,2021,9
+campania,maschi,richiesta di aiuto vittima di stalking,2022,4
+campania,maschi,richiesta di aiuto vittima di stalking,2023,8
+campania,maschi,richiesta di aiuto vittima di stalking,2024,7
+campania,maschi,richiesta di aiuto vittima di violenza,2015,12
+campania,maschi,richiesta di aiuto vittima di violenza,2016,10
+campania,maschi,richiesta di aiuto vittima di violenza,2017,6
+campania,maschi,richiesta di aiuto vittima di violenza,2018,20
+campania,maschi,richiesta di aiuto vittima di violenza,2019,11
+campania,maschi,richiesta di aiuto vittima di violenza,2020,18
+campania,maschi,richiesta di aiuto vittima di violenza,2021,24
+campania,maschi,richiesta di aiuto vittima di violenza,2022,12
+campania,maschi,richiesta di aiuto vittima di violenza,2023,9
+campania,maschi,richiesta di aiuto vittima di violenza,2024,25
+campania,maschi,richiesta di aiuto per discriminazione,2016,1
+campania,maschi,segnalazione di un caso di violenza,2015,5
+campania,maschi,segnalazione di un caso di violenza,2016,4
+campania,maschi,segnalazione di un caso di violenza,2017,6
+campania,maschi,segnalazione di un caso di violenza,2018,3
+campania,maschi,segnalazione di un caso di violenza,2019,3
+campania,maschi,segnalazione di un caso di violenza,2020,6
+campania,maschi,segnalazione di un caso di violenza,2021,2
+campania,maschi,segnalazione di un caso di violenza,2022,7
+campania,maschi,segnalazione di un caso di violenza,2023,5
+campania,maschi,segnalazione di un caso di violenza,2024,7
+campania,maschi,emergenza,2016,1
+campania,maschi,emergenza,2017,2
+campania,maschi,emergenza,2018,2
+campania,femmine,richiesta di aiuto vittima di stalking,2015,107
+campania,femmine,richiesta di aiuto vittima di stalking,2016,81
+campania,femmine,richiesta di aiuto vittima di stalking,2017,61
+campania,femmine,richiesta di aiuto vittima di stalking,2018,77
+campania,femmine,richiesta di aiuto vittima di stalking,2019,84
+campania,femmine,richiesta di aiuto vittima di stalking,2020,101
+campania,femmine,richiesta di aiuto vittima di stalking,2021,100
+campania,femmine,richiesta di aiuto vittima di stalking,2022,90
+campania,femmine,richiesta di aiuto vittima di stalking,2023,80
+campania,femmine,richiesta di aiuto vittima di stalking,2024,113
+campania,femmine,richiesta di aiuto vittima di violenza,2015,574
+campania,femmine,richiesta di aiuto vittima di violenza,2016,593
+campania,femmine,richiesta di aiuto vittima di violenza,2017,514
+campania,femmine,richiesta di aiuto vittima di violenza,2018,736
+campania,femmine,richiesta di aiuto vittima di violenza,2019,661
+campania,femmine,richiesta di aiuto vittima di violenza,2020,978
+campania,femmine,richiesta di aiuto vittima di violenza,2021,1034
+campania,femmine,richiesta di aiuto vittima di violenza,2022,769
+campania,femmine,richiesta di aiuto vittima di violenza,2023,830
+campania,femmine,richiesta di aiuto vittima di violenza,2024,1039
+campania,femmine,segnalazione di un caso di violenza,2015,171
+campania,femmine,segnalazione di un caso di violenza,2016,131
+campania,femmine,segnalazione di un caso di violenza,2017,123
+campania,femmine,segnalazione di un caso di violenza,2018,127
+campania,femmine,segnalazione di un caso di violenza,2019,80
+campania,femmine,segnalazione di un caso di violenza,2020,194
+campania,femmine,segnalazione di un caso di violenza,2021,235
+campania,femmine,segnalazione di un caso di violenza,2022,108
+campania,femmine,segnalazione di un caso di violenza,2023,123
+campania,femmine,segnalazione di un caso di violenza,2024,135
+campania,femmine,emergenza,2015,22
+campania,femmine,emergenza,2016,25
+campania,femmine,emergenza,2017,24
+campania,femmine,emergenza,2018,20
+campania,femmine,emergenza,2019,20
+campania,femmine,emergenza,2020,22
+campania,femmine,emergenza,2021,3
+campania,femmine,emergenza,2022,1
+campania,non indicato,richiesta di aiuto vittima di violenza,2023,19
+campania,non indicato,richiesta di aiuto vittima di violenza,2024,12
+campania,non indicato,segnalazione di un caso di violenza,2023,5
+campania,non indicato,segnalazione di un caso di violenza,2024,2
+campania,non indicato,emergenza,2023,4
+campania,non indicato,emergenza,2024,5
+puglia,maschi,richiesta di aiuto vittima di stalking,2015,5
+puglia,maschi,richiesta di aiuto vittima di stalking,2016,5
+puglia,maschi,richiesta di aiuto vittima di stalking,2017,7
+puglia,maschi,richiesta di aiuto vittima di stalking,2018,5
+puglia,maschi,richiesta di aiuto vittima di stalking,2019,4
+puglia,maschi,richiesta di aiuto vittima di stalking,2020,3
+puglia,maschi,richiesta di aiuto vittima di stalking,2021,4
+puglia,maschi,richiesta di aiuto vittima di stalking,2022,4
+puglia,maschi,richiesta di aiuto vittima di stalking,2023,7
+puglia,maschi,richiesta di aiuto vittima di stalking,2024,5
+puglia,maschi,richiesta di aiuto vittima di violenza,2015,15
+puglia,maschi,richiesta di aiuto vittima di violenza,2016,7
+puglia,maschi,richiesta di aiuto vittima di violenza,2017,6
+puglia,maschi,richiesta di aiuto vittima di violenza,2018,15
+puglia,maschi,richiesta di aiuto vittima di violenza,2019,8
+puglia,maschi,richiesta di aiuto vittima di violenza,2020,24
+puglia,maschi,richiesta di aiuto vittima di violenza,2021,17
+puglia,maschi,richiesta di aiuto vittima di violenza,2022,3
+puglia,maschi,richiesta di aiuto vittima di violenza,2023,11
+puglia,maschi,richiesta di aiuto vittima di violenza,2024,16
+puglia,maschi,segnalazione di un caso di violenza,2015,2
+puglia,maschi,segnalazione di un caso di violenza,2016,1
+puglia,maschi,segnalazione di un caso di violenza,2017,1
+puglia,maschi,segnalazione di un caso di violenza,2018,1
+puglia,maschi,segnalazione di un caso di violenza,2019,2
+puglia,maschi,segnalazione di un caso di violenza,2020,5
+puglia,maschi,segnalazione di un caso di violenza,2021,2
+puglia,maschi,segnalazione di un caso di violenza,2023,1
+puglia,maschi,segnalazione di un caso di violenza,2024,2
+puglia,maschi,emergenza,2015,2
+puglia,maschi,emergenza,2016,1
+puglia,maschi,emergenza,2019,2
+puglia,femmine,richiesta di aiuto vittima di stalking,2015,65
+puglia,femmine,richiesta di aiuto vittima di stalking,2016,57
+puglia,femmine,richiesta di aiuto vittima di stalking,2017,43
+puglia,femmine,richiesta di aiuto vittima di stalking,2018,57
+puglia,femmine,richiesta di aiuto vittima di stalking,2019,50
+puglia,femmine,richiesta di aiuto vittima di stalking,2020,78
+puglia,femmine,richiesta di aiuto vittima di stalking,2021,75
+puglia,femmine,richiesta di aiuto vittima di stalking,2022,56
+puglia,femmine,richiesta di aiuto vittima di stalking,2023,63
+puglia,femmine,richiesta di aiuto vittima di stalking,2024,100
+puglia,femmine,richiesta di aiuto vittima di violenza,2015,314
+puglia,femmine,richiesta di aiuto vittima di violenza,2016,302
+puglia,femmine,richiesta di aiuto vittima di violenza,2017,288
+puglia,femmine,richiesta di aiuto vittima di violenza,2018,426
+puglia,femmine,richiesta di aiuto vittima di violenza,2019,335
+puglia,femmine,richiesta di aiuto vittima di violenza,2020,588
+puglia,femmine,richiesta di aiuto vittima di violenza,2021,654
+puglia,femmine,richiesta di aiuto vittima di violenza,2022,493
+puglia,femmine,richiesta di aiuto vittima di violenza,2023,525
+puglia,femmine,richiesta di aiuto vittima di violenza,2024,702
+puglia,femmine,segnalazione di un caso di violenza,2015,107
+puglia,femmine,segnalazione di un caso di violenza,2016,80
+puglia,femmine,segnalazione di un caso di violenza,2017,77
+puglia,femmine,segnalazione di un caso di violenza,2018,92
+puglia,femmine,segnalazione di un caso di violenza,2019,71
+puglia,femmine,segnalazione di un caso di violenza,2020,149
+puglia,femmine,segnalazione di un caso di violenza,2021,148
+puglia,femmine,segnalazione di un caso di violenza,2022,85
+puglia,femmine,segnalazione di un caso di violenza,2023,90
+puglia,femmine,segnalazione di un caso di violenza,2024,87
+puglia,femmine,emergenza,2015,9
+puglia,femmine,emergenza,2016,9
+puglia,femmine,emergenza,2017,6
+puglia,femmine,emergenza,2018,15
+puglia,femmine,emergenza,2019,8
+puglia,femmine,emergenza,2020,5
+puglia,femmine,emergenza,2021,2
+puglia,femmine,emergenza,2022,1
+puglia,non indicato,richiesta di aiuto vittima di stalking,2024,1
+puglia,non indicato,richiesta di aiuto vittima di violenza,2023,5
+puglia,non indicato,richiesta di aiuto vittima di violenza,2024,14
+puglia,non indicato,segnalazione di un caso di violenza,2023,1
+puglia,non indicato,segnalazione di un caso di violenza,2024,2
+puglia,non indicato,emergenza,2023,3
+basilicata,maschi,richiesta di aiuto vittima di stalking,2016,1
+basilicata,maschi,richiesta di aiuto vittima di stalking,2019,1
+basilicata,maschi,richiesta di aiuto vittima di stalking,2022,1
+basilicata,maschi,richiesta di aiuto vittima di stalking,2023,3
+basilicata,maschi,richiesta di aiuto vittima di violenza,2015,2
+basilicata,maschi,richiesta di aiuto vittima di violenza,2016,2
+basilicata,maschi,richiesta di aiuto vittima di violenza,2019,1
+basilicata,maschi,richiesta di aiuto vittima di violenza,2022,1
+basilicata,maschi,richiesta di aiuto vittima di violenza,2023,1
+basilicata,maschi,richiesta di aiuto vittima di violenza,2024,2
+basilicata,maschi,emergenza,2019,1
+basilicata,femmine,richiesta di aiuto vittima di stalking,2015,6
+basilicata,femmine,richiesta di aiuto vittima di stalking,2016,4
+basilicata,femmine,richiesta di aiuto vittima di stalking,2017,3
+basilicata,femmine,richiesta di aiuto vittima di stalking,2018,6
+basilicata,femmine,richiesta di aiuto vittima di stalking,2019,4
+basilicata,femmine,richiesta di aiuto vittima di stalking,2020,4
+basilicata,femmine,richiesta di aiuto vittima di stalking,2021,9
+basilicata,femmine,richiesta di aiuto vittima di stalking,2022,4
+basilicata,femmine,richiesta di aiuto vittima di stalking,2023,6
+basilicata,femmine,richiesta di aiuto vittima di stalking,2024,8
+basilicata,femmine,richiesta di aiuto vittima di violenza,2015,35
+basilicata,femmine,richiesta di aiuto vittima di violenza,2016,25
+basilicata,femmine,richiesta di aiuto vittima di violenza,2017,39
+basilicata,femmine,richiesta di aiuto vittima di violenza,2018,40
+basilicata,femmine,richiesta di aiuto vittima di violenza,2019,55
+basilicata,femmine,richiesta di aiuto vittima di violenza,2020,62
+basilicata,femmine,richiesta di aiuto vittima di violenza,2021,79
+basilicata,femmine,richiesta di aiuto vittima di violenza,2022,62
+basilicata,femmine,richiesta di aiuto vittima di violenza,2023,70
+basilicata,femmine,richiesta di aiuto vittima di violenza,2024,63
+basilicata,femmine,segnalazione di un caso di violenza,2015,6
+basilicata,femmine,segnalazione di un caso di violenza,2016,9
+basilicata,femmine,segnalazione di un caso di violenza,2017,8
+basilicata,femmine,segnalazione di un caso di violenza,2018,10
+basilicata,femmine,segnalazione di un caso di violenza,2019,7
+basilicata,femmine,segnalazione di un caso di violenza,2020,16
+basilicata,femmine,segnalazione di un caso di violenza,2021,12
+basilicata,femmine,segnalazione di un caso di violenza,2022,11
+basilicata,femmine,segnalazione di un caso di violenza,2023,8
+basilicata,femmine,segnalazione di un caso di violenza,2024,10
+basilicata,femmine,emergenza,2022,1
+basilicata,non indicato,richiesta di aiuto vittima di stalking,2024,1
+calabria,maschi,richiesta di aiuto vittima di stalking,2018,1
+calabria,maschi,richiesta di aiuto vittima di stalking,2020,1
+calabria,maschi,richiesta di aiuto vittima di stalking,2021,3
+calabria,maschi,richiesta di aiuto vittima di stalking,2022,1
+calabria,maschi,richiesta di aiuto vittima di violenza,2015,4
+calabria,maschi,richiesta di aiuto vittima di violenza,2016,3
+calabria,maschi,richiesta di aiuto vittima di violenza,2017,5
+calabria,maschi,richiesta di aiuto vittima di violenza,2019,3
+calabria,maschi,richiesta di aiuto vittima di violenza,2020,7
+calabria,maschi,richiesta di aiuto vittima di violenza,2021,12
+calabria,maschi,richiesta di aiuto vittima di violenza,2022,1
+calabria,maschi,richiesta di aiuto vittima di violenza,2023,4
+calabria,maschi,richiesta di aiuto vittima di violenza,2024,3
+calabria,maschi,segnalazione di un caso di violenza,2016,2
+calabria,maschi,segnalazione di un caso di violenza,2017,1
+calabria,maschi,segnalazione di un caso di violenza,2018,2
+calabria,maschi,segnalazione di un caso di violenza,2021,1
+calabria,femmine,richiesta di aiuto vittima di stalking,2015,23
+calabria,femmine,richiesta di aiuto vittima di stalking,2016,16
+calabria,femmine,richiesta di aiuto vittima di stalking,2017,19
+calabria,femmine,richiesta di aiuto vittima di stalking,2018,15
+calabria,femmine,richiesta di aiuto vittima di stalking,2019,17
+calabria,femmine,richiesta di aiuto vittima di stalking,2020,24
+calabria,femmine,richiesta di aiuto vittima di stalking,2021,23
+calabria,femmine,richiesta di aiuto vittima di stalking,2022,21
+calabria,femmine,richiesta di aiuto vittima di stalking,2023,21
+calabria,femmine,richiesta di aiuto vittima di stalking,2024,36
+calabria,femmine,richiesta di aiuto vittima di violenza,2015,124
+calabria,femmine,richiesta di aiuto vittima di violenza,2016,131
+calabria,femmine,richiesta di aiuto vittima di violenza,2017,105
+calabria,femmine,richiesta di aiuto vittima di violenza,2018,138
+calabria,femmine,richiesta di aiuto vittima di violenza,2019,167
+calabria,femmine,richiesta di aiuto vittima di violenza,2020,278
+calabria,femmine,richiesta di aiuto vittima di violenza,2021,243
+calabria,femmine,richiesta di aiuto vittima di violenza,2022,201
+calabria,femmine,richiesta di aiuto vittima di violenza,2023,212
+calabria,femmine,richiesta di aiuto vittima di violenza,2024,211
+calabria,femmine,segnalazione di un caso di violenza,2015,37
+calabria,femmine,segnalazione di un caso di violenza,2016,41
+calabria,femmine,segnalazione di un caso di violenza,2017,31
+calabria,femmine,segnalazione di un caso di violenza,2018,34
+calabria,femmine,segnalazione di un caso di violenza,2019,23
+calabria,femmine,segnalazione di un caso di violenza,2020,47
+calabria,femmine,segnalazione di un caso di violenza,2021,56
+calabria,femmine,segnalazione di un caso di violenza,2022,23
+calabria,femmine,segnalazione di un caso di violenza,2023,30
+calabria,femmine,segnalazione di un caso di violenza,2024,19
+calabria,femmine,emergenza,2015,2
+calabria,femmine,emergenza,2017,8
+calabria,femmine,emergenza,2018,4
+calabria,femmine,emergenza,2019,5
+calabria,femmine,emergenza,2020,2
+calabria,femmine,emergenza,2021,2
+calabria,non indicato,richiesta di aiuto vittima di stalking,2023,1
+calabria,non indicato,richiesta di aiuto vittima di violenza,2023,5
+calabria,non indicato,richiesta di aiuto vittima di violenza,2024,5
+calabria,non indicato,segnalazione di un caso di violenza,2023,1
+calabria,non indicato,emergenza,2024,1
+isole,maschi,richiesta di aiuto vittima di stalking,2015,8
+isole,maschi,richiesta di aiuto vittima di stalking,2016,10
+isole,maschi,richiesta di aiuto vittima di stalking,2017,5
+isole,maschi,richiesta di aiuto vittima di stalking,2018,3
+isole,maschi,richiesta di aiuto vittima di stalking,2020,5
+isole,maschi,richiesta di aiuto vittima di stalking,2021,10
+isole,maschi,richiesta di aiuto vittima di stalking,2022,5
+isole,maschi,richiesta di aiuto vittima di stalking,2023,7
+isole,maschi,richiesta di aiuto vittima di stalking,2024,8
+isole,maschi,richiesta di aiuto vittima di violenza,2015,15
+isole,maschi,richiesta di aiuto vittima di violenza,2016,10
+isole,maschi,richiesta di aiuto vittima di violenza,2017,11
+isole,maschi,richiesta di aiuto vittima di violenza,2018,14
+isole,maschi,richiesta di aiuto vittima di violenza,2019,13
+isole,maschi,richiesta di aiuto vittima di violenza,2020,25
+isole,maschi,richiesta di aiuto vittima di violenza,2021,21
+isole,maschi,richiesta di aiuto vittima di violenza,2022,8
+isole,maschi,richiesta di aiuto vittima di violenza,2023,11
+isole,maschi,richiesta di aiuto vittima di violenza,2024,12
+isole,maschi,richiesta di aiuto per discriminazione,2021,1
+isole,maschi,richiesta di aiuto per discriminazione,2022,1
+isole,maschi,segnalazione di un caso di violenza,2015,1
+isole,maschi,segnalazione di un caso di violenza,2016,4
+isole,maschi,segnalazione di un caso di violenza,2017,3
+isole,maschi,segnalazione di un caso di violenza,2018,5
+isole,maschi,segnalazione di un caso di violenza,2019,1
+isole,maschi,segnalazione di un caso di violenza,2020,11
+isole,maschi,segnalazione di un caso di violenza,2021,3
+isole,maschi,segnalazione di un caso di violenza,2022,2
+isole,maschi,segnalazione di un caso di violenza,2023,4
+isole,maschi,segnalazione di un caso di violenza,2024,5
+isole,maschi,emergenza,2015,2
+isole,maschi,emergenza,2016,1
+isole,maschi,emergenza,2018,1
+isole,maschi,emergenza,2019,2
+isole,maschi,emergenza,2020,1
+isole,femmine,richiesta di aiuto vittima di stalking,2015,86
+isole,femmine,richiesta di aiuto vittima di stalking,2016,111
+isole,femmine,richiesta di aiuto vittima di stalking,2017,63
+isole,femmine,richiesta di aiuto vittima di stalking,2018,62
+isole,femmine,richiesta di aiuto vittima di stalking,2019,46
+isole,femmine,richiesta di aiuto vittima di stalking,2020,84
+isole,femmine,richiesta di aiuto vittima di stalking,2021,92
+isole,femmine,richiesta di aiuto vittima di stalking,2022,73
+isole,femmine,richiesta di aiuto vittima di stalking,2023,76
+isole,femmine,richiesta di aiuto vittima di stalking,2024,119
+isole,femmine,richiesta di aiuto vittima di violenza,2015,495
+isole,femmine,richiesta di aiuto vittima di violenza,2016,515
+isole,femmine,richiesta di aiuto vittima di violenza,2017,535
+isole,femmine,richiesta di aiuto vittima di violenza,2018,613
+isole,femmine,richiesta di aiuto vittima di violenza,2019,573
+isole,femmine,richiesta di aiuto vittima di violenza,2020,856
+isole,femmine,richiesta di aiuto vittima di violenza,2021,920
+isole,femmine,richiesta di aiuto vittima di violenza,2022,646
+isole,femmine,richiesta di aiuto vittima di violenza,2023,686
+isole,femmine,richiesta di aiuto vittima di violenza,2024,853
+isole,femmine,richiesta di aiuto per discriminazione,2021,1
+isole,femmine,segnalazione di un caso di violenza,2015,124
+isole,femmine,segnalazione di un caso di violenza,2016,138
+isole,femmine,segnalazione di un caso di violenza,2017,115
+isole,femmine,segnalazione di un caso di violenza,2018,98
+isole,femmine,segnalazione di un caso di violenza,2019,68
+isole,femmine,segnalazione di un caso di violenza,2020,173
+isole,femmine,segnalazione di un caso di violenza,2021,181
+isole,femmine,segnalazione di un caso di violenza,2022,125
+isole,femmine,segnalazione di un caso di violenza,2023,120
+isole,femmine,segnalazione di un caso di violenza,2024,116
+isole,femmine,emergenza,2015,16
+isole,femmine,emergenza,2016,13
+isole,femmine,emergenza,2017,8
+isole,femmine,emergenza,2018,11
+isole,femmine,emergenza,2019,13
+isole,femmine,emergenza,2020,4
+isole,femmine,emergenza,2021,3
+isole,femmine,emergenza,2022,1
+isole,non indicato,richiesta di aiuto vittima di stalking,2023,2
+isole,non indicato,richiesta di aiuto vittima di stalking,2024,1
+isole,non indicato,richiesta di aiuto vittima di violenza,2023,10
+isole,non indicato,richiesta di aiuto vittima di violenza,2024,12
+isole,non indicato,segnalazione di un caso di violenza,2024,1
+isole,non indicato,emergenza,2023,4
+isole,non indicato,emergenza,2024,3
+sicilia,maschi,richiesta di aiuto vittima di stalking,2015,5
+sicilia,maschi,richiesta di aiuto vittima di stalking,2016,5
+sicilia,maschi,richiesta di aiuto vittima di stalking,2017,4
+sicilia,maschi,richiesta di aiuto vittima di stalking,2018,2
+sicilia,maschi,richiesta di aiuto vittima di stalking,2020,3
+sicilia,maschi,richiesta di aiuto vittima di stalking,2021,8
+sicilia,maschi,richiesta di aiuto vittima di stalking,2022,4
+sicilia,maschi,richiesta di aiuto vittima di stalking,2023,4
+sicilia,maschi,richiesta di aiuto vittima di stalking,2024,7
+sicilia,maschi,richiesta di aiuto vittima di violenza,2015,10
+sicilia,maschi,richiesta di aiuto vittima di violenza,2016,5
+sicilia,maschi,richiesta di aiuto vittima di violenza,2017,7
+sicilia,maschi,richiesta di aiuto vittima di violenza,2018,10
+sicilia,maschi,richiesta di aiuto vittima di violenza,2019,9
+sicilia,maschi,richiesta di aiuto vittima di violenza,2020,17
+sicilia,maschi,richiesta di aiuto vittima di violenza,2021,13
+sicilia,maschi,richiesta di aiuto vittima di violenza,2022,7
+sicilia,maschi,richiesta di aiuto vittima di violenza,2023,8
+sicilia,maschi,richiesta di aiuto vittima di violenza,2024,11
+sicilia,maschi,richiesta di aiuto per discriminazione,2021,1
+sicilia,maschi,richiesta di aiuto per discriminazione,2022,1
+sicilia,maschi,segnalazione di un caso di violenza,2015,1
+sicilia,maschi,segnalazione di un caso di violenza,2016,4
+sicilia,maschi,segnalazione di un caso di violenza,2018,4
+sicilia,maschi,segnalazione di un caso di violenza,2020,9
+sicilia,maschi,segnalazione di un caso di violenza,2021,3
+sicilia,maschi,segnalazione di un caso di violenza,2022,1
+sicilia,maschi,segnalazione di un caso di violenza,2023,4
+sicilia,maschi,segnalazione di un caso di violenza,2024,4
+sicilia,maschi,emergenza,2015,2
+sicilia,maschi,emergenza,2016,1
+sicilia,maschi,emergenza,2019,1
+sicilia,femmine,richiesta di aiuto vittima di stalking,2015,58
+sicilia,femmine,richiesta di aiuto vittima di stalking,2016,73
+sicilia,femmine,richiesta di aiuto vittima di stalking,2017,40
+sicilia,femmine,richiesta di aiuto vittima di stalking,2018,38
+sicilia,femmine,richiesta di aiuto vittima di stalking,2019,29
+sicilia,femmine,richiesta di aiuto vittima di stalking,2020,57
+sicilia,femmine,richiesta di aiuto vittima di stalking,2021,63
+sicilia,femmine,richiesta di aiuto vittima di stalking,2022,46
+sicilia,femmine,richiesta di aiuto vittima di stalking,2023,56
+sicilia,femmine,richiesta di aiuto vittima di stalking,2024,81
+sicilia,femmine,richiesta di aiuto vittima di violenza,2015,345
+sicilia,femmine,richiesta di aiuto vittima di violenza,2016,364
+sicilia,femmine,richiesta di aiuto vittima di violenza,2017,380
+sicilia,femmine,richiesta di aiuto vittima di violenza,2018,435
+sicilia,femmine,richiesta di aiuto vittima di violenza,2019,430
+sicilia,femmine,richiesta di aiuto vittima di violenza,2020,612
+sicilia,femmine,richiesta di aiuto vittima di violenza,2021,673
+sicilia,femmine,richiesta di aiuto vittima di violenza,2022,461
+sicilia,femmine,richiesta di aiuto vittima di violenza,2023,513
+sicilia,femmine,richiesta di aiuto vittima di violenza,2024,621
+sicilia,femmine,richiesta di aiuto per discriminazione,2021,1
+sicilia,femmine,segnalazione di un caso di violenza,2015,90
+sicilia,femmine,segnalazione di un caso di violenza,2016,108
+sicilia,femmine,segnalazione di un caso di violenza,2017,79
+sicilia,femmine,segnalazione di un caso di violenza,2018,68
+sicilia,femmine,segnalazione di un caso di violenza,2019,48
+sicilia,femmine,segnalazione di un caso di violenza,2020,114
+sicilia,femmine,segnalazione di un caso di violenza,2021,123
+sicilia,femmine,segnalazione di un caso di violenza,2022,75
+sicilia,femmine,segnalazione di un caso di violenza,2023,83
+sicilia,femmine,segnalazione di un caso di violenza,2024,83
+sicilia,femmine,emergenza,2015,11
+sicilia,femmine,emergenza,2016,10
+sicilia,femmine,emergenza,2017,5
+sicilia,femmine,emergenza,2018,8
+sicilia,femmine,emergenza,2019,8
+sicilia,femmine,emergenza,2020,3
+sicilia,femmine,emergenza,2021,3
+sicilia,femmine,emergenza,2022,1
+sicilia,non indicato,richiesta di aiuto vittima di stalking,2023,2
+sicilia,non indicato,richiesta di aiuto vittima di stalking,2024,1
+sicilia,non indicato,richiesta di aiuto vittima di violenza,2023,8
+sicilia,non indicato,richiesta di aiuto vittima di violenza,2024,7
+sicilia,non indicato,segnalazione di un caso di violenza,2024,1
+sicilia,non indicato,emergenza,2023,4
+sicilia,non indicato,emergenza,2024,3
+sardegna,maschi,richiesta di aiuto vittima di stalking,2015,3
+sardegna,maschi,richiesta di aiuto vittima di stalking,2016,5
+sardegna,maschi,richiesta di aiuto vittima di stalking,2017,1
+sardegna,maschi,richiesta di aiuto vittima di stalking,2018,1
+sardegna,maschi,richiesta di aiuto vittima di stalking,2020,2
+sardegna,maschi,richiesta di aiuto vittima di stalking,2021,2
+sardegna,maschi,richiesta di aiuto vittima di stalking,2022,1
+sardegna,maschi,richiesta di aiuto vittima di stalking,2023,3
+sardegna,maschi,richiesta di aiuto vittima di stalking,2024,1
+sardegna,maschi,richiesta di aiuto vittima di violenza,2015,5
+sardegna,maschi,richiesta di aiuto vittima di violenza,2016,5
+sardegna,maschi,richiesta di aiuto vittima di violenza,2017,4
+sardegna,maschi,richiesta di aiuto vittima di violenza,2018,4
+sardegna,maschi,richiesta di aiuto vittima di violenza,2019,4
+sardegna,maschi,richiesta di aiuto vittima di violenza,2020,8
+sardegna,maschi,richiesta di aiuto vittima di violenza,2021,8
+sardegna,maschi,richiesta di aiuto vittima di violenza,2022,1
+sardegna,maschi,richiesta di aiuto vittima di violenza,2023,3
+sardegna,maschi,richiesta di aiuto vittima di violenza,2024,1
+sardegna,maschi,segnalazione di un caso di violenza,2017,3
+sardegna,maschi,segnalazione di un caso di violenza,2018,1
+sardegna,maschi,segnalazione di un caso di violenza,2019,1
+sardegna,maschi,segnalazione di un caso di violenza,2020,2
+sardegna,maschi,segnalazione di un caso di violenza,2022,1
+sardegna,maschi,segnalazione di un caso di violenza,2024,1
+sardegna,maschi,emergenza,2018,1
+sardegna,maschi,emergenza,2019,1
+sardegna,maschi,emergenza,2020,1
+sardegna,femmine,richiesta di aiuto vittima di stalking,2015,28
+sardegna,femmine,richiesta di aiuto vittima di stalking,2016,38
+sardegna,femmine,richiesta di aiuto vittima di stalking,2017,23
+sardegna,femmine,richiesta di aiuto vittima di stalking,2018,24
+sardegna,femmine,richiesta di aiuto vittima di stalking,2019,17
+sardegna,femmine,richiesta di aiuto vittima di stalking,2020,27
+sardegna,femmine,richiesta di aiuto vittima di stalking,2021,29
+sardegna,femmine,richiesta di aiuto vittima di stalking,2022,27
+sardegna,femmine,richiesta di aiuto vittima di stalking,2023,20
+sardegna,femmine,richiesta di aiuto vittima di stalking,2024,38
+sardegna,femmine,richiesta di aiuto vittima di violenza,2015,150
+sardegna,femmine,richiesta di aiuto vittima di violenza,2016,151
+sardegna,femmine,richiesta di aiuto vittima di violenza,2017,155
+sardegna,femmine,richiesta di aiuto vittima di violenza,2018,178
+sardegna,femmine,richiesta di aiuto vittima di violenza,2019,143
+sardegna,femmine,richiesta di aiuto vittima di violenza,2020,244
+sardegna,femmine,richiesta di aiuto vittima di violenza,2021,247
+sardegna,femmine,richiesta di aiuto vittima di violenza,2022,185
+sardegna,femmine,richiesta di aiuto vittima di violenza,2023,173
+sardegna,femmine,richiesta di aiuto vittima di violenza,2024,232
+sardegna,femmine,segnalazione di un caso di violenza,2015,34
+sardegna,femmine,segnalazione di un caso di violenza,2016,30
+sardegna,femmine,segnalazione di un caso di violenza,2017,36
+sardegna,femmine,segnalazione di un caso di violenza,2018,30
+sardegna,femmine,segnalazione di un caso di violenza,2019,20
+sardegna,femmine,segnalazione di un caso di violenza,2020,59
+sardegna,femmine,segnalazione di un caso di violenza,2021,58
+sardegna,femmine,segnalazione di un caso di violenza,2022,50
+sardegna,femmine,segnalazione di un caso di violenza,2023,37
+sardegna,femmine,segnalazione di un caso di violenza,2024,33
+sardegna,femmine,emergenza,2015,5
+sardegna,femmine,emergenza,2016,3
+sardegna,femmine,emergenza,2017,3
+sardegna,femmine,emergenza,2018,3
+sardegna,femmine,emergenza,2019,5
+sardegna,femmine,emergenza,2020,1
+sardegna,non indicato,richiesta di aiuto vittima di violenza,2023,2
+sardegna,non indicato,richiesta di aiuto vittima di violenza,2024,5
+non indicato,maschi,richiesta di aiuto vittima di stalking,2015,4
+non indicato,maschi,richiesta di aiuto vittima di stalking,2016,6
+non indicato,maschi,richiesta di aiuto vittima di stalking,2017,13
+non indicato,maschi,richiesta di aiuto vittima di stalking,2018,8
+non indicato,maschi,richiesta di aiuto vittima di stalking,2019,4
+non indicato,maschi,richiesta di aiuto vittima di stalking,2020,26
+non indicato,maschi,richiesta di aiuto vittima di stalking,2021,36
+non indicato,maschi,richiesta di aiuto vittima di stalking,2022,11
+non indicato,maschi,richiesta di aiuto vittima di stalking,2023,25
+non indicato,maschi,richiesta di aiuto vittima di stalking,2024,26
+non indicato,maschi,richiesta di aiuto vittima di violenza,2015,12
+non indicato,maschi,richiesta di aiuto vittima di violenza,2016,8
+non indicato,maschi,richiesta di aiuto vittima di violenza,2017,18
+non indicato,maschi,richiesta di aiuto vittima di violenza,2018,11
+non indicato,maschi,richiesta di aiuto vittima di violenza,2019,10
+non indicato,maschi,richiesta di aiuto vittima di violenza,2020,72
+non indicato,maschi,richiesta di aiuto vittima di violenza,2021,80
+non indicato,maschi,richiesta di aiuto vittima di violenza,2022,35
+non indicato,maschi,richiesta di aiuto vittima di violenza,2023,73
+non indicato,maschi,richiesta di aiuto vittima di violenza,2024,49
+non indicato,maschi,richiesta di aiuto per discriminazione,2020,1
+non indicato,maschi,segnalazione di un caso di violenza,2015,6
+non indicato,maschi,segnalazione di un caso di violenza,2016,6
+non indicato,maschi,segnalazione di un caso di violenza,2017,8
+non indicato,maschi,segnalazione di un caso di violenza,2018,3
+non indicato,maschi,segnalazione di un caso di violenza,2019,5
+non indicato,maschi,segnalazione di un caso di violenza,2020,27
+non indicato,maschi,segnalazione di un caso di violenza,2021,27
+non indicato,maschi,segnalazione di un caso di violenza,2022,9
+non indicato,maschi,segnalazione di un caso di violenza,2023,19
+non indicato,maschi,segnalazione di un caso di violenza,2024,26
+non indicato,maschi,emergenza,2015,6
+non indicato,maschi,emergenza,2016,2
+non indicato,maschi,emergenza,2017,4
+non indicato,maschi,emergenza,2018,2
+non indicato,maschi,emergenza,2019,4
+non indicato,maschi,emergenza,2020,1
+non indicato,femmine,richiesta di aiuto vittima di stalking,2015,35
+non indicato,femmine,richiesta di aiuto vittima di stalking,2016,31
+non indicato,femmine,richiesta di aiuto vittima di stalking,2017,115
+non indicato,femmine,richiesta di aiuto vittima di stalking,2018,66
+non indicato,femmine,richiesta di aiuto vittima di stalking,2019,49
+non indicato,femmine,richiesta di aiuto vittima di stalking,2020,204
+non indicato,femmine,richiesta di aiuto vittima di stalking,2021,184
+non indicato,femmine,richiesta di aiuto vittima di stalking,2022,108
+non indicato,femmine,richiesta di aiuto vittima di stalking,2023,264
+non indicato,femmine,richiesta di aiuto vittima di stalking,2024,132
+non indicato,femmine,richiesta di aiuto vittima di violenza,2015,279
+non indicato,femmine,richiesta di aiuto vittima di violenza,2016,286
+non indicato,femmine,richiesta di aiuto vittima di violenza,2017,560
+non indicato,femmine,richiesta di aiuto vittima di violenza,2018,541
+non indicato,femmine,richiesta di aiuto vittima di violenza,2019,390
+non indicato,femmine,richiesta di aiuto vittima di violenza,2020,1762
+non indicato,femmine,richiesta di aiuto vittima di violenza,2021,1449
+non indicato,femmine,richiesta di aiuto vittima di violenza,2022,1071
+non indicato,femmine,richiesta di aiuto vittima di violenza,2023,1978
+non indicato,femmine,richiesta di aiuto vittima di violenza,2024,882
+non indicato,femmine,richiesta di aiuto per discriminazione,2021,1
+non indicato,femmine,segnalazione di un caso di violenza,2015,45
+non indicato,femmine,segnalazione di un caso di violenza,2016,52
+non indicato,femmine,segnalazione di un caso di violenza,2017,182
+non indicato,femmine,segnalazione di un caso di violenza,2018,136
+non indicato,femmine,segnalazione di un caso di violenza,2019,75
+non indicato,femmine,segnalazione di un caso di violenza,2020,412
+non indicato,femmine,segnalazione di un caso di violenza,2021,527
+non indicato,femmine,segnalazione di un caso di violenza,2022,219
+non indicato,femmine,segnalazione di un caso di violenza,2023,333
+non indicato,femmine,segnalazione di un caso di violenza,2024,258
+non indicato,femmine,emergenza,2015,14
+non indicato,femmine,emergenza,2016,19
+non indicato,femmine,emergenza,2017,30
+non indicato,femmine,emergenza,2018,35
+non indicato,femmine,emergenza,2019,30
+non indicato,femmine,emergenza,2020,17
+non indicato,femmine,emergenza,2021,11
+non indicato,femmine,emergenza,2022,7
+non indicato,non indicato,richiesta di aiuto vittima di stalking,2023,90
+non indicato,non indicato,richiesta di aiuto vittima di stalking,2024,104
+non indicato,non indicato,richiesta di aiuto vittima di violenza,2023,915
+non indicato,non indicato,richiesta di aiuto vittima di violenza,2024,662
+non indicato,non indicato,segnalazione di un caso di violenza,2023,122
+non indicato,non indicato,segnalazione di un caso di violenza,2024,75
+non indicato,non indicato,emergenza,2015,1
+non indicato,non indicato,emergenza,2019,2
+non indicato,non indicato,emergenza,2020,9
+non indicato,non indicato,emergenza,2021,11
+non indicato,non indicato,emergenza,2022,15
+non indicato,non indicato,emergenza,2023,29
+non indicato,non indicato,emergenza,2024,5

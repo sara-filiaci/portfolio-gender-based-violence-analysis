@@ -1,0 +1,3196 @@
+﻿territorio,nazionalità_utente,modalità_conoscenza_1522,periodo,numero_vittime
+abruzzo,estero,altro,2015,1
+abruzzo,estero,altro,2016,4
+abruzzo,estero,altro,2017,2
+abruzzo,estero,altro,2018,2
+abruzzo,estero,altro,2019,6
+abruzzo,estero,altro,2020,8
+abruzzo,estero,altro,2021,8
+abruzzo,estero,altro,2022,6
+abruzzo,estero,altro,2023,18
+abruzzo,estero,altro,2024,6
+abruzzo,estero,digitale,2015,51
+abruzzo,estero,digitale,2016,59
+abruzzo,estero,digitale,2017,74
+abruzzo,estero,digitale,2018,89
+abruzzo,estero,digitale,2019,145
+abruzzo,estero,digitale,2020,96
+abruzzo,estero,digitale,2021,111
+abruzzo,estero,digitale,2022,147
+abruzzo,estero,digitale,2023,216
+abruzzo,estero,digitale,2024,160
+abruzzo,estero,media_tradizionali,2015,129
+abruzzo,estero,media_tradizionali,2016,86
+abruzzo,estero,media_tradizionali,2017,64
+abruzzo,estero,media_tradizionali,2018,109
+abruzzo,estero,media_tradizionali,2019,63
+abruzzo,estero,media_tradizionali,2020,112
+abruzzo,estero,media_tradizionali,2021,75
+abruzzo,estero,media_tradizionali,2022,71
+abruzzo,estero,media_tradizionali,2023,146
+abruzzo,estero,media_tradizionali,2024,410
+abruzzo,estero,non_risposta,2015,317
+abruzzo,estero,non_risposta,2016,277
+abruzzo,estero,non_risposta,2017,234
+abruzzo,estero,non_risposta,2018,327
+abruzzo,estero,non_risposta,2019,234
+abruzzo,estero,non_risposta,2020,284
+abruzzo,estero,non_risposta,2021,364
+abruzzo,estero,non_risposta,2022,276
+abruzzo,estero,non_risposta,2023,337
+abruzzo,estero,non_risposta,2024,214
+abruzzo,estero,rete_personale,2015,8
+abruzzo,estero,rete_personale,2016,19
+abruzzo,estero,rete_personale,2017,24
+abruzzo,estero,rete_personale,2018,29
+abruzzo,estero,rete_personale,2019,20
+abruzzo,estero,rete_personale,2020,26
+abruzzo,estero,rete_personale,2021,46
+abruzzo,estero,rete_personale,2022,34
+abruzzo,estero,rete_personale,2023,32
+abruzzo,estero,rete_personale,2024,17
+abruzzo,estero,servizi_istituzioni,2015,35
+abruzzo,estero,servizi_istituzioni,2016,35
+abruzzo,estero,servizi_istituzioni,2017,32
+abruzzo,estero,servizi_istituzioni,2018,39
+abruzzo,estero,servizi_istituzioni,2019,43
+abruzzo,estero,servizi_istituzioni,2020,30
+abruzzo,estero,servizi_istituzioni,2021,21
+abruzzo,estero,servizi_istituzioni,2022,30
+abruzzo,estero,servizi_istituzioni,2023,62
+abruzzo,estero,servizi_istituzioni,2024,42
+abruzzo,italia,altro,2015,1
+abruzzo,italia,altro,2016,2
+abruzzo,italia,altro,2018,2
+abruzzo,italia,altro,2019,6
+abruzzo,italia,altro,2020,8
+abruzzo,italia,altro,2021,8
+abruzzo,italia,altro,2022,6
+abruzzo,italia,altro,2023,16
+abruzzo,italia,altro,2024,4
+abruzzo,italia,digitale,2015,51
+abruzzo,italia,digitale,2016,49
+abruzzo,italia,digitale,2017,56
+abruzzo,italia,digitale,2018,73
+abruzzo,italia,digitale,2019,107
+abruzzo,italia,digitale,2020,88
+abruzzo,italia,digitale,2021,91
+abruzzo,italia,digitale,2022,127
+abruzzo,italia,digitale,2023,176
+abruzzo,italia,digitale,2024,144
+abruzzo,italia,media_tradizionali,2015,115
+abruzzo,italia,media_tradizionali,2016,70
+abruzzo,italia,media_tradizionali,2017,52
+abruzzo,italia,media_tradizionali,2018,89
+abruzzo,italia,media_tradizionali,2019,55
+abruzzo,italia,media_tradizionali,2020,96
+abruzzo,italia,media_tradizionali,2021,71
+abruzzo,italia,media_tradizionali,2022,65
+abruzzo,italia,media_tradizionali,2023,134
+abruzzo,italia,media_tradizionali,2024,360
+abruzzo,italia,non_risposta,2015,269
+abruzzo,italia,non_risposta,2016,243
+abruzzo,italia,non_risposta,2017,208
+abruzzo,italia,non_risposta,2018,297
+abruzzo,italia,non_risposta,2019,194
+abruzzo,italia,non_risposta,2020,266
+abruzzo,italia,non_risposta,2021,326
+abruzzo,italia,non_risposta,2022,242
+abruzzo,italia,non_risposta,2023,293
+abruzzo,italia,non_risposta,2024,194
+abruzzo,italia,rete_personale,2015,4
+abruzzo,italia,rete_personale,2016,13
+abruzzo,italia,rete_personale,2017,18
+abruzzo,italia,rete_personale,2018,19
+abruzzo,italia,rete_personale,2019,12
+abruzzo,italia,rete_personale,2020,14
+abruzzo,italia,rete_personale,2021,26
+abruzzo,italia,rete_personale,2022,22
+abruzzo,italia,rete_personale,2023,22
+abruzzo,italia,rete_personale,2024,17
+abruzzo,italia,servizi_istituzioni,2015,23
+abruzzo,italia,servizi_istituzioni,2016,29
+abruzzo,italia,servizi_istituzioni,2017,24
+abruzzo,italia,servizi_istituzioni,2018,31
+abruzzo,italia,servizi_istituzioni,2019,35
+abruzzo,italia,servizi_istituzioni,2020,24
+abruzzo,italia,servizi_istituzioni,2021,19
+abruzzo,italia,servizi_istituzioni,2022,28
+abruzzo,italia,servizi_istituzioni,2023,52
+abruzzo,italia,servizi_istituzioni,2024,36
+basilicata,estero,altro,2018,1
+basilicata,estero,altro,2019,1
+basilicata,estero,altro,2021,3
+basilicata,estero,altro,2022,4
+basilicata,estero,altro,2023,2
+basilicata,estero,altro,2024,2
+basilicata,estero,digitale,2015,6
+basilicata,estero,digitale,2016,17
+basilicata,estero,digitale,2017,20
+basilicata,estero,digitale,2018,26
+basilicata,estero,digitale,2019,45
+basilicata,estero,digitale,2020,32
+basilicata,estero,digitale,2021,31
+basilicata,estero,digitale,2022,48
+basilicata,estero,digitale,2023,72
+basilicata,estero,digitale,2024,35
+basilicata,estero,media_tradizionali,2015,45
+basilicata,estero,media_tradizionali,2016,22
+basilicata,estero,media_tradizionali,2017,20
+basilicata,estero,media_tradizionali,2018,36
+basilicata,estero,media_tradizionali,2019,25
+basilicata,estero,media_tradizionali,2020,33
+basilicata,estero,media_tradizionali,2021,23
+basilicata,estero,media_tradizionali,2022,28
+basilicata,estero,media_tradizionali,2023,58
+basilicata,estero,media_tradizionali,2024,97
+basilicata,estero,non_risposta,2015,51
+basilicata,estero,non_risposta,2016,45
+basilicata,estero,non_risposta,2017,56
+basilicata,estero,non_risposta,2018,65
+basilicata,estero,non_risposta,2019,69
+basilicata,estero,non_risposta,2020,89
+basilicata,estero,non_risposta,2021,120
+basilicata,estero,non_risposta,2022,75
+basilicata,estero,non_risposta,2023,112
+basilicata,estero,non_risposta,2024,76
+basilicata,estero,rete_personale,2015,2
+basilicata,estero,rete_personale,2016,6
+basilicata,estero,rete_personale,2017,4
+basilicata,estero,rete_personale,2018,8
+basilicata,estero,rete_personale,2019,15
+basilicata,estero,rete_personale,2020,3
+basilicata,estero,rete_personale,2021,15
+basilicata,estero,rete_personale,2022,15
+basilicata,estero,rete_personale,2023,6
+basilicata,estero,rete_personale,2024,5
+basilicata,estero,servizi_istituzioni,2015,6
+basilicata,estero,servizi_istituzioni,2016,7
+basilicata,estero,servizi_istituzioni,2017,8
+basilicata,estero,servizi_istituzioni,2018,10
+basilicata,estero,servizi_istituzioni,2019,10
+basilicata,estero,servizi_istituzioni,2020,4
+basilicata,estero,servizi_istituzioni,2021,4
+basilicata,estero,servizi_istituzioni,2022,7
+basilicata,estero,servizi_istituzioni,2023,15
+basilicata,estero,servizi_istituzioni,2024,16
+basilicata,italia,altro,2018,1
+basilicata,italia,altro,2019,1
+basilicata,italia,altro,2021,1
+basilicata,italia,altro,2022,4
+basilicata,italia,altro,2023,2
+basilicata,italia,altro,2024,2
+basilicata,italia,digitale,2015,6
+basilicata,italia,digitale,2016,15
+basilicata,italia,digitale,2017,20
+basilicata,italia,digitale,2018,26
+basilicata,italia,digitale,2019,37
+basilicata,italia,digitale,2020,28
+basilicata,italia,digitale,2021,31
+basilicata,italia,digitale,2022,44
+basilicata,italia,digitale,2023,64
+basilicata,italia,digitale,2024,31
+basilicata,italia,media_tradizionali,2015,37
+basilicata,italia,media_tradizionali,2016,22
+basilicata,italia,media_tradizionali,2017,20
+basilicata,italia,media_tradizionali,2018,36
+basilicata,italia,media_tradizionali,2019,23
+basilicata,italia,media_tradizionali,2020,29
+basilicata,italia,media_tradizionali,2021,23
+basilicata,italia,media_tradizionali,2022,28
+basilicata,italia,media_tradizionali,2023,54
+basilicata,italia,media_tradizionali,2024,91
+basilicata,italia,non_risposta,2015,43
+basilicata,italia,non_risposta,2016,37
+basilicata,italia,non_risposta,2017,50
+basilicata,italia,non_risposta,2018,59
+basilicata,italia,non_risposta,2019,53
+basilicata,italia,non_risposta,2020,87
+basilicata,italia,non_risposta,2021,106
+basilicata,italia,non_risposta,2022,71
+basilicata,italia,non_risposta,2023,108
+basilicata,italia,non_risposta,2024,70
+basilicata,italia,rete_personale,2015,2
+basilicata,italia,rete_personale,2016,6
+basilicata,italia,rete_personale,2017,4
+basilicata,italia,rete_personale,2018,4
+basilicata,italia,rete_personale,2019,11
+basilicata,italia,rete_personale,2020,3
+basilicata,italia,rete_personale,2021,11
+basilicata,italia,rete_personale,2022,11
+basilicata,italia,rete_personale,2023,6
+basilicata,italia,rete_personale,2024,5
+basilicata,italia,servizi_istituzioni,2015,6
+basilicata,italia,servizi_istituzioni,2016,5
+basilicata,italia,servizi_istituzioni,2017,4
+basilicata,italia,servizi_istituzioni,2018,8
+basilicata,italia,servizi_istituzioni,2019,8
+basilicata,italia,servizi_istituzioni,2020,4
+basilicata,italia,servizi_istituzioni,2021,4
+basilicata,italia,servizi_istituzioni,2022,7
+basilicata,italia,servizi_istituzioni,2023,13
+basilicata,italia,servizi_istituzioni,2024,16
+calabria,estero,altro,2016,1
+calabria,estero,altro,2017,1
+calabria,estero,altro,2018,1
+calabria,estero,altro,2019,2
+calabria,estero,altro,2020,5
+calabria,estero,altro,2021,4
+calabria,estero,altro,2022,5
+calabria,estero,altro,2023,15
+calabria,estero,altro,2024,5
+calabria,estero,digitale,2015,43
+calabria,estero,digitale,2016,58
+calabria,estero,digitale,2017,63
+calabria,estero,digitale,2018,80
+calabria,estero,digitale,2019,160
+calabria,estero,digitale,2020,110
+calabria,estero,digitale,2021,86
+calabria,estero,digitale,2022,181
+calabria,estero,digitale,2023,211
+calabria,estero,digitale,2024,164
+calabria,estero,media_tradizionali,2015,188
+calabria,estero,media_tradizionali,2016,104
+calabria,estero,media_tradizionali,2017,67
+calabria,estero,media_tradizionali,2018,116
+calabria,estero,media_tradizionali,2019,95
+calabria,estero,media_tradizionali,2020,117
+calabria,estero,media_tradizionali,2021,81
+calabria,estero,media_tradizionali,2022,81
+calabria,estero,media_tradizionali,2023,170
+calabria,estero,media_tradizionali,2024,382
+calabria,estero,non_risposta,2015,293
+calabria,estero,non_risposta,2016,212
+calabria,estero,non_risposta,2017,229
+calabria,estero,non_risposta,2018,278
+calabria,estero,non_risposta,2019,228
+calabria,estero,non_risposta,2020,450
+calabria,estero,non_risposta,2021,455
+calabria,estero,non_risposta,2022,413
+calabria,estero,non_risposta,2023,366
+calabria,estero,non_risposta,2024,254
+calabria,estero,rete_personale,2015,17
+calabria,estero,rete_personale,2016,17
+calabria,estero,rete_personale,2017,24
+calabria,estero,rete_personale,2018,22
+calabria,estero,rete_personale,2019,18
+calabria,estero,rete_personale,2020,15
+calabria,estero,rete_personale,2021,37
+calabria,estero,rete_personale,2022,33
+calabria,estero,rete_personale,2023,28
+calabria,estero,rete_personale,2024,19
+calabria,estero,servizi_istituzioni,2015,28
+calabria,estero,servizi_istituzioni,2016,39
+calabria,estero,servizi_istituzioni,2017,19
+calabria,estero,servizi_istituzioni,2018,36
+calabria,estero,servizi_istituzioni,2019,42
+calabria,estero,servizi_istituzioni,2020,19
+calabria,estero,servizi_istituzioni,2021,22
+calabria,estero,servizi_istituzioni,2022,19
+calabria,estero,servizi_istituzioni,2023,62
+calabria,estero,servizi_istituzioni,2024,50
+calabria,italia,altro,2016,1
+calabria,italia,altro,2017,1
+calabria,italia,altro,2018,1
+calabria,italia,altro,2019,2
+calabria,italia,altro,2020,5
+calabria,italia,altro,2021,4
+calabria,italia,altro,2022,5
+calabria,italia,altro,2023,15
+calabria,italia,altro,2024,3
+calabria,italia,digitale,2015,37
+calabria,italia,digitale,2016,48
+calabria,italia,digitale,2017,55
+calabria,italia,digitale,2018,66
+calabria,italia,digitale,2019,140
+calabria,italia,digitale,2020,94
+calabria,italia,digitale,2021,76
+calabria,italia,digitale,2022,155
+calabria,italia,digitale,2023,187
+calabria,italia,digitale,2024,156
+calabria,italia,media_tradizionali,2015,152
+calabria,italia,media_tradizionali,2016,96
+calabria,italia,media_tradizionali,2017,63
+calabria,italia,media_tradizionali,2018,104
+calabria,italia,media_tradizionali,2019,83
+calabria,italia,media_tradizionali,2020,107
+calabria,italia,media_tradizionali,2021,65
+calabria,italia,media_tradizionali,2022,71
+calabria,italia,media_tradizionali,2023,162
+calabria,italia,media_tradizionali,2024,364
+calabria,italia,non_risposta,2015,263
+calabria,italia,non_risposta,2016,192
+calabria,italia,non_risposta,2017,199
+calabria,italia,non_risposta,2018,256
+calabria,italia,non_risposta,2019,200
+calabria,italia,non_risposta,2020,424
+calabria,italia,non_risposta,2021,433
+calabria,italia,non_risposta,2022,367
+calabria,italia,non_risposta,2023,336
+calabria,italia,non_risposta,2024,246
+calabria,italia,rete_personale,2015,13
+calabria,italia,rete_personale,2016,13
+calabria,italia,rete_personale,2017,14
+calabria,italia,rete_personale,2018,16
+calabria,italia,rete_personale,2019,12
+calabria,italia,rete_personale,2020,13
+calabria,italia,rete_personale,2021,27
+calabria,italia,rete_personale,2022,33
+calabria,italia,rete_personale,2023,28
+calabria,italia,rete_personale,2024,17
+calabria,italia,servizi_istituzioni,2015,26
+calabria,italia,servizi_istituzioni,2016,37
+calabria,italia,servizi_istituzioni,2017,17
+calabria,italia,servizi_istituzioni,2018,30
+calabria,italia,servizi_istituzioni,2019,38
+calabria,italia,servizi_istituzioni,2020,19
+calabria,italia,servizi_istituzioni,2021,18
+calabria,italia,servizi_istituzioni,2022,19
+calabria,italia,servizi_istituzioni,2023,62
+calabria,italia,servizi_istituzioni,2024,48
+campania,estero,altro,2015,4
+campania,estero,altro,2016,6
+campania,estero,altro,2018,14
+campania,estero,altro,2019,11
+campania,estero,altro,2020,30
+campania,estero,altro,2021,33
+campania,estero,altro,2022,45
+campania,estero,altro,2023,54
+campania,estero,altro,2024,10
+campania,estero,digitale,2015,218
+campania,estero,digitale,2016,215
+campania,estero,digitale,2017,247
+campania,estero,digitale,2018,339
+campania,estero,digitale,2019,533
+campania,estero,digitale,2020,435
+campania,estero,digitale,2021,380
+campania,estero,digitale,2022,627
+campania,estero,digitale,2023,732
+campania,estero,digitale,2024,782
+campania,estero,media_tradizionali,2015,663
+campania,estero,media_tradizionali,2016,464
+campania,estero,media_tradizionali,2017,332
+campania,estero,media_tradizionali,2018,595
+campania,estero,media_tradizionali,2019,361
+campania,estero,media_tradizionali,2020,495
+campania,estero,media_tradizionali,2021,360
+campania,estero,media_tradizionali,2022,315
+campania,estero,media_tradizionali,2023,606
+campania,estero,media_tradizionali,2024,1964
+campania,estero,non_risposta,2015,1194
+campania,estero,non_risposta,2016,1029
+campania,estero,non_risposta,2017,1012
+campania,estero,non_risposta,2018,1223
+campania,estero,non_risposta,2019,1032
+campania,estero,non_risposta,2020,1641
+campania,estero,non_risposta,2021,1925
+campania,estero,non_risposta,2022,1255
+campania,estero,non_risposta,2023,1351
+campania,estero,non_risposta,2024,1126
+campania,estero,rete_personale,2015,85
+campania,estero,rete_personale,2016,93
+campania,estero,rete_personale,2017,78
+campania,estero,rete_personale,2018,101
+campania,estero,rete_personale,2019,107
+campania,estero,rete_personale,2020,102
+campania,estero,rete_personale,2021,121
+campania,estero,rete_personale,2022,144
+campania,estero,rete_personale,2023,134
+campania,estero,rete_personale,2024,96
+campania,estero,servizi_istituzioni,2015,99
+campania,estero,servizi_istituzioni,2016,121
+campania,estero,servizi_istituzioni,2017,84
+campania,estero,servizi_istituzioni,2018,110
+campania,estero,servizi_istituzioni,2019,166
+campania,estero,servizi_istituzioni,2020,70
+campania,estero,servizi_istituzioni,2021,109
+campania,estero,servizi_istituzioni,2022,95
+campania,estero,servizi_istituzioni,2023,137
+campania,estero,servizi_istituzioni,2024,156
+campania,italia,altro,2015,4
+campania,italia,altro,2016,6
+campania,italia,altro,2018,14
+campania,italia,altro,2019,11
+campania,italia,altro,2020,30
+campania,italia,altro,2021,25
+campania,italia,altro,2022,39
+campania,italia,altro,2023,52
+campania,italia,altro,2024,6
+campania,italia,digitale,2015,196
+campania,italia,digitale,2016,189
+campania,italia,digitale,2017,211
+campania,italia,digitale,2018,305
+campania,italia,digitale,2019,479
+campania,italia,digitale,2020,395
+campania,italia,digitale,2021,344
+campania,italia,digitale,2022,561
+campania,italia,digitale,2023,674
+campania,italia,digitale,2024,714
+campania,italia,media_tradizionali,2015,595
+campania,italia,media_tradizionali,2016,396
+campania,italia,media_tradizionali,2017,310
+campania,italia,media_tradizionali,2018,569
+campania,italia,media_tradizionali,2019,333
+campania,italia,media_tradizionali,2020,461
+campania,italia,media_tradizionali,2021,336
+campania,italia,media_tradizionali,2022,295
+campania,italia,media_tradizionali,2023,572
+campania,italia,media_tradizionali,2024,1818
+campania,italia,non_risposta,2015,1120
+campania,italia,non_risposta,2016,953
+campania,italia,non_risposta,2017,906
+campania,italia,non_risposta,2018,1133
+campania,italia,non_risposta,2019,970
+campania,italia,non_risposta,2020,1529
+campania,italia,non_risposta,2021,1793
+campania,italia,non_risposta,2022,1169
+campania,italia,non_risposta,2023,1269
+campania,italia,non_risposta,2024,1044
+campania,italia,rete_personale,2015,65
+campania,italia,rete_personale,2016,79
+campania,italia,rete_personale,2017,64
+campania,italia,rete_personale,2018,89
+campania,italia,rete_personale,2019,89
+campania,italia,rete_personale,2020,82
+campania,italia,rete_personale,2021,109
+campania,italia,rete_personale,2022,114
+campania,italia,rete_personale,2023,116
+campania,italia,rete_personale,2024,88
+campania,italia,servizi_istituzioni,2015,81
+campania,italia,servizi_istituzioni,2016,105
+campania,italia,servizi_istituzioni,2017,80
+campania,italia,servizi_istituzioni,2018,92
+campania,italia,servizi_istituzioni,2019,146
+campania,italia,servizi_istituzioni,2020,66
+campania,italia,servizi_istituzioni,2021,99
+campania,italia,servizi_istituzioni,2022,89
+campania,italia,servizi_istituzioni,2023,127
+campania,italia,servizi_istituzioni,2024,148
+campania,non indicato,non_risposta,2023,2
+centro,estero,altro,2015,5
+centro,estero,altro,2016,17
+centro,estero,altro,2017,20
+centro,estero,altro,2018,31
+centro,estero,altro,2019,43
+centro,estero,altro,2020,68
+centro,estero,altro,2021,141
+centro,estero,altro,2022,152
+centro,estero,altro,2023,213
+centro,estero,altro,2024,93
+centro,estero,digitale,2015,468
+centro,estero,digitale,2016,609
+centro,estero,digitale,2017,608
+centro,estero,digitale,2018,917
+centro,estero,digitale,2019,1498
+centro,estero,digitale,2020,1171
+centro,estero,digitale,2021,1088
+centro,estero,digitale,2022,1823
+centro,estero,digitale,2023,2325
+centro,estero,digitale,2024,2255
+centro,estero,media_tradizionali,2015,1360
+centro,estero,media_tradizionali,2016,931
+centro,estero,media_tradizionali,2017,656
+centro,estero,media_tradizionali,2018,1206
+centro,estero,media_tradizionali,2019,871
+centro,estero,media_tradizionali,2020,1160
+centro,estero,media_tradizionali,2021,741
+centro,estero,media_tradizionali,2022,702
+centro,estero,media_tradizionali,2023,1539
+centro,estero,media_tradizionali,2024,5083
+centro,estero,non_risposta,2015,2143
+centro,estero,non_risposta,2016,1889
+centro,estero,non_risposta,2017,2089
+centro,estero,non_risposta,2018,2513
+centro,estero,non_risposta,2019,2114
+centro,estero,non_risposta,2020,3758
+centro,estero,non_risposta,2021,4343
+centro,estero,non_risposta,2022,3010
+centro,estero,non_risposta,2023,3946
+centro,estero,non_risposta,2024,2934
+centro,estero,rete_personale,2015,168
+centro,estero,rete_personale,2016,202
+centro,estero,rete_personale,2017,200
+centro,estero,rete_personale,2018,337
+centro,estero,rete_personale,2019,325
+centro,estero,rete_personale,2020,257
+centro,estero,rete_personale,2021,392
+centro,estero,rete_personale,2022,430
+centro,estero,rete_personale,2023,421
+centro,estero,rete_personale,2024,315
+centro,estero,servizi_istituzioni,2015,272
+centro,estero,servizi_istituzioni,2016,333
+centro,estero,servizi_istituzioni,2017,282
+centro,estero,servizi_istituzioni,2018,339
+centro,estero,servizi_istituzioni,2019,401
+centro,estero,servizi_istituzioni,2020,240
+centro,estero,servizi_istituzioni,2021,344
+centro,estero,servizi_istituzioni,2022,341
+centro,estero,servizi_istituzioni,2023,628
+centro,estero,servizi_istituzioni,2024,584
+centro,italia,altro,2015,5
+centro,italia,altro,2016,13
+centro,italia,altro,2017,14
+centro,italia,altro,2018,23
+centro,italia,altro,2019,37
+centro,italia,altro,2020,54
+centro,italia,altro,2021,109
+centro,italia,altro,2022,122
+centro,italia,altro,2023,189
+centro,italia,altro,2024,69
+centro,italia,digitale,2015,372
+centro,italia,digitale,2016,483
+centro,italia,digitale,2017,496
+centro,italia,digitale,2018,753
+centro,italia,digitale,2019,1220
+centro,italia,digitale,2020,983
+centro,italia,digitale,2021,886
+centro,italia,digitale,2022,1473
+centro,italia,digitale,2023,1985
+centro,italia,digitale,2024,1915
+centro,italia,media_tradizionali,2015,1120
+centro,italia,media_tradizionali,2016,779
+centro,italia,media_tradizionali,2017,556
+centro,italia,media_tradizionali,2018,1036
+centro,italia,media_tradizionali,2019,731
+centro,italia,media_tradizionali,2020,988
+centro,italia,media_tradizionali,2021,635
+centro,italia,media_tradizionali,2022,596
+centro,italia,media_tradizionali,2023,1373
+centro,italia,media_tradizionali,2024,4343
+centro,italia,non_risposta,2015,1853
+centro,italia,non_risposta,2016,1641
+centro,italia,non_risposta,2017,1757
+centro,italia,non_risposta,2018,2179
+centro,italia,non_risposta,2019,1854
+centro,italia,non_risposta,2020,3154
+centro,italia,non_risposta,2021,3671
+centro,italia,non_risposta,2022,2580
+centro,italia,non_risposta,2023,3453
+centro,italia,non_risposta,2024,2530
+centro,italia,rete_personale,2015,120
+centro,italia,rete_personale,2016,134
+centro,italia,rete_personale,2017,144
+centro,italia,rete_personale,2018,235
+centro,italia,rete_personale,2019,249
+centro,italia,rete_personale,2020,179
+centro,italia,rete_personale,2021,302
+centro,italia,rete_personale,2022,304
+centro,italia,rete_personale,2023,321
+centro,italia,rete_personale,2024,229
+centro,italia,servizi_istituzioni,2015,212
+centro,italia,servizi_istituzioni,2016,245
+centro,italia,servizi_istituzioni,2017,220
+centro,italia,servizi_istituzioni,2018,251
+centro,italia,servizi_istituzioni,2019,297
+centro,italia,servizi_istituzioni,2020,200
+centro,italia,servizi_istituzioni,2021,262
+centro,italia,servizi_istituzioni,2022,239
+centro,italia,servizi_istituzioni,2023,496
+centro,italia,servizi_istituzioni,2024,466
+centro,non indicato,non_risposta,2023,1
+emilia romagna,estero,altro,2015,3
+emilia romagna,estero,altro,2016,5
+emilia romagna,estero,altro,2017,10
+emilia romagna,estero,altro,2018,9
+emilia romagna,estero,altro,2019,7
+emilia romagna,estero,altro,2020,14
+emilia romagna,estero,altro,2021,43
+emilia romagna,estero,altro,2022,31
+emilia romagna,estero,altro,2023,35
+emilia romagna,estero,altro,2024,13
+emilia romagna,estero,digitale,2015,126
+emilia romagna,estero,digitale,2016,158
+emilia romagna,estero,digitale,2017,155
+emilia romagna,estero,digitale,2018,273
+emilia romagna,estero,digitale,2019,382
+emilia romagna,estero,digitale,2020,329
+emilia romagna,estero,digitale,2021,322
+emilia romagna,estero,digitale,2022,565
+emilia romagna,estero,digitale,2023,694
+emilia romagna,estero,digitale,2024,796
+emilia romagna,estero,media_tradizionali,2015,337
+emilia romagna,estero,media_tradizionali,2016,237
+emilia romagna,estero,media_tradizionali,2017,172
+emilia romagna,estero,media_tradizionali,2018,271
+emilia romagna,estero,media_tradizionali,2019,208
+emilia romagna,estero,media_tradizionali,2020,384
+emilia romagna,estero,media_tradizionali,2021,233
+emilia romagna,estero,media_tradizionali,2022,199
+emilia romagna,estero,media_tradizionali,2023,439
+emilia romagna,estero,media_tradizionali,2024,1625
+emilia romagna,estero,non_risposta,2015,492
+emilia romagna,estero,non_risposta,2016,436
+emilia romagna,estero,non_risposta,2017,424
+emilia romagna,estero,non_risposta,2018,510
+emilia romagna,estero,non_risposta,2019,472
+emilia romagna,estero,non_risposta,2020,911
+emilia romagna,estero,non_risposta,2021,1067
+emilia romagna,estero,non_risposta,2022,763
+emilia romagna,estero,non_risposta,2023,1871
+emilia romagna,estero,non_risposta,2024,1221
+emilia romagna,estero,rete_personale,2015,55
+emilia romagna,estero,rete_personale,2016,48
+emilia romagna,estero,rete_personale,2017,34
+emilia romagna,estero,rete_personale,2018,81
+emilia romagna,estero,rete_personale,2019,89
+emilia romagna,estero,rete_personale,2020,85
+emilia romagna,estero,rete_personale,2021,118
+emilia romagna,estero,rete_personale,2022,112
+emilia romagna,estero,rete_personale,2023,106
+emilia romagna,estero,rete_personale,2024,117
+emilia romagna,estero,servizi_istituzioni,2015,83
+emilia romagna,estero,servizi_istituzioni,2016,92
+emilia romagna,estero,servizi_istituzioni,2017,71
+emilia romagna,estero,servizi_istituzioni,2018,68
+emilia romagna,estero,servizi_istituzioni,2019,102
+emilia romagna,estero,servizi_istituzioni,2020,67
+emilia romagna,estero,servizi_istituzioni,2021,76
+emilia romagna,estero,servizi_istituzioni,2022,98
+emilia romagna,estero,servizi_istituzioni,2023,137
+emilia romagna,estero,servizi_istituzioni,2024,148
+emilia romagna,italia,altro,2015,3
+emilia romagna,italia,altro,2016,1
+emilia romagna,italia,altro,2017,6
+emilia romagna,italia,altro,2018,7
+emilia romagna,italia,altro,2019,5
+emilia romagna,italia,altro,2020,12
+emilia romagna,italia,altro,2021,31
+emilia romagna,italia,altro,2022,17
+emilia romagna,italia,altro,2023,35
+emilia romagna,italia,altro,2024,11
+emilia romagna,italia,digitale,2015,100
+emilia romagna,italia,digitale,2016,136
+emilia romagna,italia,digitale,2017,131
+emilia romagna,italia,digitale,2018,207
+emilia romagna,italia,digitale,2019,298
+emilia romagna,italia,digitale,2020,261
+emilia romagna,italia,digitale,2021,244
+emilia romagna,italia,digitale,2022,455
+emilia romagna,italia,digitale,2023,574
+emilia romagna,italia,digitale,2024,694
+emilia romagna,italia,media_tradizionali,2015,261
+emilia romagna,italia,media_tradizionali,2016,183
+emilia romagna,italia,media_tradizionali,2017,130
+emilia romagna,italia,media_tradizionali,2018,239
+emilia romagna,italia,media_tradizionali,2019,164
+emilia romagna,italia,media_tradizionali,2020,322
+emilia romagna,italia,media_tradizionali,2021,183
+emilia romagna,italia,media_tradizionali,2022,167
+emilia romagna,italia,media_tradizionali,2023,399
+emilia romagna,italia,media_tradizionali,2024,1391
+emilia romagna,italia,non_risposta,2015,376
+emilia romagna,italia,non_risposta,2016,368
+emilia romagna,italia,non_risposta,2017,304
+emilia romagna,italia,non_risposta,2018,436
+emilia romagna,italia,non_risposta,2019,392
+emilia romagna,italia,non_risposta,2020,729
+emilia romagna,italia,non_risposta,2021,873
+emilia romagna,italia,non_risposta,2022,617
+emilia romagna,italia,non_risposta,2023,1692
+emilia romagna,italia,non_risposta,2024,1121
+emilia romagna,italia,rete_personale,2015,41
+emilia romagna,italia,rete_personale,2016,32
+emilia romagna,italia,rete_personale,2017,24
+emilia romagna,italia,rete_personale,2018,49
+emilia romagna,italia,rete_personale,2019,59
+emilia romagna,italia,rete_personale,2020,53
+emilia romagna,italia,rete_personale,2021,82
+emilia romagna,italia,rete_personale,2022,88
+emilia romagna,italia,rete_personale,2023,76
+emilia romagna,italia,rete_personale,2024,93
+emilia romagna,italia,servizi_istituzioni,2015,55
+emilia romagna,italia,servizi_istituzioni,2016,66
+emilia romagna,italia,servizi_istituzioni,2017,63
+emilia romagna,italia,servizi_istituzioni,2018,52
+emilia romagna,italia,servizi_istituzioni,2019,72
+emilia romagna,italia,servizi_istituzioni,2020,45
+emilia romagna,italia,servizi_istituzioni,2021,62
+emilia romagna,italia,servizi_istituzioni,2022,64
+emilia romagna,italia,servizi_istituzioni,2023,99
+emilia romagna,italia,servizi_istituzioni,2024,118
+emilia romagna,non indicato,non_risposta,2023,1
+friuli venezia giulia,estero,altro,2016,2
+friuli venezia giulia,estero,altro,2018,4
+friuli venezia giulia,estero,altro,2020,3
+friuli venezia giulia,estero,altro,2021,5
+friuli venezia giulia,estero,altro,2022,8
+friuli venezia giulia,estero,altro,2023,6
+friuli venezia giulia,estero,altro,2024,2
+friuli venezia giulia,estero,digitale,2015,30
+friuli venezia giulia,estero,digitale,2016,36
+friuli venezia giulia,estero,digitale,2017,33
+friuli venezia giulia,estero,digitale,2018,63
+friuli venezia giulia,estero,digitale,2019,77
+friuli venezia giulia,estero,digitale,2020,60
+friuli venezia giulia,estero,digitale,2021,60
+friuli venezia giulia,estero,digitale,2022,115
+friuli venezia giulia,estero,digitale,2023,131
+friuli venezia giulia,estero,digitale,2024,153
+friuli venezia giulia,estero,media_tradizionali,2015,74
+friuli venezia giulia,estero,media_tradizionali,2016,51
+friuli venezia giulia,estero,media_tradizionali,2017,43
+friuli venezia giulia,estero,media_tradizionali,2018,82
+friuli venezia giulia,estero,media_tradizionali,2019,66
+friuli venezia giulia,estero,media_tradizionali,2020,78
+friuli venezia giulia,estero,media_tradizionali,2021,51
+friuli venezia giulia,estero,media_tradizionali,2022,43
+friuli venezia giulia,estero,media_tradizionali,2023,110
+friuli venezia giulia,estero,media_tradizionali,2024,360
+friuli venezia giulia,estero,non_risposta,2015,148
+friuli venezia giulia,estero,non_risposta,2016,129
+friuli venezia giulia,estero,non_risposta,2017,143
+friuli venezia giulia,estero,non_risposta,2018,150
+friuli venezia giulia,estero,non_risposta,2019,124
+friuli venezia giulia,estero,non_risposta,2020,206
+friuli venezia giulia,estero,non_risposta,2021,221
+friuli venezia giulia,estero,non_risposta,2022,169
+friuli venezia giulia,estero,non_risposta,2023,245
+friuli venezia giulia,estero,non_risposta,2024,187
+friuli venezia giulia,estero,rete_personale,2015,18
+friuli venezia giulia,estero,rete_personale,2016,10
+friuli venezia giulia,estero,rete_personale,2017,10
+friuli venezia giulia,estero,rete_personale,2018,15
+friuli venezia giulia,estero,rete_personale,2019,18
+friuli venezia giulia,estero,rete_personale,2020,14
+friuli venezia giulia,estero,rete_personale,2021,23
+friuli venezia giulia,estero,rete_personale,2022,16
+friuli venezia giulia,estero,rete_personale,2023,25
+friuli venezia giulia,estero,rete_personale,2024,19
+friuli venezia giulia,estero,servizi_istituzioni,2015,20
+friuli venezia giulia,estero,servizi_istituzioni,2016,30
+friuli venezia giulia,estero,servizi_istituzioni,2017,15
+friuli venezia giulia,estero,servizi_istituzioni,2018,21
+friuli venezia giulia,estero,servizi_istituzioni,2019,29
+friuli venezia giulia,estero,servizi_istituzioni,2020,7
+friuli venezia giulia,estero,servizi_istituzioni,2021,12
+friuli venezia giulia,estero,servizi_istituzioni,2022,8
+friuli venezia giulia,estero,servizi_istituzioni,2023,33
+friuli venezia giulia,estero,servizi_istituzioni,2024,28
+friuli venezia giulia,italia,altro,2016,2
+friuli venezia giulia,italia,altro,2018,2
+friuli venezia giulia,italia,altro,2020,3
+friuli venezia giulia,italia,altro,2021,5
+friuli venezia giulia,italia,altro,2022,6
+friuli venezia giulia,italia,altro,2023,6
+friuli venezia giulia,italia,altro,2024,2
+friuli venezia giulia,italia,digitale,2015,22
+friuli venezia giulia,italia,digitale,2016,30
+friuli venezia giulia,italia,digitale,2017,25
+friuli venezia giulia,italia,digitale,2018,53
+friuli venezia giulia,italia,digitale,2019,63
+friuli venezia giulia,italia,digitale,2020,54
+friuli venezia giulia,italia,digitale,2021,50
+friuli venezia giulia,italia,digitale,2022,87
+friuli venezia giulia,italia,digitale,2023,117
+friuli venezia giulia,italia,digitale,2024,137
+friuli venezia giulia,italia,media_tradizionali,2015,62
+friuli venezia giulia,italia,media_tradizionali,2016,51
+friuli venezia giulia,italia,media_tradizionali,2017,33
+friuli venezia giulia,italia,media_tradizionali,2018,76
+friuli venezia giulia,italia,media_tradizionali,2019,54
+friuli venezia giulia,italia,media_tradizionali,2020,64
+friuli venezia giulia,italia,media_tradizionali,2021,45
+friuli venezia giulia,italia,media_tradizionali,2022,37
+friuli venezia giulia,italia,media_tradizionali,2023,92
+friuli venezia giulia,italia,media_tradizionali,2024,308
+friuli venezia giulia,italia,non_risposta,2015,122
+friuli venezia giulia,italia,non_risposta,2016,109
+friuli venezia giulia,italia,non_risposta,2017,119
+friuli venezia giulia,italia,non_risposta,2018,142
+friuli venezia giulia,italia,non_risposta,2019,96
+friuli venezia giulia,italia,non_risposta,2020,174
+friuli venezia giulia,italia,non_risposta,2021,193
+friuli venezia giulia,italia,non_risposta,2022,145
+friuli venezia giulia,italia,non_risposta,2023,223
+friuli venezia giulia,italia,non_risposta,2024,169
+friuli venezia giulia,italia,rete_personale,2015,12
+friuli venezia giulia,italia,rete_personale,2016,6
+friuli venezia giulia,italia,rete_personale,2017,10
+friuli venezia giulia,italia,rete_personale,2018,15
+friuli venezia giulia,italia,rete_personale,2019,14
+friuli venezia giulia,italia,rete_personale,2020,10
+friuli venezia giulia,italia,rete_personale,2021,17
+friuli venezia giulia,italia,rete_personale,2022,12
+friuli venezia giulia,italia,rete_personale,2023,13
+friuli venezia giulia,italia,rete_personale,2024,19
+friuli venezia giulia,italia,servizi_istituzioni,2015,16
+friuli venezia giulia,italia,servizi_istituzioni,2016,20
+friuli venezia giulia,italia,servizi_istituzioni,2017,11
+friuli venezia giulia,italia,servizi_istituzioni,2018,19
+friuli venezia giulia,italia,servizi_istituzioni,2019,25
+friuli venezia giulia,italia,servizi_istituzioni,2020,5
+friuli venezia giulia,italia,servizi_istituzioni,2021,12
+friuli venezia giulia,italia,servizi_istituzioni,2022,8
+friuli venezia giulia,italia,servizi_istituzioni,2023,33
+friuli venezia giulia,italia,servizi_istituzioni,2024,24
+isole,estero,altro,2015,1
+isole,estero,altro,2016,6
+isole,estero,altro,2017,13
+isole,estero,altro,2018,9
+isole,estero,altro,2019,11
+isole,estero,altro,2020,20
+isole,estero,altro,2021,35
+isole,estero,altro,2022,35
+isole,estero,altro,2023,57
+isole,estero,altro,2024,18
+isole,estero,digitale,2015,198
+isole,estero,digitale,2016,232
+isole,estero,digitale,2017,228
+isole,estero,digitale,2018,348
+isole,estero,digitale,2019,505
+isole,estero,digitale,2020,379
+isole,estero,digitale,2021,358
+isole,estero,digitale,2022,607
+isole,estero,digitale,2023,633
+isole,estero,digitale,2024,704
+isole,estero,media_tradizionali,2015,557
+isole,estero,media_tradizionali,2016,388
+isole,estero,media_tradizionali,2017,284
+isole,estero,media_tradizionali,2018,459
+isole,estero,media_tradizionali,2019,301
+isole,estero,media_tradizionali,2020,450
+isole,estero,media_tradizionali,2021,298
+isole,estero,media_tradizionali,2022,268
+isole,estero,media_tradizionali,2023,561
+isole,estero,media_tradizionali,2024,1628
+isole,estero,non_risposta,2015,1128
+isole,estero,non_risposta,2016,1174
+isole,estero,non_risposta,2017,1060
+isole,estero,non_risposta,2018,1041
+isole,estero,non_risposta,2019,845
+isole,estero,non_risposta,2020,1420
+isole,estero,non_risposta,2021,1720
+isole,estero,non_risposta,2022,1229
+isole,estero,non_risposta,2023,1252
+isole,estero,non_risposta,2024,1038
+isole,estero,rete_personale,2015,62
+isole,estero,rete_personale,2016,95
+isole,estero,rete_personale,2017,82
+isole,estero,rete_personale,2018,115
+isole,estero,rete_personale,2019,105
+isole,estero,rete_personale,2020,86
+isole,estero,rete_personale,2021,112
+isole,estero,rete_personale,2022,122
+isole,estero,rete_personale,2023,108
+isole,estero,rete_personale,2024,82
+isole,estero,servizi_istituzioni,2015,116
+isole,estero,servizi_istituzioni,2016,135
+isole,estero,servizi_istituzioni,2017,115
+isole,estero,servizi_istituzioni,2018,106
+isole,estero,servizi_istituzioni,2019,156
+isole,estero,servizi_istituzioni,2020,74
+isole,estero,servizi_istituzioni,2021,87
+isole,estero,servizi_istituzioni,2022,95
+isole,estero,servizi_istituzioni,2023,138
+isole,estero,servizi_istituzioni,2024,129
+isole,italia,altro,2015,1
+isole,italia,altro,2016,6
+isole,italia,altro,2017,13
+isole,italia,altro,2018,9
+isole,italia,altro,2019,11
+isole,italia,altro,2020,16
+isole,italia,altro,2021,31
+isole,italia,altro,2022,33
+isole,italia,altro,2023,49
+isole,italia,altro,2024,12
+isole,italia,digitale,2015,190
+isole,italia,digitale,2016,204
+isole,italia,digitale,2017,208
+isole,italia,digitale,2018,304
+isole,italia,digitale,2019,447
+isole,italia,digitale,2020,345
+isole,italia,digitale,2021,330
+isole,italia,digitale,2022,545
+isole,italia,digitale,2023,595
+isole,italia,digitale,2024,634
+isole,italia,media_tradizionali,2015,507
+isole,italia,media_tradizionali,2016,348
+isole,italia,media_tradizionali,2017,270
+isole,italia,media_tradizionali,2018,429
+isole,italia,media_tradizionali,2019,273
+isole,italia,media_tradizionali,2020,430
+isole,italia,media_tradizionali,2021,282
+isole,italia,media_tradizionali,2022,246
+isole,italia,media_tradizionali,2023,541
+isole,italia,media_tradizionali,2024,1522
+isole,italia,non_risposta,2015,1056
+isole,italia,non_risposta,2016,1090
+isole,italia,non_risposta,2017,956
+isole,italia,non_risposta,2018,973
+isole,italia,non_risposta,2019,741
+isole,italia,non_risposta,2020,1288
+isole,italia,non_risposta,2021,1620
+isole,italia,non_risposta,2022,1161
+isole,italia,non_risposta,2023,1170
+isole,italia,non_risposta,2024,978
+isole,italia,rete_personale,2015,52
+isole,italia,rete_personale,2016,87
+isole,italia,rete_personale,2017,76
+isole,italia,rete_personale,2018,99
+isole,italia,rete_personale,2019,91
+isole,italia,rete_personale,2020,66
+isole,italia,rete_personale,2021,104
+isole,italia,rete_personale,2022,108
+isole,italia,rete_personale,2023,104
+isole,italia,rete_personale,2024,66
+isole,italia,servizi_istituzioni,2015,104
+isole,italia,servizi_istituzioni,2016,119
+isole,italia,servizi_istituzioni,2017,93
+isole,italia,servizi_istituzioni,2018,100
+isole,italia,servizi_istituzioni,2019,128
+isole,italia,servizi_istituzioni,2020,62
+isole,italia,servizi_istituzioni,2021,77
+isole,italia,servizi_istituzioni,2022,87
+isole,italia,servizi_istituzioni,2023,130
+isole,italia,servizi_istituzioni,2024,121
+italia,estero,altro,2015,30
+italia,estero,altro,2016,82
+italia,estero,altro,2017,78
+italia,estero,altro,2018,127
+italia,estero,altro,2019,166
+italia,estero,altro,2020,258
+italia,estero,altro,2021,484
+italia,estero,altro,2022,599
+italia,estero,altro,2023,870
+italia,estero,altro,2024,250
+italia,estero,digitale,2015,2143
+italia,estero,digitale,2016,2574
+italia,estero,digitale,2017,2726
+italia,estero,digitale,2018,3875
+italia,estero,digitale,2019,6151
+italia,estero,digitale,2020,5059
+italia,estero,digitale,2021,5151
+italia,estero,digitale,2022,8611
+italia,estero,digitale,2023,12639
+italia,estero,digitale,2024,14622
+italia,estero,media_tradizionali,2015,5993
+italia,estero,media_tradizionali,2016,4242
+italia,estero,media_tradizionali,2017,3012
+italia,estero,media_tradizionali,2018,5053
+italia,estero,media_tradizionali,2019,3547
+italia,estero,media_tradizionali,2020,5051
+italia,estero,media_tradizionali,2021,3534
+italia,estero,media_tradizionali,2022,3166
+italia,estero,media_tradizionali,2023,7513
+italia,estero,media_tradizionali,2024,25322
+italia,estero,non_risposta,2015,11210
+italia,estero,non_risposta,2016,9933
+italia,estero,non_risposta,2017,11294
+italia,estero,non_risposta,2018,13354
+italia,estero,non_risposta,2019,10354
+italia,estero,non_risposta,2020,21578
+italia,estero,non_risposta,2021,26307
+italia,estero,non_risposta,2022,19349
+italia,estero,non_risposta,2023,29292
+italia,estero,non_risposta,2024,24582
+italia,estero,rete_personale,2015,749
+italia,estero,rete_personale,2016,872
+italia,estero,rete_personale,2017,842
+italia,estero,rete_personale,2018,1245
+italia,estero,rete_personale,2019,1259
+italia,estero,rete_personale,2020,1109
+italia,estero,rete_personale,2021,1709
+italia,estero,rete_personale,2022,1822
+italia,estero,rete_personale,2023,1832
+italia,estero,rete_personale,2024,1424
+italia,estero,servizi_istituzioni,2015,1171
+italia,estero,servizi_istituzioni,2016,1410
+italia,estero,servizi_istituzioni,2017,1234
+italia,estero,servizi_istituzioni,2018,1381
+italia,estero,servizi_istituzioni,2019,1685
+italia,estero,servizi_istituzioni,2020,996
+italia,estero,servizi_istituzioni,2021,1220
+italia,estero,servizi_istituzioni,2022,1278
+italia,estero,servizi_istituzioni,2023,2352
+italia,estero,servizi_istituzioni,2024,2139
+italia,italia,altro,2015,26
+italia,italia,altro,2016,64
+italia,italia,altro,2017,60
+italia,italia,altro,2018,97
+italia,italia,altro,2019,146
+italia,italia,altro,2020,220
+italia,italia,altro,2021,382
+italia,italia,altro,2022,503
+italia,italia,altro,2023,745
+italia,italia,altro,2024,194
+italia,italia,digitale,2015,1807
+italia,italia,digitale,2016,2100
+italia,italia,digitale,2017,2250
+italia,italia,digitale,2018,3201
+italia,italia,digitale,2019,5029
+italia,italia,digitale,2020,4289
+italia,italia,digitale,2021,4439
+italia,italia,digitale,2022,7271
+italia,italia,digitale,2023,10726
+italia,italia,digitale,2024,12502
+italia,italia,media_tradizionali,2015,5035
+italia,italia,media_tradizionali,2016,3514
+italia,italia,media_tradizionali,2017,2580
+italia,italia,media_tradizionali,2018,4401
+italia,italia,media_tradizionali,2019,2995
+italia,italia,media_tradizionali,2020,4423
+italia,italia,media_tradizionali,2021,3082
+italia,italia,media_tradizionali,2022,2766
+italia,italia,media_tradizionali,2023,6757
+italia,italia,media_tradizionali,2024,22098
+italia,italia,non_risposta,2015,9793
+italia,italia,non_risposta,2016,8739
+italia,italia,non_risposta,2017,9588
+italia,italia,non_risposta,2018,11741
+italia,italia,non_risposta,2019,9009
+italia,italia,non_risposta,2020,18822
+italia,italia,non_risposta,2021,23430
+italia,italia,non_risposta,2022,17155
+italia,italia,non_risposta,2023,24828
+italia,italia,non_risposta,2024,21055
+italia,italia,rete_personale,2015,559
+italia,italia,rete_personale,2016,652
+italia,italia,rete_personale,2017,638
+italia,italia,rete_personale,2018,927
+italia,italia,rete_personale,2019,945
+italia,italia,rete_personale,2020,783
+italia,italia,rete_personale,2021,1345
+italia,italia,rete_personale,2022,1338
+italia,italia,rete_personale,2023,1408
+italia,italia,rete_personale,2024,1114
+italia,italia,servizi_istituzioni,2015,895
+italia,italia,servizi_istituzioni,2016,1086
+italia,italia,servizi_istituzioni,2017,930
+italia,italia,servizi_istituzioni,2018,1063
+italia,italia,servizi_istituzioni,2019,1291
+italia,italia,servizi_istituzioni,2020,778
+italia,italia,servizi_istituzioni,2021,978
+italia,italia,servizi_istituzioni,2022,984
+italia,italia,servizi_istituzioni,2023,1900
+italia,italia,servizi_istituzioni,2024,1783
+italia,non indicato,altro,2023,17
+italia,non indicato,altro,2024,2
+italia,non indicato,digitale,2023,365
+italia,non indicato,digitale,2024,656
+italia,non indicato,media_tradizionali,2023,98
+italia,non indicato,media_tradizionali,2024,400
+italia,non indicato,non_risposta,2015,1
+italia,non indicato,non_risposta,2018,1
+italia,non indicato,non_risposta,2019,3
+italia,non indicato,non_risposta,2020,10
+italia,non indicato,non_risposta,2021,11
+italia,non indicato,non_risposta,2022,18
+italia,non indicato,non_risposta,2023,2052
+italia,non indicato,non_risposta,2024,1917
+italia,non indicato,rete_personale,2023,12
+italia,non indicato,rete_personale,2024,14
+italia,non indicato,servizi_istituzioni,2023,20
+italia,non indicato,servizi_istituzioni,2024,22
+lazio,estero,altro,2015,3
+lazio,estero,altro,2016,9
+lazio,estero,altro,2017,13
+lazio,estero,altro,2018,19
+lazio,estero,altro,2019,22
+lazio,estero,altro,2020,36
+lazio,estero,altro,2021,81
+lazio,estero,altro,2022,94
+lazio,estero,altro,2023,140
+lazio,estero,altro,2024,55
+lazio,estero,digitale,2015,303
+lazio,estero,digitale,2016,378
+lazio,estero,digitale,2017,350
+lazio,estero,digitale,2018,523
+lazio,estero,digitale,2019,864
+lazio,estero,digitale,2020,686
+lazio,estero,digitale,2021,623
+lazio,estero,digitale,2022,1069
+lazio,estero,digitale,2023,1427
+lazio,estero,digitale,2024,1303
+lazio,estero,media_tradizionali,2015,769
+lazio,estero,media_tradizionali,2016,568
+lazio,estero,media_tradizionali,2017,372
+lazio,estero,media_tradizionali,2018,695
+lazio,estero,media_tradizionali,2019,496
+lazio,estero,media_tradizionali,2020,677
+lazio,estero,media_tradizionali,2021,432
+lazio,estero,media_tradizionali,2022,382
+lazio,estero,media_tradizionali,2023,916
+lazio,estero,media_tradizionali,2024,2961
+lazio,estero,non_risposta,2015,1306
+lazio,estero,non_risposta,2016,1190
+lazio,estero,non_risposta,2017,1153
+lazio,estero,non_risposta,2018,1520
+lazio,estero,non_risposta,2019,1242
+lazio,estero,non_risposta,2020,2318
+lazio,estero,non_risposta,2021,2644
+lazio,estero,non_risposta,2022,1845
+lazio,estero,non_risposta,2023,2454
+lazio,estero,non_risposta,2024,1775
+lazio,estero,rete_personale,2015,118
+lazio,estero,rete_personale,2016,139
+lazio,estero,rete_personale,2017,113
+lazio,estero,rete_personale,2018,196
+lazio,estero,rete_personale,2019,190
+lazio,estero,rete_personale,2020,155
+lazio,estero,rete_personale,2021,239
+lazio,estero,rete_personale,2022,243
+lazio,estero,rete_personale,2023,273
+lazio,estero,rete_personale,2024,177
+lazio,estero,servizi_istituzioni,2015,140
+lazio,estero,servizi_istituzioni,2016,179
+lazio,estero,servizi_istituzioni,2017,160
+lazio,estero,servizi_istituzioni,2018,188
+lazio,estero,servizi_istituzioni,2019,239
+lazio,estero,servizi_istituzioni,2020,145
+lazio,estero,servizi_istituzioni,2021,222
+lazio,estero,servizi_istituzioni,2022,214
+lazio,estero,servizi_istituzioni,2023,415
+lazio,estero,servizi_istituzioni,2024,368
+lazio,italia,altro,2015,3
+lazio,italia,altro,2016,7
+lazio,italia,altro,2017,11
+lazio,italia,altro,2018,13
+lazio,italia,altro,2019,20
+lazio,italia,altro,2020,34
+lazio,italia,altro,2021,65
+lazio,italia,altro,2022,70
+lazio,italia,altro,2023,122
+lazio,italia,altro,2024,43
+lazio,italia,digitale,2015,241
+lazio,italia,digitale,2016,306
+lazio,italia,digitale,2017,280
+lazio,italia,digitale,2018,431
+lazio,italia,digitale,2019,718
+lazio,italia,digitale,2020,578
+lazio,italia,digitale,2021,523
+lazio,italia,digitale,2022,881
+lazio,italia,digitale,2023,1217
+lazio,italia,digitale,2024,1115
+lazio,italia,media_tradizionali,2015,629
+lazio,italia,media_tradizionali,2016,480
+lazio,italia,media_tradizionali,2017,322
+lazio,italia,media_tradizionali,2018,595
+lazio,italia,media_tradizionali,2019,422
+lazio,italia,media_tradizionali,2020,573
+lazio,italia,media_tradizionali,2021,378
+lazio,italia,media_tradizionali,2022,330
+lazio,italia,media_tradizionali,2023,828
+lazio,italia,media_tradizionali,2024,2567
+lazio,italia,non_risposta,2015,1156
+lazio,italia,non_risposta,2016,1020
+lazio,italia,non_risposta,2017,1003
+lazio,italia,non_risposta,2018,1294
+lazio,italia,non_risposta,2019,1106
+lazio,italia,non_risposta,2020,1960
+lazio,italia,non_risposta,2021,2264
+lazio,italia,non_risposta,2022,1603
+lazio,italia,non_risposta,2023,2169
+lazio,italia,non_risposta,2024,1547
+lazio,italia,rete_personale,2015,84
+lazio,italia,rete_personale,2016,97
+lazio,italia,rete_personale,2017,79
+lazio,italia,rete_personale,2018,136
+lazio,italia,rete_personale,2019,150
+lazio,italia,rete_personale,2020,113
+lazio,italia,rete_personale,2021,181
+lazio,italia,rete_personale,2022,165
+lazio,italia,rete_personale,2023,199
+lazio,italia,rete_personale,2024,133
+lazio,italia,servizi_istituzioni,2015,110
+lazio,italia,servizi_istituzioni,2016,137
+lazio,italia,servizi_istituzioni,2017,128
+lazio,italia,servizi_istituzioni,2018,132
+lazio,italia,servizi_istituzioni,2019,187
+lazio,italia,servizi_istituzioni,2020,115
+lazio,italia,servizi_istituzioni,2021,170
+lazio,italia,servizi_istituzioni,2022,148
+lazio,italia,servizi_istituzioni,2023,323
+lazio,italia,servizi_istituzioni,2024,300
+lazio,non indicato,non_risposta,2023,1
+liguria,estero,altro,2016,4
+liguria,estero,altro,2017,3
+liguria,estero,altro,2018,1
+liguria,estero,altro,2019,4
+liguria,estero,altro,2020,4
+liguria,estero,altro,2021,15
+liguria,estero,altro,2022,10
+liguria,estero,altro,2023,12
+liguria,estero,altro,2024,5
+liguria,estero,digitale,2015,63
+liguria,estero,digitale,2016,85
+liguria,estero,digitale,2017,77
+liguria,estero,digitale,2018,87
+liguria,estero,digitale,2019,157
+liguria,estero,digitale,2020,115
+liguria,estero,digitale,2021,103
+liguria,estero,digitale,2022,187
+liguria,estero,digitale,2023,246
+liguria,estero,digitale,2024,238
+liguria,estero,media_tradizionali,2015,159
+liguria,estero,media_tradizionali,2016,112
+liguria,estero,media_tradizionali,2017,65
+liguria,estero,media_tradizionali,2018,146
+liguria,estero,media_tradizionali,2019,93
+liguria,estero,media_tradizionali,2020,143
+liguria,estero,media_tradizionali,2021,78
+liguria,estero,media_tradizionali,2022,83
+liguria,estero,media_tradizionali,2023,160
+liguria,estero,media_tradizionali,2024,470
+liguria,estero,non_risposta,2015,316
+liguria,estero,non_risposta,2016,288
+liguria,estero,non_risposta,2017,234
+liguria,estero,non_risposta,2018,256
+liguria,estero,non_risposta,2019,232
+liguria,estero,non_risposta,2020,347
+liguria,estero,non_risposta,2021,412
+liguria,estero,non_risposta,2022,269
+liguria,estero,non_risposta,2023,326
+liguria,estero,non_risposta,2024,263
+liguria,estero,rete_personale,2015,14
+liguria,estero,rete_personale,2016,13
+liguria,estero,rete_personale,2017,28
+liguria,estero,rete_personale,2018,41
+liguria,estero,rete_personale,2019,30
+liguria,estero,rete_personale,2020,28
+liguria,estero,rete_personale,2021,47
+liguria,estero,rete_personale,2022,43
+liguria,estero,rete_personale,2023,32
+liguria,estero,rete_personale,2024,31
+liguria,estero,servizi_istituzioni,2015,40
+liguria,estero,servizi_istituzioni,2016,30
+liguria,estero,servizi_istituzioni,2017,28
+liguria,estero,servizi_istituzioni,2018,40
+liguria,estero,servizi_istituzioni,2019,30
+liguria,estero,servizi_istituzioni,2020,32
+liguria,estero,servizi_istituzioni,2021,27
+liguria,estero,servizi_istituzioni,2022,42
+liguria,estero,servizi_istituzioni,2023,45
+liguria,estero,servizi_istituzioni,2024,46
+liguria,italia,altro,2016,4
+liguria,italia,altro,2017,3
+liguria,italia,altro,2018,1
+liguria,italia,altro,2019,2
+liguria,italia,altro,2020,4
+liguria,italia,altro,2021,11
+liguria,italia,altro,2022,10
+liguria,italia,altro,2023,10
+liguria,italia,altro,2024,3
+liguria,italia,digitale,2015,53
+liguria,italia,digitale,2016,65
+liguria,italia,digitale,2017,67
+liguria,italia,digitale,2018,81
+liguria,italia,digitale,2019,125
+liguria,italia,digitale,2020,95
+liguria,italia,digitale,2021,89
+liguria,italia,digitale,2022,157
+liguria,italia,digitale,2023,198
+liguria,italia,digitale,2024,204
+liguria,italia,media_tradizionali,2015,131
+liguria,italia,media_tradizionali,2016,94
+liguria,italia,media_tradizionali,2017,61
+liguria,italia,media_tradizionali,2018,122
+liguria,italia,media_tradizionali,2019,71
+liguria,italia,media_tradizionali,2020,119
+liguria,italia,media_tradizionali,2021,72
+liguria,italia,media_tradizionali,2022,75
+liguria,italia,media_tradizionali,2023,144
+liguria,italia,media_tradizionali,2024,406
+liguria,italia,non_risposta,2015,278
+liguria,italia,non_risposta,2016,260
+liguria,italia,non_risposta,2017,186
+liguria,italia,non_risposta,2018,216
+liguria,italia,non_risposta,2019,206
+liguria,italia,non_risposta,2020,293
+liguria,italia,non_risposta,2021,364
+liguria,italia,non_risposta,2022,233
+liguria,italia,non_risposta,2023,288
+liguria,italia,non_risposta,2024,231
+liguria,italia,rete_personale,2015,12
+liguria,italia,rete_personale,2016,13
+liguria,italia,rete_personale,2017,18
+liguria,italia,rete_personale,2018,31
+liguria,italia,rete_personale,2019,20
+liguria,italia,rete_personale,2020,18
+liguria,italia,rete_personale,2021,33
+liguria,italia,rete_personale,2022,23
+liguria,italia,rete_personale,2023,24
+liguria,italia,rete_personale,2024,25
+liguria,italia,servizi_istituzioni,2015,30
+liguria,italia,servizi_istituzioni,2016,26
+liguria,italia,servizi_istituzioni,2017,20
+liguria,italia,servizi_istituzioni,2018,32
+liguria,italia,servizi_istituzioni,2019,16
+liguria,italia,servizi_istituzioni,2020,26
+liguria,italia,servizi_istituzioni,2021,21
+liguria,italia,servizi_istituzioni,2022,28
+liguria,italia,servizi_istituzioni,2023,39
+liguria,italia,servizi_istituzioni,2024,40
+lombardia,estero,altro,2015,7
+lombardia,estero,altro,2016,13
+lombardia,estero,altro,2017,12
+lombardia,estero,altro,2018,23
+lombardia,estero,altro,2019,29
+lombardia,estero,altro,2020,50
+lombardia,estero,altro,2021,63
+lombardia,estero,altro,2022,102
+lombardia,estero,altro,2023,132
+lombardia,estero,altro,2024,37
+lombardia,estero,digitale,2015,374
+lombardia,estero,digitale,2016,494
+lombardia,estero,digitale,2017,536
+lombardia,estero,digitale,2018,675
+lombardia,estero,digitale,2019,1058
+lombardia,estero,digitale,2020,909
+lombardia,estero,digitale,2021,778
+lombardia,estero,digitale,2022,1378
+lombardia,estero,digitale,2023,1725
+lombardia,estero,digitale,2024,1889
+lombardia,estero,media_tradizionali,2015,931
+lombardia,estero,media_tradizionali,2016,702
+lombardia,estero,media_tradizionali,2017,474
+lombardia,estero,media_tradizionali,2018,770
+lombardia,estero,media_tradizionali,2019,525
+lombardia,estero,media_tradizionali,2020,803
+lombardia,estero,media_tradizionali,2021,502
+lombardia,estero,media_tradizionali,2022,494
+lombardia,estero,media_tradizionali,2023,1030
+lombardia,estero,media_tradizionali,2024,3775
+lombardia,estero,non_risposta,2015,1384
+lombardia,estero,non_risposta,2016,1352
+lombardia,estero,non_risposta,2017,1484
+lombardia,estero,non_risposta,2018,1636
+lombardia,estero,non_risposta,2019,1295
+lombardia,estero,non_risposta,2020,2417
+lombardia,estero,non_risposta,2021,2574
+lombardia,estero,non_risposta,2022,1738
+lombardia,estero,non_risposta,2023,2388
+lombardia,estero,non_risposta,2024,1974
+lombardia,estero,rete_personale,2015,119
+lombardia,estero,rete_personale,2016,162
+lombardia,estero,rete_personale,2017,169
+lombardia,estero,rete_personale,2018,190
+lombardia,estero,rete_personale,2019,213
+lombardia,estero,rete_personale,2020,207
+lombardia,estero,rete_personale,2021,281
+lombardia,estero,rete_personale,2022,337
+lombardia,estero,rete_personale,2023,347
+lombardia,estero,rete_personale,2024,281
+lombardia,estero,servizi_istituzioni,2015,171
+lombardia,estero,servizi_istituzioni,2016,218
+lombardia,estero,servizi_istituzioni,2017,220
+lombardia,estero,servizi_istituzioni,2018,233
+lombardia,estero,servizi_istituzioni,2019,283
+lombardia,estero,servizi_istituzioni,2020,173
+lombardia,estero,servizi_istituzioni,2021,172
+lombardia,estero,servizi_istituzioni,2022,188
+lombardia,estero,servizi_istituzioni,2023,364
+lombardia,estero,servizi_istituzioni,2024,294
+lombardia,italia,altro,2015,3
+lombardia,italia,altro,2016,11
+lombardia,italia,altro,2017,10
+lombardia,italia,altro,2018,19
+lombardia,italia,altro,2019,25
+lombardia,italia,altro,2020,42
+lombardia,italia,altro,2021,41
+lombardia,italia,altro,2022,88
+lombardia,italia,altro,2023,108
+lombardia,italia,altro,2024,31
+lombardia,italia,digitale,2015,310
+lombardia,italia,digitale,2016,384
+lombardia,italia,digitale,2017,418
+lombardia,italia,digitale,2018,517
+lombardia,italia,digitale,2019,784
+lombardia,italia,digitale,2020,729
+lombardia,italia,digitale,2021,666
+lombardia,italia,digitale,2022,1096
+lombardia,italia,digitale,2023,1391
+lombardia,italia,digitale,2024,1573
+lombardia,italia,media_tradizionali,2015,741
+lombardia,italia,media_tradizionali,2016,546
+lombardia,italia,media_tradizionali,2017,360
+lombardia,italia,media_tradizionali,2018,608
+lombardia,italia,media_tradizionali,2019,419
+lombardia,italia,media_tradizionali,2020,685
+lombardia,italia,media_tradizionali,2021,396
+lombardia,italia,media_tradizionali,2022,412
+lombardia,italia,media_tradizionali,2023,910
+lombardia,italia,media_tradizionali,2024,3121
+lombardia,italia,non_risposta,2015,1198
+lombardia,italia,non_risposta,2016,1124
+lombardia,italia,non_risposta,2017,1158
+lombardia,italia,non_risposta,2018,1378
+lombardia,italia,non_risposta,2019,1055
+lombardia,italia,non_risposta,2020,1953
+lombardia,italia,non_risposta,2021,2114
+lombardia,italia,non_risposta,2022,1428
+lombardia,italia,non_risposta,2023,2009
+lombardia,italia,non_risposta,2024,1710
+lombardia,italia,rete_personale,2015,87
+lombardia,italia,rete_personale,2016,120
+lombardia,italia,rete_personale,2017,113
+lombardia,italia,rete_personale,2018,152
+lombardia,italia,rete_personale,2019,151
+lombardia,italia,rete_personale,2020,143
+lombardia,italia,rete_personale,2021,219
+lombardia,italia,rete_personale,2022,229
+lombardia,italia,rete_personale,2023,237
+lombardia,italia,rete_personale,2024,203
+lombardia,italia,servizi_istituzioni,2015,111
+lombardia,italia,servizi_istituzioni,2016,170
+lombardia,italia,servizi_istituzioni,2017,130
+lombardia,italia,servizi_istituzioni,2018,171
+lombardia,italia,servizi_istituzioni,2019,205
+lombardia,italia,servizi_istituzioni,2020,115
+lombardia,italia,servizi_istituzioni,2021,120
+lombardia,italia,servizi_istituzioni,2022,144
+lombardia,italia,servizi_istituzioni,2023,278
+lombardia,italia,servizi_istituzioni,2024,246
+lombardia,non indicato,non_risposta,2023,1
+marche,estero,altro,2016,2
+marche,estero,altro,2017,5
+marche,estero,altro,2019,5
+marche,estero,altro,2020,10
+marche,estero,altro,2021,14
+marche,estero,altro,2022,22
+marche,estero,altro,2023,15
+marche,estero,altro,2024,4
+marche,estero,digitale,2015,40
+marche,estero,digitale,2016,64
+marche,estero,digitale,2017,58
+marche,estero,digitale,2018,109
+marche,estero,digitale,2019,126
+marche,estero,digitale,2020,110
+marche,estero,digitale,2021,92
+marche,estero,digitale,2022,183
+marche,estero,digitale,2023,197
+marche,estero,digitale,2024,205
+marche,estero,media_tradizionali,2015,180
+marche,estero,media_tradizionali,2016,136
+marche,estero,media_tradizionali,2017,64
+marche,estero,media_tradizionali,2018,123
+marche,estero,media_tradizionali,2019,88
+marche,estero,media_tradizionali,2020,128
+marche,estero,media_tradizionali,2021,83
+marche,estero,media_tradizionali,2022,81
+marche,estero,media_tradizionali,2023,147
+marche,estero,media_tradizionali,2024,474
+marche,estero,non_risposta,2015,282
+marche,estero,non_risposta,2016,246
+marche,estero,non_risposta,2017,247
+marche,estero,non_risposta,2018,238
+marche,estero,non_risposta,2019,183
+marche,estero,non_risposta,2020,328
+marche,estero,non_risposta,2021,467
+marche,estero,non_risposta,2022,287
+marche,estero,non_risposta,2023,358
+marche,estero,non_risposta,2024,269
+marche,estero,rete_personale,2015,23
+marche,estero,rete_personale,2016,13
+marche,estero,rete_personale,2017,20
+marche,estero,rete_personale,2018,34
+marche,estero,rete_personale,2019,32
+marche,estero,rete_personale,2020,34
+marche,estero,rete_personale,2021,40
+marche,estero,rete_personale,2022,39
+marche,estero,rete_personale,2023,28
+marche,estero,rete_personale,2024,28
+marche,estero,servizi_istituzioni,2015,45
+marche,estero,servizi_istituzioni,2016,30
+marche,estero,servizi_istituzioni,2017,29
+marche,estero,servizi_istituzioni,2018,47
+marche,estero,servizi_istituzioni,2019,41
+marche,estero,servizi_istituzioni,2020,21
+marche,estero,servizi_istituzioni,2021,46
+marche,estero,servizi_istituzioni,2022,32
+marche,estero,servizi_istituzioni,2023,64
+marche,estero,servizi_istituzioni,2024,81
+marche,italia,altro,2017,1
+marche,italia,altro,2019,3
+marche,italia,altro,2020,6
+marche,italia,altro,2021,10
+marche,italia,altro,2022,16
+marche,italia,altro,2023,15
+marche,italia,altro,2024,2
+marche,italia,digitale,2015,32
+marche,italia,digitale,2016,54
+marche,italia,digitale,2017,52
+marche,italia,digitale,2018,89
+marche,italia,digitale,2019,102
+marche,italia,digitale,2020,92
+marche,italia,digitale,2021,70
+marche,italia,digitale,2022,141
+marche,italia,digitale,2023,171
+marche,italia,digitale,2024,171
+marche,italia,media_tradizionali,2015,134
+marche,italia,media_tradizionali,2016,106
+marche,italia,media_tradizionali,2017,56
+marche,italia,media_tradizionali,2018,103
+marche,italia,media_tradizionali,2019,72
+marche,italia,media_tradizionali,2020,116
+marche,italia,media_tradizionali,2021,55
+marche,italia,media_tradizionali,2022,69
+marche,italia,media_tradizionali,2023,133
+marche,italia,media_tradizionali,2024,380
+marche,italia,non_risposta,2015,214
+marche,italia,non_risposta,2016,208
+marche,italia,non_risposta,2017,195
+marche,italia,non_risposta,2018,202
+marche,italia,non_risposta,2019,165
+marche,italia,non_risposta,2020,266
+marche,italia,non_risposta,2021,357
+marche,italia,non_risposta,2022,225
+marche,italia,non_risposta,2023,286
+marche,italia,non_risposta,2024,225
+marche,italia,rete_personale,2015,15
+marche,italia,rete_personale,2016,9
+marche,italia,rete_personale,2017,16
+marche,italia,rete_personale,2018,24
+marche,italia,rete_personale,2019,20
+marche,italia,rete_personale,2020,24
+marche,italia,rete_personale,2021,32
+marche,italia,rete_personale,2022,31
+marche,italia,rete_personale,2023,24
+marche,italia,rete_personale,2024,14
+marche,italia,servizi_istituzioni,2015,31
+marche,italia,servizi_istituzioni,2016,18
+marche,italia,servizi_istituzioni,2017,23
+marche,italia,servizi_istituzioni,2018,37
+marche,italia,servizi_istituzioni,2019,23
+marche,italia,servizi_istituzioni,2020,19
+marche,italia,servizi_istituzioni,2021,32
+marche,italia,servizi_istituzioni,2022,18
+marche,italia,servizi_istituzioni,2023,46
+marche,italia,servizi_istituzioni,2024,57
+molise,estero,altro,2019,1
+molise,estero,altro,2021,1
+molise,estero,altro,2022,2
+molise,estero,altro,2023,2
+molise,estero,digitale,2015,18
+molise,estero,digitale,2016,9
+molise,estero,digitale,2017,6
+molise,estero,digitale,2018,11
+molise,estero,digitale,2019,23
+molise,estero,digitale,2020,23
+molise,estero,digitale,2021,13
+molise,estero,digitale,2022,31
+molise,estero,digitale,2023,36
+molise,estero,digitale,2024,24
+molise,estero,media_tradizionali,2015,27
+molise,estero,media_tradizionali,2016,20
+molise,estero,media_tradizionali,2017,7
+molise,estero,media_tradizionali,2018,9
+molise,estero,media_tradizionali,2019,12
+molise,estero,media_tradizionali,2020,23
+molise,estero,media_tradizionali,2021,14
+molise,estero,media_tradizionali,2022,19
+molise,estero,media_tradizionali,2023,21
+molise,estero,media_tradizionali,2024,82
+molise,estero,non_risposta,2015,53
+molise,estero,non_risposta,2016,35
+molise,estero,non_risposta,2017,24
+molise,estero,non_risposta,2018,27
+molise,estero,non_risposta,2019,32
+molise,estero,non_risposta,2020,32
+molise,estero,non_risposta,2021,67
+molise,estero,non_risposta,2022,40
+molise,estero,non_risposta,2023,41
+molise,estero,non_risposta,2024,38
+molise,estero,rete_personale,2015,3
+molise,estero,rete_personale,2016,5
+molise,estero,rete_personale,2017,2
+molise,estero,rete_personale,2018,1
+molise,estero,rete_personale,2019,1
+molise,estero,rete_personale,2020,3
+molise,estero,rete_personale,2021,5
+molise,estero,rete_personale,2022,11
+molise,estero,rete_personale,2023,3
+molise,estero,rete_personale,2024,1
+molise,estero,servizi_istituzioni,2015,4
+molise,estero,servizi_istituzioni,2016,4
+molise,estero,servizi_istituzioni,2017,5
+molise,estero,servizi_istituzioni,2018,3
+molise,estero,servizi_istituzioni,2019,11
+molise,estero,servizi_istituzioni,2020,1
+molise,estero,servizi_istituzioni,2021,3
+molise,estero,servizi_istituzioni,2022,2
+molise,estero,servizi_istituzioni,2023,12
+molise,estero,servizi_istituzioni,2024,6
+molise,italia,altro,2019,1
+molise,italia,altro,2021,1
+molise,italia,altro,2022,2
+molise,italia,altro,2023,2
+molise,italia,digitale,2015,12
+molise,italia,digitale,2016,5
+molise,italia,digitale,2017,4
+molise,italia,digitale,2018,9
+molise,italia,digitale,2019,15
+molise,italia,digitale,2020,17
+molise,italia,digitale,2021,13
+molise,italia,digitale,2022,31
+molise,italia,digitale,2023,34
+molise,italia,digitale,2024,24
+molise,italia,media_tradizionali,2015,25
+molise,italia,media_tradizionali,2016,18
+molise,italia,media_tradizionali,2017,7
+molise,italia,media_tradizionali,2018,7
+molise,italia,media_tradizionali,2019,10
+molise,italia,media_tradizionali,2020,19
+molise,italia,media_tradizionali,2021,14
+molise,italia,media_tradizionali,2022,19
+molise,italia,media_tradizionali,2023,21
+molise,italia,media_tradizionali,2024,78
+molise,italia,non_risposta,2015,39
+molise,italia,non_risposta,2016,29
+molise,italia,non_risposta,2017,20
+molise,italia,non_risposta,2018,25
+molise,italia,non_risposta,2019,32
+molise,italia,non_risposta,2020,30
+molise,italia,non_risposta,2021,61
+molise,italia,non_risposta,2022,40
+molise,italia,non_risposta,2023,39
+molise,italia,non_risposta,2024,38
+molise,italia,rete_personale,2015,3
+molise,italia,rete_personale,2016,3
+molise,italia,rete_personale,2017,2
+molise,italia,rete_personale,2018,1
+molise,italia,rete_personale,2019,1
+molise,italia,rete_personale,2020,1
+molise,italia,rete_personale,2021,5
+molise,italia,rete_personale,2022,7
+molise,italia,rete_personale,2023,3
+molise,italia,rete_personale,2024,1
+molise,italia,servizi_istituzioni,2015,2
+molise,italia,servizi_istituzioni,2016,4
+molise,italia,servizi_istituzioni,2017,5
+molise,italia,servizi_istituzioni,2018,1
+molise,italia,servizi_istituzioni,2019,11
+molise,italia,servizi_istituzioni,2020,1
+molise,italia,servizi_istituzioni,2021,3
+molise,italia,servizi_istituzioni,2022,2
+molise,italia,servizi_istituzioni,2023,10
+molise,italia,servizi_istituzioni,2024,6
+non indicato,estero,altro,2015,5
+non indicato,estero,altro,2016,3
+non indicato,estero,altro,2017,7
+non indicato,estero,altro,2018,3
+non indicato,estero,altro,2019,8
+non indicato,estero,altro,2020,12
+non indicato,estero,altro,2021,26
+non indicato,estero,altro,2022,29
+non indicato,estero,altro,2023,169
+non indicato,estero,altro,2024,24
+non indicato,estero,digitale,2015,63
+non indicato,estero,digitale,2016,37
+non indicato,estero,digitale,2017,73
+non indicato,estero,digitale,2018,124
+non indicato,estero,digitale,2019,230
+non indicato,estero,digitale,2020,355
+non indicato,estero,digitale,2021,840
+non indicato,estero,digitale,2022,1211
+non indicato,estero,digitale,2023,3599
+non indicato,estero,digitale,2024,5265
+non indicato,estero,media_tradizionali,2015,215
+non indicato,estero,media_tradizionali,2016,169
+non indicato,estero,media_tradizionali,2017,150
+non indicato,estero,media_tradizionali,2018,207
+non indicato,estero,media_tradizionali,2019,157
+non indicato,estero,media_tradizionali,2020,235
+non indicato,estero,media_tradizionali,2021,405
+non indicato,estero,media_tradizionali,2022,200
+non indicato,estero,media_tradizionali,2023,1209
+non indicato,estero,media_tradizionali,2024,4692
+non indicato,estero,non_risposta,2015,1487
+non indicato,estero,non_risposta,2016,1279
+non indicato,estero,non_risposta,2017,2489
+non indicato,estero,non_risposta,2018,3022
+non indicato,estero,non_risposta,2019,1796
+non indicato,estero,non_risposta,2020,6637
+non indicato,estero,non_risposta,2021,9226
+non indicato,estero,non_risposta,2022,7585
+non indicato,estero,non_risposta,2023,13726
+non indicato,estero,non_risposta,2024,12596
+non indicato,estero,rete_personale,2015,10
+non indicato,estero,rete_personale,2016,8
+non indicato,estero,rete_personale,2017,23
+non indicato,estero,rete_personale,2018,15
+non indicato,estero,rete_personale,2019,20
+non indicato,estero,rete_personale,2020,35
+non indicato,estero,rete_personale,2021,109
+non indicato,estero,rete_personale,2022,97
+non indicato,estero,rete_personale,2023,243
+non indicato,estero,rete_personale,2024,123
+non indicato,estero,servizi_istituzioni,2015,8
+non indicato,estero,servizi_istituzioni,2016,15
+non indicato,estero,servizi_istituzioni,2017,33
+non indicato,estero,servizi_istituzioni,2018,26
+non indicato,estero,servizi_istituzioni,2019,21
+non indicato,estero,servizi_istituzioni,2020,41
+non indicato,estero,servizi_istituzioni,2021,62
+non indicato,estero,servizi_istituzioni,2022,55
+non indicato,estero,servizi_istituzioni,2023,199
+non indicato,estero,servizi_istituzioni,2024,140
+non indicato,italia,altro,2015,5
+non indicato,italia,altro,2016,1
+non indicato,italia,altro,2017,5
+non indicato,italia,altro,2018,3
+non indicato,italia,altro,2019,8
+non indicato,italia,altro,2020,10
+non indicato,italia,altro,2021,24
+non indicato,italia,altro,2022,29
+non indicato,italia,altro,2023,124
+non indicato,italia,altro,2024,20
+non indicato,italia,digitale,2015,53
+non indicato,italia,digitale,2016,37
+non indicato,italia,digitale,2017,61
+non indicato,italia,digitale,2018,110
+non indicato,italia,digitale,2019,206
+non indicato,italia,digitale,2020,319
+non indicato,italia,digitale,2021,780
+non indicato,italia,digitale,2022,1123
+non indicato,italia,digitale,2023,3004
+non indicato,italia,digitale,2024,4383
+non indicato,italia,media_tradizionali,2015,197
+non indicato,italia,media_tradizionali,2016,139
+non indicato,italia,media_tradizionali,2017,134
+non indicato,italia,media_tradizionali,2018,175
+non indicato,italia,media_tradizionali,2019,119
+non indicato,italia,media_tradizionali,2020,199
+non indicato,italia,media_tradizionali,2021,375
+non indicato,italia,media_tradizionali,2022,180
+non indicato,italia,media_tradizionali,2023,1043
+non indicato,italia,media_tradizionali,2024,4124
+non indicato,italia,non_risposta,2015,1290
+non indicato,italia,non_risposta,2016,1099
+non indicato,italia,non_risposta,2017,2183
+non indicato,italia,non_risposta,2018,2659
+non indicato,italia,non_risposta,2019,1595
+non indicato,italia,non_risposta,2020,5927
+non indicato,italia,non_risposta,2021,8545
+non indicato,italia,non_risposta,2022,6893
+non indicato,italia,non_risposta,2023,11071
+non indicato,italia,non_risposta,2024,10333
+non indicato,italia,rete_personale,2015,8
+non indicato,italia,rete_personale,2016,6
+non indicato,italia,rete_personale,2017,19
+non indicato,italia,rete_personale,2018,11
+non indicato,italia,rete_personale,2019,12
+non indicato,italia,rete_personale,2020,27
+non indicato,italia,rete_personale,2021,99
+non indicato,italia,rete_personale,2022,81
+non indicato,italia,rete_personale,2023,187
+non indicato,italia,rete_personale,2024,91
+non indicato,italia,servizi_istituzioni,2015,6
+non indicato,italia,servizi_istituzioni,2016,15
+non indicato,italia,servizi_istituzioni,2017,29
+non indicato,italia,servizi_istituzioni,2018,20
+non indicato,italia,servizi_istituzioni,2019,13
+non indicato,italia,servizi_istituzioni,2020,35
+non indicato,italia,servizi_istituzioni,2021,46
+non indicato,italia,servizi_istituzioni,2022,41
+non indicato,italia,servizi_istituzioni,2023,145
+non indicato,italia,servizi_istituzioni,2024,102
+non indicato,non indicato,altro,2023,17
+non indicato,non indicato,altro,2024,2
+non indicato,non indicato,digitale,2023,365
+non indicato,non indicato,digitale,2024,656
+non indicato,non indicato,media_tradizionali,2023,98
+non indicato,non indicato,media_tradizionali,2024,400
+non indicato,non indicato,non_risposta,2015,1
+non indicato,non indicato,non_risposta,2018,1
+non indicato,non indicato,non_risposta,2019,3
+non indicato,non indicato,non_risposta,2020,10
+non indicato,non indicato,non_risposta,2021,11
+non indicato,non indicato,non_risposta,2022,18
+non indicato,non indicato,non_risposta,2023,2047
+non indicato,non indicato,non_risposta,2024,1917
+non indicato,non indicato,rete_personale,2023,12
+non indicato,non indicato,rete_personale,2024,14
+non indicato,non indicato,servizi_istituzioni,2023,20
+non indicato,non indicato,servizi_istituzioni,2024,22
+nord est,estero,altro,2015,6
+nord est,estero,altro,2016,13
+nord est,estero,altro,2017,10
+nord est,estero,altro,2018,23
+nord est,estero,altro,2019,25
+nord est,estero,altro,2020,31
+nord est,estero,altro,2021,105
+nord est,estero,altro,2022,120
+nord est,estero,altro,2023,114
+nord est,estero,altro,2024,27
+nord est,estero,digitale,2015,328
+nord est,estero,digitale,2016,390
+nord est,estero,digitale,2017,393
+nord est,estero,digitale,2018,648
+nord est,estero,digitale,2019,957
+nord est,estero,digitale,2020,828
+nord est,estero,digitale,2021,809
+nord est,estero,digitale,2022,1377
+nord est,estero,digitale,2023,1675
+nord est,estero,digitale,2024,1851
+nord est,estero,media_tradizionali,2015,845
+nord est,estero,media_tradizionali,2016,576
+nord est,estero,media_tradizionali,2017,440
+nord est,estero,media_tradizionali,2018,729
+nord est,estero,media_tradizionali,2019,536
+nord est,estero,media_tradizionali,2020,810
+nord est,estero,media_tradizionali,2021,545
+nord est,estero,media_tradizionali,2022,480
+nord est,estero,media_tradizionali,2023,1161
+nord est,estero,media_tradizionali,2024,4016
+nord est,estero,non_risposta,2015,1363
+nord est,estero,non_risposta,2016,1095
+nord est,estero,non_risposta,2017,1149
+nord est,estero,non_risposta,2018,1428
+nord est,estero,non_risposta,2019,1385
+nord est,estero,non_risposta,2020,2364
+nord est,estero,non_risposta,2021,2862
+nord est,estero,non_risposta,2022,1966
+nord est,estero,non_risposta,2023,3511
+nord est,estero,non_risposta,2024,2505
+nord est,estero,rete_personale,2015,132
+nord est,estero,rete_personale,2016,107
+nord est,estero,rete_personale,2017,89
+nord est,estero,rete_personale,2018,212
+nord est,estero,rete_personale,2019,230
+nord est,estero,rete_personale,2020,207
+nord est,estero,rete_personale,2021,322
+nord est,estero,rete_personale,2022,285
+nord est,estero,rete_personale,2023,273
+nord est,estero,rete_personale,2024,284
+nord est,estero,servizi_istituzioni,2015,220
+nord est,estero,servizi_istituzioni,2016,260
+nord est,estero,servizi_istituzioni,2017,227
+nord est,estero,servizi_istituzioni,2018,224
+nord est,estero,servizi_istituzioni,2019,331
+nord est,estero,servizi_istituzioni,2020,190
+nord est,estero,servizi_istituzioni,2021,228
+nord est,estero,servizi_istituzioni,2022,274
+nord est,estero,servizi_istituzioni,2023,428
+nord est,estero,servizi_istituzioni,2024,437
+nord est,italia,altro,2015,6
+nord est,italia,altro,2016,7
+nord est,italia,altro,2017,6
+nord est,italia,altro,2018,13
+nord est,italia,altro,2019,21
+nord est,italia,altro,2020,29
+nord est,italia,altro,2021,85
+nord est,italia,altro,2022,86
+nord est,italia,altro,2023,106
+nord est,italia,altro,2024,25
+nord est,italia,digitale,2015,258
+nord est,italia,digitale,2016,316
+nord est,italia,digitale,2017,323
+nord est,italia,digitale,2018,502
+nord est,italia,digitale,2019,739
+nord est,italia,digitale,2020,666
+nord est,italia,digitale,2021,639
+nord est,italia,digitale,2022,1087
+nord est,italia,digitale,2023,1391
+nord est,italia,digitale,2024,1591
+nord est,italia,media_tradizionali,2015,661
+nord est,italia,media_tradizionali,2016,454
+nord est,italia,media_tradizionali,2017,342
+nord est,italia,media_tradizionali,2018,615
+nord est,italia,media_tradizionali,2019,430
+nord est,italia,media_tradizionali,2020,686
+nord est,italia,media_tradizionali,2021,445
+nord est,italia,media_tradizionali,2022,398
+nord est,italia,media_tradizionali,2023,1031
+nord est,italia,media_tradizionali,2024,3440
+nord est,italia,non_risposta,2015,1077
+nord est,italia,non_risposta,2016,933
+nord est,italia,non_risposta,2017,923
+nord est,italia,non_risposta,2018,1226
+nord est,italia,non_risposta,2019,1111
+nord est,italia,non_risposta,2020,1960
+nord est,italia,non_risposta,2021,2364
+nord est,italia,non_risposta,2022,1624
+nord est,italia,non_risposta,2023,3062
+nord est,italia,non_risposta,2024,2235
+nord est,italia,rete_personale,2015,98
+nord est,italia,rete_personale,2016,73
+nord est,italia,rete_personale,2017,67
+nord est,italia,rete_personale,2018,132
+nord est,italia,rete_personale,2019,160
+nord est,italia,rete_personale,2020,133
+nord est,italia,rete_personale,2021,228
+nord est,italia,rete_personale,2022,205
+nord est,italia,rete_personale,2023,195
+nord est,italia,rete_personale,2024,236
+nord est,italia,servizi_istituzioni,2015,150
+nord est,italia,servizi_istituzioni,2016,186
+nord est,italia,servizi_istituzioni,2017,173
+nord est,italia,servizi_istituzioni,2018,160
+nord est,italia,servizi_istituzioni,2019,243
+nord est,italia,servizi_istituzioni,2020,130
+nord est,italia,servizi_istituzioni,2021,180
+nord est,italia,servizi_istituzioni,2022,198
+nord est,italia,servizi_istituzioni,2023,328
+nord est,italia,servizi_istituzioni,2024,349
+nord est,non indicato,non_risposta,2023,1
+nord ovest,estero,altro,2015,7
+nord ovest,estero,altro,2016,24
+nord ovest,estero,altro,2017,20
+nord ovest,estero,altro,2018,37
+nord ovest,estero,altro,2019,49
+nord ovest,estero,altro,2020,72
+nord ovest,estero,altro,2021,115
+nord ovest,estero,altro,2022,160
+nord ovest,estero,altro,2023,199
+nord ovest,estero,altro,2024,56
+nord ovest,estero,digitale,2015,620
+nord ovest,estero,digitale,2016,833
+nord ovest,estero,digitale,2017,867
+nord ovest,estero,digitale,2018,1083
+nord ovest,estero,digitale,2019,1719
+nord ovest,estero,digitale,2020,1376
+nord ovest,estero,digitale,2021,1178
+nord ovest,estero,digitale,2022,2118
+nord ovest,estero,digitale,2023,2666
+nord ovest,estero,digitale,2024,2838
+nord ovest,estero,media_tradizionali,2015,1609
+nord ovest,estero,media_tradizionali,2016,1225
+nord ovest,estero,media_tradizionali,2017,803
+nord ovest,estero,media_tradizionali,2018,1234
+nord ovest,estero,media_tradizionali,2019,887
+nord ovest,estero,media_tradizionali,2020,1298
+nord ovest,estero,media_tradizionali,2021,788
+nord ovest,estero,media_tradizionali,2022,799
+nord ovest,estero,media_tradizionali,2023,1641
+nord ovest,estero,media_tradizionali,2024,5742
+nord ovest,estero,non_risposta,2015,2503
+nord ovest,estero,non_risposta,2016,2388
+nord ovest,estero,non_risposta,2017,2442
+nord ovest,estero,non_risposta,2018,2721
+nord ovest,estero,non_risposta,2019,2168
+nord ovest,estero,non_risposta,2020,3950
+nord ovest,estero,non_risposta,2021,4152
+nord ovest,estero,non_risposta,2022,2784
+nord ovest,estero,non_risposta,2023,3873
+nord ovest,estero,non_risposta,2024,3118
+nord ovest,estero,rete_personale,2015,220
+nord ovest,estero,rete_personale,2016,264
+nord ovest,estero,rete_personale,2017,279
+nord ovest,estero,rete_personale,2018,342
+nord ovest,estero,rete_personale,2019,350
+nord ovest,estero,rete_personale,2020,318
+nord ovest,estero,rete_personale,2021,471
+nord ovest,estero,rete_personale,2022,546
+nord ovest,estero,rete_personale,2023,501
+nord ovest,estero,rete_personale,2024,416
+nord ovest,estero,servizi_istituzioni,2015,317
+nord ovest,estero,servizi_istituzioni,2016,392
+nord ovest,estero,servizi_istituzioni,2017,360
+nord ovest,estero,servizi_istituzioni,2018,404
+nord ovest,estero,servizi_istituzioni,2019,426
+nord ovest,estero,servizi_istituzioni,2020,280
+nord ovest,estero,servizi_istituzioni,2021,280
+nord ovest,estero,servizi_istituzioni,2022,321
+nord ovest,estero,servizi_istituzioni,2023,568
+nord ovest,estero,servizi_istituzioni,2024,466
+nord ovest,italia,altro,2015,3
+nord ovest,italia,altro,2016,20
+nord ovest,italia,altro,2017,18
+nord ovest,italia,altro,2018,25
+nord ovest,italia,altro,2019,39
+nord ovest,italia,altro,2020,58
+nord ovest,italia,altro,2021,81
+nord ovest,italia,altro,2022,138
+nord ovest,italia,altro,2023,163
+nord ovest,italia,altro,2024,46
+nord ovest,italia,digitale,2015,508
+nord ovest,italia,digitale,2016,647
+nord ovest,italia,digitale,2017,683
+nord ovest,italia,digitale,2018,857
+nord ovest,italia,digitale,2019,1321
+nord ovest,italia,digitale,2020,1118
+nord ovest,italia,digitale,2021,1004
+nord ovest,italia,digitale,2022,1720
+nord ovest,italia,digitale,2023,2178
+nord ovest,italia,digitale,2024,2408
+nord ovest,italia,media_tradizionali,2015,1297
+nord ovest,italia,media_tradizionali,2016,949
+nord ovest,italia,media_tradizionali,2017,647
+nord ovest,italia,media_tradizionali,2018,1012
+nord ovest,italia,media_tradizionali,2019,715
+nord ovest,italia,media_tradizionali,2020,1102
+nord ovest,italia,media_tradizionali,2021,648
+nord ovest,italia,media_tradizionali,2022,673
+nord ovest,italia,media_tradizionali,2023,1439
+nord ovest,italia,media_tradizionali,2024,4802
+nord ovest,italia,non_risposta,2015,2135
+nord ovest,italia,non_risposta,2016,2034
+nord ovest,italia,non_risposta,2017,1934
+nord ovest,italia,non_risposta,2018,2297
+nord ovest,italia,non_risposta,2019,1828
+nord ovest,italia,non_risposta,2020,3268
+nord ovest,italia,non_risposta,2021,3502
+nord ovest,italia,non_risposta,2022,2322
+nord ovest,italia,non_risposta,2023,3308
+nord ovest,italia,non_risposta,2024,2734
+nord ovest,italia,rete_personale,2015,156
+nord ovest,italia,rete_personale,2016,192
+nord ovest,italia,rete_personale,2017,197
+nord ovest,italia,rete_personale,2018,270
+nord ovest,italia,rete_personale,2019,248
+nord ovest,italia,rete_personale,2020,214
+nord ovest,italia,rete_personale,2021,363
+nord ovest,italia,rete_personale,2022,362
+nord ovest,italia,rete_personale,2023,353
+nord ovest,italia,rete_personale,2024,302
+nord ovest,italia,servizi_istituzioni,2015,223
+nord ovest,italia,servizi_istituzioni,2016,284
+nord ovest,italia,servizi_istituzioni,2017,224
+nord ovest,italia,servizi_istituzioni,2018,296
+nord ovest,italia,servizi_istituzioni,2019,300
+nord ovest,italia,servizi_istituzioni,2020,194
+nord ovest,italia,servizi_istituzioni,2021,210
+nord ovest,italia,servizi_istituzioni,2022,239
+nord ovest,italia,servizi_istituzioni,2023,440
+nord ovest,italia,servizi_istituzioni,2024,388
+nord ovest,non indicato,non_risposta,2023,1
+piemonte,estero,altro,2016,7
+piemonte,estero,altro,2017,5
+piemonte,estero,altro,2018,13
+piemonte,estero,altro,2019,16
+piemonte,estero,altro,2020,18
+piemonte,estero,altro,2021,37
+piemonte,estero,altro,2022,48
+piemonte,estero,altro,2023,55
+piemonte,estero,altro,2024,13
+piemonte,estero,digitale,2015,180
+piemonte,estero,digitale,2016,245
+piemonte,estero,digitale,2017,249
+piemonte,estero,digitale,2018,319
+piemonte,estero,digitale,2019,501
+piemonte,estero,digitale,2020,348
+piemonte,estero,digitale,2021,297
+piemonte,estero,digitale,2022,541
+piemonte,estero,digitale,2023,683
+piemonte,estero,digitale,2024,698
+piemonte,estero,media_tradizionali,2015,512
+piemonte,estero,media_tradizionali,2016,410
+piemonte,estero,media_tradizionali,2017,262
+piemonte,estero,media_tradizionali,2018,313
+piemonte,estero,media_tradizionali,2019,265
+piemonte,estero,media_tradizionali,2020,345
+piemonte,estero,media_tradizionali,2021,202
+piemonte,estero,media_tradizionali,2022,218
+piemonte,estero,media_tradizionali,2023,441
+piemonte,estero,media_tradizionali,2024,1467
+piemonte,estero,non_risposta,2015,794
+piemonte,estero,non_risposta,2016,740
+piemonte,estero,non_risposta,2017,715
+piemonte,estero,non_risposta,2018,820
+piemonte,estero,non_risposta,2019,639
+piemonte,estero,non_risposta,2020,1169
+piemonte,estero,non_risposta,2021,1155
+piemonte,estero,non_risposta,2022,767
+piemonte,estero,non_risposta,2023,1143
+piemonte,estero,non_risposta,2024,857
+piemonte,estero,rete_personale,2015,87
+piemonte,estero,rete_personale,2016,87
+piemonte,estero,rete_personale,2017,81
+piemonte,estero,rete_personale,2018,108
+piemonte,estero,rete_personale,2019,103
+piemonte,estero,rete_personale,2020,82
+piemonte,estero,rete_personale,2021,143
+piemonte,estero,rete_personale,2022,165
+piemonte,estero,rete_personale,2023,121
+piemonte,estero,rete_personale,2024,103
+piemonte,estero,servizi_istituzioni,2015,104
+piemonte,estero,servizi_istituzioni,2016,144
+piemonte,estero,servizi_istituzioni,2017,112
+piemonte,estero,servizi_istituzioni,2018,127
+piemonte,estero,servizi_istituzioni,2019,109
+piemonte,estero,servizi_istituzioni,2020,75
+piemonte,estero,servizi_istituzioni,2021,80
+piemonte,estero,servizi_istituzioni,2022,90
+piemonte,estero,servizi_istituzioni,2023,157
+piemonte,estero,servizi_istituzioni,2024,123
+piemonte,italia,altro,2016,5
+piemonte,italia,altro,2017,5
+piemonte,italia,altro,2018,5
+piemonte,italia,altro,2019,12
+piemonte,italia,altro,2020,12
+piemonte,italia,altro,2021,29
+piemonte,italia,altro,2022,40
+piemonte,italia,altro,2023,45
+piemonte,italia,altro,2024,11
+piemonte,italia,digitale,2015,142
+piemonte,italia,digitale,2016,193
+piemonte,italia,digitale,2017,193
+piemonte,italia,digitale,2018,257
+piemonte,italia,digitale,2019,409
+piemonte,italia,digitale,2020,290
+piemonte,italia,digitale,2021,249
+piemonte,italia,digitale,2022,457
+piemonte,italia,digitale,2023,579
+piemonte,italia,digitale,2024,618
+piemonte,italia,media_tradizionali,2015,418
+piemonte,italia,media_tradizionali,2016,308
+piemonte,italia,media_tradizionali,2017,224
+piemonte,italia,media_tradizionali,2018,277
+piemonte,italia,media_tradizionali,2019,221
+piemonte,italia,media_tradizionali,2020,291
+piemonte,italia,media_tradizionali,2021,176
+piemonte,italia,media_tradizionali,2022,182
+piemonte,italia,media_tradizionali,2023,375
+piemonte,italia,media_tradizionali,2024,1249
+piemonte,italia,non_risposta,2015,652
+piemonte,italia,non_risposta,2016,642
+piemonte,italia,non_risposta,2017,581
+piemonte,italia,non_risposta,2018,694
+piemonte,italia,non_risposta,2019,565
+piemonte,italia,non_risposta,2020,1005
+piemonte,italia,non_risposta,2021,1013
+piemonte,italia,non_risposta,2022,653
+piemonte,italia,non_risposta,2023,995
+piemonte,italia,non_risposta,2024,777
+piemonte,italia,rete_personale,2015,57
+piemonte,italia,rete_personale,2016,57
+piemonte,italia,rete_personale,2017,65
+piemonte,italia,rete_personale,2018,84
+piemonte,italia,rete_personale,2019,75
+piemonte,italia,rete_personale,2020,52
+piemonte,italia,rete_personale,2021,111
+piemonte,italia,rete_personale,2022,109
+piemonte,italia,rete_personale,2023,91
+piemonte,italia,rete_personale,2024,73
+piemonte,italia,servizi_istituzioni,2015,82
+piemonte,italia,servizi_istituzioni,2016,88
+piemonte,italia,servizi_istituzioni,2017,74
+piemonte,italia,servizi_istituzioni,2018,91
+piemonte,italia,servizi_istituzioni,2019,77
+piemonte,italia,servizi_istituzioni,2020,53
+piemonte,italia,servizi_istituzioni,2021,68
+piemonte,italia,servizi_istituzioni,2022,66
+piemonte,italia,servizi_istituzioni,2023,121
+piemonte,italia,servizi_istituzioni,2024,99
+puglia,estero,altro,2015,1
+puglia,estero,altro,2016,8
+puglia,estero,altro,2017,5
+puglia,estero,altro,2018,6
+puglia,estero,altro,2019,9
+puglia,estero,altro,2020,12
+puglia,estero,altro,2021,13
+puglia,estero,altro,2022,41
+puglia,estero,altro,2023,27
+puglia,estero,altro,2024,9
+puglia,estero,digitale,2015,130
+puglia,estero,digitale,2016,115
+puglia,estero,digitale,2017,147
+puglia,estero,digitale,2018,210
+puglia,estero,digitale,2019,336
+puglia,estero,digitale,2020,254
+puglia,estero,digitale,2021,257
+puglia,estero,digitale,2022,441
+puglia,estero,digitale,2023,474
+puglia,estero,digitale,2024,544
+puglia,estero,media_tradizionali,2015,355
+puglia,estero,media_tradizionali,2016,257
+puglia,estero,media_tradizionali,2017,189
+puglia,estero,media_tradizionali,2018,353
+puglia,estero,media_tradizionali,2019,239
+puglia,estero,media_tradizionali,2020,318
+puglia,estero,media_tradizionali,2021,204
+puglia,estero,media_tradizionali,2022,203
+puglia,estero,media_tradizionali,2023,401
+puglia,estero,media_tradizionali,2024,1226
+puglia,estero,non_risposta,2015,678
+puglia,estero,non_risposta,2016,510
+puglia,estero,non_risposta,2017,510
+puglia,estero,non_risposta,2018,709
+puglia,estero,non_risposta,2019,451
+puglia,estero,non_risposta,2020,953
+puglia,estero,non_risposta,2021,1073
+puglia,estero,non_risposta,2022,716
+puglia,estero,non_risposta,2023,777
+puglia,estero,non_risposta,2024,683
+puglia,estero,rete_personale,2015,42
+puglia,estero,rete_personale,2016,56
+puglia,estero,rete_personale,2017,37
+puglia,estero,rete_personale,2018,63
+puglia,estero,rete_personale,2019,68
+puglia,estero,rete_personale,2020,57
+puglia,estero,rete_personale,2021,79
+puglia,estero,rete_personale,2022,105
+puglia,estero,rete_personale,2023,83
+puglia,estero,rete_personale,2024,66
+puglia,estero,servizi_istituzioni,2015,66
+puglia,estero,servizi_istituzioni,2016,69
+puglia,estero,servizi_istituzioni,2017,69
+puglia,estero,servizi_istituzioni,2018,84
+puglia,estero,servizi_istituzioni,2019,78
+puglia,estero,servizi_istituzioni,2020,47
+puglia,estero,servizi_istituzioni,2021,60
+puglia,estero,servizi_istituzioni,2022,39
+puglia,estero,servizi_istituzioni,2023,103
+puglia,estero,servizi_istituzioni,2024,113
+puglia,italia,altro,2015,1
+puglia,italia,altro,2016,8
+puglia,italia,altro,2017,3
+puglia,italia,altro,2018,6
+puglia,italia,altro,2019,9
+puglia,italia,altro,2020,10
+puglia,italia,altro,2021,13
+puglia,italia,altro,2022,39
+puglia,italia,altro,2023,27
+puglia,italia,altro,2024,7
+puglia,italia,digitale,2015,124
+puglia,italia,digitale,2016,107
+puglia,italia,digitale,2017,133
+puglia,italia,digitale,2018,196
+puglia,italia,digitale,2019,318
+puglia,italia,digitale,2020,236
+puglia,italia,digitale,2021,245
+puglia,italia,digitale,2022,405
+puglia,italia,digitale,2023,438
+puglia,italia,digitale,2024,502
+puglia,italia,media_tradizionali,2015,329
+puglia,italia,media_tradizionali,2016,243
+puglia,italia,media_tradizionali,2017,179
+puglia,italia,media_tradizionali,2018,329
+puglia,italia,media_tradizionali,2019,223
+puglia,italia,media_tradizionali,2020,306
+puglia,italia,media_tradizionali,2021,188
+puglia,italia,media_tradizionali,2022,195
+puglia,italia,media_tradizionali,2023,387
+puglia,italia,media_tradizionali,2024,1156
+puglia,italia,non_risposta,2015,648
+puglia,italia,non_risposta,2016,488
+puglia,italia,non_risposta,2017,452
+puglia,italia,non_risposta,2018,637
+puglia,italia,non_risposta,2019,431
+puglia,italia,non_risposta,2020,889
+puglia,italia,non_risposta,2021,1009
+puglia,italia,non_risposta,2022,686
+puglia,italia,non_risposta,2023,719
+puglia,italia,non_risposta,2024,653
+puglia,italia,rete_personale,2015,38
+puglia,italia,rete_personale,2016,46
+puglia,italia,rete_personale,2017,33
+puglia,italia,rete_personale,2018,51
+puglia,italia,rete_personale,2019,60
+puglia,italia,rete_personale,2020,51
+puglia,italia,rete_personale,2021,71
+puglia,italia,rete_personale,2022,91
+puglia,italia,rete_personale,2023,73
+puglia,italia,rete_personale,2024,62
+puglia,italia,servizi_istituzioni,2015,62
+puglia,italia,servizi_istituzioni,2016,57
+puglia,italia,servizi_istituzioni,2017,61
+puglia,italia,servizi_istituzioni,2018,74
+puglia,italia,servizi_istituzioni,2019,72
+puglia,italia,servizi_istituzioni,2020,43
+puglia,italia,servizi_istituzioni,2021,60
+puglia,italia,servizi_istituzioni,2022,35
+puglia,italia,servizi_istituzioni,2023,97
+puglia,italia,servizi_istituzioni,2024,103
+sardegna,estero,altro,2017,2
+sardegna,estero,altro,2018,1
+sardegna,estero,altro,2019,4
+sardegna,estero,altro,2020,1
+sardegna,estero,altro,2021,11
+sardegna,estero,altro,2022,11
+sardegna,estero,altro,2023,22
+sardegna,estero,altro,2024,6
+sardegna,estero,digitale,2015,61
+sardegna,estero,digitale,2016,68
+sardegna,estero,digitale,2017,61
+sardegna,estero,digitale,2018,98
+sardegna,estero,digitale,2019,135
+sardegna,estero,digitale,2020,107
+sardegna,estero,digitale,2021,97
+sardegna,estero,digitale,2022,175
+sardegna,estero,digitale,2023,202
+sardegna,estero,digitale,2024,194
+sardegna,estero,media_tradizionali,2015,152
+sardegna,estero,media_tradizionali,2016,107
+sardegna,estero,media_tradizionali,2017,88
+sardegna,estero,media_tradizionali,2018,135
+sardegna,estero,media_tradizionali,2019,78
+sardegna,estero,media_tradizionali,2020,128
+sardegna,estero,media_tradizionali,2021,98
+sardegna,estero,media_tradizionali,2022,82
+sardegna,estero,media_tradizionali,2023,152
+sardegna,estero,media_tradizionali,2024,461
+sardegna,estero,non_risposta,2015,338
+sardegna,estero,non_risposta,2016,341
+sardegna,estero,non_risposta,2017,311
+sardegna,estero,non_risposta,2018,321
+sardegna,estero,non_risposta,2019,239
+sardegna,estero,non_risposta,2020,398
+sardegna,estero,non_risposta,2021,546
+sardegna,estero,non_risposta,2022,418
+sardegna,estero,non_risposta,2023,377
+sardegna,estero,non_risposta,2024,290
+sardegna,estero,rete_personale,2015,15
+sardegna,estero,rete_personale,2016,25
+sardegna,estero,rete_personale,2017,28
+sardegna,estero,rete_personale,2018,34
+sardegna,estero,rete_personale,2019,32
+sardegna,estero,rete_personale,2020,17
+sardegna,estero,rete_personale,2021,31
+sardegna,estero,rete_personale,2022,35
+sardegna,estero,rete_personale,2023,21
+sardegna,estero,rete_personale,2024,16
+sardegna,estero,servizi_istituzioni,2015,42
+sardegna,estero,servizi_istituzioni,2016,50
+sardegna,estero,servizi_istituzioni,2017,31
+sardegna,estero,servizi_istituzioni,2018,33
+sardegna,estero,servizi_istituzioni,2019,39
+sardegna,estero,servizi_istituzioni,2020,19
+sardegna,estero,servizi_istituzioni,2021,24
+sardegna,estero,servizi_istituzioni,2022,25
+sardegna,estero,servizi_istituzioni,2023,47
+sardegna,estero,servizi_istituzioni,2024,47
+sardegna,italia,altro,2017,2
+sardegna,italia,altro,2018,1
+sardegna,italia,altro,2019,4
+sardegna,italia,altro,2020,1
+sardegna,italia,altro,2021,9
+sardegna,italia,altro,2022,9
+sardegna,italia,altro,2023,22
+sardegna,italia,altro,2024,6
+sardegna,italia,digitale,2015,59
+sardegna,italia,digitale,2016,60
+sardegna,italia,digitale,2017,55
+sardegna,italia,digitale,2018,88
+sardegna,italia,digitale,2019,121
+sardegna,italia,digitale,2020,95
+sardegna,italia,digitale,2021,91
+sardegna,italia,digitale,2022,161
+sardegna,italia,digitale,2023,190
+sardegna,italia,digitale,2024,182
+sardegna,italia,media_tradizionali,2015,148
+sardegna,italia,media_tradizionali,2016,97
+sardegna,italia,media_tradizionali,2017,84
+sardegna,italia,media_tradizionali,2018,125
+sardegna,italia,media_tradizionali,2019,66
+sardegna,italia,media_tradizionali,2020,124
+sardegna,italia,media_tradizionali,2021,94
+sardegna,italia,media_tradizionali,2022,76
+sardegna,italia,media_tradizionali,2023,152
+sardegna,italia,media_tradizionali,2024,429
+sardegna,italia,non_risposta,2015,310
+sardegna,italia,non_risposta,2016,325
+sardegna,italia,non_risposta,2017,287
+sardegna,italia,non_risposta,2018,309
+sardegna,italia,non_risposta,2019,213
+sardegna,italia,non_risposta,2020,360
+sardegna,italia,non_risposta,2021,530
+sardegna,italia,non_risposta,2022,398
+sardegna,italia,non_risposta,2023,355
+sardegna,italia,non_risposta,2024,280
+sardegna,italia,rete_personale,2015,13
+sardegna,italia,rete_personale,2016,25
+sardegna,italia,rete_personale,2017,26
+sardegna,italia,rete_personale,2018,32
+sardegna,italia,rete_personale,2019,28
+sardegna,italia,rete_personale,2020,13
+sardegna,italia,rete_personale,2021,29
+sardegna,italia,rete_personale,2022,29
+sardegna,italia,rete_personale,2023,19
+sardegna,italia,rete_personale,2024,12
+sardegna,italia,servizi_istituzioni,2015,38
+sardegna,italia,servizi_istituzioni,2016,40
+sardegna,italia,servizi_istituzioni,2017,27
+sardegna,italia,servizi_istituzioni,2018,31
+sardegna,italia,servizi_istituzioni,2019,33
+sardegna,italia,servizi_istituzioni,2020,19
+sardegna,italia,servizi_istituzioni,2021,18
+sardegna,italia,servizi_istituzioni,2022,21
+sardegna,italia,servizi_istituzioni,2023,43
+sardegna,italia,servizi_istituzioni,2024,43
+sicilia,estero,altro,2015,1
+sicilia,estero,altro,2016,6
+sicilia,estero,altro,2017,11
+sicilia,estero,altro,2018,8
+sicilia,estero,altro,2019,7
+sicilia,estero,altro,2020,19
+sicilia,estero,altro,2021,24
+sicilia,estero,altro,2022,24
+sicilia,estero,altro,2023,35
+sicilia,estero,altro,2024,12
+sicilia,estero,digitale,2015,137
+sicilia,estero,digitale,2016,164
+sicilia,estero,digitale,2017,167
+sicilia,estero,digitale,2018,250
+sicilia,estero,digitale,2019,370
+sicilia,estero,digitale,2020,272
+sicilia,estero,digitale,2021,261
+sicilia,estero,digitale,2022,432
+sicilia,estero,digitale,2023,431
+sicilia,estero,digitale,2024,510
+sicilia,estero,media_tradizionali,2015,405
+sicilia,estero,media_tradizionali,2016,281
+sicilia,estero,media_tradizionali,2017,196
+sicilia,estero,media_tradizionali,2018,324
+sicilia,estero,media_tradizionali,2019,223
+sicilia,estero,media_tradizionali,2020,322
+sicilia,estero,media_tradizionali,2021,200
+sicilia,estero,media_tradizionali,2022,186
+sicilia,estero,media_tradizionali,2023,409
+sicilia,estero,media_tradizionali,2024,1167
+sicilia,estero,non_risposta,2015,790
+sicilia,estero,non_risposta,2016,833
+sicilia,estero,non_risposta,2017,749
+sicilia,estero,non_risposta,2018,720
+sicilia,estero,non_risposta,2019,606
+sicilia,estero,non_risposta,2020,1022
+sicilia,estero,non_risposta,2021,1174
+sicilia,estero,non_risposta,2022,811
+sicilia,estero,non_risposta,2023,875
+sicilia,estero,non_risposta,2024,748
+sicilia,estero,rete_personale,2015,47
+sicilia,estero,rete_personale,2016,70
+sicilia,estero,rete_personale,2017,54
+sicilia,estero,rete_personale,2018,81
+sicilia,estero,rete_personale,2019,73
+sicilia,estero,rete_personale,2020,69
+sicilia,estero,rete_personale,2021,81
+sicilia,estero,rete_personale,2022,87
+sicilia,estero,rete_personale,2023,87
+sicilia,estero,rete_personale,2024,66
+sicilia,estero,servizi_istituzioni,2015,74
+sicilia,estero,servizi_istituzioni,2016,85
+sicilia,estero,servizi_istituzioni,2017,84
+sicilia,estero,servizi_istituzioni,2018,73
+sicilia,estero,servizi_istituzioni,2019,117
+sicilia,estero,servizi_istituzioni,2020,55
+sicilia,estero,servizi_istituzioni,2021,63
+sicilia,estero,servizi_istituzioni,2022,70
+sicilia,estero,servizi_istituzioni,2023,91
+sicilia,estero,servizi_istituzioni,2024,82
+sicilia,italia,altro,2015,1
+sicilia,italia,altro,2016,6
+sicilia,italia,altro,2017,11
+sicilia,italia,altro,2018,8
+sicilia,italia,altro,2019,7
+sicilia,italia,altro,2020,15
+sicilia,italia,altro,2021,22
+sicilia,italia,altro,2022,24
+sicilia,italia,altro,2023,27
+sicilia,italia,altro,2024,6
+sicilia,italia,digitale,2015,131
+sicilia,italia,digitale,2016,144
+sicilia,italia,digitale,2017,153
+sicilia,italia,digitale,2018,216
+sicilia,italia,digitale,2019,326
+sicilia,italia,digitale,2020,250
+sicilia,italia,digitale,2021,239
+sicilia,italia,digitale,2022,384
+sicilia,italia,digitale,2023,405
+sicilia,italia,digitale,2024,452
+sicilia,italia,media_tradizionali,2015,359
+sicilia,italia,media_tradizionali,2016,251
+sicilia,italia,media_tradizionali,2017,186
+sicilia,italia,media_tradizionali,2018,304
+sicilia,italia,media_tradizionali,2019,207
+sicilia,italia,media_tradizionali,2020,306
+sicilia,italia,media_tradizionali,2021,188
+sicilia,italia,media_tradizionali,2022,170
+sicilia,italia,media_tradizionali,2023,389
+sicilia,italia,media_tradizionali,2024,1093
+sicilia,italia,non_risposta,2015,746
+sicilia,italia,non_risposta,2016,765
+sicilia,italia,non_risposta,2017,669
+sicilia,italia,non_risposta,2018,664
+sicilia,italia,non_risposta,2019,528
+sicilia,italia,non_risposta,2020,928
+sicilia,italia,non_risposta,2021,1090
+sicilia,italia,non_risposta,2022,763
+sicilia,italia,non_risposta,2023,815
+sicilia,italia,non_risposta,2024,698
+sicilia,italia,rete_personale,2015,39
+sicilia,italia,rete_personale,2016,62
+sicilia,italia,rete_personale,2017,50
+sicilia,italia,rete_personale,2018,67
+sicilia,italia,rete_personale,2019,63
+sicilia,italia,rete_personale,2020,53
+sicilia,italia,rete_personale,2021,75
+sicilia,italia,rete_personale,2022,79
+sicilia,italia,rete_personale,2023,85
+sicilia,italia,rete_personale,2024,54
+sicilia,italia,servizi_istituzioni,2015,66
+sicilia,italia,servizi_istituzioni,2016,79
+sicilia,italia,servizi_istituzioni,2017,66
+sicilia,italia,servizi_istituzioni,2018,69
+sicilia,italia,servizi_istituzioni,2019,95
+sicilia,italia,servizi_istituzioni,2020,43
+sicilia,italia,servizi_istituzioni,2021,59
+sicilia,italia,servizi_istituzioni,2022,66
+sicilia,italia,servizi_istituzioni,2023,87
+sicilia,italia,servizi_istituzioni,2024,78
+sud,estero,altro,2015,6
+sud,estero,altro,2016,19
+sud,estero,altro,2017,8
+sud,estero,altro,2018,24
+sud,estero,altro,2019,30
+sud,estero,altro,2020,55
+sud,estero,altro,2021,62
+sud,estero,altro,2022,103
+sud,estero,altro,2023,118
+sud,estero,altro,2024,32
+sud,estero,digitale,2015,466
+sud,estero,digitale,2016,473
+sud,estero,digitale,2017,557
+sud,estero,digitale,2018,755
+sud,estero,digitale,2019,1242
+sud,estero,digitale,2020,950
+sud,estero,digitale,2021,878
+sud,estero,digitale,2022,1475
+sud,estero,digitale,2023,1741
+sud,estero,digitale,2024,1709
+sud,estero,media_tradizionali,2015,1407
+sud,estero,media_tradizionali,2016,953
+sud,estero,media_tradizionali,2017,679
+sud,estero,media_tradizionali,2018,1218
+sud,estero,media_tradizionali,2019,795
+sud,estero,media_tradizionali,2020,1098
+sud,estero,media_tradizionali,2021,757
+sud,estero,media_tradizionali,2022,717
+sud,estero,media_tradizionali,2023,1402
+sud,estero,media_tradizionali,2024,4161
+sud,estero,non_risposta,2015,2586
+sud,estero,non_risposta,2016,2108
+sud,estero,non_risposta,2017,2065
+sud,estero,non_risposta,2018,2629
+sud,estero,non_risposta,2019,2046
+sud,estero,non_risposta,2020,3449
+sud,estero,non_risposta,2021,4004
+sud,estero,non_risposta,2022,2775
+sud,estero,non_risposta,2023,2984
+sud,estero,non_risposta,2024,2391
+sud,estero,rete_personale,2015,157
+sud,estero,rete_personale,2016,196
+sud,estero,rete_personale,2017,169
+sud,estero,rete_personale,2018,224
+sud,estero,rete_personale,2019,229
+sud,estero,rete_personale,2020,206
+sud,estero,rete_personale,2021,303
+sud,estero,rete_personale,2022,342
+sud,estero,rete_personale,2023,286
+sud,estero,rete_personale,2024,204
+sud,estero,servizi_istituzioni,2015,238
+sud,estero,servizi_istituzioni,2016,275
+sud,estero,servizi_istituzioni,2017,217
+sud,estero,servizi_istituzioni,2018,282
+sud,estero,servizi_istituzioni,2019,350
+sud,estero,servizi_istituzioni,2020,171
+sud,estero,servizi_istituzioni,2021,219
+sud,estero,servizi_istituzioni,2022,192
+sud,estero,servizi_istituzioni,2023,391
+sud,estero,servizi_istituzioni,2024,383
+sud,italia,altro,2015,6
+sud,italia,altro,2016,17
+sud,italia,altro,2017,4
+sud,italia,altro,2018,24
+sud,italia,altro,2019,30
+sud,italia,altro,2020,53
+sud,italia,altro,2021,52
+sud,italia,altro,2022,95
+sud,italia,altro,2023,114
+sud,italia,altro,2024,22
+sud,italia,digitale,2015,426
+sud,italia,digitale,2016,413
+sud,italia,digitale,2017,479
+sud,italia,digitale,2018,675
+sud,italia,digitale,2019,1096
+sud,italia,digitale,2020,858
+sud,italia,digitale,2021,800
+sud,italia,digitale,2022,1323
+sud,italia,digitale,2023,1573
+sud,italia,digitale,2024,1571
+sud,italia,media_tradizionali,2015,1253
+sud,italia,media_tradizionali,2016,845
+sud,italia,media_tradizionali,2017,631
+sud,italia,media_tradizionali,2018,1134
+sud,italia,media_tradizionali,2019,727
+sud,italia,media_tradizionali,2020,1018
+sud,italia,media_tradizionali,2021,697
+sud,italia,media_tradizionali,2022,673
+sud,italia,media_tradizionali,2023,1330
+sud,italia,media_tradizionali,2024,3867
+sud,italia,non_risposta,2015,2382
+sud,italia,non_risposta,2016,1942
+sud,italia,non_risposta,2017,1835
+sud,italia,non_risposta,2018,2407
+sud,italia,non_risposta,2019,1880
+sud,italia,non_risposta,2020,3225
+sud,italia,non_risposta,2021,3728
+sud,italia,non_risposta,2022,2575
+sud,italia,non_risposta,2023,2764
+sud,italia,non_risposta,2024,2245
+sud,italia,rete_personale,2015,125
+sud,italia,rete_personale,2016,160
+sud,italia,rete_personale,2017,135
+sud,italia,rete_personale,2018,180
+sud,italia,rete_personale,2019,185
+sud,italia,rete_personale,2020,164
+sud,italia,rete_personale,2021,249
+sud,italia,rete_personale,2022,278
+sud,italia,rete_personale,2023,248
+sud,italia,rete_personale,2024,190
+sud,italia,servizi_istituzioni,2015,200
+sud,italia,servizi_istituzioni,2016,237
+sud,italia,servizi_istituzioni,2017,191
+sud,italia,servizi_istituzioni,2018,236
+sud,italia,servizi_istituzioni,2019,310
+sud,italia,servizi_istituzioni,2020,157
+sud,italia,servizi_istituzioni,2021,203
+sud,italia,servizi_istituzioni,2022,180
+sud,italia,servizi_istituzioni,2023,361
+sud,italia,servizi_istituzioni,2024,357
+sud,non indicato,non_risposta,2023,2
+toscana,estero,altro,2015,1
+toscana,estero,altro,2016,3
+toscana,estero,altro,2017,1
+toscana,estero,altro,2018,12
+toscana,estero,altro,2019,13
+toscana,estero,altro,2020,19
+toscana,estero,altro,2021,36
+toscana,estero,altro,2022,31
+toscana,estero,altro,2023,47
+toscana,estero,altro,2024,24
+toscana,estero,digitale,2015,99
+toscana,estero,digitale,2016,138
+toscana,estero,digitale,2017,167
+toscana,estero,digitale,2018,238
+toscana,estero,digitale,2019,427
+toscana,estero,digitale,2020,325
+toscana,estero,digitale,2021,312
+toscana,estero,digitale,2022,462
+toscana,estero,digitale,2023,553
+toscana,estero,digitale,2024,616
+toscana,estero,media_tradizionali,2015,332
+toscana,estero,media_tradizionali,2016,166
+toscana,estero,media_tradizionali,2017,184
+toscana,estero,media_tradizionali,2018,323
+toscana,estero,media_tradizionali,2019,239
+toscana,estero,media_tradizionali,2020,309
+toscana,estero,media_tradizionali,2021,186
+toscana,estero,media_tradizionali,2022,187
+toscana,estero,media_tradizionali,2023,376
+toscana,estero,media_tradizionali,2024,1349
+toscana,estero,non_risposta,2015,421
+toscana,estero,non_risposta,2016,340
+toscana,estero,non_risposta,2017,568
+toscana,estero,non_risposta,2018,623
+toscana,estero,non_risposta,2019,592
+toscana,estero,non_risposta,2020,948
+toscana,estero,non_risposta,2021,1045
+toscana,estero,non_risposta,2022,718
+toscana,estero,non_risposta,2023,907
+toscana,estero,non_risposta,2024,745
+toscana,estero,rete_personale,2015,21
+toscana,estero,rete_personale,2016,44
+toscana,estero,rete_personale,2017,60
+toscana,estero,rete_personale,2018,87
+toscana,estero,rete_personale,2019,88
+toscana,estero,rete_personale,2020,60
+toscana,estero,rete_personale,2021,94
+toscana,estero,rete_personale,2022,127
+toscana,estero,rete_personale,2023,91
+toscana,estero,rete_personale,2024,92
+toscana,estero,servizi_istituzioni,2015,66
+toscana,estero,servizi_istituzioni,2016,87
+toscana,estero,servizi_istituzioni,2017,80
+toscana,estero,servizi_istituzioni,2018,88
+toscana,estero,servizi_istituzioni,2019,100
+toscana,estero,servizi_istituzioni,2020,56
+toscana,estero,servizi_istituzioni,2021,63
+toscana,estero,servizi_istituzioni,2022,73
+toscana,estero,servizi_istituzioni,2023,113
+toscana,estero,servizi_istituzioni,2024,95
+toscana,italia,altro,2015,1
+toscana,italia,altro,2016,3
+toscana,italia,altro,2017,1
+toscana,italia,altro,2018,10
+toscana,italia,altro,2019,11
+toscana,italia,altro,2020,13
+toscana,italia,altro,2021,26
+toscana,italia,altro,2022,31
+toscana,italia,altro,2023,41
+toscana,italia,altro,2024,18
+toscana,italia,digitale,2015,81
+toscana,italia,digitale,2016,102
+toscana,italia,digitale,2017,137
+toscana,italia,digitale,2018,192
+toscana,italia,digitale,2019,337
+toscana,italia,digitale,2020,275
+toscana,italia,digitale,2021,240
+toscana,italia,digitale,2022,366
+toscana,italia,digitale,2023,473
+toscana,italia,digitale,2024,534
+toscana,italia,media_tradizionali,2015,290
+toscana,italia,media_tradizionali,2016,144
+toscana,italia,media_tradizionali,2017,150
+toscana,italia,media_tradizionali,2018,281
+toscana,italia,media_tradizionali,2019,199
+toscana,italia,media_tradizionali,2020,261
+toscana,italia,media_tradizionali,2021,166
+toscana,italia,media_tradizionali,2022,155
+toscana,italia,media_tradizionali,2023,334
+toscana,italia,media_tradizionali,2024,1143
+toscana,italia,non_risposta,2015,379
+toscana,italia,non_risposta,2016,318
+toscana,italia,non_risposta,2017,454
+toscana,italia,non_risposta,2018,565
+toscana,italia,non_risposta,2019,498
+toscana,italia,non_risposta,2020,802
+toscana,italia,non_risposta,2021,883
+toscana,italia,non_risposta,2022,614
+toscana,italia,non_risposta,2023,795
+toscana,italia,non_risposta,2024,655
+toscana,italia,rete_personale,2015,17
+toscana,italia,rete_personale,2016,26
+toscana,italia,rete_personale,2017,42
+toscana,italia,rete_personale,2018,59
+toscana,italia,rete_personale,2019,68
+toscana,italia,rete_personale,2020,34
+toscana,italia,rete_personale,2021,72
+toscana,italia,rete_personale,2022,91
+toscana,italia,rete_personale,2023,79
+toscana,italia,rete_personale,2024,66
+toscana,italia,servizi_istituzioni,2015,58
+toscana,italia,servizi_istituzioni,2016,69
+toscana,italia,servizi_istituzioni,2017,56
+toscana,italia,servizi_istituzioni,2018,70
+toscana,italia,servizi_istituzioni,2019,72
+toscana,italia,servizi_istituzioni,2020,50
+toscana,italia,servizi_istituzioni,2021,51
+toscana,italia,servizi_istituzioni,2022,59
+toscana,italia,servizi_istituzioni,2023,97
+toscana,italia,servizi_istituzioni,2024,79
+trentino alto adige,estero,altro,2019,1
+trentino alto adige,estero,altro,2021,10
+trentino alto adige,estero,altro,2022,7
+trentino alto adige,estero,altro,2023,4
+trentino alto adige,estero,altro,2024,2
+trentino alto adige,estero,digitale,2015,17
+trentino alto adige,estero,digitale,2016,20
+trentino alto adige,estero,digitale,2017,15
+trentino alto adige,estero,digitale,2018,40
+trentino alto adige,estero,digitale,2019,55
+trentino alto adige,estero,digitale,2020,71
+trentino alto adige,estero,digitale,2021,46
+trentino alto adige,estero,digitale,2022,93
+trentino alto adige,estero,digitale,2023,125
+trentino alto adige,estero,digitale,2024,90
+trentino alto adige,estero,media_tradizionali,2015,49
+trentino alto adige,estero,media_tradizionali,2016,24
+trentino alto adige,estero,media_tradizionali,2017,25
+trentino alto adige,estero,media_tradizionali,2018,45
+trentino alto adige,estero,media_tradizionali,2019,32
+trentino alto adige,estero,media_tradizionali,2020,46
+trentino alto adige,estero,media_tradizionali,2021,30
+trentino alto adige,estero,media_tradizionali,2022,29
+trentino alto adige,estero,media_tradizionali,2023,75
+trentino alto adige,estero,media_tradizionali,2024,208
+trentino alto adige,estero,non_risposta,2015,70
+trentino alto adige,estero,non_risposta,2016,80
+trentino alto adige,estero,non_risposta,2017,50
+trentino alto adige,estero,non_risposta,2018,97
+trentino alto adige,estero,non_risposta,2019,84
+trentino alto adige,estero,non_risposta,2020,135
+trentino alto adige,estero,non_risposta,2021,191
+trentino alto adige,estero,non_risposta,2022,111
+trentino alto adige,estero,non_risposta,2023,172
+trentino alto adige,estero,non_risposta,2024,133
+trentino alto adige,estero,rete_personale,2015,7
+trentino alto adige,estero,rete_personale,2016,7
+trentino alto adige,estero,rete_personale,2017,4
+trentino alto adige,estero,rete_personale,2018,6
+trentino alto adige,estero,rete_personale,2019,9
+trentino alto adige,estero,rete_personale,2020,7
+trentino alto adige,estero,rete_personale,2021,18
+trentino alto adige,estero,rete_personale,2022,18
+trentino alto adige,estero,rete_personale,2023,15
+trentino alto adige,estero,rete_personale,2024,23
+trentino alto adige,estero,servizi_istituzioni,2015,16
+trentino alto adige,estero,servizi_istituzioni,2016,16
+trentino alto adige,estero,servizi_istituzioni,2017,14
+trentino alto adige,estero,servizi_istituzioni,2018,14
+trentino alto adige,estero,servizi_istituzioni,2019,24
+trentino alto adige,estero,servizi_istituzioni,2020,15
+trentino alto adige,estero,servizi_istituzioni,2021,18
+trentino alto adige,estero,servizi_istituzioni,2022,17
+trentino alto adige,estero,servizi_istituzioni,2023,15
+trentino alto adige,estero,servizi_istituzioni,2024,17
+trentino alto adige,italia,altro,2019,1
+trentino alto adige,italia,altro,2021,10
+trentino alto adige,italia,altro,2022,7
+trentino alto adige,italia,altro,2023,2
+trentino alto adige,italia,altro,2024,2
+trentino alto adige,italia,digitale,2015,11
+trentino alto adige,italia,digitale,2016,14
+trentino alto adige,italia,digitale,2017,15
+trentino alto adige,italia,digitale,2018,22
+trentino alto adige,italia,digitale,2019,45
+trentino alto adige,italia,digitale,2020,57
+trentino alto adige,italia,digitale,2021,42
+trentino alto adige,italia,digitale,2022,75
+trentino alto adige,italia,digitale,2023,109
+trentino alto adige,italia,digitale,2024,74
+trentino alto adige,italia,media_tradizionali,2015,39
+trentino alto adige,italia,media_tradizionali,2016,14
+trentino alto adige,italia,media_tradizionali,2017,13
+trentino alto adige,italia,media_tradizionali,2018,39
+trentino alto adige,italia,media_tradizionali,2019,26
+trentino alto adige,italia,media_tradizionali,2020,40
+trentino alto adige,italia,media_tradizionali,2021,24
+trentino alto adige,italia,media_tradizionali,2022,23
+trentino alto adige,italia,media_tradizionali,2023,67
+trentino alto adige,italia,media_tradizionali,2024,182
+trentino alto adige,italia,non_risposta,2015,58
+trentino alto adige,italia,non_risposta,2016,62
+trentino alto adige,italia,non_risposta,2017,36
+trentino alto adige,italia,non_risposta,2018,71
+trentino alto adige,italia,non_risposta,2019,76
+trentino alto adige,italia,non_risposta,2020,109
+trentino alto adige,italia,non_risposta,2021,153
+trentino alto adige,italia,non_risposta,2022,91
+trentino alto adige,italia,non_risposta,2023,128
+trentino alto adige,italia,non_risposta,2024,115
+trentino alto adige,italia,rete_personale,2015,3
+trentino alto adige,italia,rete_personale,2016,5
+trentino alto adige,italia,rete_personale,2017,2
+trentino alto adige,italia,rete_personale,2018,6
+trentino alto adige,italia,rete_personale,2019,9
+trentino alto adige,italia,rete_personale,2020,7
+trentino alto adige,italia,rete_personale,2021,14
+trentino alto adige,italia,rete_personale,2022,10
+trentino alto adige,italia,rete_personale,2023,15
+trentino alto adige,italia,rete_personale,2024,17
+trentino alto adige,italia,servizi_istituzioni,2015,8
+trentino alto adige,italia,servizi_istituzioni,2016,12
+trentino alto adige,italia,servizi_istituzioni,2017,8
+trentino alto adige,italia,servizi_istituzioni,2018,10
+trentino alto adige,italia,servizi_istituzioni,2019,18
+trentino alto adige,italia,servizi_istituzioni,2020,9
+trentino alto adige,italia,servizi_istituzioni,2021,10
+trentino alto adige,italia,servizi_istituzioni,2022,13
+trentino alto adige,italia,servizi_istituzioni,2023,15
+trentino alto adige,italia,servizi_istituzioni,2024,13
+umbria,estero,altro,2015,1
+umbria,estero,altro,2016,3
+umbria,estero,altro,2017,1
+umbria,estero,altro,2019,3
+umbria,estero,altro,2020,3
+umbria,estero,altro,2021,10
+umbria,estero,altro,2022,5
+umbria,estero,altro,2023,11
+umbria,estero,altro,2024,10
+umbria,estero,digitale,2015,26
+umbria,estero,digitale,2016,29
+umbria,estero,digitale,2017,33
+umbria,estero,digitale,2018,47
+umbria,estero,digitale,2019,81
+umbria,estero,digitale,2020,50
+umbria,estero,digitale,2021,61
+umbria,estero,digitale,2022,109
+umbria,estero,digitale,2023,148
+umbria,estero,digitale,2024,131
+umbria,estero,media_tradizionali,2015,79
+umbria,estero,media_tradizionali,2016,61
+umbria,estero,media_tradizionali,2017,36
+umbria,estero,media_tradizionali,2018,65
+umbria,estero,media_tradizionali,2019,48
+umbria,estero,media_tradizionali,2020,46
+umbria,estero,media_tradizionali,2021,40
+umbria,estero,media_tradizionali,2022,52
+umbria,estero,media_tradizionali,2023,100
+umbria,estero,media_tradizionali,2024,299
+umbria,estero,non_risposta,2015,134
+umbria,estero,non_risposta,2016,113
+umbria,estero,non_risposta,2017,121
+umbria,estero,non_risposta,2018,132
+umbria,estero,non_risposta,2019,97
+umbria,estero,non_risposta,2020,164
+umbria,estero,non_risposta,2021,187
+umbria,estero,non_risposta,2022,160
+umbria,estero,non_risposta,2023,227
+umbria,estero,non_risposta,2024,145
+umbria,estero,rete_personale,2015,6
+umbria,estero,rete_personale,2016,6
+umbria,estero,rete_personale,2017,7
+umbria,estero,rete_personale,2018,20
+umbria,estero,rete_personale,2019,15
+umbria,estero,rete_personale,2020,8
+umbria,estero,rete_personale,2021,19
+umbria,estero,rete_personale,2022,21
+umbria,estero,rete_personale,2023,29
+umbria,estero,rete_personale,2024,18
+umbria,estero,servizi_istituzioni,2015,21
+umbria,estero,servizi_istituzioni,2016,37
+umbria,estero,servizi_istituzioni,2017,13
+umbria,estero,servizi_istituzioni,2018,16
+umbria,estero,servizi_istituzioni,2019,21
+umbria,estero,servizi_istituzioni,2020,18
+umbria,estero,servizi_istituzioni,2021,13
+umbria,estero,servizi_istituzioni,2022,22
+umbria,estero,servizi_istituzioni,2023,36
+umbria,estero,servizi_istituzioni,2024,40
+umbria,italia,altro,2015,1
+umbria,italia,altro,2016,3
+umbria,italia,altro,2017,1
+umbria,italia,altro,2019,3
+umbria,italia,altro,2020,1
+umbria,italia,altro,2021,8
+umbria,italia,altro,2022,5
+umbria,italia,altro,2023,11
+umbria,italia,altro,2024,6
+umbria,italia,digitale,2015,18
+umbria,italia,digitale,2016,21
+umbria,italia,digitale,2017,27
+umbria,italia,digitale,2018,41
+umbria,italia,digitale,2019,63
+umbria,italia,digitale,2020,38
+umbria,italia,digitale,2021,53
+umbria,italia,digitale,2022,85
+umbria,italia,digitale,2023,124
+umbria,italia,digitale,2024,95
+umbria,italia,media_tradizionali,2015,67
+umbria,italia,media_tradizionali,2016,49
+umbria,italia,media_tradizionali,2017,28
+umbria,italia,media_tradizionali,2018,57
+umbria,italia,media_tradizionali,2019,38
+umbria,italia,media_tradizionali,2020,38
+umbria,italia,media_tradizionali,2021,36
+umbria,italia,media_tradizionali,2022,42
+umbria,italia,media_tradizionali,2023,78
+umbria,italia,media_tradizionali,2024,253
+umbria,italia,non_risposta,2015,104
+umbria,italia,non_risposta,2016,95
+umbria,italia,non_risposta,2017,105
+umbria,italia,non_risposta,2018,118
+umbria,italia,non_risposta,2019,85
+umbria,italia,non_risposta,2020,126
+umbria,italia,non_risposta,2021,167
+umbria,italia,non_risposta,2022,138
+umbria,italia,non_risposta,2023,203
+umbria,italia,non_risposta,2024,103
+umbria,italia,rete_personale,2015,4
+umbria,italia,rete_personale,2016,2
+umbria,italia,rete_personale,2017,7
+umbria,italia,rete_personale,2018,16
+umbria,italia,rete_personale,2019,11
+umbria,italia,rete_personale,2020,8
+umbria,italia,rete_personale,2021,17
+umbria,italia,rete_personale,2022,17
+umbria,italia,rete_personale,2023,19
+umbria,italia,rete_personale,2024,16
+umbria,italia,servizi_istituzioni,2015,13
+umbria,italia,servizi_istituzioni,2016,21
+umbria,italia,servizi_istituzioni,2017,13
+umbria,italia,servizi_istituzioni,2018,12
+umbria,italia,servizi_istituzioni,2019,15
+umbria,italia,servizi_istituzioni,2020,16
+umbria,italia,servizi_istituzioni,2021,9
+umbria,italia,servizi_istituzioni,2022,14
+umbria,italia,servizi_istituzioni,2023,30
+umbria,italia,servizi_istituzioni,2024,30
+valle d'aosta,estero,altro,2024,1
+valle d'aosta,estero,digitale,2015,3
+valle d'aosta,estero,digitale,2016,9
+valle d'aosta,estero,digitale,2017,5
+valle d'aosta,estero,digitale,2018,2
+valle d'aosta,estero,digitale,2019,3
+valle d'aosta,estero,digitale,2020,4
+valle d'aosta,estero,digitale,2022,12
+valle d'aosta,estero,digitale,2023,12
+valle d'aosta,estero,digitale,2024,13
+valle d'aosta,estero,media_tradizionali,2015,7
+valle d'aosta,estero,media_tradizionali,2016,1
+valle d'aosta,estero,media_tradizionali,2017,2
+valle d'aosta,estero,media_tradizionali,2018,5
+valle d'aosta,estero,media_tradizionali,2019,4
+valle d'aosta,estero,media_tradizionali,2020,7
+valle d'aosta,estero,media_tradizionali,2021,6
+valle d'aosta,estero,media_tradizionali,2022,4
+valle d'aosta,estero,media_tradizionali,2023,10
+valle d'aosta,estero,media_tradizionali,2024,30
+valle d'aosta,estero,non_risposta,2015,9
+valle d'aosta,estero,non_risposta,2016,8
+valle d'aosta,estero,non_risposta,2017,9
+valle d'aosta,estero,non_risposta,2018,9
+valle d'aosta,estero,non_risposta,2019,2
+valle d'aosta,estero,non_risposta,2020,17
+valle d'aosta,estero,non_risposta,2021,11
+valle d'aosta,estero,non_risposta,2022,10
+valle d'aosta,estero,non_risposta,2023,16
+valle d'aosta,estero,non_risposta,2024,24
+valle d'aosta,estero,rete_personale,2016,2
+valle d'aosta,estero,rete_personale,2017,1
+valle d'aosta,estero,rete_personale,2018,3
+valle d'aosta,estero,rete_personale,2019,4
+valle d'aosta,estero,rete_personale,2020,1
+valle d'aosta,estero,rete_personale,2022,1
+valle d'aosta,estero,rete_personale,2023,1
+valle d'aosta,estero,rete_personale,2024,1
+valle d'aosta,estero,servizi_istituzioni,2015,2
+valle d'aosta,estero,servizi_istituzioni,2018,4
+valle d'aosta,estero,servizi_istituzioni,2019,4
+valle d'aosta,estero,servizi_istituzioni,2021,1
+valle d'aosta,estero,servizi_istituzioni,2022,1
+valle d'aosta,estero,servizi_istituzioni,2023,2
+valle d'aosta,estero,servizi_istituzioni,2024,3
+valle d'aosta,italia,altro,2024,1
+valle d'aosta,italia,digitale,2015,3
+valle d'aosta,italia,digitale,2016,5
+valle d'aosta,italia,digitale,2017,5
+valle d'aosta,italia,digitale,2018,2
+valle d'aosta,italia,digitale,2019,3
+valle d'aosta,italia,digitale,2020,4
+valle d'aosta,italia,digitale,2022,10
+valle d'aosta,italia,digitale,2023,10
+valle d'aosta,italia,digitale,2024,13
+valle d'aosta,italia,media_tradizionali,2015,7
+valle d'aosta,italia,media_tradizionali,2016,1
+valle d'aosta,italia,media_tradizionali,2017,2
+valle d'aosta,italia,media_tradizionali,2018,5
+valle d'aosta,italia,media_tradizionali,2019,4
+valle d'aosta,italia,media_tradizionali,2020,7
+valle d'aosta,italia,media_tradizionali,2021,4
+valle d'aosta,italia,media_tradizionali,2022,4
+valle d'aosta,italia,media_tradizionali,2023,10
+valle d'aosta,italia,media_tradizionali,2024,26
+valle d'aosta,italia,non_risposta,2015,7
+valle d'aosta,italia,non_risposta,2016,8
+valle d'aosta,italia,non_risposta,2017,9
+valle d'aosta,italia,non_risposta,2018,9
+valle d'aosta,italia,non_risposta,2019,2
+valle d'aosta,italia,non_risposta,2020,17
+valle d'aosta,italia,non_risposta,2021,11
+valle d'aosta,italia,non_risposta,2022,8
+valle d'aosta,italia,non_risposta,2023,16
+valle d'aosta,italia,non_risposta,2024,16
+valle d'aosta,italia,rete_personale,2016,2
+valle d'aosta,italia,rete_personale,2017,1
+valle d'aosta,italia,rete_personale,2018,3
+valle d'aosta,italia,rete_personale,2019,2
+valle d'aosta,italia,rete_personale,2020,1
+valle d'aosta,italia,rete_personale,2022,1
+valle d'aosta,italia,rete_personale,2023,1
+valle d'aosta,italia,rete_personale,2024,1
+valle d'aosta,italia,servizi_istituzioni,2018,2
+valle d'aosta,italia,servizi_istituzioni,2019,2
+valle d'aosta,italia,servizi_istituzioni,2021,1
+valle d'aosta,italia,servizi_istituzioni,2022,1
+valle d'aosta,italia,servizi_istituzioni,2023,2
+valle d'aosta,italia,servizi_istituzioni,2024,3
+veneto,estero,altro,2015,3
+veneto,estero,altro,2016,6
+veneto,estero,altro,2018,10
+veneto,estero,altro,2019,17
+veneto,estero,altro,2020,14
+veneto,estero,altro,2021,47
+veneto,estero,altro,2022,74
+veneto,estero,altro,2023,69
+veneto,estero,altro,2024,10
+veneto,estero,digitale,2015,155
+veneto,estero,digitale,2016,176
+veneto,estero,digitale,2017,190
+veneto,estero,digitale,2018,272
+veneto,estero,digitale,2019,443
+veneto,estero,digitale,2020,368
+veneto,estero,digitale,2021,381
+veneto,estero,digitale,2022,604
+veneto,estero,digitale,2023,725
+veneto,estero,digitale,2024,812
+veneto,estero,media_tradizionali,2015,385
+veneto,estero,media_tradizionali,2016,264
+veneto,estero,media_tradizionali,2017,200
+veneto,estero,media_tradizionali,2018,331
+veneto,estero,media_tradizionali,2019,230
+veneto,estero,media_tradizionali,2020,302
+veneto,estero,media_tradizionali,2021,231
+veneto,estero,media_tradizionali,2022,209
+veneto,estero,media_tradizionali,2023,537
+veneto,estero,media_tradizionali,2024,1823
+veneto,estero,non_risposta,2015,653
+veneto,estero,non_risposta,2016,450
+veneto,estero,non_risposta,2017,532
+veneto,estero,non_risposta,2018,671
+veneto,estero,non_risposta,2019,705
+veneto,estero,non_risposta,2020,1112
+veneto,estero,non_risposta,2021,1383
+veneto,estero,non_risposta,2022,923
+veneto,estero,non_risposta,2023,1223
+veneto,estero,non_risposta,2024,964
+veneto,estero,rete_personale,2015,52
+veneto,estero,rete_personale,2016,42
+veneto,estero,rete_personale,2017,41
+veneto,estero,rete_personale,2018,110
+veneto,estero,rete_personale,2019,114
+veneto,estero,rete_personale,2020,101
+veneto,estero,rete_personale,2021,163
+veneto,estero,rete_personale,2022,139
+veneto,estero,rete_personale,2023,127
+veneto,estero,rete_personale,2024,125
+veneto,estero,servizi_istituzioni,2015,101
+veneto,estero,servizi_istituzioni,2016,122
+veneto,estero,servizi_istituzioni,2017,127
+veneto,estero,servizi_istituzioni,2018,121
+veneto,estero,servizi_istituzioni,2019,176
+veneto,estero,servizi_istituzioni,2020,101
+veneto,estero,servizi_istituzioni,2021,122
+veneto,estero,servizi_istituzioni,2022,151
+veneto,estero,servizi_istituzioni,2023,243
+veneto,estero,servizi_istituzioni,2024,244
+veneto,italia,altro,2015,3
+veneto,italia,altro,2016,4
+veneto,italia,altro,2018,4
+veneto,italia,altro,2019,15
+veneto,italia,altro,2020,14
+veneto,italia,altro,2021,39
+veneto,italia,altro,2022,56
+veneto,italia,altro,2023,63
+veneto,italia,altro,2024,10
+veneto,italia,digitale,2015,125
+veneto,italia,digitale,2016,136
+veneto,italia,digitale,2017,152
+veneto,italia,digitale,2018,220
+veneto,italia,digitale,2019,333
+veneto,italia,digitale,2020,294
+veneto,italia,digitale,2021,303
+veneto,italia,digitale,2022,470
+veneto,italia,digitale,2023,591
+veneto,italia,digitale,2024,686
+veneto,italia,media_tradizionali,2015,299
+veneto,italia,media_tradizionali,2016,206
+veneto,italia,media_tradizionali,2017,166
+veneto,italia,media_tradizionali,2018,261
+veneto,italia,media_tradizionali,2019,186
+veneto,italia,media_tradizionali,2020,260
+veneto,italia,media_tradizionali,2021,193
+veneto,italia,media_tradizionali,2022,171
+veneto,italia,media_tradizionali,2023,473
+veneto,italia,media_tradizionali,2024,1559
+veneto,italia,non_risposta,2015,521
+veneto,italia,non_risposta,2016,394
+veneto,italia,non_risposta,2017,464
+veneto,italia,non_risposta,2018,577
+veneto,italia,non_risposta,2019,547
+veneto,italia,non_risposta,2020,948
+veneto,italia,non_risposta,2021,1145
+veneto,italia,non_risposta,2022,771
+veneto,italia,non_risposta,2023,1019
+veneto,italia,non_risposta,2024,830
+veneto,italia,rete_personale,2015,42
+veneto,italia,rete_personale,2016,30
+veneto,italia,rete_personale,2017,31
+veneto,italia,rete_personale,2018,62
+veneto,italia,rete_personale,2019,78
+veneto,italia,rete_personale,2020,63
+veneto,italia,rete_personale,2021,115
+veneto,italia,rete_personale,2022,95
+veneto,italia,rete_personale,2023,91
+veneto,italia,rete_personale,2024,107
+veneto,italia,servizi_istituzioni,2015,71
+veneto,italia,servizi_istituzioni,2016,88
+veneto,italia,servizi_istituzioni,2017,91
+veneto,italia,servizi_istituzioni,2018,79
+veneto,italia,servizi_istituzioni,2019,128
+veneto,italia,servizi_istituzioni,2020,71
+veneto,italia,servizi_istituzioni,2021,96
+veneto,italia,servizi_istituzioni,2022,113
+veneto,italia,servizi_istituzioni,2023,181
+veneto,italia,servizi_istituzioni,2024,194

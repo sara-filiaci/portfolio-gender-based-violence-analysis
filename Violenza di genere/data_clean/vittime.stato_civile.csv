@@ -1,0 +1,3063 @@
+﻿territorio,sesso,stato_civile,periodo,numero_vittime
+italia,maschi,single,2015,130
+italia,maschi,single,2016,141
+italia,maschi,single,2017,129
+italia,maschi,single,2018,109
+italia,maschi,single,2019,93
+italia,maschi,single,2020,250
+italia,maschi,single,2021,263
+italia,maschi,single,2022,141
+italia,maschi,single,2023,208
+italia,maschi,single,2024,243
+italia,maschi,separat,2015,40
+italia,maschi,separat,2016,24
+italia,maschi,separat,2017,30
+italia,maschi,separat,2018,18
+italia,maschi,separat,2019,10
+italia,maschi,separat,2020,28
+italia,maschi,separat,2021,25
+italia,maschi,separat,2022,14
+italia,maschi,separat,2023,28
+italia,maschi,separat,2024,27
+italia,maschi,coniugat,2015,90
+italia,maschi,coniugat,2016,98
+italia,maschi,coniugat,2017,66
+italia,maschi,coniugat,2018,93
+italia,maschi,coniugat,2019,74
+italia,maschi,coniugat,2020,145
+italia,maschi,coniugat,2021,103
+italia,maschi,coniugat,2022,44
+italia,maschi,coniugat,2023,115
+italia,maschi,coniugat,2024,112
+italia,maschi,divorziat,2015,6
+italia,maschi,divorziat,2016,6
+italia,maschi,divorziat,2017,12
+italia,maschi,divorziat,2018,9
+italia,maschi,divorziat,2019,10
+italia,maschi,divorziat,2020,13
+italia,maschi,divorziat,2021,8
+italia,maschi,divorziat,2022,7
+italia,maschi,divorziat,2023,7
+italia,maschi,divorziat,2024,13
+italia,maschi,vedov,2015,10
+italia,maschi,vedov,2016,5
+italia,maschi,vedov,2017,7
+italia,maschi,vedov,2018,8
+italia,maschi,vedov,2019,4
+italia,maschi,vedov,2020,11
+italia,maschi,vedov,2021,13
+italia,maschi,vedov,2022,4
+italia,maschi,vedov,2023,8
+italia,maschi,vedov,2024,6
+italia,maschi,non indicato,2015,2
+italia,maschi,non indicato,2016,7
+italia,maschi,non indicato,2017,15
+italia,maschi,non indicato,2018,3
+italia,maschi,non indicato,2019,1
+italia,maschi,non indicato,2020,83
+italia,maschi,non indicato,2021,74
+italia,maschi,non indicato,2022,26
+italia,maschi,non indicato,2023,58
+italia,maschi,non indicato,2024,32
+italia,maschi,non disponibile,2015,33
+italia,maschi,non disponibile,2016,14
+italia,maschi,non disponibile,2017,27
+italia,maschi,non disponibile,2018,21
+italia,maschi,non disponibile,2019,26
+italia,maschi,non disponibile,2020,41
+italia,maschi,non disponibile,2021,54
+italia,maschi,non disponibile,2022,26
+italia,femmine,single,2015,2235
+italia,femmine,single,2016,2364
+italia,femmine,single,2017,2449
+italia,femmine,single,2018,2918
+italia,femmine,single,2019,2977
+italia,femmine,single,2020,5318
+italia,femmine,single,2021,6157
+italia,femmine,single,2022,4630
+italia,femmine,single,2023,6261
+italia,femmine,single,2024,7394
+italia,femmine,separat,2015,824
+italia,femmine,separat,2016,849
+italia,femmine,separat,2017,822
+italia,femmine,separat,2018,926
+italia,femmine,separat,2019,843
+italia,femmine,separat,2020,1217
+italia,femmine,separat,2021,1174
+italia,femmine,separat,2022,923
+italia,femmine,separat,2023,1218
+italia,femmine,separat,2024,1356
+italia,femmine,coniugat,2015,3674
+italia,femmine,coniugat,2016,3648
+italia,femmine,coniugat,2017,3457
+italia,femmine,coniugat,2018,4254
+italia,femmine,coniugat,2019,3496
+italia,femmine,coniugat,2020,5908
+italia,femmine,coniugat,2021,5428
+italia,femmine,coniugat,2022,3926
+italia,femmine,coniugat,2023,4906
+italia,femmine,coniugat,2024,5590
+italia,femmine,divorziat,2015,307
+italia,femmine,divorziat,2016,337
+italia,femmine,divorziat,2017,396
+italia,femmine,divorziat,2018,459
+italia,femmine,divorziat,2019,404
+italia,femmine,divorziat,2020,481
+italia,femmine,divorziat,2021,417
+italia,femmine,divorziat,2022,394
+italia,femmine,divorziat,2023,564
+italia,femmine,divorziat,2024,669
+italia,femmine,vedov,2015,298
+italia,femmine,vedov,2016,278
+italia,femmine,vedov,2017,263
+italia,femmine,vedov,2018,289
+italia,femmine,vedov,2019,237
+italia,femmine,vedov,2020,480
+italia,femmine,vedov,2021,450
+italia,femmine,vedov,2022,326
+italia,femmine,vedov,2023,350
+italia,femmine,vedov,2024,392
+italia,femmine,non indicato,2015,51
+italia,femmine,non indicato,2016,73
+italia,femmine,non indicato,2017,71
+italia,femmine,non indicato,2018,60
+italia,femmine,non indicato,2019,38
+italia,femmine,non indicato,2020,1062
+italia,femmine,non indicato,2021,1308
+italia,femmine,non indicato,2022,554
+italia,femmine,non indicato,2023,1112
+italia,femmine,non indicato,2024,689
+italia,femmine,non disponibile,2015,381
+italia,femmine,non disponibile,2016,281
+italia,femmine,non disponibile,2017,341
+italia,femmine,non disponibile,2018,435
+italia,femmine,non disponibile,2019,432
+italia,femmine,non disponibile,2020,662
+italia,femmine,non disponibile,2021,786
+italia,femmine,non disponibile,2022,879
+italia,non indicato,single,2023,33
+italia,non indicato,single,2024,18
+italia,non indicato,separat,2023,2
+italia,non indicato,separat,2024,4
+italia,non indicato,coniugat,2023,28
+italia,non indicato,coniugat,2024,15
+italia,non indicato,divorziat,2023,2
+italia,non indicato,non indicato,2023,46
+italia,non indicato,non indicato,2024,30
+italia,non indicato,non disponibile,2015,1
+italia,non indicato,non disponibile,2019,2
+italia,non indicato,non disponibile,2020,9
+italia,non indicato,non disponibile,2021,12
+italia,non indicato,non disponibile,2022,15
+italia,non indicato,non disponibile,2023,1292
+italia,non indicato,non disponibile,2024,1014
+nord ovest,maschi,single,2015,29
+nord ovest,maschi,single,2016,32
+nord ovest,maschi,single,2017,26
+nord ovest,maschi,single,2018,28
+nord ovest,maschi,single,2019,24
+nord ovest,maschi,single,2020,42
+nord ovest,maschi,single,2021,55
+nord ovest,maschi,single,2022,27
+nord ovest,maschi,single,2023,56
+nord ovest,maschi,single,2024,53
+nord ovest,maschi,separat,2015,10
+nord ovest,maschi,separat,2016,1
+nord ovest,maschi,separat,2017,9
+nord ovest,maschi,separat,2018,1
+nord ovest,maschi,separat,2019,2
+nord ovest,maschi,separat,2020,8
+nord ovest,maschi,separat,2021,6
+nord ovest,maschi,separat,2023,8
+nord ovest,maschi,separat,2024,6
+nord ovest,maschi,coniugat,2015,26
+nord ovest,maschi,coniugat,2016,29
+nord ovest,maschi,coniugat,2017,21
+nord ovest,maschi,coniugat,2018,24
+nord ovest,maschi,coniugat,2019,22
+nord ovest,maschi,coniugat,2020,35
+nord ovest,maschi,coniugat,2021,20
+nord ovest,maschi,coniugat,2022,15
+nord ovest,maschi,coniugat,2023,22
+nord ovest,maschi,coniugat,2024,22
+nord ovest,maschi,divorziat,2015,1
+nord ovest,maschi,divorziat,2017,4
+nord ovest,maschi,divorziat,2018,3
+nord ovest,maschi,divorziat,2019,3
+nord ovest,maschi,divorziat,2020,3
+nord ovest,maschi,divorziat,2021,3
+nord ovest,maschi,divorziat,2022,1
+nord ovest,maschi,divorziat,2023,2
+nord ovest,maschi,divorziat,2024,4
+nord ovest,maschi,vedov,2015,4
+nord ovest,maschi,vedov,2016,1
+nord ovest,maschi,vedov,2017,1
+nord ovest,maschi,vedov,2018,2
+nord ovest,maschi,vedov,2019,2
+nord ovest,maschi,vedov,2020,1
+nord ovest,maschi,vedov,2021,4
+nord ovest,maschi,vedov,2023,1
+nord ovest,maschi,vedov,2024,2
+nord ovest,maschi,non indicato,2015,1
+nord ovest,maschi,non indicato,2016,1
+nord ovest,maschi,non indicato,2017,3
+nord ovest,maschi,non indicato,2020,9
+nord ovest,maschi,non indicato,2021,10
+nord ovest,maschi,non indicato,2022,3
+nord ovest,maschi,non indicato,2023,7
+nord ovest,maschi,non indicato,2024,3
+nord ovest,maschi,non disponibile,2015,1
+nord ovest,maschi,non disponibile,2017,7
+nord ovest,maschi,non disponibile,2018,3
+nord ovest,maschi,non disponibile,2019,3
+nord ovest,maschi,non disponibile,2020,4
+nord ovest,maschi,non disponibile,2021,5
+nord ovest,maschi,non disponibile,2022,5
+nord ovest,femmine,single,2015,625
+nord ovest,femmine,single,2016,727
+nord ovest,femmine,single,2017,688
+nord ovest,femmine,single,2018,788
+nord ovest,femmine,single,2019,822
+nord ovest,femmine,single,2020,1356
+nord ovest,femmine,single,2021,1476
+nord ovest,femmine,single,2022,1274
+nord ovest,femmine,single,2023,1525
+nord ovest,femmine,single,2024,2066
+nord ovest,femmine,separat,2015,243
+nord ovest,femmine,separat,2016,234
+nord ovest,femmine,separat,2017,218
+nord ovest,femmine,separat,2018,225
+nord ovest,femmine,separat,2019,234
+nord ovest,femmine,separat,2020,310
+nord ovest,femmine,separat,2021,295
+nord ovest,femmine,separat,2022,229
+nord ovest,femmine,separat,2023,301
+nord ovest,femmine,separat,2024,379
+nord ovest,femmine,coniugat,2015,927
+nord ovest,femmine,coniugat,2016,1028
+nord ovest,femmine,coniugat,2017,908
+nord ovest,femmine,coniugat,2018,1009
+nord ovest,femmine,coniugat,2019,841
+nord ovest,femmine,coniugat,2020,1420
+nord ovest,femmine,coniugat,2021,1261
+nord ovest,femmine,coniugat,2022,951
+nord ovest,femmine,coniugat,2023,1130
+nord ovest,femmine,coniugat,2024,1429
+nord ovest,femmine,divorziat,2015,109
+nord ovest,femmine,divorziat,2016,107
+nord ovest,femmine,divorziat,2017,113
+nord ovest,femmine,divorziat,2018,133
+nord ovest,femmine,divorziat,2019,134
+nord ovest,femmine,divorziat,2020,126
+nord ovest,femmine,divorziat,2021,95
+nord ovest,femmine,divorziat,2022,112
+nord ovest,femmine,divorziat,2023,162
+nord ovest,femmine,divorziat,2024,193
+nord ovest,femmine,vedov,2015,85
+nord ovest,femmine,vedov,2016,73
+nord ovest,femmine,vedov,2017,74
+nord ovest,femmine,vedov,2018,91
+nord ovest,femmine,vedov,2019,62
+nord ovest,femmine,vedov,2020,120
+nord ovest,femmine,vedov,2021,86
+nord ovest,femmine,vedov,2022,85
+nord ovest,femmine,vedov,2023,75
+nord ovest,femmine,vedov,2024,100
+nord ovest,femmine,non indicato,2015,17
+nord ovest,femmine,non indicato,2016,16
+nord ovest,femmine,non indicato,2017,22
+nord ovest,femmine,non indicato,2018,17
+nord ovest,femmine,non indicato,2019,12
+nord ovest,femmine,non indicato,2020,176
+nord ovest,femmine,non indicato,2021,268
+nord ovest,femmine,non indicato,2022,101
+nord ovest,femmine,non indicato,2023,191
+nord ovest,femmine,non indicato,2024,168
+nord ovest,femmine,non disponibile,2015,71
+nord ovest,femmine,non disponibile,2016,28
+nord ovest,femmine,non disponibile,2017,52
+nord ovest,femmine,non disponibile,2018,57
+nord ovest,femmine,non disponibile,2019,54
+nord ovest,femmine,non disponibile,2020,64
+nord ovest,femmine,non disponibile,2021,51
+nord ovest,femmine,non disponibile,2022,42
+nord ovest,non indicato,single,2023,7
+nord ovest,non indicato,single,2024,3
+nord ovest,non indicato,separat,2024,1
+nord ovest,non indicato,coniugat,2023,6
+nord ovest,non indicato,coniugat,2024,4
+nord ovest,non indicato,divorziat,2023,2
+nord ovest,non indicato,non indicato,2023,5
+nord ovest,non indicato,non indicato,2024,3
+nord ovest,non indicato,non disponibile,2023,50
+nord ovest,non indicato,non disponibile,2024,39
+piemonte,maschi,single,2015,9
+piemonte,maschi,single,2016,9
+piemonte,maschi,single,2017,10
+piemonte,maschi,single,2018,5
+piemonte,maschi,single,2019,5
+piemonte,maschi,single,2020,11
+piemonte,maschi,single,2021,17
+piemonte,maschi,single,2022,5
+piemonte,maschi,single,2023,11
+piemonte,maschi,single,2024,17
+piemonte,maschi,separat,2017,3
+piemonte,maschi,separat,2019,2
+piemonte,maschi,separat,2020,1
+piemonte,maschi,separat,2021,4
+piemonte,maschi,separat,2023,3
+piemonte,maschi,separat,2024,1
+piemonte,maschi,coniugat,2015,13
+piemonte,maschi,coniugat,2016,9
+piemonte,maschi,coniugat,2017,8
+piemonte,maschi,coniugat,2018,7
+piemonte,maschi,coniugat,2019,6
+piemonte,maschi,coniugat,2020,10
+piemonte,maschi,coniugat,2021,6
+piemonte,maschi,coniugat,2022,3
+piemonte,maschi,coniugat,2023,4
+piemonte,maschi,coniugat,2024,8
+piemonte,maschi,divorziat,2019,1
+piemonte,maschi,divorziat,2020,1
+piemonte,maschi,divorziat,2023,1
+piemonte,maschi,vedov,2015,2
+piemonte,maschi,vedov,2016,1
+piemonte,maschi,vedov,2017,1
+piemonte,maschi,vedov,2019,1
+piemonte,maschi,vedov,2021,2
+piemonte,maschi,non indicato,2017,1
+piemonte,maschi,non indicato,2020,1
+piemonte,maschi,non indicato,2021,4
+piemonte,maschi,non indicato,2022,1
+piemonte,maschi,non disponibile,2017,5
+piemonte,maschi,non disponibile,2018,1
+piemonte,maschi,non disponibile,2020,2
+piemonte,maschi,non disponibile,2021,3
+piemonte,maschi,non disponibile,2022,3
+piemonte,femmine,single,2015,179
+piemonte,femmine,single,2016,207
+piemonte,femmine,single,2017,198
+piemonte,femmine,single,2018,209
+piemonte,femmine,single,2019,224
+piemonte,femmine,single,2020,337
+piemonte,femmine,single,2021,399
+piemonte,femmine,single,2022,335
+piemonte,femmine,single,2023,402
+piemonte,femmine,single,2024,471
+piemonte,femmine,separat,2015,83
+piemonte,femmine,separat,2016,78
+piemonte,femmine,separat,2017,76
+piemonte,femmine,separat,2018,81
+piemonte,femmine,separat,2019,69
+piemonte,femmine,separat,2020,98
+piemonte,femmine,separat,2021,97
+piemonte,femmine,separat,2022,65
+piemonte,femmine,separat,2023,83
+piemonte,femmine,separat,2024,115
+piemonte,femmine,coniugat,2015,283
+piemonte,femmine,coniugat,2016,339
+piemonte,femmine,coniugat,2017,263
+piemonte,femmine,coniugat,2018,320
+piemonte,femmine,coniugat,2019,270
+piemonte,femmine,coniugat,2020,401
+piemonte,femmine,coniugat,2021,342
+piemonte,femmine,coniugat,2022,266
+piemonte,femmine,coniugat,2023,320
+piemonte,femmine,coniugat,2024,376
+piemonte,femmine,divorziat,2015,42
+piemonte,femmine,divorziat,2016,36
+piemonte,femmine,divorziat,2017,44
+piemonte,femmine,divorziat,2018,43
+piemonte,femmine,divorziat,2019,33
+piemonte,femmine,divorziat,2020,33
+piemonte,femmine,divorziat,2021,21
+piemonte,femmine,divorziat,2022,22
+piemonte,femmine,divorziat,2023,39
+piemonte,femmine,divorziat,2024,47
+piemonte,femmine,vedov,2015,29
+piemonte,femmine,vedov,2016,14
+piemonte,femmine,vedov,2017,25
+piemonte,femmine,vedov,2018,33
+piemonte,femmine,vedov,2019,15
+piemonte,femmine,vedov,2020,39
+piemonte,femmine,vedov,2021,22
+piemonte,femmine,vedov,2022,18
+piemonte,femmine,vedov,2023,22
+piemonte,femmine,vedov,2024,30
+piemonte,femmine,non indicato,2015,6
+piemonte,femmine,non indicato,2016,5
+piemonte,femmine,non indicato,2017,4
+piemonte,femmine,non indicato,2018,5
+piemonte,femmine,non indicato,2019,5
+piemonte,femmine,non indicato,2020,53
+piemonte,femmine,non indicato,2021,60
+piemonte,femmine,non indicato,2022,30
+piemonte,femmine,non indicato,2023,45
+piemonte,femmine,non indicato,2024,37
+piemonte,femmine,non disponibile,2015,23
+piemonte,femmine,non disponibile,2016,5
+piemonte,femmine,non disponibile,2017,13
+piemonte,femmine,non disponibile,2018,18
+piemonte,femmine,non disponibile,2019,16
+piemonte,femmine,non disponibile,2020,24
+piemonte,femmine,non disponibile,2021,11
+piemonte,femmine,non disponibile,2022,11
+piemonte,non indicato,single,2023,3
+piemonte,non indicato,single,2024,1
+piemonte,non indicato,coniugat,2023,1
+piemonte,non indicato,non indicato,2023,2
+piemonte,non indicato,non disponibile,2023,12
+piemonte,non indicato,non disponibile,2024,9
+valle d'aosta,maschi,single,2022,1
+valle d'aosta,maschi,single,2024,1
+valle d'aosta,maschi,separat,2024,1
+valle d'aosta,maschi,coniugat,2017,1
+valle d'aosta,maschi,coniugat,2018,1
+valle d'aosta,maschi,coniugat,2022,1
+valle d'aosta,femmine,single,2015,3
+valle d'aosta,femmine,single,2016,6
+valle d'aosta,femmine,single,2017,4
+valle d'aosta,femmine,single,2018,3
+valle d'aosta,femmine,single,2019,1
+valle d'aosta,femmine,single,2020,5
+valle d'aosta,femmine,single,2021,4
+valle d'aosta,femmine,single,2022,9
+valle d'aosta,femmine,single,2023,2
+valle d'aosta,femmine,single,2024,8
+valle d'aosta,femmine,separat,2015,1
+valle d'aosta,femmine,separat,2017,1
+valle d'aosta,femmine,separat,2019,1
+valle d'aosta,femmine,separat,2022,1
+valle d'aosta,femmine,coniugat,2015,7
+valle d'aosta,femmine,coniugat,2016,5
+valle d'aosta,femmine,coniugat,2017,3
+valle d'aosta,femmine,coniugat,2018,6
+valle d'aosta,femmine,coniugat,2019,5
+valle d'aosta,femmine,coniugat,2020,10
+valle d'aosta,femmine,coniugat,2021,1
+valle d'aosta,femmine,coniugat,2022,3
+valle d'aosta,femmine,coniugat,2023,1
+valle d'aosta,femmine,coniugat,2024,9
+valle d'aosta,femmine,divorziat,2019,2
+valle d'aosta,femmine,divorziat,2024,3
+valle d'aosta,femmine,vedov,2015,1
+valle d'aosta,femmine,vedov,2021,1
+valle d'aosta,femmine,vedov,2022,1
+valle d'aosta,femmine,vedov,2023,1
+valle d'aosta,femmine,non indicato,2020,1
+valle d'aosta,femmine,non indicato,2023,2
+valle d'aosta,femmine,non indicato,2024,2
+valle d'aosta,femmine,non disponibile,2017,1
+valle d'aosta,femmine,non disponibile,2020,1
+valle d'aosta,non indicato,non disponibile,2023,1
+liguria,maschi,single,2015,5
+liguria,maschi,single,2016,4
+liguria,maschi,single,2017,1
+liguria,maschi,single,2018,2
+liguria,maschi,single,2019,1
+liguria,maschi,single,2020,6
+liguria,maschi,single,2021,6
+liguria,maschi,single,2022,4
+liguria,maschi,single,2023,6
+liguria,maschi,single,2024,3
+liguria,maschi,separat,2015,1
+liguria,maschi,separat,2017,1
+liguria,maschi,separat,2020,1
+liguria,maschi,coniugat,2015,1
+liguria,maschi,coniugat,2016,2
+liguria,maschi,coniugat,2017,2
+liguria,maschi,coniugat,2018,4
+liguria,maschi,coniugat,2019,2
+liguria,maschi,coniugat,2020,3
+liguria,maschi,coniugat,2021,2
+liguria,maschi,coniugat,2023,2
+liguria,maschi,coniugat,2024,2
+liguria,maschi,divorziat,2017,1
+liguria,maschi,divorziat,2021,1
+liguria,maschi,divorziat,2024,1
+liguria,maschi,vedov,2019,1
+liguria,maschi,vedov,2020,1
+liguria,maschi,vedov,2024,1
+liguria,maschi,non indicato,2020,4
+liguria,maschi,non disponibile,2019,1
+liguria,femmine,single,2015,65
+liguria,femmine,single,2016,82
+liguria,femmine,single,2017,67
+liguria,femmine,single,2018,72
+liguria,femmine,single,2019,76
+liguria,femmine,single,2020,112
+liguria,femmine,single,2021,128
+liguria,femmine,single,2022,104
+liguria,femmine,single,2023,122
+liguria,femmine,single,2024,168
+liguria,femmine,separat,2015,21
+liguria,femmine,separat,2016,24
+liguria,femmine,separat,2017,20
+liguria,femmine,separat,2018,23
+liguria,femmine,separat,2019,23
+liguria,femmine,separat,2020,21
+liguria,femmine,separat,2021,37
+liguria,femmine,separat,2022,24
+liguria,femmine,separat,2023,16
+liguria,femmine,separat,2024,34
+liguria,femmine,coniugat,2015,93
+liguria,femmine,coniugat,2016,76
+liguria,femmine,coniugat,2017,80
+liguria,femmine,coniugat,2018,98
+liguria,femmine,coniugat,2019,61
+liguria,femmine,coniugat,2020,123
+liguria,femmine,coniugat,2021,108
+liguria,femmine,coniugat,2022,74
+liguria,femmine,coniugat,2023,77
+liguria,femmine,coniugat,2024,127
+liguria,femmine,divorziat,2015,11
+liguria,femmine,divorziat,2016,8
+liguria,femmine,divorziat,2017,8
+liguria,femmine,divorziat,2018,15
+liguria,femmine,divorziat,2019,14
+liguria,femmine,divorziat,2020,14
+liguria,femmine,divorziat,2021,4
+liguria,femmine,divorziat,2022,11
+liguria,femmine,divorziat,2023,23
+liguria,femmine,divorziat,2024,9
+liguria,femmine,vedov,2015,6
+liguria,femmine,vedov,2016,12
+liguria,femmine,vedov,2017,6
+liguria,femmine,vedov,2018,15
+liguria,femmine,vedov,2019,7
+liguria,femmine,vedov,2020,19
+liguria,femmine,vedov,2021,4
+liguria,femmine,vedov,2022,6
+liguria,femmine,vedov,2023,6
+liguria,femmine,vedov,2024,9
+liguria,femmine,non indicato,2015,2
+liguria,femmine,non indicato,2016,2
+liguria,femmine,non indicato,2017,1
+liguria,femmine,non indicato,2018,2
+liguria,femmine,non indicato,2020,16
+liguria,femmine,non indicato,2021,23
+liguria,femmine,non indicato,2022,10
+liguria,femmine,non indicato,2023,19
+liguria,femmine,non indicato,2024,13
+liguria,femmine,non disponibile,2015,7
+liguria,femmine,non disponibile,2016,5
+liguria,femmine,non disponibile,2017,1
+liguria,femmine,non disponibile,2018,3
+liguria,femmine,non disponibile,2019,3
+liguria,femmine,non disponibile,2020,2
+liguria,femmine,non disponibile,2021,6
+liguria,femmine,non disponibile,2022,2
+liguria,non indicato,divorziat,2023,2
+liguria,non indicato,non disponibile,2023,4
+liguria,non indicato,non disponibile,2024,3
+lombardia,maschi,single,2015,15
+lombardia,maschi,single,2016,19
+lombardia,maschi,single,2017,15
+lombardia,maschi,single,2018,21
+lombardia,maschi,single,2019,18
+lombardia,maschi,single,2020,25
+lombardia,maschi,single,2021,32
+lombardia,maschi,single,2022,17
+lombardia,maschi,single,2023,39
+lombardia,maschi,single,2024,32
+lombardia,maschi,separat,2015,9
+lombardia,maschi,separat,2016,1
+lombardia,maschi,separat,2017,5
+lombardia,maschi,separat,2018,1
+lombardia,maschi,separat,2020,6
+lombardia,maschi,separat,2021,2
+lombardia,maschi,separat,2023,5
+lombardia,maschi,separat,2024,4
+lombardia,maschi,coniugat,2015,12
+lombardia,maschi,coniugat,2016,18
+lombardia,maschi,coniugat,2017,10
+lombardia,maschi,coniugat,2018,12
+lombardia,maschi,coniugat,2019,14
+lombardia,maschi,coniugat,2020,22
+lombardia,maschi,coniugat,2021,12
+lombardia,maschi,coniugat,2022,11
+lombardia,maschi,coniugat,2023,16
+lombardia,maschi,coniugat,2024,12
+lombardia,maschi,divorziat,2015,1
+lombardia,maschi,divorziat,2017,3
+lombardia,maschi,divorziat,2018,3
+lombardia,maschi,divorziat,2019,2
+lombardia,maschi,divorziat,2020,2
+lombardia,maschi,divorziat,2021,2
+lombardia,maschi,divorziat,2022,1
+lombardia,maschi,divorziat,2023,1
+lombardia,maschi,divorziat,2024,3
+lombardia,maschi,vedov,2015,2
+lombardia,maschi,vedov,2018,2
+lombardia,maschi,vedov,2021,2
+lombardia,maschi,vedov,2023,1
+lombardia,maschi,vedov,2024,1
+lombardia,maschi,non indicato,2015,1
+lombardia,maschi,non indicato,2016,1
+lombardia,maschi,non indicato,2017,2
+lombardia,maschi,non indicato,2020,4
+lombardia,maschi,non indicato,2021,6
+lombardia,maschi,non indicato,2022,2
+lombardia,maschi,non indicato,2023,7
+lombardia,maschi,non indicato,2024,3
+lombardia,maschi,non disponibile,2015,1
+lombardia,maschi,non disponibile,2017,2
+lombardia,maschi,non disponibile,2018,2
+lombardia,maschi,non disponibile,2019,2
+lombardia,maschi,non disponibile,2020,2
+lombardia,maschi,non disponibile,2021,2
+lombardia,maschi,non disponibile,2022,2
+lombardia,femmine,single,2015,378
+lombardia,femmine,single,2016,432
+lombardia,femmine,single,2017,419
+lombardia,femmine,single,2018,504
+lombardia,femmine,single,2019,521
+lombardia,femmine,single,2020,902
+lombardia,femmine,single,2021,945
+lombardia,femmine,single,2022,826
+lombardia,femmine,single,2023,999
+lombardia,femmine,single,2024,1419
+lombardia,femmine,separat,2015,138
+lombardia,femmine,separat,2016,132
+lombardia,femmine,separat,2017,121
+lombardia,femmine,separat,2018,121
+lombardia,femmine,separat,2019,141
+lombardia,femmine,separat,2020,191
+lombardia,femmine,separat,2021,161
+lombardia,femmine,separat,2022,139
+lombardia,femmine,separat,2023,202
+lombardia,femmine,separat,2024,230
+lombardia,femmine,coniugat,2015,544
+lombardia,femmine,coniugat,2016,608
+lombardia,femmine,coniugat,2017,562
+lombardia,femmine,coniugat,2018,585
+lombardia,femmine,coniugat,2019,505
+lombardia,femmine,coniugat,2020,886
+lombardia,femmine,coniugat,2021,810
+lombardia,femmine,coniugat,2022,608
+lombardia,femmine,coniugat,2023,732
+lombardia,femmine,coniugat,2024,917
+lombardia,femmine,divorziat,2015,56
+lombardia,femmine,divorziat,2016,63
+lombardia,femmine,divorziat,2017,61
+lombardia,femmine,divorziat,2018,75
+lombardia,femmine,divorziat,2019,85
+lombardia,femmine,divorziat,2020,79
+lombardia,femmine,divorziat,2021,70
+lombardia,femmine,divorziat,2022,79
+lombardia,femmine,divorziat,2023,100
+lombardia,femmine,divorziat,2024,134
+lombardia,femmine,vedov,2015,49
+lombardia,femmine,vedov,2016,47
+lombardia,femmine,vedov,2017,43
+lombardia,femmine,vedov,2018,43
+lombardia,femmine,vedov,2019,40
+lombardia,femmine,vedov,2020,62
+lombardia,femmine,vedov,2021,59
+lombardia,femmine,vedov,2022,60
+lombardia,femmine,vedov,2023,46
+lombardia,femmine,vedov,2024,61
+lombardia,femmine,non indicato,2015,9
+lombardia,femmine,non indicato,2016,9
+lombardia,femmine,non indicato,2017,17
+lombardia,femmine,non indicato,2018,10
+lombardia,femmine,non indicato,2019,7
+lombardia,femmine,non indicato,2020,106
+lombardia,femmine,non indicato,2021,185
+lombardia,femmine,non indicato,2022,61
+lombardia,femmine,non indicato,2023,125
+lombardia,femmine,non indicato,2024,116
+lombardia,femmine,non disponibile,2015,41
+lombardia,femmine,non disponibile,2016,18
+lombardia,femmine,non disponibile,2017,37
+lombardia,femmine,non disponibile,2018,36
+lombardia,femmine,non disponibile,2019,35
+lombardia,femmine,non disponibile,2020,37
+lombardia,femmine,non disponibile,2021,34
+lombardia,femmine,non disponibile,2022,29
+lombardia,non indicato,single,2023,4
+lombardia,non indicato,single,2024,2
+lombardia,non indicato,separat,2024,1
+lombardia,non indicato,coniugat,2023,5
+lombardia,non indicato,coniugat,2024,4
+lombardia,non indicato,non indicato,2023,3
+lombardia,non indicato,non indicato,2024,3
+lombardia,non indicato,non disponibile,2023,33
+lombardia,non indicato,non disponibile,2024,27
+nord est,maschi,single,2015,19
+nord est,maschi,single,2016,20
+nord est,maschi,single,2017,18
+nord est,maschi,single,2018,12
+nord est,maschi,single,2019,11
+nord est,maschi,single,2020,38
+nord est,maschi,single,2021,28
+nord est,maschi,single,2022,23
+nord est,maschi,single,2023,29
+nord est,maschi,single,2024,27
+nord est,maschi,separat,2015,4
+nord est,maschi,separat,2016,3
+nord est,maschi,separat,2017,7
+nord est,maschi,separat,2018,4
+nord est,maschi,separat,2019,2
+nord est,maschi,separat,2020,5
+nord est,maschi,separat,2022,2
+nord est,maschi,separat,2023,4
+nord est,maschi,separat,2024,6
+nord est,maschi,coniugat,2015,20
+nord est,maschi,coniugat,2016,10
+nord est,maschi,coniugat,2017,5
+nord est,maschi,coniugat,2018,13
+nord est,maschi,coniugat,2019,15
+nord est,maschi,coniugat,2020,19
+nord est,maschi,coniugat,2021,17
+nord est,maschi,coniugat,2022,1
+nord est,maschi,coniugat,2023,16
+nord est,maschi,coniugat,2024,13
+nord est,maschi,divorziat,2015,2
+nord est,maschi,divorziat,2016,2
+nord est,maschi,divorziat,2017,1
+nord est,maschi,divorziat,2019,2
+nord est,maschi,divorziat,2021,1
+nord est,maschi,divorziat,2022,1
+nord est,maschi,divorziat,2024,2
+nord est,maschi,vedov,2015,2
+nord est,maschi,vedov,2016,1
+nord est,maschi,vedov,2017,1
+nord est,maschi,vedov,2018,1
+nord est,maschi,vedov,2019,1
+nord est,maschi,vedov,2020,2
+nord est,maschi,vedov,2021,1
+nord est,maschi,vedov,2022,1
+nord est,maschi,vedov,2024,1
+nord est,maschi,non indicato,2015,1
+nord est,maschi,non indicato,2016,1
+nord est,maschi,non indicato,2017,2
+nord est,maschi,non indicato,2020,10
+nord est,maschi,non indicato,2021,9
+nord est,maschi,non indicato,2023,11
+nord est,maschi,non indicato,2024,1
+nord est,maschi,non disponibile,2015,1
+nord est,maschi,non disponibile,2016,2
+nord est,maschi,non disponibile,2017,2
+nord est,maschi,non disponibile,2018,1
+nord est,maschi,non disponibile,2019,1
+nord est,maschi,non disponibile,2020,4
+nord est,maschi,non disponibile,2021,5
+nord est,maschi,non disponibile,2022,1
+nord est,femmine,single,2015,302
+nord est,femmine,single,2016,303
+nord est,femmine,single,2017,317
+nord est,femmine,single,2018,409
+nord est,femmine,single,2019,457
+nord est,femmine,single,2020,744
+nord est,femmine,single,2021,958
+nord est,femmine,single,2022,711
+nord est,femmine,single,2023,974
+nord est,femmine,single,2024,1453
+nord est,femmine,separat,2015,96
+nord est,femmine,separat,2016,135
+nord est,femmine,separat,2017,104
+nord est,femmine,separat,2018,124
+nord est,femmine,separat,2019,108
+nord est,femmine,separat,2020,172
+nord est,femmine,separat,2021,163
+nord est,femmine,separat,2022,127
+nord est,femmine,separat,2023,174
+nord est,femmine,separat,2024,244
+nord est,femmine,coniugat,2015,504
+nord est,femmine,coniugat,2016,443
+nord est,femmine,coniugat,2017,438
+nord est,femmine,coniugat,2018,565
+nord est,femmine,coniugat,2019,499
+nord est,femmine,coniugat,2020,803
+nord est,femmine,coniugat,2021,825
+nord est,femmine,coniugat,2022,646
+nord est,femmine,coniugat,2023,728
+nord est,femmine,coniugat,2024,1024
+nord est,femmine,divorziat,2015,42
+nord est,femmine,divorziat,2016,61
+nord est,femmine,divorziat,2017,64
+nord est,femmine,divorziat,2018,70
+nord est,femmine,divorziat,2019,48
+nord est,femmine,divorziat,2020,75
+nord est,femmine,divorziat,2021,74
+nord est,femmine,divorziat,2022,70
+nord est,femmine,divorziat,2023,93
+nord est,femmine,divorziat,2024,131
+nord est,femmine,vedov,2015,46
+nord est,femmine,vedov,2016,33
+nord est,femmine,vedov,2017,26
+nord est,femmine,vedov,2018,43
+nord est,femmine,vedov,2019,31
+nord est,femmine,vedov,2020,61
+nord est,femmine,vedov,2021,65
+nord est,femmine,vedov,2022,37
+nord est,femmine,vedov,2023,39
+nord est,femmine,vedov,2024,56
+nord est,femmine,non indicato,2015,8
+nord est,femmine,non indicato,2016,9
+nord est,femmine,non indicato,2017,9
+nord est,femmine,non indicato,2018,8
+nord est,femmine,non indicato,2019,8
+nord est,femmine,non indicato,2020,107
+nord est,femmine,non indicato,2021,157
+nord est,femmine,non indicato,2022,84
+nord est,femmine,non indicato,2023,167
+nord est,femmine,non indicato,2024,104
+nord est,femmine,non disponibile,2015,28
+nord est,femmine,non disponibile,2016,25
+nord est,femmine,non disponibile,2017,17
+nord est,femmine,non disponibile,2018,36
+nord est,femmine,non disponibile,2019,45
+nord est,femmine,non disponibile,2020,43
+nord est,femmine,non disponibile,2021,36
+nord est,femmine,non disponibile,2022,27
+nord est,non indicato,single,2023,5
+nord est,non indicato,single,2024,4
+nord est,non indicato,separat,2023,1
+nord est,non indicato,separat,2024,2
+nord est,non indicato,coniugat,2023,3
+nord est,non indicato,coniugat,2024,2
+nord est,non indicato,non indicato,2023,5
+nord est,non indicato,non indicato,2024,5
+nord est,non indicato,non disponibile,2023,22
+nord est,non indicato,non disponibile,2024,39
+trentino alto adige,maschi,single,2023,3
+trentino alto adige,maschi,single,2024,3
+trentino alto adige,maschi,coniugat,2024,1
+trentino alto adige,maschi,non indicato,2020,1
+trentino alto adige,maschi,non indicato,2023,1
+trentino alto adige,femmine,single,2021,2
+trentino alto adige,femmine,single,2023,74
+trentino alto adige,femmine,single,2024,73
+trentino alto adige,femmine,separat,2023,13
+trentino alto adige,femmine,separat,2024,16
+trentino alto adige,femmine,coniugat,2020,3
+trentino alto adige,femmine,coniugat,2022,1
+trentino alto adige,femmine,coniugat,2023,37
+trentino alto adige,femmine,coniugat,2024,47
+trentino alto adige,femmine,divorziat,2023,4
+trentino alto adige,femmine,divorziat,2024,6
+trentino alto adige,femmine,vedov,2020,1
+trentino alto adige,femmine,vedov,2023,2
+trentino alto adige,femmine,vedov,2024,3
+trentino alto adige,femmine,non indicato,2020,2
+trentino alto adige,femmine,non indicato,2023,10
+trentino alto adige,femmine,non indicato,2024,5
+trentino alto adige,femmine,non disponibile,2021,1
+trentino alto adige,non indicato,single,2023,1
+trentino alto adige,non indicato,non indicato,2023,1
+bolzano,maschi,single,2015,1
+bolzano,maschi,single,2020,1
+bolzano,maschi,single,2021,1
+bolzano,maschi,single,2022,2
+bolzano,maschi,coniugat,2015,1
+bolzano,maschi,vedov,2020,2
+bolzano,maschi,non indicato,2021,2
+bolzano,maschi,non disponibile,2020,1
+bolzano,femmine,single,2015,6
+bolzano,femmine,single,2016,6
+bolzano,femmine,single,2017,5
+bolzano,femmine,single,2018,6
+bolzano,femmine,single,2019,8
+bolzano,femmine,single,2020,9
+bolzano,femmine,single,2021,18
+bolzano,femmine,single,2022,21
+bolzano,femmine,separat,2015,1
+bolzano,femmine,separat,2018,1
+bolzano,femmine,separat,2020,3
+bolzano,femmine,separat,2021,4
+bolzano,femmine,separat,2022,1
+bolzano,femmine,coniugat,2015,5
+bolzano,femmine,coniugat,2016,7
+bolzano,femmine,coniugat,2017,1
+bolzano,femmine,coniugat,2018,5
+bolzano,femmine,coniugat,2019,10
+bolzano,femmine,coniugat,2020,14
+bolzano,femmine,coniugat,2021,9
+bolzano,femmine,coniugat,2022,13
+bolzano,femmine,divorziat,2018,1
+bolzano,femmine,divorziat,2020,1
+bolzano,femmine,divorziat,2021,1
+bolzano,femmine,divorziat,2022,4
+bolzano,femmine,vedov,2017,1
+bolzano,femmine,vedov,2020,1
+bolzano,femmine,vedov,2021,3
+bolzano,femmine,vedov,2022,1
+bolzano,femmine,non indicato,2016,1
+bolzano,femmine,non indicato,2019,1
+bolzano,femmine,non indicato,2021,3
+bolzano,femmine,non indicato,2022,1
+bolzano,femmine,non disponibile,2018,1
+bolzano,femmine,non disponibile,2022,1
+trento,maschi,single,2016,2
+trento,maschi,single,2018,1
+trento,maschi,single,2020,2
+trento,maschi,single,2021,6
+trento,maschi,single,2022,1
+trento,maschi,separat,2015,1
+trento,maschi,separat,2017,1
+trento,maschi,separat,2021,1
+trento,maschi,coniugat,2015,1
+trento,maschi,coniugat,2016,1
+trento,maschi,coniugat,2017,1
+trento,maschi,coniugat,2018,1
+trento,maschi,coniugat,2020,3
+trento,maschi,coniugat,2021,1
+trento,maschi,divorziat,2020,1
+trento,maschi,non indicato,2021,2
+trento,maschi,non disponibile,2015,3
+trento,maschi,non disponibile,2018,1
+trento,femmine,single,2015,11
+trento,femmine,single,2016,12
+trento,femmine,single,2017,7
+trento,femmine,single,2018,17
+trento,femmine,single,2019,28
+trento,femmine,single,2020,35
+trento,femmine,single,2021,46
+trento,femmine,single,2022,31
+trento,femmine,separat,2015,6
+trento,femmine,separat,2016,4
+trento,femmine,separat,2018,6
+trento,femmine,separat,2019,8
+trento,femmine,separat,2020,3
+trento,femmine,separat,2021,7
+trento,femmine,separat,2022,7
+trento,femmine,coniugat,2015,14
+trento,femmine,coniugat,2016,23
+trento,femmine,coniugat,2017,15
+trento,femmine,coniugat,2018,29
+trento,femmine,coniugat,2019,23
+trento,femmine,coniugat,2020,31
+trento,femmine,coniugat,2021,39
+trento,femmine,coniugat,2022,24
+trento,femmine,divorziat,2015,2
+trento,femmine,divorziat,2017,1
+trento,femmine,divorziat,2019,1
+trento,femmine,divorziat,2020,3
+trento,femmine,divorziat,2021,4
+trento,femmine,divorziat,2022,6
+trento,femmine,vedov,2015,2
+trento,femmine,vedov,2018,1
+trento,femmine,vedov,2019,1
+trento,femmine,vedov,2021,4
+trento,femmine,vedov,2022,2
+trento,femmine,non indicato,2016,2
+trento,femmine,non indicato,2020,4
+trento,femmine,non indicato,2021,12
+trento,femmine,non indicato,2022,3
+trento,femmine,non disponibile,2015,1
+trento,femmine,non disponibile,2018,4
+trento,femmine,non disponibile,2019,1
+trento,femmine,non disponibile,2021,1
+trento,femmine,non disponibile,2022,2
+veneto,maschi,single,2015,9
+veneto,maschi,single,2016,8
+veneto,maschi,single,2017,9
+veneto,maschi,single,2018,8
+veneto,maschi,single,2019,6
+veneto,maschi,single,2020,20
+veneto,maschi,single,2021,13
+veneto,maschi,single,2022,7
+veneto,maschi,single,2023,14
+veneto,maschi,single,2024,16
+veneto,maschi,separat,2015,4
+veneto,maschi,separat,2016,3
+veneto,maschi,separat,2017,3
+veneto,maschi,separat,2018,3
+veneto,maschi,separat,2020,3
+veneto,maschi,separat,2022,1
+veneto,maschi,separat,2023,2
+veneto,maschi,separat,2024,1
+veneto,maschi,coniugat,2015,9
+veneto,maschi,coniugat,2016,3
+veneto,maschi,coniugat,2017,1
+veneto,maschi,coniugat,2018,6
+veneto,maschi,coniugat,2019,6
+veneto,maschi,coniugat,2020,5
+veneto,maschi,coniugat,2021,8
+veneto,maschi,coniugat,2022,1
+veneto,maschi,coniugat,2023,9
+veneto,maschi,coniugat,2024,1
+veneto,maschi,divorziat,2016,1
+veneto,maschi,divorziat,2019,2
+veneto,maschi,divorziat,2021,1
+veneto,maschi,divorziat,2022,1
+veneto,maschi,divorziat,2024,1
+veneto,maschi,vedov,2015,1
+veneto,maschi,vedov,2016,1
+veneto,maschi,vedov,2017,1
+veneto,maschi,vedov,2019,1
+veneto,maschi,vedov,2020,2
+veneto,maschi,vedov,2024,1
+veneto,maschi,non indicato,2015,1
+veneto,maschi,non indicato,2017,1
+veneto,maschi,non indicato,2020,4
+veneto,maschi,non indicato,2021,2
+veneto,maschi,non indicato,2023,3
+veneto,maschi,non disponibile,2016,2
+veneto,maschi,non disponibile,2018,1
+veneto,maschi,non disponibile,2020,2
+veneto,maschi,non disponibile,2021,4
+veneto,femmine,single,2015,133
+veneto,femmine,single,2016,117
+veneto,femmine,single,2017,158
+veneto,femmine,single,2018,186
+veneto,femmine,single,2019,230
+veneto,femmine,single,2020,361
+veneto,femmine,single,2021,480
+veneto,femmine,single,2022,339
+veneto,femmine,single,2023,410
+veneto,femmine,single,2024,653
+veneto,femmine,separat,2015,49
+veneto,femmine,separat,2016,69
+veneto,femmine,separat,2017,53
+veneto,femmine,separat,2018,65
+veneto,femmine,separat,2019,46
+veneto,femmine,separat,2020,70
+veneto,femmine,separat,2021,71
+veneto,femmine,separat,2022,63
+veneto,femmine,separat,2023,80
+veneto,femmine,separat,2024,112
+veneto,femmine,coniugat,2015,240
+veneto,femmine,coniugat,2016,216
+veneto,femmine,coniugat,2017,210
+veneto,femmine,coniugat,2018,285
+veneto,femmine,coniugat,2019,264
+veneto,femmine,coniugat,2020,389
+veneto,femmine,coniugat,2021,435
+veneto,femmine,coniugat,2022,353
+veneto,femmine,coniugat,2023,386
+veneto,femmine,coniugat,2024,492
+veneto,femmine,divorziat,2015,19
+veneto,femmine,divorziat,2016,31
+veneto,femmine,divorziat,2017,28
+veneto,femmine,divorziat,2018,38
+veneto,femmine,divorziat,2019,24
+veneto,femmine,divorziat,2020,36
+veneto,femmine,divorziat,2021,31
+veneto,femmine,divorziat,2022,34
+veneto,femmine,divorziat,2023,43
+veneto,femmine,divorziat,2024,56
+veneto,femmine,vedov,2015,23
+veneto,femmine,vedov,2016,23
+veneto,femmine,vedov,2017,15
+veneto,femmine,vedov,2018,18
+veneto,femmine,vedov,2019,16
+veneto,femmine,vedov,2020,27
+veneto,femmine,vedov,2021,29
+veneto,femmine,vedov,2022,20
+veneto,femmine,vedov,2023,17
+veneto,femmine,vedov,2024,32
+veneto,femmine,non indicato,2015,4
+veneto,femmine,non indicato,2016,5
+veneto,femmine,non indicato,2017,5
+veneto,femmine,non indicato,2018,4
+veneto,femmine,non indicato,2019,6
+veneto,femmine,non indicato,2020,51
+veneto,femmine,non indicato,2021,80
+veneto,femmine,non indicato,2022,38
+veneto,femmine,non indicato,2023,78
+veneto,femmine,non indicato,2024,48
+veneto,femmine,non disponibile,2015,12
+veneto,femmine,non disponibile,2016,7
+veneto,femmine,non disponibile,2017,6
+veneto,femmine,non disponibile,2018,18
+veneto,femmine,non disponibile,2019,25
+veneto,femmine,non disponibile,2020,22
+veneto,femmine,non disponibile,2021,15
+veneto,femmine,non disponibile,2022,14
+veneto,non indicato,single,2023,2
+veneto,non indicato,single,2024,1
+veneto,non indicato,separat,2024,1
+veneto,non indicato,coniugat,2023,2
+veneto,non indicato,coniugat,2024,1
+veneto,non indicato,non indicato,2023,1
+veneto,non indicato,non indicato,2024,4
+veneto,non indicato,non disponibile,2023,9
+veneto,non indicato,non disponibile,2024,16
+friuli venezia giulia,maschi,single,2015,3
+friuli venezia giulia,maschi,single,2016,1
+friuli venezia giulia,maschi,single,2017,2
+friuli venezia giulia,maschi,single,2019,1
+friuli venezia giulia,maschi,single,2020,5
+friuli venezia giulia,maschi,single,2021,2
+friuli venezia giulia,maschi,single,2022,2
+friuli venezia giulia,maschi,single,2023,2
+friuli venezia giulia,maschi,separat,2018,1
+friuli venezia giulia,maschi,separat,2019,1
+friuli venezia giulia,maschi,separat,2020,1
+friuli venezia giulia,maschi,separat,2024,1
+friuli venezia giulia,maschi,coniugat,2015,2
+friuli venezia giulia,maschi,coniugat,2018,2
+friuli venezia giulia,maschi,coniugat,2019,3
+friuli venezia giulia,maschi,coniugat,2020,4
+friuli venezia giulia,maschi,coniugat,2023,1
+friuli venezia giulia,maschi,coniugat,2024,1
+friuli venezia giulia,maschi,vedov,2015,1
+friuli venezia giulia,maschi,vedov,2018,1
+friuli venezia giulia,maschi,non indicato,2021,2
+friuli venezia giulia,maschi,non indicato,2023,1
+friuli venezia giulia,femmine,single,2015,29
+friuli venezia giulia,femmine,single,2016,41
+friuli venezia giulia,femmine,single,2017,37
+friuli venezia giulia,femmine,single,2018,36
+friuli venezia giulia,femmine,single,2019,37
+friuli venezia giulia,femmine,single,2020,55
+friuli venezia giulia,femmine,single,2021,66
+friuli venezia giulia,femmine,single,2022,60
+friuli venezia giulia,femmine,single,2023,68
+friuli venezia giulia,femmine,single,2024,138
+friuli venezia giulia,femmine,separat,2015,7
+friuli venezia giulia,femmine,separat,2016,13
+friuli venezia giulia,femmine,separat,2017,14
+friuli venezia giulia,femmine,separat,2018,15
+friuli venezia giulia,femmine,separat,2019,7
+friuli venezia giulia,femmine,separat,2020,13
+friuli venezia giulia,femmine,separat,2021,10
+friuli venezia giulia,femmine,separat,2022,9
+friuli venezia giulia,femmine,separat,2023,16
+friuli venezia giulia,femmine,separat,2024,15
+friuli venezia giulia,femmine,coniugat,2015,56
+friuli venezia giulia,femmine,coniugat,2016,49
+friuli venezia giulia,femmine,coniugat,2017,42
+friuli venezia giulia,femmine,coniugat,2018,56
+friuli venezia giulia,femmine,coniugat,2019,51
+friuli venezia giulia,femmine,coniugat,2020,64
+friuli venezia giulia,femmine,coniugat,2021,61
+friuli venezia giulia,femmine,coniugat,2022,45
+friuli venezia giulia,femmine,coniugat,2023,55
+friuli venezia giulia,femmine,coniugat,2024,82
+friuli venezia giulia,femmine,divorziat,2015,4
+friuli venezia giulia,femmine,divorziat,2016,9
+friuli venezia giulia,femmine,divorziat,2017,5
+friuli venezia giulia,femmine,divorziat,2018,7
+friuli venezia giulia,femmine,divorziat,2019,5
+friuli venezia giulia,femmine,divorziat,2020,9
+friuli venezia giulia,femmine,divorziat,2021,8
+friuli venezia giulia,femmine,divorziat,2022,5
+friuli venezia giulia,femmine,divorziat,2023,8
+friuli venezia giulia,femmine,divorziat,2024,13
+friuli venezia giulia,femmine,vedov,2015,5
+friuli venezia giulia,femmine,vedov,2016,3
+friuli venezia giulia,femmine,vedov,2017,5
+friuli venezia giulia,femmine,vedov,2018,9
+friuli venezia giulia,femmine,vedov,2019,4
+friuli venezia giulia,femmine,vedov,2020,5
+friuli venezia giulia,femmine,vedov,2021,5
+friuli venezia giulia,femmine,vedov,2022,5
+friuli venezia giulia,femmine,vedov,2023,4
+friuli venezia giulia,femmine,vedov,2024,3
+friuli venezia giulia,femmine,non indicato,2015,1
+friuli venezia giulia,femmine,non indicato,2016,1
+friuli venezia giulia,femmine,non indicato,2017,1
+friuli venezia giulia,femmine,non indicato,2018,1
+friuli venezia giulia,femmine,non indicato,2020,14
+friuli venezia giulia,femmine,non indicato,2021,13
+friuli venezia giulia,femmine,non indicato,2022,6
+friuli venezia giulia,femmine,non indicato,2023,17
+friuli venezia giulia,femmine,non indicato,2024,10
+friuli venezia giulia,femmine,non disponibile,2015,7
+friuli venezia giulia,femmine,non disponibile,2016,2
+friuli venezia giulia,femmine,non disponibile,2017,2
+friuli venezia giulia,femmine,non disponibile,2018,4
+friuli venezia giulia,femmine,non disponibile,2019,2
+friuli venezia giulia,femmine,non disponibile,2020,1
+friuli venezia giulia,femmine,non disponibile,2021,6
+friuli venezia giulia,non indicato,separat,2023,1
+friuli venezia giulia,non indicato,non indicato,2023,1
+friuli venezia giulia,non indicato,non indicato,2024,1
+friuli venezia giulia,non indicato,non disponibile,2023,1
+friuli venezia giulia,non indicato,non disponibile,2024,5
+emilia romagna,maschi,single,2015,7
+emilia romagna,maschi,single,2016,11
+emilia romagna,maschi,single,2017,7
+emilia romagna,maschi,single,2018,4
+emilia romagna,maschi,single,2019,4
+emilia romagna,maschi,single,2020,13
+emilia romagna,maschi,single,2021,13
+emilia romagna,maschi,single,2022,14
+emilia romagna,maschi,single,2023,10
+emilia romagna,maschi,single,2024,8
+emilia romagna,maschi,separat,2017,4
+emilia romagna,maschi,separat,2019,1
+emilia romagna,maschi,separat,2020,1
+emilia romagna,maschi,separat,2022,1
+emilia romagna,maschi,separat,2023,2
+emilia romagna,maschi,separat,2024,4
+emilia romagna,maschi,coniugat,2015,9
+emilia romagna,maschi,coniugat,2016,7
+emilia romagna,maschi,coniugat,2017,4
+emilia romagna,maschi,coniugat,2018,5
+emilia romagna,maschi,coniugat,2019,6
+emilia romagna,maschi,coniugat,2020,10
+emilia romagna,maschi,coniugat,2021,9
+emilia romagna,maschi,coniugat,2023,6
+emilia romagna,maschi,coniugat,2024,10
+emilia romagna,maschi,divorziat,2015,2
+emilia romagna,maschi,divorziat,2016,1
+emilia romagna,maschi,divorziat,2017,1
+emilia romagna,maschi,divorziat,2024,1
+emilia romagna,maschi,vedov,2021,1
+emilia romagna,maschi,vedov,2022,1
+emilia romagna,maschi,non indicato,2016,1
+emilia romagna,maschi,non indicato,2017,1
+emilia romagna,maschi,non indicato,2020,5
+emilia romagna,maschi,non indicato,2021,5
+emilia romagna,maschi,non indicato,2023,6
+emilia romagna,maschi,non indicato,2024,1
+emilia romagna,maschi,non disponibile,2015,1
+emilia romagna,maschi,non disponibile,2017,2
+emilia romagna,maschi,non disponibile,2019,1
+emilia romagna,maschi,non disponibile,2020,2
+emilia romagna,maschi,non disponibile,2021,1
+emilia romagna,maschi,non disponibile,2022,1
+emilia romagna,femmine,single,2015,140
+emilia romagna,femmine,single,2016,145
+emilia romagna,femmine,single,2017,122
+emilia romagna,femmine,single,2018,187
+emilia romagna,femmine,single,2019,190
+emilia romagna,femmine,single,2020,328
+emilia romagna,femmine,single,2021,410
+emilia romagna,femmine,single,2022,312
+emilia romagna,femmine,single,2023,422
+emilia romagna,femmine,single,2024,589
+emilia romagna,femmine,separat,2015,40
+emilia romagna,femmine,separat,2016,53
+emilia romagna,femmine,separat,2017,37
+emilia romagna,femmine,separat,2018,44
+emilia romagna,femmine,separat,2019,55
+emilia romagna,femmine,separat,2020,89
+emilia romagna,femmine,separat,2021,82
+emilia romagna,femmine,separat,2022,55
+emilia romagna,femmine,separat,2023,65
+emilia romagna,femmine,separat,2024,101
+emilia romagna,femmine,coniugat,2015,208
+emilia romagna,femmine,coniugat,2016,178
+emilia romagna,femmine,coniugat,2017,186
+emilia romagna,femmine,coniugat,2018,224
+emilia romagna,femmine,coniugat,2019,184
+emilia romagna,femmine,coniugat,2020,347
+emilia romagna,femmine,coniugat,2021,329
+emilia romagna,femmine,coniugat,2022,247
+emilia romagna,femmine,coniugat,2023,250
+emilia romagna,femmine,coniugat,2024,403
+emilia romagna,femmine,divorziat,2015,19
+emilia romagna,femmine,divorziat,2016,21
+emilia romagna,femmine,divorziat,2017,31
+emilia romagna,femmine,divorziat,2018,25
+emilia romagna,femmine,divorziat,2019,19
+emilia romagna,femmine,divorziat,2020,30
+emilia romagna,femmine,divorziat,2021,35
+emilia romagna,femmine,divorziat,2022,31
+emilia romagna,femmine,divorziat,2023,38
+emilia romagna,femmine,divorziat,2024,56
+emilia romagna,femmine,vedov,2015,18
+emilia romagna,femmine,vedov,2016,7
+emilia romagna,femmine,vedov,2017,6
+emilia romagna,femmine,vedov,2018,16
+emilia romagna,femmine,vedov,2019,11
+emilia romagna,femmine,vedov,2020,28
+emilia romagna,femmine,vedov,2021,31
+emilia romagna,femmine,vedov,2022,12
+emilia romagna,femmine,vedov,2023,16
+emilia romagna,femmine,vedov,2024,18
+emilia romagna,femmine,non indicato,2015,3
+emilia romagna,femmine,non indicato,2016,3
+emilia romagna,femmine,non indicato,2017,3
+emilia romagna,femmine,non indicato,2018,3
+emilia romagna,femmine,non indicato,2019,2
+emilia romagna,femmine,non indicato,2020,40
+emilia romagna,femmine,non indicato,2021,64
+emilia romagna,femmine,non indicato,2022,40
+emilia romagna,femmine,non indicato,2023,62
+emilia romagna,femmine,non indicato,2024,41
+emilia romagna,femmine,non disponibile,2015,9
+emilia romagna,femmine,non disponibile,2016,16
+emilia romagna,femmine,non disponibile,2017,9
+emilia romagna,femmine,non disponibile,2018,14
+emilia romagna,femmine,non disponibile,2019,18
+emilia romagna,femmine,non disponibile,2020,20
+emilia romagna,femmine,non disponibile,2021,14
+emilia romagna,femmine,non disponibile,2022,13
+emilia romagna,non indicato,single,2023,2
+emilia romagna,non indicato,single,2024,3
+emilia romagna,non indicato,separat,2024,1
+emilia romagna,non indicato,coniugat,2023,1
+emilia romagna,non indicato,coniugat,2024,1
+emilia romagna,non indicato,non indicato,2023,2
+emilia romagna,non indicato,non disponibile,2023,12
+emilia romagna,non indicato,non disponibile,2024,18
+centro,maschi,single,2015,24
+centro,maschi,single,2016,36
+centro,maschi,single,2017,37
+centro,maschi,single,2018,24
+centro,maschi,single,2019,25
+centro,maschi,single,2020,78
+centro,maschi,single,2021,51
+centro,maschi,single,2022,45
+centro,maschi,single,2023,38
+centro,maschi,single,2024,55
+centro,maschi,separat,2015,11
+centro,maschi,separat,2016,8
+centro,maschi,separat,2017,4
+centro,maschi,separat,2018,4
+centro,maschi,separat,2019,4
+centro,maschi,separat,2020,4
+centro,maschi,separat,2021,6
+centro,maschi,separat,2022,7
+centro,maschi,separat,2023,5
+centro,maschi,separat,2024,2
+centro,maschi,coniugat,2015,15
+centro,maschi,coniugat,2016,25
+centro,maschi,coniugat,2017,10
+centro,maschi,coniugat,2018,21
+centro,maschi,coniugat,2019,13
+centro,maschi,coniugat,2020,30
+centro,maschi,coniugat,2021,18
+centro,maschi,coniugat,2022,8
+centro,maschi,coniugat,2023,21
+centro,maschi,coniugat,2024,17
+centro,maschi,divorziat,2015,1
+centro,maschi,divorziat,2017,5
+centro,maschi,divorziat,2018,1
+centro,maschi,divorziat,2019,2
+centro,maschi,divorziat,2020,5
+centro,maschi,divorziat,2021,3
+centro,maschi,divorziat,2022,3
+centro,maschi,divorziat,2024,5
+centro,maschi,vedov,2015,2
+centro,maschi,vedov,2016,3
+centro,maschi,vedov,2017,2
+centro,maschi,vedov,2018,2
+centro,maschi,vedov,2019,1
+centro,maschi,vedov,2020,2
+centro,maschi,vedov,2021,2
+centro,maschi,vedov,2022,1
+centro,maschi,vedov,2023,3
+centro,maschi,vedov,2024,2
+centro,maschi,non indicato,2016,1
+centro,maschi,non indicato,2017,2
+centro,maschi,non indicato,2019,1
+centro,maschi,non indicato,2020,7
+centro,maschi,non indicato,2021,13
+centro,maschi,non indicato,2022,5
+centro,maschi,non indicato,2023,9
+centro,maschi,non indicato,2024,6
+centro,maschi,non disponibile,2015,3
+centro,maschi,non disponibile,2016,3
+centro,maschi,non disponibile,2017,3
+centro,maschi,non disponibile,2018,5
+centro,maschi,non disponibile,2019,2
+centro,maschi,non disponibile,2020,4
+centro,maschi,non disponibile,2021,8
+centro,maschi,non disponibile,2022,1
+centro,femmine,single,2015,554
+centro,femmine,single,2016,549
+centro,femmine,single,2017,524
+centro,femmine,single,2018,742
+centro,femmine,single,2019,756
+centro,femmine,single,2020,1193
+centro,femmine,single,2021,1384
+centro,femmine,single,2022,1137
+centro,femmine,single,2023,1408
+centro,femmine,single,2024,1713
+centro,femmine,separat,2015,183
+centro,femmine,separat,2016,179
+centro,femmine,separat,2017,183
+centro,femmine,separat,2018,214
+centro,femmine,separat,2019,209
+centro,femmine,separat,2020,262
+centro,femmine,separat,2021,320
+centro,femmine,separat,2022,236
+centro,femmine,separat,2023,286
+centro,femmine,separat,2024,298
+centro,femmine,coniugat,2015,774
+centro,femmine,coniugat,2016,762
+centro,femmine,coniugat,2017,645
+centro,femmine,coniugat,2018,864
+centro,femmine,coniugat,2019,757
+centro,femmine,coniugat,2020,1126
+centro,femmine,coniugat,2021,1128
+centro,femmine,coniugat,2022,816
+centro,femmine,coniugat,2023,963
+centro,femmine,coniugat,2024,1189
+centro,femmine,divorziat,2015,70
+centro,femmine,divorziat,2016,72
+centro,femmine,divorziat,2017,86
+centro,femmine,divorziat,2018,133
+centro,femmine,divorziat,2019,107
+centro,femmine,divorziat,2020,120
+centro,femmine,divorziat,2021,105
+centro,femmine,divorziat,2022,92
+centro,femmine,divorziat,2023,114
+centro,femmine,divorziat,2024,148
+centro,femmine,vedov,2015,70
+centro,femmine,vedov,2016,65
+centro,femmine,vedov,2017,58
+centro,femmine,vedov,2018,61
+centro,femmine,vedov,2019,64
+centro,femmine,vedov,2020,118
+centro,femmine,vedov,2021,126
+centro,femmine,vedov,2022,101
+centro,femmine,vedov,2023,97
+centro,femmine,vedov,2024,99
+centro,femmine,non indicato,2015,13
+centro,femmine,non indicato,2016,14
+centro,femmine,non indicato,2017,10
+centro,femmine,non indicato,2018,13
+centro,femmine,non indicato,2019,7
+centro,femmine,non indicato,2020,165
+centro,femmine,non indicato,2021,269
+centro,femmine,non indicato,2022,131
+centro,femmine,non indicato,2023,194
+centro,femmine,non indicato,2024,126
+centro,femmine,non disponibile,2015,51
+centro,femmine,non disponibile,2016,37
+centro,femmine,non disponibile,2017,64
+centro,femmine,non disponibile,2018,69
+centro,femmine,non disponibile,2019,41
+centro,femmine,non disponibile,2020,69
+centro,femmine,non disponibile,2021,53
+centro,femmine,non disponibile,2022,60
+centro,non indicato,single,2023,6
+centro,non indicato,single,2024,2
+centro,non indicato,coniugat,2023,8
+centro,non indicato,coniugat,2024,6
+centro,non indicato,non indicato,2023,10
+centro,non indicato,non indicato,2024,4
+centro,non indicato,non disponibile,2021,1
+centro,non indicato,non disponibile,2023,51
+centro,non indicato,non disponibile,2024,52
+toscana,maschi,single,2015,5
+toscana,maschi,single,2016,3
+toscana,maschi,single,2017,10
+toscana,maschi,single,2018,3
+toscana,maschi,single,2020,28
+toscana,maschi,single,2021,17
+toscana,maschi,single,2022,15
+toscana,maschi,single,2023,6
+toscana,maschi,single,2024,15
+toscana,maschi,separat,2015,1
+toscana,maschi,separat,2016,4
+toscana,maschi,separat,2017,2
+toscana,maschi,separat,2018,1
+toscana,maschi,separat,2019,1
+toscana,maschi,separat,2020,1
+toscana,maschi,separat,2021,2
+toscana,maschi,separat,2022,3
+toscana,maschi,separat,2024,1
+toscana,maschi,coniugat,2015,3
+toscana,maschi,coniugat,2016,13
+toscana,maschi,coniugat,2017,3
+toscana,maschi,coniugat,2018,8
+toscana,maschi,coniugat,2019,2
+toscana,maschi,coniugat,2020,5
+toscana,maschi,coniugat,2021,7
+toscana,maschi,coniugat,2022,2
+toscana,maschi,coniugat,2023,11
+toscana,maschi,coniugat,2024,3
+toscana,maschi,divorziat,2017,3
+toscana,maschi,divorziat,2020,2
+toscana,maschi,divorziat,2022,1
+toscana,maschi,divorziat,2024,2
+toscana,maschi,vedov,2016,1
+toscana,maschi,vedov,2017,2
+toscana,maschi,vedov,2018,1
+toscana,maschi,vedov,2020,1
+toscana,maschi,vedov,2021,1
+toscana,maschi,non indicato,2017,2
+toscana,maschi,non indicato,2020,2
+toscana,maschi,non indicato,2021,3
+toscana,maschi,non indicato,2022,1
+toscana,maschi,non indicato,2023,2
+toscana,maschi,non indicato,2024,1
+toscana,maschi,non disponibile,2015,1
+toscana,maschi,non disponibile,2017,1
+toscana,maschi,non disponibile,2018,1
+toscana,maschi,non disponibile,2020,1
+toscana,maschi,non disponibile,2021,1
+toscana,femmine,single,2015,112
+toscana,femmine,single,2016,97
+toscana,femmine,single,2017,143
+toscana,femmine,single,2018,205
+toscana,femmine,single,2019,216
+toscana,femmine,single,2020,326
+toscana,femmine,single,2021,346
+toscana,femmine,single,2022,261
+toscana,femmine,single,2023,325
+toscana,femmine,single,2024,481
+toscana,femmine,separat,2015,44
+toscana,femmine,separat,2016,28
+toscana,femmine,separat,2017,46
+toscana,femmine,separat,2018,52
+toscana,femmine,separat,2019,58
+toscana,femmine,separat,2020,70
+toscana,femmine,separat,2021,66
+toscana,femmine,separat,2022,68
+toscana,femmine,separat,2023,72
+toscana,femmine,separat,2024,91
+toscana,femmine,coniugat,2015,172
+toscana,femmine,coniugat,2016,149
+toscana,femmine,coniugat,2017,185
+toscana,femmine,coniugat,2018,222
+toscana,femmine,coniugat,2019,196
+toscana,femmine,coniugat,2020,309
+toscana,femmine,coniugat,2021,282
+toscana,femmine,coniugat,2022,204
+toscana,femmine,coniugat,2023,224
+toscana,femmine,coniugat,2024,321
+toscana,femmine,divorziat,2015,15
+toscana,femmine,divorziat,2016,23
+toscana,femmine,divorziat,2017,21
+toscana,femmine,divorziat,2018,43
+toscana,femmine,divorziat,2019,16
+toscana,femmine,divorziat,2020,40
+toscana,femmine,divorziat,2021,31
+toscana,femmine,divorziat,2022,19
+toscana,femmine,divorziat,2023,34
+toscana,femmine,divorziat,2024,54
+toscana,femmine,vedov,2015,23
+toscana,femmine,vedov,2016,16
+toscana,femmine,vedov,2017,18
+toscana,femmine,vedov,2018,15
+toscana,femmine,vedov,2019,15
+toscana,femmine,vedov,2020,30
+toscana,femmine,vedov,2021,32
+toscana,femmine,vedov,2022,19
+toscana,femmine,vedov,2023,20
+toscana,femmine,vedov,2024,22
+toscana,femmine,non indicato,2015,2
+toscana,femmine,non indicato,2016,6
+toscana,femmine,non indicato,2017,2
+toscana,femmine,non indicato,2018,2
+toscana,femmine,non indicato,2019,3
+toscana,femmine,non indicato,2020,42
+toscana,femmine,non indicato,2021,59
+toscana,femmine,non indicato,2022,33
+toscana,femmine,non indicato,2023,49
+toscana,femmine,non indicato,2024,26
+toscana,femmine,non disponibile,2015,11
+toscana,femmine,non disponibile,2016,4
+toscana,femmine,non disponibile,2017,12
+toscana,femmine,non disponibile,2018,20
+toscana,femmine,non disponibile,2019,12
+toscana,femmine,non disponibile,2020,12
+toscana,femmine,non disponibile,2021,11
+toscana,femmine,non disponibile,2022,12
+toscana,non indicato,single,2023,1
+toscana,non indicato,coniugat,2023,1
+toscana,non indicato,coniugat,2024,2
+toscana,non indicato,non indicato,2023,2
+toscana,non indicato,non indicato,2024,1
+toscana,non indicato,non disponibile,2023,12
+toscana,non indicato,non disponibile,2024,14
+umbria,maschi,single,2015,3
+umbria,maschi,single,2016,1
+umbria,maschi,single,2017,4
+umbria,maschi,single,2018,1
+umbria,maschi,single,2019,2
+umbria,maschi,single,2020,1
+umbria,maschi,single,2021,1
+umbria,maschi,single,2022,3
+umbria,maschi,single,2023,2
+umbria,maschi,single,2024,2
+umbria,maschi,separat,2017,1
+umbria,maschi,coniugat,2015,1
+umbria,maschi,coniugat,2016,1
+umbria,maschi,coniugat,2018,1
+umbria,maschi,coniugat,2019,1
+umbria,maschi,coniugat,2020,1
+umbria,maschi,coniugat,2022,1
+umbria,maschi,coniugat,2023,1
+umbria,maschi,coniugat,2024,1
+umbria,maschi,vedov,2016,1
+umbria,maschi,vedov,2022,1
+umbria,maschi,non disponibile,2019,1
+umbria,femmine,single,2015,37
+umbria,femmine,single,2016,29
+umbria,femmine,single,2017,25
+umbria,femmine,single,2018,41
+umbria,femmine,single,2019,35
+umbria,femmine,single,2020,57
+umbria,femmine,single,2021,66
+umbria,femmine,single,2022,69
+umbria,femmine,single,2023,80
+umbria,femmine,single,2024,97
+umbria,femmine,separat,2015,6
+umbria,femmine,separat,2016,11
+umbria,femmine,separat,2017,16
+umbria,femmine,separat,2018,12
+umbria,femmine,separat,2019,8
+umbria,femmine,separat,2020,3
+umbria,femmine,separat,2021,21
+umbria,femmine,separat,2022,7
+umbria,femmine,separat,2023,21
+umbria,femmine,separat,2024,13
+umbria,femmine,coniugat,2015,59
+umbria,femmine,coniugat,2016,47
+umbria,femmine,coniugat,2017,48
+umbria,femmine,coniugat,2018,52
+umbria,femmine,coniugat,2019,45
+umbria,femmine,coniugat,2020,62
+umbria,femmine,coniugat,2021,54
+umbria,femmine,coniugat,2022,53
+umbria,femmine,coniugat,2023,79
+umbria,femmine,coniugat,2024,84
+umbria,femmine,divorziat,2015,2
+umbria,femmine,divorziat,2016,2
+umbria,femmine,divorziat,2017,2
+umbria,femmine,divorziat,2018,6
+umbria,femmine,divorziat,2019,3
+umbria,femmine,divorziat,2020,5
+umbria,femmine,divorziat,2021,7
+umbria,femmine,divorziat,2022,7
+umbria,femmine,divorziat,2023,7
+umbria,femmine,divorziat,2024,9
+umbria,femmine,vedov,2015,5
+umbria,femmine,vedov,2016,3
+umbria,femmine,vedov,2017,1
+umbria,femmine,vedov,2018,3
+umbria,femmine,vedov,2019,6
+umbria,femmine,vedov,2020,6
+umbria,femmine,vedov,2021,10
+umbria,femmine,vedov,2022,6
+umbria,femmine,non indicato,2015,1
+umbria,femmine,non indicato,2016,1
+umbria,femmine,non indicato,2019,1
+umbria,femmine,non indicato,2020,6
+umbria,femmine,non indicato,2021,10
+umbria,femmine,non indicato,2022,5
+umbria,femmine,non indicato,2023,9
+umbria,femmine,non indicato,2024,9
+umbria,femmine,non disponibile,2015,2
+umbria,femmine,non disponibile,2016,1
+umbria,femmine,non disponibile,2017,8
+umbria,femmine,non disponibile,2018,2
+umbria,femmine,non disponibile,2019,1
+umbria,femmine,non disponibile,2020,3
+umbria,femmine,non disponibile,2021,3
+umbria,femmine,non disponibile,2022,2
+umbria,non indicato,non disponibile,2023,1
+umbria,non indicato,non disponibile,2024,5
+marche,maschi,single,2015,2
+marche,maschi,single,2016,6
+marche,maschi,single,2017,2
+marche,maschi,single,2018,3
+marche,maschi,single,2019,1
+marche,maschi,single,2020,8
+marche,maschi,single,2021,5
+marche,maschi,single,2022,3
+marche,maschi,single,2023,6
+marche,maschi,single,2024,8
+marche,maschi,separat,2015,2
+marche,maschi,separat,2016,1
+marche,maschi,separat,2018,1
+marche,maschi,separat,2021,4
+marche,maschi,separat,2022,1
+marche,maschi,coniugat,2015,2
+marche,maschi,coniugat,2016,2
+marche,maschi,coniugat,2019,2
+marche,maschi,coniugat,2020,7
+marche,maschi,coniugat,2022,1
+marche,maschi,coniugat,2023,1
+marche,maschi,coniugat,2024,1
+marche,maschi,divorziat,2020,1
+marche,maschi,divorziat,2022,1
+marche,maschi,vedov,2019,1
+marche,maschi,vedov,2024,1
+marche,maschi,non indicato,2021,1
+marche,maschi,non indicato,2022,2
+marche,femmine,single,2015,64
+marche,femmine,single,2016,49
+marche,femmine,single,2017,61
+marche,femmine,single,2018,82
+marche,femmine,single,2019,60
+marche,femmine,single,2020,107
+marche,femmine,single,2021,127
+marche,femmine,single,2022,108
+marche,femmine,single,2023,120
+marche,femmine,single,2024,178
+marche,femmine,separat,2015,31
+marche,femmine,separat,2016,22
+marche,femmine,separat,2017,9
+marche,femmine,separat,2018,18
+marche,femmine,separat,2019,14
+marche,femmine,separat,2020,30
+marche,femmine,separat,2021,39
+marche,femmine,separat,2022,13
+marche,femmine,separat,2023,23
+marche,femmine,separat,2024,26
+marche,femmine,coniugat,2015,96
+marche,femmine,coniugat,2016,110
+marche,femmine,coniugat,2017,85
+marche,femmine,coniugat,2018,100
+marche,femmine,coniugat,2019,87
+marche,femmine,coniugat,2020,123
+marche,femmine,coniugat,2021,125
+marche,femmine,coniugat,2022,97
+marche,femmine,coniugat,2023,91
+marche,femmine,coniugat,2024,131
+marche,femmine,divorziat,2015,8
+marche,femmine,divorziat,2016,9
+marche,femmine,divorziat,2017,8
+marche,femmine,divorziat,2018,13
+marche,femmine,divorziat,2019,13
+marche,femmine,divorziat,2020,3
+marche,femmine,divorziat,2021,17
+marche,femmine,divorziat,2022,12
+marche,femmine,divorziat,2023,7
+marche,femmine,divorziat,2024,12
+marche,femmine,vedov,2015,6
+marche,femmine,vedov,2016,8
+marche,femmine,vedov,2017,1
+marche,femmine,vedov,2018,7
+marche,femmine,vedov,2019,4
+marche,femmine,vedov,2020,10
+marche,femmine,vedov,2021,4
+marche,femmine,vedov,2022,4
+marche,femmine,vedov,2023,10
+marche,femmine,vedov,2024,4
+marche,femmine,non indicato,2015,2
+marche,femmine,non indicato,2016,1
+marche,femmine,non indicato,2018,1
+marche,femmine,non indicato,2020,7
+marche,femmine,non indicato,2021,24
+marche,femmine,non indicato,2022,15
+marche,femmine,non indicato,2023,16
+marche,femmine,non indicato,2024,10
+marche,femmine,non disponibile,2015,8
+marche,femmine,non disponibile,2016,4
+marche,femmine,non disponibile,2017,7
+marche,femmine,non disponibile,2018,5
+marche,femmine,non disponibile,2019,3
+marche,femmine,non disponibile,2020,5
+marche,femmine,non disponibile,2021,7
+marche,femmine,non disponibile,2022,7
+marche,non indicato,single,2023,1
+marche,non indicato,single,2024,1
+marche,non indicato,non disponibile,2023,4
+marche,non indicato,non disponibile,2024,6
+lazio,maschi,single,2015,14
+lazio,maschi,single,2016,26
+lazio,maschi,single,2017,21
+lazio,maschi,single,2018,17
+lazio,maschi,single,2019,22
+lazio,maschi,single,2020,41
+lazio,maschi,single,2021,28
+lazio,maschi,single,2022,24
+lazio,maschi,single,2023,24
+lazio,maschi,single,2024,30
+lazio,maschi,separat,2015,8
+lazio,maschi,separat,2016,3
+lazio,maschi,separat,2017,1
+lazio,maschi,separat,2018,2
+lazio,maschi,separat,2019,3
+lazio,maschi,separat,2020,3
+lazio,maschi,separat,2022,3
+lazio,maschi,separat,2023,5
+lazio,maschi,separat,2024,1
+lazio,maschi,coniugat,2015,9
+lazio,maschi,coniugat,2016,9
+lazio,maschi,coniugat,2017,7
+lazio,maschi,coniugat,2018,12
+lazio,maschi,coniugat,2019,8
+lazio,maschi,coniugat,2020,17
+lazio,maschi,coniugat,2021,11
+lazio,maschi,coniugat,2022,4
+lazio,maschi,coniugat,2023,8
+lazio,maschi,coniugat,2024,12
+lazio,maschi,divorziat,2015,1
+lazio,maschi,divorziat,2017,2
+lazio,maschi,divorziat,2018,1
+lazio,maschi,divorziat,2019,2
+lazio,maschi,divorziat,2020,2
+lazio,maschi,divorziat,2021,3
+lazio,maschi,divorziat,2022,1
+lazio,maschi,divorziat,2024,3
+lazio,maschi,vedov,2015,2
+lazio,maschi,vedov,2016,1
+lazio,maschi,vedov,2018,1
+lazio,maschi,vedov,2020,1
+lazio,maschi,vedov,2021,1
+lazio,maschi,vedov,2023,3
+lazio,maschi,vedov,2024,1
+lazio,maschi,non indicato,2016,1
+lazio,maschi,non indicato,2019,1
+lazio,maschi,non indicato,2020,5
+lazio,maschi,non indicato,2021,9
+lazio,maschi,non indicato,2022,2
+lazio,maschi,non indicato,2023,7
+lazio,maschi,non indicato,2024,5
+lazio,maschi,non disponibile,2015,2
+lazio,maschi,non disponibile,2016,3
+lazio,maschi,non disponibile,2017,2
+lazio,maschi,non disponibile,2018,4
+lazio,maschi,non disponibile,2019,1
+lazio,maschi,non disponibile,2020,3
+lazio,maschi,non disponibile,2021,7
+lazio,maschi,non disponibile,2022,1
+lazio,femmine,single,2015,341
+lazio,femmine,single,2016,374
+lazio,femmine,single,2017,295
+lazio,femmine,single,2018,414
+lazio,femmine,single,2019,445
+lazio,femmine,single,2020,703
+lazio,femmine,single,2021,845
+lazio,femmine,single,2022,699
+lazio,femmine,single,2023,883
+lazio,femmine,single,2024,957
+lazio,femmine,separat,2015,102
+lazio,femmine,separat,2016,118
+lazio,femmine,separat,2017,112
+lazio,femmine,separat,2018,132
+lazio,femmine,separat,2019,129
+lazio,femmine,separat,2020,159
+lazio,femmine,separat,2021,194
+lazio,femmine,separat,2022,148
+lazio,femmine,separat,2023,170
+lazio,femmine,separat,2024,168
+lazio,femmine,coniugat,2015,447
+lazio,femmine,coniugat,2016,456
+lazio,femmine,coniugat,2017,327
+lazio,femmine,coniugat,2018,490
+lazio,femmine,coniugat,2019,429
+lazio,femmine,coniugat,2020,632
+lazio,femmine,coniugat,2021,667
+lazio,femmine,coniugat,2022,462
+lazio,femmine,coniugat,2023,569
+lazio,femmine,coniugat,2024,653
+lazio,femmine,divorziat,2015,45
+lazio,femmine,divorziat,2016,38
+lazio,femmine,divorziat,2017,55
+lazio,femmine,divorziat,2018,71
+lazio,femmine,divorziat,2019,75
+lazio,femmine,divorziat,2020,72
+lazio,femmine,divorziat,2021,50
+lazio,femmine,divorziat,2022,54
+lazio,femmine,divorziat,2023,66
+lazio,femmine,divorziat,2024,73
+lazio,femmine,vedov,2015,36
+lazio,femmine,vedov,2016,38
+lazio,femmine,vedov,2017,38
+lazio,femmine,vedov,2018,36
+lazio,femmine,vedov,2019,39
+lazio,femmine,vedov,2020,72
+lazio,femmine,vedov,2021,80
+lazio,femmine,vedov,2022,72
+lazio,femmine,vedov,2023,67
+lazio,femmine,vedov,2024,73
+lazio,femmine,non indicato,2015,8
+lazio,femmine,non indicato,2016,6
+lazio,femmine,non indicato,2017,8
+lazio,femmine,non indicato,2018,10
+lazio,femmine,non indicato,2019,3
+lazio,femmine,non indicato,2020,110
+lazio,femmine,non indicato,2021,176
+lazio,femmine,non indicato,2022,78
+lazio,femmine,non indicato,2023,120
+lazio,femmine,non indicato,2024,81
+lazio,femmine,non disponibile,2015,30
+lazio,femmine,non disponibile,2016,28
+lazio,femmine,non disponibile,2017,37
+lazio,femmine,non disponibile,2018,42
+lazio,femmine,non disponibile,2019,25
+lazio,femmine,non disponibile,2020,49
+lazio,femmine,non disponibile,2021,32
+lazio,femmine,non disponibile,2022,39
+lazio,non indicato,single,2023,4
+lazio,non indicato,single,2024,1
+lazio,non indicato,coniugat,2023,7
+lazio,non indicato,coniugat,2024,4
+lazio,non indicato,non indicato,2023,8
+lazio,non indicato,non indicato,2024,3
+lazio,non indicato,non disponibile,2021,1
+lazio,non indicato,non disponibile,2023,34
+lazio,non indicato,non disponibile,2024,27
+sud,maschi,single,2015,42
+sud,maschi,single,2016,28
+sud,maschi,single,2017,21
+sud,maschi,single,2018,25
+sud,maschi,single,2019,20
+sud,maschi,single,2020,34
+sud,maschi,single,2021,42
+sud,maschi,single,2022,17
+sud,maschi,single,2023,19
+sud,maschi,single,2024,44
+sud,maschi,separat,2015,8
+sud,maschi,separat,2016,8
+sud,maschi,separat,2017,5
+sud,maschi,separat,2018,7
+sud,maschi,separat,2019,1
+sud,maschi,separat,2020,5
+sud,maschi,separat,2021,6
+sud,maschi,separat,2022,2
+sud,maschi,separat,2023,3
+sud,maschi,separat,2024,3
+sud,maschi,coniugat,2015,16
+sud,maschi,coniugat,2016,21
+sud,maschi,coniugat,2017,17
+sud,maschi,coniugat,2018,20
+sud,maschi,coniugat,2019,17
+sud,maschi,coniugat,2020,29
+sud,maschi,coniugat,2021,22
+sud,maschi,coniugat,2022,10
+sud,maschi,coniugat,2023,22
+sud,maschi,coniugat,2024,27
+sud,maschi,divorziat,2015,1
+sud,maschi,divorziat,2016,2
+sud,maschi,divorziat,2017,1
+sud,maschi,divorziat,2018,3
+sud,maschi,divorziat,2019,2
+sud,maschi,divorziat,2020,1
+sud,maschi,divorziat,2021,1
+sud,maschi,divorziat,2023,5
+sud,maschi,vedov,2015,2
+sud,maschi,vedov,2017,3
+sud,maschi,vedov,2018,3
+sud,maschi,vedov,2020,2
+sud,maschi,vedov,2021,2
+sud,maschi,vedov,2022,2
+sud,maschi,vedov,2023,1
+sud,maschi,non indicato,2016,3
+sud,maschi,non indicato,2017,3
+sud,maschi,non indicato,2018,1
+sud,maschi,non indicato,2020,10
+sud,maschi,non indicato,2021,8
+sud,maschi,non indicato,2022,3
+sud,maschi,non indicato,2023,4
+sud,maschi,non indicato,2024,6
+sud,maschi,non disponibile,2015,4
+sud,maschi,non disponibile,2016,4
+sud,maschi,non disponibile,2017,2
+sud,maschi,non disponibile,2018,3
+sud,maschi,non disponibile,2019,3
+sud,maschi,non disponibile,2020,1
+sud,maschi,non disponibile,2021,3
+sud,maschi,non disponibile,2022,4
+sud,femmine,single,2015,479
+sud,femmine,single,2016,463
+sud,femmine,single,2017,434
+sud,femmine,single,2018,539
+sud,femmine,single,2019,570
+sud,femmine,single,2020,939
+sud,femmine,single,2021,1102
+sud,femmine,single,2022,778
+sud,femmine,single,2023,876
+sud,femmine,single,2024,1122
+sud,femmine,separat,2015,191
+sud,femmine,separat,2016,189
+sud,femmine,separat,2017,172
+sud,femmine,separat,2018,222
+sud,femmine,separat,2019,175
+sud,femmine,separat,2020,233
+sud,femmine,separat,2021,229
+sud,femmine,separat,2022,210
+sud,femmine,separat,2023,226
+sud,femmine,separat,2024,261
+sud,femmine,coniugat,2015,957
+sud,femmine,coniugat,2016,873
+sud,femmine,coniugat,2017,762
+sud,femmine,coniugat,2018,1083
+sud,femmine,coniugat,2019,875
+sud,femmine,coniugat,2020,1326
+sud,femmine,coniugat,2021,1230
+sud,femmine,coniugat,2022,925
+sud,femmine,coniugat,2023,972
+sud,femmine,coniugat,2024,1172
+sud,femmine,divorziat,2015,55
+sud,femmine,divorziat,2016,44
+sud,femmine,divorziat,2017,52
+sud,femmine,divorziat,2018,72
+sud,femmine,divorziat,2019,72
+sud,femmine,divorziat,2020,71
+sud,femmine,divorziat,2021,86
+sud,femmine,divorziat,2022,77
+sud,femmine,divorziat,2023,93
+sud,femmine,divorziat,2024,119
+sud,femmine,vedov,2015,57
+sud,femmine,vedov,2016,68
+sud,femmine,vedov,2017,54
+sud,femmine,vedov,2018,48
+sud,femmine,vedov,2019,42
+sud,femmine,vedov,2020,79
+sud,femmine,vedov,2021,101
+sud,femmine,vedov,2022,70
+sud,femmine,vedov,2023,80
+sud,femmine,vedov,2024,73
+sud,femmine,non indicato,2015,6
+sud,femmine,non indicato,2016,16
+sud,femmine,non indicato,2017,9
+sud,femmine,non indicato,2018,7
+sud,femmine,non indicato,2019,3
+sud,femmine,non indicato,2020,158
+sud,femmine,non indicato,2021,213
+sud,femmine,non indicato,2022,76
+sud,femmine,non indicato,2023,130
+sud,femmine,non indicato,2024,90
+sud,femmine,non disponibile,2015,65
+sud,femmine,non disponibile,2016,57
+sud,femmine,non disponibile,2017,58
+sud,femmine,non disponibile,2018,66
+sud,femmine,non disponibile,2019,69
+sud,femmine,non disponibile,2020,76
+sud,femmine,non disponibile,2021,44
+sud,femmine,non disponibile,2022,60
+sud,non indicato,single,2023,3
+sud,non indicato,single,2024,4
+sud,non indicato,coniugat,2023,4
+sud,non indicato,coniugat,2024,1
+sud,non indicato,non indicato,2023,2
+sud,non indicato,non indicato,2024,4
+sud,non indicato,non disponibile,2023,41
+sud,non indicato,non disponibile,2024,43
+abruzzo,maschi,single,2015,10
+abruzzo,maschi,single,2016,8
+abruzzo,maschi,single,2017,3
+abruzzo,maschi,single,2018,5
+abruzzo,maschi,single,2020,5
+abruzzo,maschi,single,2021,4
+abruzzo,maschi,single,2022,3
+abruzzo,maschi,single,2023,3
+abruzzo,maschi,single,2024,7
+abruzzo,maschi,separat,2016,1
+abruzzo,maschi,separat,2020,2
+abruzzo,maschi,coniugat,2017,2
+abruzzo,maschi,coniugat,2018,1
+abruzzo,maschi,coniugat,2020,3
+abruzzo,maschi,coniugat,2021,1
+abruzzo,maschi,coniugat,2022,1
+abruzzo,maschi,coniugat,2023,1
+abruzzo,maschi,coniugat,2024,4
+abruzzo,maschi,divorziat,2016,1
+abruzzo,maschi,vedov,2017,2
+abruzzo,maschi,vedov,2021,1
+abruzzo,maschi,non indicato,2016,1
+abruzzo,maschi,non indicato,2021,2
+abruzzo,maschi,non indicato,2023,1
+abruzzo,maschi,non disponibile,2015,2
+abruzzo,maschi,non disponibile,2018,1
+abruzzo,maschi,non disponibile,2021,1
+abruzzo,femmine,single,2015,64
+abruzzo,femmine,single,2016,53
+abruzzo,femmine,single,2017,53
+abruzzo,femmine,single,2018,64
+abruzzo,femmine,single,2019,71
+abruzzo,femmine,single,2020,120
+abruzzo,femmine,single,2021,123
+abruzzo,femmine,single,2022,102
+abruzzo,femmine,single,2023,101
+abruzzo,femmine,single,2024,119
+abruzzo,femmine,separat,2015,15
+abruzzo,femmine,separat,2016,22
+abruzzo,femmine,separat,2017,27
+abruzzo,femmine,separat,2018,27
+abruzzo,femmine,separat,2019,18
+abruzzo,femmine,separat,2020,19
+abruzzo,femmine,separat,2021,17
+abruzzo,femmine,separat,2022,15
+abruzzo,femmine,separat,2023,31
+abruzzo,femmine,separat,2024,18
+abruzzo,femmine,coniugat,2015,71
+abruzzo,femmine,coniugat,2016,80
+abruzzo,femmine,coniugat,2017,80
+abruzzo,femmine,coniugat,2018,109
+abruzzo,femmine,coniugat,2019,78
+abruzzo,femmine,coniugat,2020,112
+abruzzo,femmine,coniugat,2021,103
+abruzzo,femmine,coniugat,2022,86
+abruzzo,femmine,coniugat,2023,108
+abruzzo,femmine,coniugat,2024,99
+abruzzo,femmine,divorziat,2015,5
+abruzzo,femmine,divorziat,2016,10
+abruzzo,femmine,divorziat,2017,6
+abruzzo,femmine,divorziat,2018,5
+abruzzo,femmine,divorziat,2019,8
+abruzzo,femmine,divorziat,2020,8
+abruzzo,femmine,divorziat,2021,10
+abruzzo,femmine,divorziat,2022,14
+abruzzo,femmine,divorziat,2023,8
+abruzzo,femmine,divorziat,2024,8
+abruzzo,femmine,vedov,2015,6
+abruzzo,femmine,vedov,2016,7
+abruzzo,femmine,vedov,2017,4
+abruzzo,femmine,vedov,2018,5
+abruzzo,femmine,vedov,2019,5
+abruzzo,femmine,vedov,2020,9
+abruzzo,femmine,vedov,2021,15
+abruzzo,femmine,vedov,2022,5
+abruzzo,femmine,vedov,2023,10
+abruzzo,femmine,vedov,2024,9
+abruzzo,femmine,non indicato,2016,2
+abruzzo,femmine,non indicato,2018,1
+abruzzo,femmine,non indicato,2019,1
+abruzzo,femmine,non indicato,2020,16
+abruzzo,femmine,non indicato,2021,18
+abruzzo,femmine,non indicato,2022,8
+abruzzo,femmine,non indicato,2023,14
+abruzzo,femmine,non indicato,2024,5
+abruzzo,femmine,non disponibile,2015,10
+abruzzo,femmine,non disponibile,2016,1
+abruzzo,femmine,non disponibile,2017,4
+abruzzo,femmine,non disponibile,2018,6
+abruzzo,femmine,non disponibile,2019,7
+abruzzo,femmine,non disponibile,2020,5
+abruzzo,femmine,non disponibile,2021,4
+abruzzo,femmine,non disponibile,2022,5
+abruzzo,non indicato,single,2023,1
+abruzzo,non indicato,non indicato,2024,1
+abruzzo,non indicato,non disponibile,2023,4
+abruzzo,non indicato,non disponibile,2024,5
+molise,maschi,single,2015,1
+molise,maschi,single,2018,1
+molise,maschi,single,2019,1
+molise,maschi,single,2020,2
+molise,maschi,single,2021,1
+molise,maschi,single,2024,2
+molise,maschi,separat,2020,1
+molise,maschi,coniugat,2016,1
+molise,maschi,coniugat,2017,2
+molise,maschi,coniugat,2019,1
+molise,maschi,coniugat,2020,1
+molise,femmine,single,2015,9
+molise,femmine,single,2016,10
+molise,femmine,single,2017,4
+molise,femmine,single,2018,5
+molise,femmine,single,2019,9
+molise,femmine,single,2020,16
+molise,femmine,single,2021,15
+molise,femmine,single,2022,15
+molise,femmine,single,2023,20
+molise,femmine,single,2024,19
+molise,femmine,separat,2015,3
+molise,femmine,separat,2016,4
+molise,femmine,separat,2018,2
+molise,femmine,separat,2019,2
+molise,femmine,separat,2020,2
+molise,femmine,separat,2021,3
+molise,femmine,separat,2022,5
+molise,femmine,separat,2023,4
+molise,femmine,separat,2024,5
+molise,femmine,coniugat,2015,20
+molise,femmine,coniugat,2016,14
+molise,femmine,coniugat,2017,12
+molise,femmine,coniugat,2018,13
+molise,femmine,coniugat,2019,17
+molise,femmine,coniugat,2020,23
+molise,femmine,coniugat,2021,19
+molise,femmine,coniugat,2022,13
+molise,femmine,coniugat,2023,14
+molise,femmine,coniugat,2024,23
+molise,femmine,divorziat,2015,2
+molise,femmine,divorziat,2016,1
+molise,femmine,divorziat,2017,1
+molise,femmine,divorziat,2018,2
+molise,femmine,divorziat,2019,1
+molise,femmine,divorziat,2021,1
+molise,femmine,divorziat,2023,4
+molise,femmine,divorziat,2024,6
+molise,femmine,vedov,2016,1
+molise,femmine,vedov,2020,1
+molise,femmine,vedov,2021,1
+molise,femmine,vedov,2022,1
+molise,femmine,vedov,2023,2
+molise,femmine,vedov,2024,2
+molise,femmine,non indicato,2019,1
+molise,femmine,non indicato,2020,3
+molise,femmine,non indicato,2022,1
+molise,femmine,non indicato,2023,3
+molise,femmine,non indicato,2024,1
+molise,femmine,non disponibile,2015,3
+molise,femmine,non disponibile,2016,1
+molise,femmine,non disponibile,2017,1
+molise,femmine,non disponibile,2018,1
+molise,femmine,non disponibile,2019,1
+molise,femmine,non disponibile,2021,1
+molise,non indicato,single,2024,1
+molise,non indicato,non disponibile,2023,1
+molise,non indicato,non disponibile,2024,2
+campania,maschi,single,2015,16
+campania,maschi,single,2016,9
+campania,maschi,single,2017,6
+campania,maschi,single,2018,11
+campania,maschi,single,2019,11
+campania,maschi,single,2020,14
+campania,maschi,single,2021,13
+campania,maschi,single,2022,8
+campania,maschi,single,2023,8
+campania,maschi,single,2024,20
+campania,maschi,separat,2015,6
+campania,maschi,separat,2016,6
+campania,maschi,separat,2017,4
+campania,maschi,separat,2018,4
+campania,maschi,separat,2019,1
+campania,maschi,separat,2020,1
+campania,maschi,separat,2021,6
+campania,maschi,separat,2022,2
+campania,maschi,separat,2023,2
+campania,maschi,separat,2024,3
+campania,maschi,coniugat,2015,5
+campania,maschi,coniugat,2016,11
+campania,maschi,coniugat,2017,10
+campania,maschi,coniugat,2018,10
+campania,maschi,coniugat,2019,6
+campania,maschi,coniugat,2020,9
+campania,maschi,coniugat,2021,11
+campania,maschi,coniugat,2022,5
+campania,maschi,coniugat,2023,9
+campania,maschi,coniugat,2024,12
+campania,maschi,divorziat,2015,1
+campania,maschi,divorziat,2016,1
+campania,maschi,divorziat,2017,1
+campania,maschi,divorziat,2019,1
+campania,maschi,divorziat,2021,1
+campania,maschi,divorziat,2023,2
+campania,maschi,vedov,2015,2
+campania,maschi,vedov,2018,2
+campania,maschi,vedov,2021,1
+campania,maschi,vedov,2022,2
+campania,maschi,vedov,2023,1
+campania,maschi,non indicato,2016,2
+campania,maschi,non indicato,2018,1
+campania,maschi,non indicato,2020,4
+campania,maschi,non indicato,2021,1
+campania,maschi,non indicato,2022,2
+campania,maschi,non indicato,2024,4
+campania,maschi,non disponibile,2016,3
+campania,maschi,non disponibile,2017,2
+campania,maschi,non disponibile,2018,2
+campania,maschi,non disponibile,2021,2
+campania,maschi,non disponibile,2022,4
+campania,femmine,single,2015,207
+campania,femmine,single,2016,211
+campania,femmine,single,2017,193
+campania,femmine,single,2018,255
+campania,femmine,single,2019,253
+campania,femmine,single,2020,399
+campania,femmine,single,2021,481
+campania,femmine,single,2022,335
+campania,femmine,single,2023,351
+campania,femmine,single,2024,468
+campania,femmine,separat,2015,95
+campania,femmine,separat,2016,93
+campania,femmine,separat,2017,80
+campania,femmine,separat,2018,103
+campania,femmine,separat,2019,73
+campania,femmine,separat,2020,106
+campania,femmine,separat,2021,114
+campania,femmine,separat,2022,85
+campania,femmine,separat,2023,104
+campania,femmine,separat,2024,115
+campania,femmine,coniugat,2015,483
+campania,femmine,coniugat,2016,441
+campania,femmine,coniugat,2017,351
+campania,femmine,coniugat,2018,509
+campania,femmine,coniugat,2019,431
+campania,femmine,coniugat,2020,594
+campania,femmine,coniugat,2021,579
+campania,femmine,coniugat,2022,426
+campania,femmine,coniugat,2023,458
+campania,femmine,coniugat,2024,575
+campania,femmine,divorziat,2015,26
+campania,femmine,divorziat,2016,13
+campania,femmine,divorziat,2017,23
+campania,femmine,divorziat,2018,36
+campania,femmine,divorziat,2019,32
+campania,femmine,divorziat,2020,38
+campania,femmine,divorziat,2021,32
+campania,femmine,divorziat,2022,29
+campania,femmine,divorziat,2023,35
+campania,femmine,divorziat,2024,61
+campania,femmine,vedov,2015,26
+campania,femmine,vedov,2016,30
+campania,femmine,vedov,2017,34
+campania,femmine,vedov,2018,20
+campania,femmine,vedov,2019,15
+campania,femmine,vedov,2020,35
+campania,femmine,vedov,2021,52
+campania,femmine,vedov,2022,26
+campania,femmine,vedov,2023,36
+campania,femmine,vedov,2024,32
+campania,femmine,non indicato,2015,4
+campania,femmine,non indicato,2016,7
+campania,femmine,non indicato,2017,3
+campania,femmine,non indicato,2018,4
+campania,femmine,non indicato,2019,1
+campania,femmine,non indicato,2020,81
+campania,femmine,non indicato,2021,92
+campania,femmine,non indicato,2022,35
+campania,femmine,non indicato,2023,49
+campania,femmine,non indicato,2024,36
+campania,femmine,non disponibile,2015,33
+campania,femmine,non disponibile,2016,35
+campania,femmine,non disponibile,2017,38
+campania,femmine,non disponibile,2018,33
+campania,femmine,non disponibile,2019,40
+campania,femmine,non disponibile,2020,42
+campania,femmine,non disponibile,2021,22
+campania,femmine,non disponibile,2022,32
+campania,non indicato,single,2023,2
+campania,non indicato,single,2024,2
+campania,non indicato,coniugat,2023,1
+campania,non indicato,coniugat,2024,1
+campania,non indicato,non indicato,2023,2
+campania,non indicato,non indicato,2024,1
+campania,non indicato,non disponibile,2023,23
+campania,non indicato,non disponibile,2024,15
+puglia,maschi,single,2015,14
+puglia,maschi,single,2016,8
+puglia,maschi,single,2017,9
+puglia,maschi,single,2018,7
+puglia,maschi,single,2019,5
+puglia,maschi,single,2020,10
+puglia,maschi,single,2021,14
+puglia,maschi,single,2022,4
+puglia,maschi,single,2023,5
+puglia,maschi,single,2024,12
+puglia,maschi,separat,2015,2
+puglia,maschi,separat,2016,1
+puglia,maschi,separat,2017,1
+puglia,maschi,separat,2018,3
+puglia,maschi,separat,2020,1
+puglia,maschi,separat,2023,1
+puglia,maschi,coniugat,2015,6
+puglia,maschi,coniugat,2016,4
+puglia,maschi,coniugat,2017,3
+puglia,maschi,coniugat,2018,9
+puglia,maschi,coniugat,2019,8
+puglia,maschi,coniugat,2020,13
+puglia,maschi,coniugat,2021,6
+puglia,maschi,coniugat,2022,3
+puglia,maschi,coniugat,2023,8
+puglia,maschi,coniugat,2024,10
+puglia,maschi,divorziat,2018,1
+puglia,maschi,divorziat,2019,1
+puglia,maschi,divorziat,2020,1
+puglia,maschi,divorziat,2023,3
+puglia,maschi,vedov,2018,1
+puglia,maschi,vedov,2020,2
+puglia,maschi,non indicato,2017,1
+puglia,maschi,non indicato,2020,4
+puglia,maschi,non indicato,2021,3
+puglia,maschi,non indicato,2023,2
+puglia,maschi,non indicato,2024,1
+puglia,maschi,non disponibile,2015,2
+puglia,maschi,non disponibile,2016,1
+puglia,maschi,non disponibile,2019,2
+puglia,maschi,non disponibile,2020,1
+puglia,femmine,single,2015,149
+puglia,femmine,single,2016,126
+puglia,femmine,single,2017,125
+puglia,femmine,single,2018,145
+puglia,femmine,single,2019,143
+puglia,femmine,single,2020,276
+puglia,femmine,single,2021,338
+puglia,femmine,single,2022,224
+puglia,femmine,single,2023,268
+puglia,femmine,single,2024,372
+puglia,femmine,separat,2015,55
+puglia,femmine,separat,2016,51
+puglia,femmine,separat,2017,49
+puglia,femmine,separat,2018,67
+puglia,femmine,separat,2019,55
+puglia,femmine,separat,2020,71
+puglia,femmine,separat,2021,56
+puglia,femmine,separat,2022,74
+puglia,femmine,separat,2023,60
+puglia,femmine,separat,2024,89
+puglia,femmine,coniugat,2015,241
+puglia,femmine,coniugat,2016,218
+puglia,femmine,coniugat,2017,202
+puglia,femmine,coniugat,2018,321
+puglia,femmine,coniugat,2019,221
+puglia,femmine,coniugat,2020,379
+puglia,femmine,coniugat,2021,364
+puglia,femmine,coniugat,2022,248
+puglia,femmine,coniugat,2023,266
+puglia,femmine,coniugat,2024,340
+puglia,femmine,divorziat,2015,19
+puglia,femmine,divorziat,2016,15
+puglia,femmine,divorziat,2017,14
+puglia,femmine,divorziat,2018,23
+puglia,femmine,divorziat,2019,19
+puglia,femmine,divorziat,2020,15
+puglia,femmine,divorziat,2021,31
+puglia,femmine,divorziat,2022,25
+puglia,femmine,divorziat,2023,31
+puglia,femmine,divorziat,2024,32
+puglia,femmine,vedov,2015,15
+puglia,femmine,vedov,2016,17
+puglia,femmine,vedov,2017,12
+puglia,femmine,vedov,2018,13
+puglia,femmine,vedov,2019,14
+puglia,femmine,vedov,2020,27
+puglia,femmine,vedov,2021,16
+puglia,femmine,vedov,2022,23
+puglia,femmine,vedov,2023,16
+puglia,femmine,vedov,2024,22
+puglia,femmine,non indicato,2015,1
+puglia,femmine,non indicato,2016,5
+puglia,femmine,non indicato,2017,3
+puglia,femmine,non indicato,2018,2
+puglia,femmine,non indicato,2020,33
+puglia,femmine,non indicato,2021,60
+puglia,femmine,non indicato,2022,23
+puglia,femmine,non indicato,2023,37
+puglia,femmine,non indicato,2024,34
+puglia,femmine,non disponibile,2015,15
+puglia,femmine,non disponibile,2016,16
+puglia,femmine,non disponibile,2017,9
+puglia,femmine,non disponibile,2018,19
+puglia,femmine,non disponibile,2019,12
+puglia,femmine,non disponibile,2020,19
+puglia,femmine,non disponibile,2021,14
+puglia,femmine,non disponibile,2022,18
+puglia,non indicato,coniugat,2023,3
+puglia,non indicato,non indicato,2024,1
+puglia,non indicato,non disponibile,2023,6
+puglia,non indicato,non disponibile,2024,16
+basilicata,maschi,single,2019,1
+basilicata,maschi,single,2022,1
+basilicata,maschi,single,2023,3
+basilicata,maschi,single,2024,2
+basilicata,maschi,coniugat,2015,2
+basilicata,maschi,coniugat,2016,3
+basilicata,maschi,coniugat,2019,1
+basilicata,maschi,coniugat,2023,1
+basilicata,maschi,non indicato,2022,1
+basilicata,maschi,non disponibile,2019,1
+basilicata,femmine,single,2015,12
+basilicata,femmine,single,2016,18
+basilicata,femmine,single,2017,15
+basilicata,femmine,single,2018,16
+basilicata,femmine,single,2019,22
+basilicata,femmine,single,2020,26
+basilicata,femmine,single,2021,36
+basilicata,femmine,single,2022,22
+basilicata,femmine,single,2023,29
+basilicata,femmine,single,2024,33
+basilicata,femmine,separat,2015,2
+basilicata,femmine,separat,2016,3
+basilicata,femmine,separat,2017,3
+basilicata,femmine,separat,2018,5
+basilicata,femmine,separat,2019,8
+basilicata,femmine,separat,2020,9
+basilicata,femmine,separat,2021,9
+basilicata,femmine,separat,2022,8
+basilicata,femmine,separat,2023,7
+basilicata,femmine,separat,2024,5
+basilicata,femmine,coniugat,2015,28
+basilicata,femmine,coniugat,2016,15
+basilicata,femmine,coniugat,2017,31
+basilicata,femmine,coniugat,2018,32
+basilicata,femmine,coniugat,2019,32
+basilicata,femmine,coniugat,2020,37
+basilicata,femmine,coniugat,2021,37
+basilicata,femmine,coniugat,2022,38
+basilicata,femmine,coniugat,2023,34
+basilicata,femmine,coniugat,2024,32
+basilicata,femmine,divorziat,2015,1
+basilicata,femmine,divorziat,2016,1
+basilicata,femmine,divorziat,2017,1
+basilicata,femmine,divorziat,2018,1
+basilicata,femmine,divorziat,2019,3
+basilicata,femmine,divorziat,2020,2
+basilicata,femmine,divorziat,2021,5
+basilicata,femmine,divorziat,2022,3
+basilicata,femmine,divorziat,2023,6
+basilicata,femmine,divorziat,2024,1
+basilicata,femmine,vedov,2015,4
+basilicata,femmine,vedov,2016,1
+basilicata,femmine,vedov,2018,1
+basilicata,femmine,vedov,2020,1
+basilicata,femmine,vedov,2021,5
+basilicata,femmine,vedov,2022,3
+basilicata,femmine,vedov,2023,4
+basilicata,femmine,vedov,2024,6
+basilicata,femmine,non indicato,2020,6
+basilicata,femmine,non indicato,2021,7
+basilicata,femmine,non indicato,2022,1
+basilicata,femmine,non indicato,2023,4
+basilicata,femmine,non indicato,2024,4
+basilicata,femmine,non disponibile,2018,1
+basilicata,femmine,non disponibile,2019,1
+basilicata,femmine,non disponibile,2020,1
+basilicata,femmine,non disponibile,2021,1
+basilicata,femmine,non disponibile,2022,3
+basilicata,non indicato,non disponibile,2024,1
+calabria,maschi,single,2015,1
+calabria,maschi,single,2016,3
+calabria,maschi,single,2017,3
+calabria,maschi,single,2018,1
+calabria,maschi,single,2019,2
+calabria,maschi,single,2020,3
+calabria,maschi,single,2021,10
+calabria,maschi,single,2022,1
+calabria,maschi,single,2024,1
+calabria,maschi,coniugat,2015,3
+calabria,maschi,coniugat,2016,2
+calabria,maschi,coniugat,2019,1
+calabria,maschi,coniugat,2020,3
+calabria,maschi,coniugat,2021,4
+calabria,maschi,coniugat,2022,1
+calabria,maschi,coniugat,2023,3
+calabria,maschi,coniugat,2024,1
+calabria,maschi,divorziat,2018,2
+calabria,maschi,vedov,2017,1
+calabria,maschi,non indicato,2017,2
+calabria,maschi,non indicato,2020,2
+calabria,maschi,non indicato,2021,2
+calabria,maschi,non indicato,2023,1
+calabria,maschi,non indicato,2024,1
+calabria,femmine,single,2015,38
+calabria,femmine,single,2016,45
+calabria,femmine,single,2017,44
+calabria,femmine,single,2018,54
+calabria,femmine,single,2019,72
+calabria,femmine,single,2020,102
+calabria,femmine,single,2021,109
+calabria,femmine,single,2022,80
+calabria,femmine,single,2023,107
+calabria,femmine,single,2024,111
+calabria,femmine,separat,2015,21
+calabria,femmine,separat,2016,16
+calabria,femmine,separat,2017,13
+calabria,femmine,separat,2018,18
+calabria,femmine,separat,2019,19
+calabria,femmine,separat,2020,26
+calabria,femmine,separat,2021,30
+calabria,femmine,separat,2022,23
+calabria,femmine,separat,2023,20
+calabria,femmine,separat,2024,29
+calabria,femmine,coniugat,2015,114
+calabria,femmine,coniugat,2016,105
+calabria,femmine,coniugat,2017,86
+calabria,femmine,coniugat,2018,99
+calabria,femmine,coniugat,2019,96
+calabria,femmine,coniugat,2020,181
+calabria,femmine,coniugat,2021,128
+calabria,femmine,coniugat,2022,114
+calabria,femmine,coniugat,2023,92
+calabria,femmine,coniugat,2024,103
+calabria,femmine,divorziat,2015,2
+calabria,femmine,divorziat,2016,4
+calabria,femmine,divorziat,2017,7
+calabria,femmine,divorziat,2018,5
+calabria,femmine,divorziat,2019,9
+calabria,femmine,divorziat,2020,8
+calabria,femmine,divorziat,2021,7
+calabria,femmine,divorziat,2022,6
+calabria,femmine,divorziat,2023,9
+calabria,femmine,divorziat,2024,11
+calabria,femmine,vedov,2015,6
+calabria,femmine,vedov,2016,12
+calabria,femmine,vedov,2017,4
+calabria,femmine,vedov,2018,9
+calabria,femmine,vedov,2019,8
+calabria,femmine,vedov,2020,6
+calabria,femmine,vedov,2021,12
+calabria,femmine,vedov,2022,12
+calabria,femmine,vedov,2023,12
+calabria,femmine,vedov,2024,2
+calabria,femmine,non indicato,2015,1
+calabria,femmine,non indicato,2016,2
+calabria,femmine,non indicato,2017,3
+calabria,femmine,non indicato,2020,19
+calabria,femmine,non indicato,2021,36
+calabria,femmine,non indicato,2022,8
+calabria,femmine,non indicato,2023,23
+calabria,femmine,non indicato,2024,10
+calabria,femmine,non disponibile,2015,4
+calabria,femmine,non disponibile,2016,4
+calabria,femmine,non disponibile,2017,6
+calabria,femmine,non disponibile,2018,6
+calabria,femmine,non disponibile,2019,8
+calabria,femmine,non disponibile,2020,9
+calabria,femmine,non disponibile,2021,2
+calabria,femmine,non disponibile,2022,2
+calabria,non indicato,single,2024,1
+calabria,non indicato,non indicato,2024,1
+calabria,non indicato,non disponibile,2023,7
+calabria,non indicato,non disponibile,2024,4
+isole,maschi,single,2015,9
+isole,maschi,single,2016,17
+isole,maschi,single,2017,9
+isole,maschi,single,2018,9
+isole,maschi,single,2019,9
+isole,maschi,single,2020,22
+isole,maschi,single,2021,16
+isole,maschi,single,2022,10
+isole,maschi,single,2023,14
+isole,maschi,single,2024,13
+isole,maschi,separat,2015,6
+isole,maschi,separat,2016,2
+isole,maschi,separat,2017,3
+isole,maschi,separat,2018,1
+isole,maschi,separat,2019,1
+isole,maschi,separat,2020,3
+isole,maschi,separat,2021,1
+isole,maschi,separat,2024,2
+isole,maschi,coniugat,2015,8
+isole,maschi,coniugat,2016,5
+isole,maschi,coniugat,2017,4
+isole,maschi,coniugat,2018,8
+isole,maschi,coniugat,2019,3
+isole,maschi,coniugat,2020,10
+isole,maschi,coniugat,2021,7
+isole,maschi,coniugat,2022,1
+isole,maschi,coniugat,2023,4
+isole,maschi,coniugat,2024,6
+isole,maschi,divorziat,2018,2
+isole,maschi,divorziat,2019,1
+isole,maschi,divorziat,2020,1
+isole,maschi,divorziat,2022,2
+isole,maschi,divorziat,2024,1
+isole,maschi,vedov,2020,1
+isole,maschi,vedov,2021,2
+isole,maschi,non indicato,2017,3
+isole,maschi,non indicato,2018,1
+isole,maschi,non indicato,2020,3
+isole,maschi,non indicato,2021,6
+isole,maschi,non indicato,2022,2
+isole,maschi,non indicato,2023,4
+isole,maschi,non indicato,2024,3
+isole,maschi,non disponibile,2015,3
+isole,maschi,non disponibile,2016,1
+isole,maschi,non disponibile,2018,2
+isole,maschi,non disponibile,2019,2
+isole,maschi,non disponibile,2020,2
+isole,maschi,non disponibile,2021,3
+isole,maschi,non disponibile,2022,1
+isole,femmine,single,2015,199
+isole,femmine,single,2016,226
+isole,femmine,single,2017,222
+isole,femmine,single,2018,219
+isole,femmine,single,2019,215
+isole,femmine,single,2020,377
+isole,femmine,single,2021,452
+isole,femmine,single,2022,357
+isole,femmine,single,2023,349
+isole,femmine,single,2024,481
+isole,femmine,separat,2015,78
+isole,femmine,separat,2016,76
+isole,femmine,separat,2017,69
+isole,femmine,separat,2018,81
+isole,femmine,separat,2019,75
+isole,femmine,separat,2020,100
+isole,femmine,separat,2021,96
+isole,femmine,separat,2022,75
+isole,femmine,separat,2023,79
+isole,femmine,separat,2024,92
+isole,femmine,coniugat,2015,362
+isole,femmine,coniugat,2016,363
+isole,femmine,coniugat,2017,344
+isole,femmine,coniugat,2018,401
+isole,femmine,coniugat,2019,322
+isole,femmine,coniugat,2020,475
+isole,femmine,coniugat,2021,455
+isole,femmine,coniugat,2022,321
+isole,femmine,coniugat,2023,336
+isole,femmine,coniugat,2024,399
+isole,femmine,divorziat,2015,18
+isole,femmine,divorziat,2016,45
+isole,femmine,divorziat,2017,39
+isole,femmine,divorziat,2018,35
+isole,femmine,divorziat,2019,31
+isole,femmine,divorziat,2020,33
+isole,femmine,divorziat,2021,29
+isole,femmine,divorziat,2022,22
+isole,femmine,divorziat,2023,46
+isole,femmine,divorziat,2024,53
+isole,femmine,vedov,2015,32
+isole,femmine,vedov,2016,34
+isole,femmine,vedov,2017,30
+isole,femmine,vedov,2018,22
+isole,femmine,vedov,2019,30
+isole,femmine,vedov,2020,43
+isole,femmine,vedov,2021,37
+isole,femmine,vedov,2022,26
+isole,femmine,vedov,2023,18
+isole,femmine,vedov,2024,32
+isole,femmine,non indicato,2015,3
+isole,femmine,non indicato,2016,9
+isole,femmine,non indicato,2017,4
+isole,femmine,non indicato,2018,4
+isole,femmine,non indicato,2019,2
+isole,femmine,non indicato,2020,68
+isole,femmine,non indicato,2021,102
+isole,femmine,non indicato,2022,24
+isole,femmine,non indicato,2023,54
+isole,femmine,non indicato,2024,31
+isole,femmine,non disponibile,2015,29
+isole,femmine,non disponibile,2016,24
+isole,femmine,non disponibile,2017,13
+isole,femmine,non disponibile,2018,22
+isole,femmine,non disponibile,2019,25
+isole,femmine,non disponibile,2020,21
+isole,femmine,non disponibile,2021,26
+isole,femmine,non disponibile,2022,20
+isole,non indicato,single,2023,2
+isole,non indicato,single,2024,1
+isole,non indicato,separat,2023,1
+isole,non indicato,coniugat,2023,2
+isole,non indicato,coniugat,2024,1
+isole,non indicato,non indicato,2023,4
+isole,non indicato,non indicato,2024,1
+isole,non indicato,non disponibile,2023,7
+isole,non indicato,non disponibile,2024,14
+sicilia,maschi,single,2015,8
+sicilia,maschi,single,2016,8
+sicilia,maschi,single,2017,6
+sicilia,maschi,single,2018,6
+sicilia,maschi,single,2019,6
+sicilia,maschi,single,2020,15
+sicilia,maschi,single,2021,12
+sicilia,maschi,single,2022,7
+sicilia,maschi,single,2023,11
+sicilia,maschi,single,2024,11
+sicilia,maschi,separat,2015,3
+sicilia,maschi,separat,2016,2
+sicilia,maschi,separat,2017,1
+sicilia,maschi,separat,2018,1
+sicilia,maschi,separat,2020,3
+sicilia,maschi,separat,2024,2
+sicilia,maschi,coniugat,2015,4
+sicilia,maschi,coniugat,2016,4
+sicilia,maschi,coniugat,2017,2
+sicilia,maschi,coniugat,2018,6
+sicilia,maschi,coniugat,2019,2
+sicilia,maschi,coniugat,2020,6
+sicilia,maschi,coniugat,2021,4
+sicilia,maschi,coniugat,2022,1
+sicilia,maschi,coniugat,2023,2
+sicilia,maschi,coniugat,2024,6
+sicilia,maschi,divorziat,2018,2
+sicilia,maschi,divorziat,2019,1
+sicilia,maschi,divorziat,2022,2
+sicilia,maschi,divorziat,2024,1
+sicilia,maschi,vedov,2020,1
+sicilia,maschi,vedov,2021,1
+sicilia,maschi,non indicato,2017,2
+sicilia,maschi,non indicato,2018,1
+sicilia,maschi,non indicato,2020,3
+sicilia,maschi,non indicato,2021,5
+sicilia,maschi,non indicato,2022,2
+sicilia,maschi,non indicato,2023,3
+sicilia,maschi,non indicato,2024,2
+sicilia,maschi,non disponibile,2015,3
+sicilia,maschi,non disponibile,2016,1
+sicilia,maschi,non disponibile,2019,1
+sicilia,maschi,non disponibile,2020,1
+sicilia,maschi,non disponibile,2021,3
+sicilia,maschi,non disponibile,2022,1
+sicilia,femmine,single,2015,146
+sicilia,femmine,single,2016,150
+sicilia,femmine,single,2017,139
+sicilia,femmine,single,2018,144
+sicilia,femmine,single,2019,149
+sicilia,femmine,single,2020,269
+sicilia,femmine,single,2021,315
+sicilia,femmine,single,2022,236
+sicilia,femmine,single,2023,247
+sicilia,femmine,single,2024,331
+sicilia,femmine,separat,2015,60
+sicilia,femmine,separat,2016,54
+sicilia,femmine,separat,2017,52
+sicilia,femmine,separat,2018,62
+sicilia,femmine,separat,2019,53
+sicilia,femmine,separat,2020,69
+sicilia,femmine,separat,2021,65
+sicilia,femmine,separat,2022,46
+sicilia,femmine,separat,2023,56
+sicilia,femmine,separat,2024,63
+sicilia,femmine,coniugat,2015,250
+sicilia,femmine,coniugat,2016,279
+sicilia,femmine,coniugat,2017,254
+sicilia,femmine,coniugat,2018,291
+sicilia,femmine,coniugat,2019,250
+sicilia,femmine,coniugat,2020,336
+sicilia,femmine,coniugat,2021,343
+sicilia,femmine,coniugat,2022,237
+sicilia,femmine,coniugat,2023,260
+sicilia,femmine,coniugat,2024,297
+sicilia,femmine,divorziat,2015,7
+sicilia,femmine,divorziat,2016,25
+sicilia,femmine,divorziat,2017,29
+sicilia,femmine,divorziat,2018,20
+sicilia,femmine,divorziat,2019,22
+sicilia,femmine,divorziat,2020,20
+sicilia,femmine,divorziat,2021,20
+sicilia,femmine,divorziat,2022,15
+sicilia,femmine,divorziat,2023,39
+sicilia,femmine,divorziat,2024,48
+sicilia,femmine,vedov,2015,19
+sicilia,femmine,vedov,2016,24
+sicilia,femmine,vedov,2017,18
+sicilia,femmine,vedov,2018,17
+sicilia,femmine,vedov,2019,23
+sicilia,femmine,vedov,2020,28
+sicilia,femmine,vedov,2021,27
+sicilia,femmine,vedov,2022,17
+sicilia,femmine,vedov,2023,13
+sicilia,femmine,vedov,2024,22
+sicilia,femmine,non indicato,2015,3
+sicilia,femmine,non indicato,2016,6
+sicilia,femmine,non indicato,2017,3
+sicilia,femmine,non indicato,2018,1
+sicilia,femmine,non indicato,2019,2
+sicilia,femmine,non indicato,2020,49
+sicilia,femmine,non indicato,2021,71
+sicilia,femmine,non indicato,2022,16
+sicilia,femmine,non indicato,2023,37
+sicilia,femmine,non indicato,2024,24
+sicilia,femmine,non disponibile,2015,19
+sicilia,femmine,non disponibile,2016,17
+sicilia,femmine,non disponibile,2017,9
+sicilia,femmine,non disponibile,2018,14
+sicilia,femmine,non disponibile,2019,16
+sicilia,femmine,non disponibile,2020,15
+sicilia,femmine,non disponibile,2021,22
+sicilia,femmine,non disponibile,2022,16
+sicilia,non indicato,single,2023,2
+sicilia,non indicato,single,2024,1
+sicilia,non indicato,separat,2023,1
+sicilia,non indicato,coniugat,2023,2
+sicilia,non indicato,coniugat,2024,1
+sicilia,non indicato,non indicato,2023,4
+sicilia,non indicato,non indicato,2024,1
+sicilia,non indicato,non disponibile,2023,5
+sicilia,non indicato,non disponibile,2024,9
+sardegna,maschi,single,2015,1
+sardegna,maschi,single,2016,9
+sardegna,maschi,single,2017,3
+sardegna,maschi,single,2018,3
+sardegna,maschi,single,2019,3
+sardegna,maschi,single,2020,7
+sardegna,maschi,single,2021,4
+sardegna,maschi,single,2022,3
+sardegna,maschi,single,2023,3
+sardegna,maschi,single,2024,2
+sardegna,maschi,separat,2015,3
+sardegna,maschi,separat,2017,2
+sardegna,maschi,separat,2019,1
+sardegna,maschi,separat,2021,1
+sardegna,maschi,coniugat,2015,4
+sardegna,maschi,coniugat,2016,1
+sardegna,maschi,coniugat,2017,2
+sardegna,maschi,coniugat,2018,2
+sardegna,maschi,coniugat,2019,1
+sardegna,maschi,coniugat,2020,4
+sardegna,maschi,coniugat,2021,3
+sardegna,maschi,coniugat,2023,2
+sardegna,maschi,divorziat,2020,1
+sardegna,maschi,vedov,2021,1
+sardegna,maschi,non indicato,2017,1
+sardegna,maschi,non indicato,2021,1
+sardegna,maschi,non indicato,2023,1
+sardegna,maschi,non indicato,2024,1
+sardegna,maschi,non disponibile,2018,2
+sardegna,maschi,non disponibile,2019,1
+sardegna,maschi,non disponibile,2020,1
+sardegna,femmine,single,2015,53
+sardegna,femmine,single,2016,76
+sardegna,femmine,single,2017,83
+sardegna,femmine,single,2018,75
+sardegna,femmine,single,2019,66
+sardegna,femmine,single,2020,108
+sardegna,femmine,single,2021,137
+sardegna,femmine,single,2022,121
+sardegna,femmine,single,2023,102
+sardegna,femmine,single,2024,150
+sardegna,femmine,separat,2015,18
+sardegna,femmine,separat,2016,22
+sardegna,femmine,separat,2017,17
+sardegna,femmine,separat,2018,19
+sardegna,femmine,separat,2019,22
+sardegna,femmine,separat,2020,31
+sardegna,femmine,separat,2021,31
+sardegna,femmine,separat,2022,29
+sardegna,femmine,separat,2023,23
+sardegna,femmine,separat,2024,29
+sardegna,femmine,coniugat,2015,112
+sardegna,femmine,coniugat,2016,84
+sardegna,femmine,coniugat,2017,90
+sardegna,femmine,coniugat,2018,110
+sardegna,femmine,coniugat,2019,72
+sardegna,femmine,coniugat,2020,139
+sardegna,femmine,coniugat,2021,112
+sardegna,femmine,coniugat,2022,84
+sardegna,femmine,coniugat,2023,76
+sardegna,femmine,coniugat,2024,102
+sardegna,femmine,divorziat,2015,11
+sardegna,femmine,divorziat,2016,20
+sardegna,femmine,divorziat,2017,10
+sardegna,femmine,divorziat,2018,15
+sardegna,femmine,divorziat,2019,9
+sardegna,femmine,divorziat,2020,13
+sardegna,femmine,divorziat,2021,9
+sardegna,femmine,divorziat,2022,7
+sardegna,femmine,divorziat,2023,7
+sardegna,femmine,divorziat,2024,5
+sardegna,femmine,vedov,2015,13
+sardegna,femmine,vedov,2016,10
+sardegna,femmine,vedov,2017,12
+sardegna,femmine,vedov,2018,5
+sardegna,femmine,vedov,2019,7
+sardegna,femmine,vedov,2020,15
+sardegna,femmine,vedov,2021,10
+sardegna,femmine,vedov,2022,9
+sardegna,femmine,vedov,2023,5
+sardegna,femmine,vedov,2024,10
+sardegna,femmine,non indicato,2016,3
+sardegna,femmine,non indicato,2017,1
+sardegna,femmine,non indicato,2018,3
+sardegna,femmine,non indicato,2020,19
+sardegna,femmine,non indicato,2021,31
+sardegna,femmine,non indicato,2022,8
+sardegna,femmine,non indicato,2023,17
+sardegna,femmine,non indicato,2024,7
+sardegna,femmine,non disponibile,2015,10
+sardegna,femmine,non disponibile,2016,7
+sardegna,femmine,non disponibile,2017,4
+sardegna,femmine,non disponibile,2018,8
+sardegna,femmine,non disponibile,2019,9
+sardegna,femmine,non disponibile,2020,6
+sardegna,femmine,non disponibile,2021,4
+sardegna,femmine,non disponibile,2022,4
+sardegna,non indicato,non disponibile,2023,2
+sardegna,non indicato,non disponibile,2024,5
+non indicato,maschi,single,2015,6
+non indicato,maschi,single,2016,6
+non indicato,maschi,single,2017,18
+non indicato,maschi,single,2018,10
+non indicato,maschi,single,2019,4
+non indicato,maschi,single,2020,33
+non indicato,maschi,single,2021,64
+non indicato,maschi,single,2022,16
+non indicato,maschi,single,2023,53
+non indicato,maschi,single,2024,51
+non indicato,maschi,separat,2016,2
+non indicato,maschi,separat,2017,1
+non indicato,maschi,separat,2018,1
+non indicato,maschi,separat,2020,3
+non indicato,maschi,separat,2021,5
+non indicato,maschi,separat,2022,3
+non indicato,maschi,separat,2023,8
+non indicato,maschi,separat,2024,8
+non indicato,maschi,coniugat,2015,3
+non indicato,maschi,coniugat,2016,7
+non indicato,maschi,coniugat,2017,8
+non indicato,maschi,coniugat,2018,6
+non indicato,maschi,coniugat,2019,4
+non indicato,maschi,coniugat,2020,19
+non indicato,maschi,coniugat,2021,18
+non indicato,maschi,coniugat,2022,9
+non indicato,maschi,coniugat,2023,30
+non indicato,maschi,coniugat,2024,27
+non indicato,maschi,divorziat,2015,1
+non indicato,maschi,divorziat,2016,2
+non indicato,maschi,divorziat,2017,1
+non indicato,maschi,divorziat,2020,2
+non indicato,maschi,divorziat,2024,1
+non indicato,maschi,vedov,2020,1
+non indicato,maschi,vedov,2021,2
+non indicato,maschi,vedov,2023,3
+non indicato,maschi,vedov,2024,1
+non indicato,maschi,non indicato,2016,1
+non indicato,maschi,non indicato,2017,2
+non indicato,maschi,non indicato,2018,1
+non indicato,maschi,non indicato,2020,44
+non indicato,maschi,non indicato,2021,24
+non indicato,maschi,non indicato,2022,13
+non indicato,maschi,non indicato,2023,23
+non indicato,maschi,non indicato,2024,13
+non indicato,maschi,non disponibile,2015,18
+non indicato,maschi,non disponibile,2016,4
+non indicato,maschi,non disponibile,2017,13
+non indicato,maschi,non disponibile,2018,6
+non indicato,maschi,non disponibile,2019,15
+non indicato,maschi,non disponibile,2020,25
+non indicato,maschi,non disponibile,2021,30
+non indicato,maschi,non disponibile,2022,14
+non indicato,femmine,single,2015,59
+non indicato,femmine,single,2016,78
+non indicato,femmine,single,2017,252
+non indicato,femmine,single,2018,198
+non indicato,femmine,single,2019,121
+non indicato,femmine,single,2020,665
+non indicato,femmine,single,2021,721
+non indicato,femmine,single,2022,321
+non indicato,femmine,single,2023,1152
+non indicato,femmine,single,2024,577
+non indicato,femmine,separat,2015,26
+non indicato,femmine,separat,2016,32
+non indicato,femmine,separat,2017,76
+non indicato,femmine,separat,2018,53
+non indicato,femmine,separat,2019,34
+non indicato,femmine,separat,2020,134
+non indicato,femmine,separat,2021,60
+non indicato,femmine,separat,2022,38
+non indicato,femmine,separat,2023,156
+non indicato,femmine,separat,2024,82
+non indicato,femmine,coniugat,2015,131
+non indicato,femmine,coniugat,2016,149
+non indicato,femmine,coniugat,2017,344
+non indicato,femmine,coniugat,2018,298
+non indicato,femmine,coniugat,2019,169
+non indicato,femmine,coniugat,2020,713
+non indicato,femmine,coniugat,2021,481
+non indicato,femmine,coniugat,2022,230
+non indicato,femmine,coniugat,2023,785
+non indicato,femmine,coniugat,2024,381
+non indicato,femmine,divorziat,2015,11
+non indicato,femmine,divorziat,2016,8
+non indicato,femmine,divorziat,2017,41
+non indicato,femmine,divorziat,2018,15
+non indicato,femmine,divorziat,2019,11
+non indicato,femmine,divorziat,2020,52
+non indicato,femmine,divorziat,2021,23
+non indicato,femmine,divorziat,2022,11
+non indicato,femmine,divorziat,2023,59
+non indicato,femmine,divorziat,2024,25
+non indicato,femmine,vedov,2015,6
+non indicato,femmine,vedov,2016,5
+non indicato,femmine,vedov,2017,20
+non indicato,femmine,vedov,2018,23
+non indicato,femmine,vedov,2019,7
+non indicato,femmine,vedov,2020,58
+non indicato,femmine,vedov,2021,28
+non indicato,femmine,vedov,2022,4
+non indicato,femmine,vedov,2023,41
+non indicato,femmine,vedov,2024,32
+non indicato,femmine,non indicato,2015,4
+non indicato,femmine,non indicato,2016,6
+non indicato,femmine,non indicato,2017,17
+non indicato,femmine,non indicato,2018,11
+non indicato,femmine,non indicato,2019,5
+non indicato,femmine,non indicato,2020,384
+non indicato,femmine,non indicato,2021,284
+non indicato,femmine,non indicato,2022,134
+non indicato,femmine,non indicato,2023,382
+non indicato,femmine,non indicato,2024,175
+non indicato,femmine,non disponibile,2015,136
+non indicato,femmine,non disponibile,2016,110
+non indicato,femmine,non disponibile,2017,137
+non indicato,femmine,non disponibile,2018,180
+non indicato,femmine,non disponibile,2019,197
+non indicato,femmine,non disponibile,2020,389
+non indicato,femmine,non disponibile,2021,575
+non indicato,femmine,non disponibile,2022,667
+non indicato,non indicato,single,2023,10
+non indicato,non indicato,single,2024,4
+non indicato,non indicato,separat,2024,1
+non indicato,non indicato,coniugat,2023,5
+non indicato,non indicato,coniugat,2024,1
+non indicato,non indicato,non indicato,2023,20
+non indicato,non indicato,non indicato,2024,13
+non indicato,non indicato,non disponibile,2015,1
+non indicato,non indicato,non disponibile,2019,2
+non indicato,non indicato,non disponibile,2020,9
+non indicato,non indicato,non disponibile,2021,11
+non indicato,non indicato,non disponibile,2022,15
+non indicato,non indicato,non disponibile,2023,1121
+non indicato,non indicato,non disponibile,2024,827

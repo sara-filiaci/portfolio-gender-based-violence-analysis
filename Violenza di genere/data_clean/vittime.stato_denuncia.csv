@@ -1,0 +1,2192 @@
+﻿territorio,sesso,stato_denuncia,periodo,numero_vittime
+italia,maschi,denuncia,2015,37
+italia,maschi,denuncia,2016,38
+italia,maschi,denuncia,2017,34
+italia,maschi,denuncia,2018,30
+italia,maschi,denuncia,2019,19
+italia,maschi,denuncia,2020,43
+italia,maschi,denuncia,2021,69
+italia,maschi,denuncia,2022,22
+italia,maschi,denuncia,2023,47
+italia,maschi,denuncia,2024,44
+italia,maschi,ritira la denuncia,2015,3
+italia,maschi,ritira la denuncia,2016,11
+italia,maschi,ritira la denuncia,2017,3
+italia,maschi,ritira la denuncia,2018,4
+italia,maschi,ritira la denuncia,2019,3
+italia,maschi,ritira la denuncia,2020,9
+italia,maschi,ritira la denuncia,2021,7
+italia,maschi,ritira la denuncia,2022,1
+italia,maschi,ritira la denuncia,2023,4
+italia,maschi,ritira la denuncia,2024,7
+italia,maschi,non denuncia,2015,210
+italia,maschi,non denuncia,2016,211
+italia,maschi,non denuncia,2017,183
+italia,maschi,non denuncia,2018,179
+italia,maschi,non denuncia,2019,160
+italia,maschi,non denuncia,2020,303
+italia,maschi,non denuncia,2021,288
+italia,maschi,non denuncia,2022,182
+italia,maschi,non denuncia,2023,312
+italia,maschi,non denuncia,2024,331
+italia,maschi,non risponde,2015,1
+italia,maschi,non risponde,2016,2
+italia,maschi,non risponde,2017,2
+italia,maschi,non risponde,2018,1
+italia,maschi,non risponde,2019,2
+italia,maschi,non risponde,2020,4
+italia,maschi,non risponde,2021,5
+italia,maschi,non risponde,2022,2
+italia,maschi,non risponde,2023,55
+italia,maschi,non risponde,2024,36
+italia,maschi,non disponibile,2015,60
+italia,maschi,non disponibile,2016,33
+italia,maschi,non disponibile,2017,64
+italia,maschi,non disponibile,2018,47
+italia,maschi,non disponibile,2019,34
+italia,maschi,non disponibile,2020,212
+italia,maschi,non disponibile,2021,171
+italia,maschi,non disponibile,2022,55
+italia,maschi,non disponibile,2023,7
+italia,maschi,non disponibile,2024,15
+italia,femmine,denuncia,2015,1098
+italia,femmine,denuncia,2016,1177
+italia,femmine,denuncia,2017,1150
+italia,femmine,denuncia,2018,1333
+italia,femmine,denuncia,2019,1291
+italia,femmine,denuncia,2020,1610
+italia,femmine,denuncia,2021,2115
+italia,femmine,denuncia,2022,1500
+italia,femmine,denuncia,2023,1970
+italia,femmine,denuncia,2024,1992
+italia,femmine,ritira la denuncia,2015,293
+italia,femmine,ritira la denuncia,2016,341
+italia,femmine,ritira la denuncia,2017,256
+italia,femmine,ritira la denuncia,2018,286
+italia,femmine,ritira la denuncia,2019,279
+italia,femmine,ritira la denuncia,2020,288
+italia,femmine,ritira la denuncia,2021,376
+italia,femmine,ritira la denuncia,2022,318
+italia,femmine,ritira la denuncia,2023,281
+italia,femmine,ritira la denuncia,2024,465
+italia,femmine,non denuncia,2015,5710
+italia,femmine,non denuncia,2016,5728
+italia,femmine,non denuncia,2017,5535
+italia,femmine,non denuncia,2018,6697
+italia,femmine,non denuncia,2019,6081
+italia,femmine,non denuncia,2020,8958
+italia,femmine,non denuncia,2021,9907
+italia,femmine,non denuncia,2022,8056
+italia,femmine,non denuncia,2023,10322
+italia,femmine,non denuncia,2024,12319
+italia,femmine,non risponde,2015,47
+italia,femmine,non risponde,2016,39
+italia,femmine,non risponde,2017,45
+italia,femmine,non risponde,2018,35
+italia,femmine,non risponde,2019,27
+italia,femmine,non risponde,2020,121
+italia,femmine,non risponde,2021,221
+italia,femmine,non risponde,2022,206
+italia,femmine,non risponde,2023,1535
+italia,femmine,non risponde,2024,926
+italia,femmine,non disponibile,2015,622
+italia,femmine,non disponibile,2016,545
+italia,femmine,non disponibile,2017,813
+italia,femmine,non disponibile,2018,990
+italia,femmine,non disponibile,2019,749
+italia,femmine,non disponibile,2020,4151
+italia,femmine,non disponibile,2021,3101
+italia,femmine,non disponibile,2022,1552
+italia,femmine,non disponibile,2023,347
+italia,femmine,non disponibile,2024,415
+italia,non indicato,denuncia,2023,20
+italia,non indicato,denuncia,2024,6
+italia,non indicato,ritira la denuncia,2023,1
+italia,non indicato,non denuncia,2023,29
+italia,non indicato,non denuncia,2024,31
+italia,non indicato,non risponde,2023,57
+italia,non indicato,non risponde,2024,23
+italia,non indicato,non disponibile,2015,1
+italia,non indicato,non disponibile,2019,2
+italia,non indicato,non disponibile,2020,9
+italia,non indicato,non disponibile,2021,12
+italia,non indicato,non disponibile,2022,15
+italia,non indicato,non disponibile,2023,1296
+italia,non indicato,non disponibile,2024,1021
+nord ovest,maschi,denuncia,2015,5
+nord ovest,maschi,denuncia,2016,8
+nord ovest,maschi,denuncia,2017,7
+nord ovest,maschi,denuncia,2018,4
+nord ovest,maschi,denuncia,2019,5
+nord ovest,maschi,denuncia,2020,10
+nord ovest,maschi,denuncia,2021,15
+nord ovest,maschi,denuncia,2022,2
+nord ovest,maschi,denuncia,2023,10
+nord ovest,maschi,denuncia,2024,9
+nord ovest,maschi,ritira la denuncia,2015,1
+nord ovest,maschi,ritira la denuncia,2016,3
+nord ovest,maschi,ritira la denuncia,2018,1
+nord ovest,maschi,ritira la denuncia,2019,2
+nord ovest,maschi,ritira la denuncia,2020,2
+nord ovest,maschi,ritira la denuncia,2021,2
+nord ovest,maschi,ritira la denuncia,2022,1
+nord ovest,maschi,ritira la denuncia,2023,1
+nord ovest,maschi,ritira la denuncia,2024,1
+nord ovest,maschi,non denuncia,2015,59
+nord ovest,maschi,non denuncia,2016,48
+nord ovest,maschi,non denuncia,2017,50
+nord ovest,maschi,non denuncia,2018,47
+nord ovest,maschi,non denuncia,2019,42
+nord ovest,maschi,non denuncia,2020,66
+nord ovest,maschi,non denuncia,2021,59
+nord ovest,maschi,non denuncia,2022,37
+nord ovest,maschi,non denuncia,2023,76
+nord ovest,maschi,non denuncia,2024,67
+nord ovest,maschi,non risponde,2017,1
+nord ovest,maschi,non risponde,2018,1
+nord ovest,maschi,non risponde,2022,1
+nord ovest,maschi,non risponde,2023,9
+nord ovest,maschi,non risponde,2024,10
+nord ovest,maschi,non disponibile,2015,7
+nord ovest,maschi,non disponibile,2016,5
+nord ovest,maschi,non disponibile,2017,13
+nord ovest,maschi,non disponibile,2018,8
+nord ovest,maschi,non disponibile,2019,7
+nord ovest,maschi,non disponibile,2020,24
+nord ovest,maschi,non disponibile,2021,27
+nord ovest,maschi,non disponibile,2022,10
+nord ovest,maschi,non disponibile,2024,3
+nord ovest,femmine,denuncia,2015,300
+nord ovest,femmine,denuncia,2016,346
+nord ovest,femmine,denuncia,2017,278
+nord ovest,femmine,denuncia,2018,341
+nord ovest,femmine,denuncia,2019,322
+nord ovest,femmine,denuncia,2020,414
+nord ovest,femmine,denuncia,2021,496
+nord ovest,femmine,denuncia,2022,356
+nord ovest,femmine,denuncia,2023,447
+nord ovest,femmine,denuncia,2024,510
+nord ovest,femmine,ritira la denuncia,2015,71
+nord ovest,femmine,ritira la denuncia,2016,85
+nord ovest,femmine,ritira la denuncia,2017,80
+nord ovest,femmine,ritira la denuncia,2018,64
+nord ovest,femmine,ritira la denuncia,2019,74
+nord ovest,femmine,ritira la denuncia,2020,75
+nord ovest,femmine,ritira la denuncia,2021,117
+nord ovest,femmine,ritira la denuncia,2022,83
+nord ovest,femmine,ritira la denuncia,2023,60
+nord ovest,femmine,ritira la denuncia,2024,122
+nord ovest,femmine,non denuncia,2015,1566
+nord ovest,femmine,non denuncia,2016,1675
+nord ovest,femmine,non denuncia,2017,1541
+nord ovest,femmine,non denuncia,2018,1713
+nord ovest,femmine,non denuncia,2019,1643
+nord ovest,femmine,non denuncia,2020,2317
+nord ovest,femmine,non denuncia,2021,2402
+nord ovest,femmine,non denuncia,2022,2157
+nord ovest,femmine,non denuncia,2023,2539
+nord ovest,femmine,non denuncia,2024,3387
+nord ovest,femmine,non risponde,2015,9
+nord ovest,femmine,non risponde,2016,13
+nord ovest,femmine,non risponde,2017,13
+nord ovest,femmine,non risponde,2018,15
+nord ovest,femmine,non risponde,2019,3
+nord ovest,femmine,non risponde,2020,21
+nord ovest,femmine,non risponde,2021,46
+nord ovest,femmine,non risponde,2022,38
+nord ovest,femmine,non risponde,2023,295
+nord ovest,femmine,non risponde,2024,241
+nord ovest,femmine,non disponibile,2015,131
+nord ovest,femmine,non disponibile,2016,94
+nord ovest,femmine,non disponibile,2017,163
+nord ovest,femmine,non disponibile,2018,187
+nord ovest,femmine,non disponibile,2019,117
+nord ovest,femmine,non disponibile,2020,745
+nord ovest,femmine,non disponibile,2021,471
+nord ovest,femmine,non disponibile,2022,160
+nord ovest,femmine,non disponibile,2023,43
+nord ovest,femmine,non disponibile,2024,75
+nord ovest,non indicato,denuncia,2023,5
+nord ovest,non indicato,denuncia,2024,1
+nord ovest,non indicato,non denuncia,2023,8
+nord ovest,non indicato,non denuncia,2024,4
+nord ovest,non indicato,non risponde,2023,7
+nord ovest,non indicato,non risponde,2024,6
+nord ovest,non indicato,non disponibile,2023,50
+nord ovest,non indicato,non disponibile,2024,39
+piemonte,maschi,denuncia,2015,1
+piemonte,maschi,denuncia,2016,4
+piemonte,maschi,denuncia,2017,3
+piemonte,maschi,denuncia,2019,3
+piemonte,maschi,denuncia,2020,3
+piemonte,maschi,denuncia,2021,5
+piemonte,maschi,denuncia,2023,4
+piemonte,maschi,ritira la denuncia,2016,1
+piemonte,maschi,ritira la denuncia,2020,1
+piemonte,maschi,ritira la denuncia,2023,1
+piemonte,maschi,non denuncia,2015,21
+piemonte,maschi,non denuncia,2016,13
+piemonte,maschi,non denuncia,2017,18
+piemonte,maschi,non denuncia,2018,10
+piemonte,maschi,non denuncia,2019,11
+piemonte,maschi,non denuncia,2020,19
+piemonte,maschi,non denuncia,2021,19
+piemonte,maschi,non denuncia,2022,9
+piemonte,maschi,non denuncia,2023,14
+piemonte,maschi,non denuncia,2024,22
+piemonte,maschi,non risponde,2024,4
+piemonte,maschi,non disponibile,2015,2
+piemonte,maschi,non disponibile,2016,1
+piemonte,maschi,non disponibile,2017,7
+piemonte,maschi,non disponibile,2018,3
+piemonte,maschi,non disponibile,2019,1
+piemonte,maschi,non disponibile,2020,3
+piemonte,maschi,non disponibile,2021,12
+piemonte,maschi,non disponibile,2022,3
+piemonte,femmine,denuncia,2015,84
+piemonte,femmine,denuncia,2016,102
+piemonte,femmine,denuncia,2017,82
+piemonte,femmine,denuncia,2018,109
+piemonte,femmine,denuncia,2019,98
+piemonte,femmine,denuncia,2020,118
+piemonte,femmine,denuncia,2021,154
+piemonte,femmine,denuncia,2022,100
+piemonte,femmine,denuncia,2023,118
+piemonte,femmine,denuncia,2024,112
+piemonte,femmine,ritira la denuncia,2015,29
+piemonte,femmine,ritira la denuncia,2016,31
+piemonte,femmine,ritira la denuncia,2017,23
+piemonte,femmine,ritira la denuncia,2018,22
+piemonte,femmine,ritira la denuncia,2019,25
+piemonte,femmine,ritira la denuncia,2020,17
+piemonte,femmine,ritira la denuncia,2021,31
+piemonte,femmine,ritira la denuncia,2022,22
+piemonte,femmine,ritira la denuncia,2023,16
+piemonte,femmine,ritira la denuncia,2024,35
+piemonte,femmine,non denuncia,2015,494
+piemonte,femmine,non denuncia,2016,520
+piemonte,femmine,non denuncia,2017,464
+piemonte,femmine,non denuncia,2018,527
+piemonte,femmine,non denuncia,2019,475
+piemonte,femmine,non denuncia,2020,633
+piemonte,femmine,non denuncia,2021,631
+piemonte,femmine,non denuncia,2022,583
+piemonte,femmine,non denuncia,2023,671
+piemonte,femmine,non denuncia,2024,839
+piemonte,femmine,non risponde,2015,4
+piemonte,femmine,non risponde,2016,3
+piemonte,femmine,non risponde,2017,3
+piemonte,femmine,non risponde,2018,6
+piemonte,femmine,non risponde,2020,7
+piemonte,femmine,non risponde,2021,16
+piemonte,femmine,non risponde,2022,6
+piemonte,femmine,non risponde,2023,91
+piemonte,femmine,non risponde,2024,75
+piemonte,femmine,non disponibile,2015,34
+piemonte,femmine,non disponibile,2016,28
+piemonte,femmine,non disponibile,2017,51
+piemonte,femmine,non disponibile,2018,45
+piemonte,femmine,non disponibile,2019,34
+piemonte,femmine,non disponibile,2020,210
+piemonte,femmine,non disponibile,2021,120
+piemonte,femmine,non disponibile,2022,36
+piemonte,femmine,non disponibile,2023,15
+piemonte,femmine,non disponibile,2024,15
+piemonte,non indicato,denuncia,2023,3
+piemonte,non indicato,non denuncia,2023,1
+piemonte,non indicato,non risponde,2023,2
+piemonte,non indicato,non risponde,2024,1
+piemonte,non indicato,non disponibile,2023,12
+piemonte,non indicato,non disponibile,2024,9
+liguria,maschi,denuncia,2020,1
+liguria,maschi,denuncia,2021,2
+liguria,maschi,denuncia,2024,1
+liguria,maschi,ritira la denuncia,2016,1
+liguria,maschi,ritira la denuncia,2022,1
+liguria,maschi,non denuncia,2015,6
+liguria,maschi,non denuncia,2016,5
+liguria,maschi,non denuncia,2017,5
+liguria,maschi,non denuncia,2018,6
+liguria,maschi,non denuncia,2019,4
+liguria,maschi,non denuncia,2020,6
+liguria,maschi,non denuncia,2021,5
+liguria,maschi,non denuncia,2022,3
+liguria,maschi,non denuncia,2023,7
+liguria,maschi,non denuncia,2024,4
+liguria,maschi,non risponde,2023,1
+liguria,maschi,non risponde,2024,2
+liguria,maschi,non disponibile,2015,1
+liguria,maschi,non disponibile,2019,1
+liguria,maschi,non disponibile,2020,8
+liguria,maschi,non disponibile,2021,2
+liguria,femmine,denuncia,2015,32
+liguria,femmine,denuncia,2016,32
+liguria,femmine,denuncia,2017,19
+liguria,femmine,denuncia,2018,42
+liguria,femmine,denuncia,2019,22
+liguria,femmine,denuncia,2020,28
+liguria,femmine,denuncia,2021,39
+liguria,femmine,denuncia,2022,27
+liguria,femmine,denuncia,2023,24
+liguria,femmine,denuncia,2024,47
+liguria,femmine,ritira la denuncia,2015,3
+liguria,femmine,ritira la denuncia,2016,5
+liguria,femmine,ritira la denuncia,2017,6
+liguria,femmine,ritira la denuncia,2018,8
+liguria,femmine,ritira la denuncia,2019,3
+liguria,femmine,ritira la denuncia,2020,6
+liguria,femmine,ritira la denuncia,2021,8
+liguria,femmine,ritira la denuncia,2022,5
+liguria,femmine,ritira la denuncia,2023,6
+liguria,femmine,ritira la denuncia,2024,9
+liguria,femmine,non denuncia,2015,157
+liguria,femmine,non denuncia,2016,157
+liguria,femmine,non denuncia,2017,146
+liguria,femmine,non denuncia,2018,160
+liguria,femmine,non denuncia,2019,151
+liguria,femmine,non denuncia,2020,217
+liguria,femmine,non denuncia,2021,209
+liguria,femmine,non denuncia,2022,181
+liguria,femmine,non denuncia,2023,212
+liguria,femmine,non denuncia,2024,277
+liguria,femmine,non risponde,2016,2
+liguria,femmine,non risponde,2017,1
+liguria,femmine,non risponde,2019,1
+liguria,femmine,non risponde,2020,2
+liguria,femmine,non risponde,2021,2
+liguria,femmine,non risponde,2022,3
+liguria,femmine,non risponde,2023,16
+liguria,femmine,non risponde,2024,19
+liguria,femmine,non disponibile,2015,13
+liguria,femmine,non disponibile,2016,13
+liguria,femmine,non disponibile,2017,11
+liguria,femmine,non disponibile,2018,18
+liguria,femmine,non disponibile,2019,7
+liguria,femmine,non disponibile,2020,54
+liguria,femmine,non disponibile,2021,52
+liguria,femmine,non disponibile,2022,15
+liguria,femmine,non disponibile,2023,5
+liguria,femmine,non disponibile,2024,8
+liguria,non indicato,non denuncia,2023,2
+liguria,non indicato,non disponibile,2023,4
+liguria,non indicato,non disponibile,2024,3
+lombardia,maschi,denuncia,2015,4
+lombardia,maschi,denuncia,2016,4
+lombardia,maschi,denuncia,2017,4
+lombardia,maschi,denuncia,2018,4
+lombardia,maschi,denuncia,2019,2
+lombardia,maschi,denuncia,2020,6
+lombardia,maschi,denuncia,2021,8
+lombardia,maschi,denuncia,2022,2
+lombardia,maschi,denuncia,2023,6
+lombardia,maschi,denuncia,2024,8
+lombardia,maschi,ritira la denuncia,2015,1
+lombardia,maschi,ritira la denuncia,2016,1
+lombardia,maschi,ritira la denuncia,2018,1
+lombardia,maschi,ritira la denuncia,2019,2
+lombardia,maschi,ritira la denuncia,2020,1
+lombardia,maschi,ritira la denuncia,2021,2
+lombardia,maschi,ritira la denuncia,2024,1
+lombardia,maschi,non denuncia,2015,32
+lombardia,maschi,non denuncia,2016,30
+lombardia,maschi,non denuncia,2017,26
+lombardia,maschi,non denuncia,2018,30
+lombardia,maschi,non denuncia,2019,27
+lombardia,maschi,non denuncia,2020,41
+lombardia,maschi,non denuncia,2021,35
+lombardia,maschi,non denuncia,2022,24
+lombardia,maschi,non denuncia,2023,55
+lombardia,maschi,non denuncia,2024,40
+lombardia,maschi,non risponde,2017,1
+lombardia,maschi,non risponde,2018,1
+lombardia,maschi,non risponde,2022,1
+lombardia,maschi,non risponde,2023,8
+lombardia,maschi,non risponde,2024,3
+lombardia,maschi,non disponibile,2015,4
+lombardia,maschi,non disponibile,2016,4
+lombardia,maschi,non disponibile,2017,6
+lombardia,maschi,non disponibile,2018,5
+lombardia,maschi,non disponibile,2019,5
+lombardia,maschi,non disponibile,2020,13
+lombardia,maschi,non disponibile,2021,13
+lombardia,maschi,non disponibile,2022,6
+lombardia,maschi,non disponibile,2024,3
+lombardia,femmine,denuncia,2015,180
+lombardia,femmine,denuncia,2016,211
+lombardia,femmine,denuncia,2017,176
+lombardia,femmine,denuncia,2018,188
+lombardia,femmine,denuncia,2019,201
+lombardia,femmine,denuncia,2020,267
+lombardia,femmine,denuncia,2021,302
+lombardia,femmine,denuncia,2022,226
+lombardia,femmine,denuncia,2023,305
+lombardia,femmine,denuncia,2024,348
+lombardia,femmine,ritira la denuncia,2015,39
+lombardia,femmine,ritira la denuncia,2016,49
+lombardia,femmine,ritira la denuncia,2017,51
+lombardia,femmine,ritira la denuncia,2018,34
+lombardia,femmine,ritira la denuncia,2019,45
+lombardia,femmine,ritira la denuncia,2020,52
+lombardia,femmine,ritira la denuncia,2021,78
+lombardia,femmine,ritira la denuncia,2022,56
+lombardia,femmine,ritira la denuncia,2023,38
+lombardia,femmine,ritira la denuncia,2024,78
+lombardia,femmine,non denuncia,2015,907
+lombardia,femmine,non denuncia,2016,988
+lombardia,femmine,non denuncia,2017,924
+lombardia,femmine,non denuncia,2018,1019
+lombardia,femmine,non denuncia,2019,1011
+lombardia,femmine,non denuncia,2020,1457
+lombardia,femmine,non denuncia,2021,1557
+lombardia,femmine,non denuncia,2022,1383
+lombardia,femmine,non denuncia,2023,1650
+lombardia,femmine,non denuncia,2024,2254
+lombardia,femmine,non risponde,2015,5
+lombardia,femmine,non risponde,2016,8
+lombardia,femmine,non risponde,2017,9
+lombardia,femmine,non risponde,2018,9
+lombardia,femmine,non risponde,2019,2
+lombardia,femmine,non risponde,2020,12
+lombardia,femmine,non risponde,2021,28
+lombardia,femmine,non risponde,2022,29
+lombardia,femmine,non risponde,2023,188
+lombardia,femmine,non risponde,2024,147
+lombardia,femmine,non disponibile,2015,84
+lombardia,femmine,non disponibile,2016,53
+lombardia,femmine,non disponibile,2017,100
+lombardia,femmine,non disponibile,2018,124
+lombardia,femmine,non disponibile,2019,75
+lombardia,femmine,non disponibile,2020,475
+lombardia,femmine,non disponibile,2021,299
+lombardia,femmine,non disponibile,2022,108
+lombardia,femmine,non disponibile,2023,23
+lombardia,femmine,non disponibile,2024,50
+lombardia,non indicato,denuncia,2023,2
+lombardia,non indicato,denuncia,2024,1
+lombardia,non indicato,non denuncia,2023,5
+lombardia,non indicato,non denuncia,2024,4
+lombardia,non indicato,non risponde,2023,5
+lombardia,non indicato,non risponde,2024,5
+lombardia,non indicato,non disponibile,2023,33
+lombardia,non indicato,non disponibile,2024,27
+nord est,maschi,denuncia,2015,7
+nord est,maschi,denuncia,2016,5
+nord est,maschi,denuncia,2017,5
+nord est,maschi,denuncia,2018,4
+nord est,maschi,denuncia,2019,3
+nord est,maschi,denuncia,2020,5
+nord est,maschi,denuncia,2021,11
+nord est,maschi,denuncia,2022,1
+nord est,maschi,denuncia,2023,8
+nord est,maschi,denuncia,2024,6
+nord est,maschi,ritira la denuncia,2016,2
+nord est,maschi,ritira la denuncia,2017,1
+nord est,maschi,ritira la denuncia,2019,1
+nord est,maschi,ritira la denuncia,2020,1
+nord est,maschi,ritira la denuncia,2023,1
+nord est,maschi,ritira la denuncia,2024,1
+nord est,maschi,non denuncia,2015,36
+nord est,maschi,non denuncia,2016,28
+nord est,maschi,non denuncia,2017,24
+nord est,maschi,non denuncia,2018,21
+nord est,maschi,non denuncia,2019,25
+nord est,maschi,non denuncia,2020,49
+nord est,maschi,non denuncia,2021,36
+nord est,maschi,non denuncia,2022,24
+nord est,maschi,non denuncia,2023,42
+nord est,maschi,non denuncia,2024,41
+nord est,maschi,non risponde,2019,1
+nord est,maschi,non risponde,2023,9
+nord est,maschi,non risponde,2024,1
+nord est,maschi,non disponibile,2015,6
+nord est,maschi,non disponibile,2016,4
+nord est,maschi,non disponibile,2017,6
+nord est,maschi,non disponibile,2018,6
+nord est,maschi,non disponibile,2019,2
+nord est,maschi,non disponibile,2020,23
+nord est,maschi,non disponibile,2021,14
+nord est,maschi,non disponibile,2022,4
+nord est,maschi,non disponibile,2024,1
+nord est,femmine,denuncia,2015,124
+nord est,femmine,denuncia,2016,127
+nord est,femmine,denuncia,2017,132
+nord est,femmine,denuncia,2018,158
+nord est,femmine,denuncia,2019,188
+nord est,femmine,denuncia,2020,221
+nord est,femmine,denuncia,2021,300
+nord est,femmine,denuncia,2022,250
+nord est,femmine,denuncia,2023,296
+nord est,femmine,denuncia,2024,369
+nord est,femmine,ritira la denuncia,2015,37
+nord est,femmine,ritira la denuncia,2016,43
+nord est,femmine,ritira la denuncia,2017,25
+nord est,femmine,ritira la denuncia,2018,37
+nord est,femmine,ritira la denuncia,2019,40
+nord est,femmine,ritira la denuncia,2020,25
+nord est,femmine,ritira la denuncia,2021,47
+nord est,femmine,ritira la denuncia,2022,57
+nord est,femmine,ritira la denuncia,2023,45
+nord est,femmine,ritira la denuncia,2024,91
+nord est,femmine,non denuncia,2015,803
+nord est,femmine,non denuncia,2016,778
+nord est,femmine,non denuncia,2017,748
+nord est,femmine,non denuncia,2018,958
+nord est,femmine,non denuncia,2019,859
+nord est,femmine,non denuncia,2020,1307
+nord est,femmine,non denuncia,2021,1564
+nord est,femmine,non denuncia,2022,1276
+nord est,femmine,non denuncia,2023,1622
+nord est,femmine,non denuncia,2024,2355
+nord est,femmine,non risponde,2015,11
+nord est,femmine,non risponde,2016,8
+nord est,femmine,non risponde,2017,7
+nord est,femmine,non risponde,2018,6
+nord est,femmine,non risponde,2019,4
+nord est,femmine,non risponde,2020,18
+nord est,femmine,non risponde,2021,27
+nord est,femmine,non risponde,2022,21
+nord est,femmine,non risponde,2023,188
+nord est,femmine,non risponde,2024,152
+nord est,femmine,non disponibile,2015,51
+nord est,femmine,non disponibile,2016,53
+nord est,femmine,non disponibile,2017,63
+nord est,femmine,non disponibile,2018,96
+nord est,femmine,non disponibile,2019,105
+nord est,femmine,non disponibile,2020,434
+nord est,femmine,non disponibile,2021,340
+nord est,femmine,non disponibile,2022,98
+nord est,femmine,non disponibile,2023,24
+nord est,femmine,non disponibile,2024,45
+nord est,non indicato,denuncia,2023,6
+nord est,non indicato,denuncia,2024,1
+nord est,non indicato,non denuncia,2023,1
+nord est,non indicato,non denuncia,2024,10
+nord est,non indicato,non risponde,2023,7
+nord est,non indicato,non risponde,2024,2
+nord est,non indicato,non disponibile,2023,22
+nord est,non indicato,non disponibile,2024,39
+trentino alto adige,maschi,denuncia,2024,1
+trentino alto adige,maschi,non denuncia,2023,4
+trentino alto adige,maschi,non denuncia,2024,3
+trentino alto adige,maschi,non disponibile,2020,1
+trentino alto adige,femmine,denuncia,2020,1
+trentino alto adige,femmine,denuncia,2023,20
+trentino alto adige,femmine,denuncia,2024,18
+trentino alto adige,femmine,ritira la denuncia,2024,4
+trentino alto adige,femmine,non denuncia,2020,2
+trentino alto adige,femmine,non denuncia,2022,1
+trentino alto adige,femmine,non denuncia,2023,110
+trentino alto adige,femmine,non denuncia,2024,115
+trentino alto adige,femmine,non risponde,2023,6
+trentino alto adige,femmine,non risponde,2024,11
+trentino alto adige,femmine,non disponibile,2020,3
+trentino alto adige,femmine,non disponibile,2021,3
+trentino alto adige,femmine,non disponibile,2023,4
+trentino alto adige,femmine,non disponibile,2024,2
+trentino alto adige,non indicato,denuncia,2023,1
+trentino alto adige,non indicato,non risponde,2023,1
+bolzano,maschi,denuncia,2015,1
+bolzano,maschi,denuncia,2021,2
+bolzano,maschi,non denuncia,2015,1
+bolzano,maschi,non denuncia,2020,3
+bolzano,maschi,non denuncia,2021,1
+bolzano,maschi,non denuncia,2022,2
+bolzano,maschi,non disponibile,2020,1
+bolzano,femmine,denuncia,2015,2
+bolzano,femmine,denuncia,2016,1
+bolzano,femmine,denuncia,2017,2
+bolzano,femmine,denuncia,2020,2
+bolzano,femmine,denuncia,2021,3
+bolzano,femmine,denuncia,2022,5
+bolzano,femmine,ritira la denuncia,2019,2
+bolzano,femmine,ritira la denuncia,2022,1
+bolzano,femmine,non denuncia,2015,9
+bolzano,femmine,non denuncia,2016,12
+bolzano,femmine,non denuncia,2017,5
+bolzano,femmine,non denuncia,2018,13
+bolzano,femmine,non denuncia,2019,17
+bolzano,femmine,non denuncia,2020,19
+bolzano,femmine,non denuncia,2021,30
+bolzano,femmine,non denuncia,2022,33
+bolzano,femmine,non disponibile,2015,1
+bolzano,femmine,non disponibile,2016,1
+bolzano,femmine,non disponibile,2018,1
+bolzano,femmine,non disponibile,2020,7
+bolzano,femmine,non disponibile,2021,5
+bolzano,femmine,non disponibile,2022,3
+trento,maschi,denuncia,2015,1
+trento,maschi,denuncia,2018,2
+trento,maschi,denuncia,2021,4
+trento,maschi,non denuncia,2015,1
+trento,maschi,non denuncia,2016,3
+trento,maschi,non denuncia,2017,2
+trento,maschi,non denuncia,2020,4
+trento,maschi,non denuncia,2021,3
+trento,maschi,non risponde,2020,1
+trento,maschi,non disponibile,2015,3
+trento,maschi,non disponibile,2018,1
+trento,maschi,non disponibile,2020,1
+trento,maschi,non disponibile,2021,3
+trento,maschi,non disponibile,2022,1
+trento,femmine,denuncia,2015,5
+trento,femmine,denuncia,2016,6
+trento,femmine,denuncia,2017,5
+trento,femmine,denuncia,2018,7
+trento,femmine,denuncia,2019,9
+trento,femmine,denuncia,2020,9
+trento,femmine,denuncia,2021,10
+trento,femmine,denuncia,2022,14
+trento,femmine,ritira la denuncia,2015,1
+trento,femmine,ritira la denuncia,2016,2
+trento,femmine,ritira la denuncia,2019,1
+trento,femmine,ritira la denuncia,2020,1
+trento,femmine,ritira la denuncia,2021,3
+trento,femmine,ritira la denuncia,2022,3
+trento,femmine,non denuncia,2015,29
+trento,femmine,non denuncia,2016,27
+trento,femmine,non denuncia,2017,17
+trento,femmine,non denuncia,2018,42
+trento,femmine,non denuncia,2019,51
+trento,femmine,non denuncia,2020,55
+trento,femmine,non denuncia,2021,79
+trento,femmine,non denuncia,2022,51
+trento,femmine,non risponde,2021,4
+trento,femmine,non risponde,2022,1
+trento,femmine,non disponibile,2015,1
+trento,femmine,non disponibile,2016,6
+trento,femmine,non disponibile,2017,1
+trento,femmine,non disponibile,2018,8
+trento,femmine,non disponibile,2019,1
+trento,femmine,non disponibile,2020,11
+trento,femmine,non disponibile,2021,17
+trento,femmine,non disponibile,2022,6
+veneto,maschi,denuncia,2015,3
+veneto,maschi,denuncia,2016,2
+veneto,maschi,denuncia,2017,3
+veneto,maschi,denuncia,2018,1
+veneto,maschi,denuncia,2019,2
+veneto,maschi,denuncia,2020,2
+veneto,maschi,denuncia,2021,6
+veneto,maschi,denuncia,2023,5
+veneto,maschi,denuncia,2024,4
+veneto,maschi,ritira la denuncia,2016,2
+veneto,maschi,ritira la denuncia,2019,1
+veneto,maschi,ritira la denuncia,2024,1
+veneto,maschi,non denuncia,2015,19
+veneto,maschi,non denuncia,2016,11
+veneto,maschi,non denuncia,2017,11
+veneto,maschi,non denuncia,2018,15
+veneto,maschi,non denuncia,2019,12
+veneto,maschi,non denuncia,2020,23
+veneto,maschi,non denuncia,2021,16
+veneto,maschi,non denuncia,2022,10
+veneto,maschi,non denuncia,2023,19
+veneto,maschi,non denuncia,2024,15
+veneto,maschi,non risponde,2023,4
+veneto,maschi,non disponibile,2015,2
+veneto,maschi,non disponibile,2016,3
+veneto,maschi,non disponibile,2017,1
+veneto,maschi,non disponibile,2018,2
+veneto,maschi,non disponibile,2020,11
+veneto,maschi,non disponibile,2021,6
+veneto,femmine,denuncia,2015,62
+veneto,femmine,denuncia,2016,68
+veneto,femmine,denuncia,2017,64
+veneto,femmine,denuncia,2018,99
+veneto,femmine,denuncia,2019,94
+veneto,femmine,denuncia,2020,111
+veneto,femmine,denuncia,2021,171
+veneto,femmine,denuncia,2022,135
+veneto,femmine,denuncia,2023,151
+veneto,femmine,denuncia,2024,191
+veneto,femmine,ritira la denuncia,2015,15
+veneto,femmine,ritira la denuncia,2016,15
+veneto,femmine,ritira la denuncia,2017,15
+veneto,femmine,ritira la denuncia,2018,19
+veneto,femmine,ritira la denuncia,2019,21
+veneto,femmine,ritira la denuncia,2020,15
+veneto,femmine,ritira la denuncia,2021,18
+veneto,femmine,ritira la denuncia,2022,32
+veneto,femmine,ritira la denuncia,2023,22
+veneto,femmine,ritira la denuncia,2024,43
+veneto,femmine,non denuncia,2015,376
+veneto,femmine,non denuncia,2016,358
+veneto,femmine,non denuncia,2017,365
+veneto,femmine,non denuncia,2018,448
+veneto,femmine,non denuncia,2019,437
+veneto,femmine,non denuncia,2020,606
+veneto,femmine,non denuncia,2021,771
+veneto,femmine,non denuncia,2022,634
+veneto,femmine,non denuncia,2023,743
+veneto,femmine,non denuncia,2024,1063
+veneto,femmine,non risponde,2015,2
+veneto,femmine,non risponde,2016,3
+veneto,femmine,non risponde,2017,3
+veneto,femmine,non risponde,2018,3
+veneto,femmine,non risponde,2019,3
+veneto,femmine,non risponde,2020,11
+veneto,femmine,non risponde,2021,14
+veneto,femmine,non risponde,2022,10
+veneto,femmine,non risponde,2023,92
+veneto,femmine,non risponde,2024,72
+veneto,femmine,non disponibile,2015,25
+veneto,femmine,non disponibile,2016,24
+veneto,femmine,non disponibile,2017,28
+veneto,femmine,non disponibile,2018,45
+veneto,femmine,non disponibile,2019,56
+veneto,femmine,non disponibile,2020,213
+veneto,femmine,non disponibile,2021,167
+veneto,femmine,non disponibile,2022,50
+veneto,femmine,non disponibile,2023,6
+veneto,femmine,non disponibile,2024,24
+veneto,non indicato,denuncia,2023,3
+veneto,non indicato,non denuncia,2024,6
+veneto,non indicato,non risponde,2023,2
+veneto,non indicato,non risponde,2024,1
+veneto,non indicato,non disponibile,2023,9
+veneto,non indicato,non disponibile,2024,16
+friuli venezia giulia,maschi,denuncia,2015,2
+friuli venezia giulia,maschi,denuncia,2018,1
+friuli venezia giulia,maschi,denuncia,2019,1
+friuli venezia giulia,maschi,denuncia,2020,1
+friuli venezia giulia,maschi,denuncia,2021,2
+friuli venezia giulia,maschi,non denuncia,2015,2
+friuli venezia giulia,maschi,non denuncia,2016,1
+friuli venezia giulia,maschi,non denuncia,2017,2
+friuli venezia giulia,maschi,non denuncia,2018,3
+friuli venezia giulia,maschi,non denuncia,2019,3
+friuli venezia giulia,maschi,non denuncia,2020,6
+friuli venezia giulia,maschi,non denuncia,2021,2
+friuli venezia giulia,maschi,non denuncia,2022,2
+friuli venezia giulia,maschi,non denuncia,2023,4
+friuli venezia giulia,maschi,non denuncia,2024,2
+friuli venezia giulia,maschi,non disponibile,2015,2
+friuli venezia giulia,maschi,non disponibile,2019,1
+friuli venezia giulia,maschi,non disponibile,2020,3
+friuli venezia giulia,femmine,denuncia,2015,14
+friuli venezia giulia,femmine,denuncia,2016,4
+friuli venezia giulia,femmine,denuncia,2017,8
+friuli venezia giulia,femmine,denuncia,2018,6
+friuli venezia giulia,femmine,denuncia,2019,15
+friuli venezia giulia,femmine,denuncia,2020,7
+friuli venezia giulia,femmine,denuncia,2021,25
+friuli venezia giulia,femmine,denuncia,2022,17
+friuli venezia giulia,femmine,denuncia,2023,12
+friuli venezia giulia,femmine,denuncia,2024,21
+friuli venezia giulia,femmine,ritira la denuncia,2015,4
+friuli venezia giulia,femmine,ritira la denuncia,2016,8
+friuli venezia giulia,femmine,ritira la denuncia,2017,2
+friuli venezia giulia,femmine,ritira la denuncia,2018,2
+friuli venezia giulia,femmine,ritira la denuncia,2019,4
+friuli venezia giulia,femmine,ritira la denuncia,2020,4
+friuli venezia giulia,femmine,ritira la denuncia,2021,4
+friuli venezia giulia,femmine,ritira la denuncia,2022,3
+friuli venezia giulia,femmine,ritira la denuncia,2023,4
+friuli venezia giulia,femmine,ritira la denuncia,2024,13
+friuli venezia giulia,femmine,non denuncia,2015,77
+friuli venezia giulia,femmine,non denuncia,2016,98
+friuli venezia giulia,femmine,non denuncia,2017,87
+friuli venezia giulia,femmine,non denuncia,2018,113
+friuli venezia giulia,femmine,non denuncia,2019,81
+friuli venezia giulia,femmine,non denuncia,2020,109
+friuli venezia giulia,femmine,non denuncia,2021,104
+friuli venezia giulia,femmine,non denuncia,2022,100
+friuli venezia giulia,femmine,non denuncia,2023,136
+friuli venezia giulia,femmine,non denuncia,2024,214
+friuli venezia giulia,femmine,non risponde,2015,2
+friuli venezia giulia,femmine,non risponde,2017,2
+friuli venezia giulia,femmine,non risponde,2018,1
+friuli venezia giulia,femmine,non risponde,2020,1
+friuli venezia giulia,femmine,non risponde,2021,3
+friuli venezia giulia,femmine,non risponde,2022,2
+friuli venezia giulia,femmine,non risponde,2023,14
+friuli venezia giulia,femmine,non risponde,2024,11
+friuli venezia giulia,femmine,non disponibile,2015,12
+friuli venezia giulia,femmine,non disponibile,2016,8
+friuli venezia giulia,femmine,non disponibile,2017,7
+friuli venezia giulia,femmine,non disponibile,2018,6
+friuli venezia giulia,femmine,non disponibile,2019,6
+friuli venezia giulia,femmine,non disponibile,2020,40
+friuli venezia giulia,femmine,non disponibile,2021,33
+friuli venezia giulia,femmine,non disponibile,2022,8
+friuli venezia giulia,femmine,non disponibile,2023,2
+friuli venezia giulia,femmine,non disponibile,2024,2
+friuli venezia giulia,non indicato,non denuncia,2024,1
+friuli venezia giulia,non indicato,non risponde,2023,2
+friuli venezia giulia,non indicato,non disponibile,2023,1
+friuli venezia giulia,non indicato,non disponibile,2024,5
+emilia romagna,maschi,denuncia,2015,2
+emilia romagna,maschi,denuncia,2016,3
+emilia romagna,maschi,denuncia,2017,2
+emilia romagna,maschi,denuncia,2018,2
+emilia romagna,maschi,denuncia,2020,2
+emilia romagna,maschi,denuncia,2021,3
+emilia romagna,maschi,denuncia,2022,1
+emilia romagna,maschi,denuncia,2023,3
+emilia romagna,maschi,denuncia,2024,1
+emilia romagna,maschi,ritira la denuncia,2017,1
+emilia romagna,maschi,ritira la denuncia,2020,1
+emilia romagna,maschi,ritira la denuncia,2023,1
+emilia romagna,maschi,non denuncia,2015,15
+emilia romagna,maschi,non denuncia,2016,16
+emilia romagna,maschi,non denuncia,2017,11
+emilia romagna,maschi,non denuncia,2018,3
+emilia romagna,maschi,non denuncia,2019,10
+emilia romagna,maschi,non denuncia,2020,20
+emilia romagna,maschi,non denuncia,2021,18
+emilia romagna,maschi,non denuncia,2022,12
+emilia romagna,maschi,non denuncia,2023,15
+emilia romagna,maschi,non denuncia,2024,21
+emilia romagna,maschi,non risponde,2019,1
+emilia romagna,maschi,non risponde,2023,5
+emilia romagna,maschi,non risponde,2024,1
+emilia romagna,maschi,non disponibile,2015,2
+emilia romagna,maschi,non disponibile,2016,1
+emilia romagna,maschi,non disponibile,2017,5
+emilia romagna,maschi,non disponibile,2018,4
+emilia romagna,maschi,non disponibile,2019,1
+emilia romagna,maschi,non disponibile,2020,8
+emilia romagna,maschi,non disponibile,2021,8
+emilia romagna,maschi,non disponibile,2022,4
+emilia romagna,maschi,non disponibile,2024,1
+emilia romagna,femmine,denuncia,2015,48
+emilia romagna,femmine,denuncia,2016,55
+emilia romagna,femmine,denuncia,2017,60
+emilia romagna,femmine,denuncia,2018,53
+emilia romagna,femmine,denuncia,2019,79
+emilia romagna,femmine,denuncia,2020,102
+emilia romagna,femmine,denuncia,2021,104
+emilia romagna,femmine,denuncia,2022,98
+emilia romagna,femmine,denuncia,2023,113
+emilia romagna,femmine,denuncia,2024,139
+emilia romagna,femmine,ritira la denuncia,2015,18
+emilia romagna,femmine,ritira la denuncia,2016,20
+emilia romagna,femmine,ritira la denuncia,2017,8
+emilia romagna,femmine,ritira la denuncia,2018,16
+emilia romagna,femmine,ritira la denuncia,2019,15
+emilia romagna,femmine,ritira la denuncia,2020,6
+emilia romagna,femmine,ritira la denuncia,2021,25
+emilia romagna,femmine,ritira la denuncia,2022,22
+emilia romagna,femmine,ritira la denuncia,2023,19
+emilia romagna,femmine,ritira la denuncia,2024,31
+emilia romagna,femmine,non denuncia,2015,350
+emilia romagna,femmine,non denuncia,2016,322
+emilia romagna,femmine,non denuncia,2017,296
+emilia romagna,femmine,non denuncia,2018,397
+emilia romagna,femmine,non denuncia,2019,341
+emilia romagna,femmine,non denuncia,2020,590
+emilia romagna,femmine,non denuncia,2021,689
+emilia romagna,femmine,non denuncia,2022,541
+emilia romagna,femmine,non denuncia,2023,633
+emilia romagna,femmine,non denuncia,2024,963
+emilia romagna,femmine,non risponde,2015,7
+emilia romagna,femmine,non risponde,2016,5
+emilia romagna,femmine,non risponde,2017,2
+emilia romagna,femmine,non risponde,2018,2
+emilia romagna,femmine,non risponde,2019,1
+emilia romagna,femmine,non risponde,2020,6
+emilia romagna,femmine,non risponde,2021,10
+emilia romagna,femmine,non risponde,2022,9
+emilia romagna,femmine,non risponde,2023,76
+emilia romagna,femmine,non risponde,2024,58
+emilia romagna,femmine,non disponibile,2015,14
+emilia romagna,femmine,non disponibile,2016,21
+emilia romagna,femmine,non disponibile,2017,28
+emilia romagna,femmine,non disponibile,2018,45
+emilia romagna,femmine,non disponibile,2019,43
+emilia romagna,femmine,non disponibile,2020,178
+emilia romagna,femmine,non disponibile,2021,137
+emilia romagna,femmine,non disponibile,2022,40
+emilia romagna,femmine,non disponibile,2023,12
+emilia romagna,femmine,non disponibile,2024,17
+emilia romagna,non indicato,denuncia,2023,2
+emilia romagna,non indicato,denuncia,2024,1
+emilia romagna,non indicato,non denuncia,2023,1
+emilia romagna,non indicato,non denuncia,2024,3
+emilia romagna,non indicato,non risponde,2023,2
+emilia romagna,non indicato,non risponde,2024,1
+emilia romagna,non indicato,non disponibile,2023,12
+emilia romagna,non indicato,non disponibile,2024,18
+centro,maschi,denuncia,2015,5
+centro,maschi,denuncia,2016,13
+centro,maschi,denuncia,2017,7
+centro,maschi,denuncia,2018,6
+centro,maschi,denuncia,2019,5
+centro,maschi,denuncia,2020,13
+centro,maschi,denuncia,2021,14
+centro,maschi,denuncia,2022,9
+centro,maschi,denuncia,2023,15
+centro,maschi,denuncia,2024,9
+centro,maschi,ritira la denuncia,2015,1
+centro,maschi,ritira la denuncia,2016,3
+centro,maschi,ritira la denuncia,2018,1
+centro,maschi,ritira la denuncia,2020,1
+centro,maschi,ritira la denuncia,2021,1
+centro,maschi,ritira la denuncia,2023,1
+centro,maschi,ritira la denuncia,2024,4
+centro,maschi,non denuncia,2015,44
+centro,maschi,non denuncia,2016,50
+centro,maschi,non denuncia,2017,45
+centro,maschi,non denuncia,2018,43
+centro,maschi,non denuncia,2019,40
+centro,maschi,non denuncia,2020,83
+centro,maschi,non denuncia,2021,65
+centro,maschi,non denuncia,2022,56
+centro,maschi,non denuncia,2023,49
+centro,maschi,non denuncia,2024,65
+centro,maschi,non risponde,2016,1
+centro,maschi,non risponde,2023,11
+centro,maschi,non risponde,2024,7
+centro,maschi,non disponibile,2015,6
+centro,maschi,non disponibile,2016,9
+centro,maschi,non disponibile,2017,11
+centro,maschi,non disponibile,2018,7
+centro,maschi,non disponibile,2019,3
+centro,maschi,non disponibile,2020,33
+centro,maschi,non disponibile,2021,21
+centro,maschi,non disponibile,2022,5
+centro,maschi,non disponibile,2024,2
+centro,femmine,denuncia,2015,248
+centro,femmine,denuncia,2016,273
+centro,femmine,denuncia,2017,253
+centro,femmine,denuncia,2018,320
+centro,femmine,denuncia,2019,281
+centro,femmine,denuncia,2020,352
+centro,femmine,denuncia,2021,541
+centro,femmine,denuncia,2022,382
+centro,femmine,denuncia,2023,447
+centro,femmine,denuncia,2024,499
+centro,femmine,ritira la denuncia,2015,62
+centro,femmine,ritira la denuncia,2016,60
+centro,femmine,ritira la denuncia,2017,53
+centro,femmine,ritira la denuncia,2018,48
+centro,femmine,ritira la denuncia,2019,58
+centro,femmine,ritira la denuncia,2020,62
+centro,femmine,ritira la denuncia,2021,78
+centro,femmine,ritira la denuncia,2022,67
+centro,femmine,ritira la denuncia,2023,51
+centro,femmine,ritira la denuncia,2024,93
+centro,femmine,non denuncia,2015,1297
+centro,femmine,non denuncia,2016,1250
+centro,femmine,non denuncia,2017,1095
+centro,femmine,non denuncia,2018,1560
+centro,femmine,non denuncia,2019,1490
+centro,femmine,non denuncia,2020,1922
+centro,femmine,non denuncia,2021,2237
+centro,femmine,non denuncia,2022,1904
+centro,femmine,non denuncia,2023,2253
+centro,femmine,non denuncia,2024,2731
+centro,femmine,non risponde,2015,10
+centro,femmine,non risponde,2016,8
+centro,femmine,non risponde,2017,9
+centro,femmine,non risponde,2018,4
+centro,femmine,non risponde,2019,10
+centro,femmine,non risponde,2020,33
+centro,femmine,non risponde,2021,39
+centro,femmine,non risponde,2022,52
+centro,femmine,non risponde,2023,269
+centro,femmine,non risponde,2024,186
+centro,femmine,non disponibile,2015,98
+centro,femmine,non disponibile,2016,87
+centro,femmine,non disponibile,2017,160
+centro,femmine,non disponibile,2018,164
+centro,femmine,non disponibile,2019,102
+centro,femmine,non disponibile,2020,684
+centro,femmine,non disponibile,2021,490
+centro,femmine,non disponibile,2022,168
+centro,femmine,non disponibile,2023,42
+centro,femmine,non disponibile,2024,64
+centro,non indicato,denuncia,2023,3
+centro,non indicato,denuncia,2024,1
+centro,non indicato,ritira la denuncia,2023,1
+centro,non indicato,non denuncia,2023,9
+centro,non indicato,non denuncia,2024,6
+centro,non indicato,non risponde,2023,11
+centro,non indicato,non risponde,2024,3
+centro,non indicato,non disponibile,2021,1
+centro,non indicato,non disponibile,2023,51
+centro,non indicato,non disponibile,2024,54
+toscana,maschi,denuncia,2015,1
+toscana,maschi,denuncia,2016,8
+toscana,maschi,denuncia,2017,2
+toscana,maschi,denuncia,2018,3
+toscana,maschi,denuncia,2020,4
+toscana,maschi,denuncia,2021,5
+toscana,maschi,denuncia,2022,4
+toscana,maschi,denuncia,2023,4
+toscana,maschi,denuncia,2024,2
+toscana,maschi,ritira la denuncia,2015,1
+toscana,maschi,ritira la denuncia,2016,1
+toscana,maschi,ritira la denuncia,2020,1
+toscana,maschi,ritira la denuncia,2024,1
+toscana,maschi,non denuncia,2015,7
+toscana,maschi,non denuncia,2016,10
+toscana,maschi,non denuncia,2017,17
+toscana,maschi,non denuncia,2018,10
+toscana,maschi,non denuncia,2019,3
+toscana,maschi,non denuncia,2020,28
+toscana,maschi,non denuncia,2021,25
+toscana,maschi,non denuncia,2022,18
+toscana,maschi,non denuncia,2023,12
+toscana,maschi,non denuncia,2024,18
+toscana,maschi,non risponde,2023,3
+toscana,maschi,non risponde,2024,1
+toscana,maschi,non disponibile,2015,1
+toscana,maschi,non disponibile,2016,2
+toscana,maschi,non disponibile,2017,4
+toscana,maschi,non disponibile,2018,1
+toscana,maschi,non disponibile,2020,7
+toscana,maschi,non disponibile,2021,1
+toscana,femmine,denuncia,2015,54
+toscana,femmine,denuncia,2016,48
+toscana,femmine,denuncia,2017,68
+toscana,femmine,denuncia,2018,74
+toscana,femmine,denuncia,2019,68
+toscana,femmine,denuncia,2020,90
+toscana,femmine,denuncia,2021,116
+toscana,femmine,denuncia,2022,88
+toscana,femmine,denuncia,2023,96
+toscana,femmine,denuncia,2024,135
+toscana,femmine,ritira la denuncia,2015,10
+toscana,femmine,ritira la denuncia,2016,13
+toscana,femmine,ritira la denuncia,2017,17
+toscana,femmine,ritira la denuncia,2018,12
+toscana,femmine,ritira la denuncia,2019,17
+toscana,femmine,ritira la denuncia,2020,19
+toscana,femmine,ritira la denuncia,2021,20
+toscana,femmine,ritira la denuncia,2022,21
+toscana,femmine,ritira la denuncia,2023,11
+toscana,femmine,ritira la denuncia,2024,18
+toscana,femmine,non denuncia,2015,295
+toscana,femmine,non denuncia,2016,247
+toscana,femmine,non denuncia,2017,299
+toscana,femmine,non denuncia,2018,428
+toscana,femmine,non denuncia,2019,397
+toscana,femmine,non denuncia,2020,533
+toscana,femmine,non denuncia,2021,571
+toscana,femmine,non denuncia,2022,452
+toscana,femmine,non denuncia,2023,545
+toscana,femmine,non denuncia,2024,778
+toscana,femmine,non risponde,2015,1
+toscana,femmine,non risponde,2016,1
+toscana,femmine,non risponde,2017,3
+toscana,femmine,non risponde,2018,1
+toscana,femmine,non risponde,2019,4
+toscana,femmine,non risponde,2020,9
+toscana,femmine,non risponde,2021,14
+toscana,femmine,non risponde,2022,10
+toscana,femmine,non risponde,2023,63
+toscana,femmine,non risponde,2024,55
+toscana,femmine,non disponibile,2015,19
+toscana,femmine,non disponibile,2016,14
+toscana,femmine,non disponibile,2017,40
+toscana,femmine,non disponibile,2018,44
+toscana,femmine,non disponibile,2019,30
+toscana,femmine,non disponibile,2020,178
+toscana,femmine,non disponibile,2021,106
+toscana,femmine,non disponibile,2022,45
+toscana,femmine,non disponibile,2023,9
+toscana,femmine,non disponibile,2024,9
+toscana,non indicato,non denuncia,2023,2
+toscana,non indicato,non denuncia,2024,3
+toscana,non indicato,non risponde,2023,2
+toscana,non indicato,non disponibile,2023,12
+toscana,non indicato,non disponibile,2024,14
+umbria,maschi,denuncia,2015,1
+umbria,maschi,denuncia,2017,1
+umbria,maschi,denuncia,2024,1
+umbria,maschi,non denuncia,2015,3
+umbria,maschi,non denuncia,2016,3
+umbria,maschi,non denuncia,2017,4
+umbria,maschi,non denuncia,2018,2
+umbria,maschi,non denuncia,2019,3
+umbria,maschi,non denuncia,2020,1
+umbria,maschi,non denuncia,2021,1
+umbria,maschi,non denuncia,2022,5
+umbria,maschi,non denuncia,2023,3
+umbria,maschi,non denuncia,2024,2
+umbria,maschi,non disponibile,2019,1
+umbria,maschi,non disponibile,2020,1
+umbria,femmine,denuncia,2015,14
+umbria,femmine,denuncia,2016,19
+umbria,femmine,denuncia,2017,12
+umbria,femmine,denuncia,2018,14
+umbria,femmine,denuncia,2019,13
+umbria,femmine,denuncia,2020,14
+umbria,femmine,denuncia,2021,23
+umbria,femmine,denuncia,2022,26
+umbria,femmine,denuncia,2023,23
+umbria,femmine,denuncia,2024,28
+umbria,femmine,ritira la denuncia,2015,4
+umbria,femmine,ritira la denuncia,2016,4
+umbria,femmine,ritira la denuncia,2017,3
+umbria,femmine,ritira la denuncia,2018,2
+umbria,femmine,ritira la denuncia,2019,2
+umbria,femmine,ritira la denuncia,2020,5
+umbria,femmine,ritira la denuncia,2021,4
+umbria,femmine,ritira la denuncia,2022,2
+umbria,femmine,ritira la denuncia,2023,5
+umbria,femmine,ritira la denuncia,2024,6
+umbria,femmine,non denuncia,2015,90
+umbria,femmine,non denuncia,2016,67
+umbria,femmine,non denuncia,2017,69
+umbria,femmine,non denuncia,2018,92
+umbria,femmine,non denuncia,2019,82
+umbria,femmine,non denuncia,2020,93
+umbria,femmine,non denuncia,2021,116
+umbria,femmine,non denuncia,2022,112
+umbria,femmine,non denuncia,2023,154
+umbria,femmine,non denuncia,2024,163
+umbria,femmine,non risponde,2015,1
+umbria,femmine,non risponde,2020,1
+umbria,femmine,non risponde,2021,3
+umbria,femmine,non risponde,2022,3
+umbria,femmine,non risponde,2023,13
+umbria,femmine,non risponde,2024,11
+umbria,femmine,non disponibile,2015,3
+umbria,femmine,non disponibile,2016,4
+umbria,femmine,non disponibile,2017,16
+umbria,femmine,non disponibile,2018,8
+umbria,femmine,non disponibile,2019,2
+umbria,femmine,non disponibile,2020,29
+umbria,femmine,non disponibile,2021,25
+umbria,femmine,non disponibile,2022,6
+umbria,femmine,non disponibile,2023,1
+umbria,femmine,non disponibile,2024,4
+umbria,non indicato,non disponibile,2023,1
+umbria,non indicato,non disponibile,2024,5
+marche,maschi,denuncia,2015,2
+marche,maschi,denuncia,2016,1
+marche,maschi,denuncia,2018,1
+marche,maschi,denuncia,2020,2
+marche,maschi,denuncia,2023,1
+marche,maschi,denuncia,2024,1
+marche,maschi,ritira la denuncia,2016,1
+marche,maschi,ritira la denuncia,2024,1
+marche,maschi,non denuncia,2015,4
+marche,maschi,non denuncia,2016,6
+marche,maschi,non denuncia,2017,2
+marche,maschi,non denuncia,2018,3
+marche,maschi,non denuncia,2019,4
+marche,maschi,non denuncia,2020,9
+marche,maschi,non denuncia,2021,7
+marche,maschi,non denuncia,2022,6
+marche,maschi,non denuncia,2023,5
+marche,maschi,non denuncia,2024,8
+marche,maschi,non risponde,2023,1
+marche,maschi,non disponibile,2016,1
+marche,maschi,non disponibile,2020,5
+marche,maschi,non disponibile,2021,3
+marche,maschi,non disponibile,2022,2
+marche,femmine,denuncia,2015,30
+marche,femmine,denuncia,2016,29
+marche,femmine,denuncia,2017,21
+marche,femmine,denuncia,2018,23
+marche,femmine,denuncia,2019,14
+marche,femmine,denuncia,2020,44
+marche,femmine,denuncia,2021,47
+marche,femmine,denuncia,2022,48
+marche,femmine,denuncia,2023,36
+marche,femmine,denuncia,2024,44
+marche,femmine,ritira la denuncia,2015,11
+marche,femmine,ritira la denuncia,2016,8
+marche,femmine,ritira la denuncia,2017,6
+marche,femmine,ritira la denuncia,2018,4
+marche,femmine,ritira la denuncia,2019,5
+marche,femmine,ritira la denuncia,2020,6
+marche,femmine,ritira la denuncia,2021,10
+marche,femmine,ritira la denuncia,2022,4
+marche,femmine,ritira la denuncia,2023,3
+marche,femmine,ritira la denuncia,2024,14
+marche,femmine,non denuncia,2015,156
+marche,femmine,non denuncia,2016,156
+marche,femmine,non denuncia,2017,126
+marche,femmine,non denuncia,2018,181
+marche,femmine,non denuncia,2019,150
+marche,femmine,non denuncia,2020,173
+marche,femmine,non denuncia,2021,237
+marche,femmine,non denuncia,2022,184
+marche,femmine,non denuncia,2023,198
+marche,femmine,non denuncia,2024,274
+marche,femmine,non risponde,2017,1
+marche,femmine,non risponde,2020,4
+marche,femmine,non risponde,2022,5
+marche,femmine,non risponde,2023,25
+marche,femmine,non risponde,2024,19
+marche,femmine,non disponibile,2015,18
+marche,femmine,non disponibile,2016,10
+marche,femmine,non disponibile,2017,17
+marche,femmine,non disponibile,2018,18
+marche,femmine,non disponibile,2019,12
+marche,femmine,non disponibile,2020,58
+marche,femmine,non disponibile,2021,49
+marche,femmine,non disponibile,2022,15
+marche,femmine,non disponibile,2023,5
+marche,femmine,non disponibile,2024,10
+marche,non indicato,denuncia,2023,1
+marche,non indicato,non denuncia,2024,1
+marche,non indicato,non disponibile,2023,4
+marche,non indicato,non disponibile,2024,6
+lazio,maschi,denuncia,2015,1
+lazio,maschi,denuncia,2016,4
+lazio,maschi,denuncia,2017,4
+lazio,maschi,denuncia,2018,2
+lazio,maschi,denuncia,2019,5
+lazio,maschi,denuncia,2020,7
+lazio,maschi,denuncia,2021,9
+lazio,maschi,denuncia,2022,5
+lazio,maschi,denuncia,2023,10
+lazio,maschi,denuncia,2024,5
+lazio,maschi,ritira la denuncia,2016,1
+lazio,maschi,ritira la denuncia,2018,1
+lazio,maschi,ritira la denuncia,2021,1
+lazio,maschi,ritira la denuncia,2023,1
+lazio,maschi,ritira la denuncia,2024,2
+lazio,maschi,non denuncia,2015,30
+lazio,maschi,non denuncia,2016,31
+lazio,maschi,non denuncia,2017,22
+lazio,maschi,non denuncia,2018,28
+lazio,maschi,non denuncia,2019,30
+lazio,maschi,non denuncia,2020,45
+lazio,maschi,non denuncia,2021,32
+lazio,maschi,non denuncia,2022,27
+lazio,maschi,non denuncia,2023,29
+lazio,maschi,non denuncia,2024,37
+lazio,maschi,non risponde,2016,1
+lazio,maschi,non risponde,2023,7
+lazio,maschi,non risponde,2024,6
+lazio,maschi,non disponibile,2015,5
+lazio,maschi,non disponibile,2016,6
+lazio,maschi,non disponibile,2017,7
+lazio,maschi,non disponibile,2018,6
+lazio,maschi,non disponibile,2019,2
+lazio,maschi,non disponibile,2020,20
+lazio,maschi,non disponibile,2021,17
+lazio,maschi,non disponibile,2022,3
+lazio,maschi,non disponibile,2024,2
+lazio,femmine,denuncia,2015,150
+lazio,femmine,denuncia,2016,177
+lazio,femmine,denuncia,2017,152
+lazio,femmine,denuncia,2018,209
+lazio,femmine,denuncia,2019,186
+lazio,femmine,denuncia,2020,204
+lazio,femmine,denuncia,2021,355
+lazio,femmine,denuncia,2022,220
+lazio,femmine,denuncia,2023,292
+lazio,femmine,denuncia,2024,292
+lazio,femmine,ritira la denuncia,2015,37
+lazio,femmine,ritira la denuncia,2016,35
+lazio,femmine,ritira la denuncia,2017,27
+lazio,femmine,ritira la denuncia,2018,30
+lazio,femmine,ritira la denuncia,2019,34
+lazio,femmine,ritira la denuncia,2020,32
+lazio,femmine,ritira la denuncia,2021,44
+lazio,femmine,ritira la denuncia,2022,40
+lazio,femmine,ritira la denuncia,2023,32
+lazio,femmine,ritira la denuncia,2024,55
+lazio,femmine,non denuncia,2015,756
+lazio,femmine,non denuncia,2016,780
+lazio,femmine,non denuncia,2017,601
+lazio,femmine,non denuncia,2018,859
+lazio,femmine,non denuncia,2019,861
+lazio,femmine,non denuncia,2020,1123
+lazio,femmine,non denuncia,2021,1313
+lazio,femmine,non denuncia,2022,1156
+lazio,femmine,non denuncia,2023,1356
+lazio,femmine,non denuncia,2024,1516
+lazio,femmine,non risponde,2015,8
+lazio,femmine,non risponde,2016,7
+lazio,femmine,non risponde,2017,5
+lazio,femmine,non risponde,2018,3
+lazio,femmine,non risponde,2019,6
+lazio,femmine,non risponde,2020,19
+lazio,femmine,non risponde,2021,22
+lazio,femmine,non risponde,2022,34
+lazio,femmine,non risponde,2023,168
+lazio,femmine,non risponde,2024,101
+lazio,femmine,non disponibile,2015,58
+lazio,femmine,non disponibile,2016,59
+lazio,femmine,non disponibile,2017,87
+lazio,femmine,non disponibile,2018,94
+lazio,femmine,non disponibile,2019,58
+lazio,femmine,non disponibile,2020,419
+lazio,femmine,non disponibile,2021,310
+lazio,femmine,non disponibile,2022,102
+lazio,femmine,non disponibile,2023,27
+lazio,femmine,non disponibile,2024,41
+lazio,non indicato,denuncia,2023,2
+lazio,non indicato,denuncia,2024,1
+lazio,non indicato,ritira la denuncia,2023,1
+lazio,non indicato,non denuncia,2023,7
+lazio,non indicato,non denuncia,2024,2
+lazio,non indicato,non risponde,2023,9
+lazio,non indicato,non risponde,2024,3
+lazio,non indicato,non disponibile,2021,1
+lazio,non indicato,non disponibile,2023,34
+lazio,non indicato,non disponibile,2024,29
+sud,maschi,denuncia,2015,14
+sud,maschi,denuncia,2016,6
+sud,maschi,denuncia,2017,9
+sud,maschi,denuncia,2018,8
+sud,maschi,denuncia,2019,4
+sud,maschi,denuncia,2020,9
+sud,maschi,denuncia,2021,10
+sud,maschi,denuncia,2022,6
+sud,maschi,denuncia,2023,3
+sud,maschi,denuncia,2024,11
+sud,maschi,ritira la denuncia,2015,1
+sud,maschi,ritira la denuncia,2016,2
+sud,maschi,ritira la denuncia,2018,1
+sud,maschi,ritira la denuncia,2020,4
+sud,maschi,ritira la denuncia,2021,2
+sud,maschi,ritira la denuncia,2023,1
+sud,maschi,ritira la denuncia,2024,1
+sud,maschi,non denuncia,2015,46
+sud,maschi,non denuncia,2016,49
+sud,maschi,non denuncia,2017,33
+sud,maschi,non denuncia,2018,41
+sud,maschi,non denuncia,2019,35
+sud,maschi,non denuncia,2020,43
+sud,maschi,non denuncia,2021,52
+sud,maschi,non denuncia,2022,23
+sud,maschi,non denuncia,2023,45
+sud,maschi,non denuncia,2024,60
+sud,maschi,non risponde,2021,1
+sud,maschi,non risponde,2022,1
+sud,maschi,non risponde,2023,5
+sud,maschi,non risponde,2024,7
+sud,maschi,non disponibile,2015,12
+sud,maschi,non disponibile,2016,9
+sud,maschi,non disponibile,2017,10
+sud,maschi,non disponibile,2018,12
+sud,maschi,non disponibile,2019,4
+sud,maschi,non disponibile,2020,26
+sud,maschi,non disponibile,2021,19
+sud,maschi,non disponibile,2022,8
+sud,maschi,non disponibile,2024,1
+sud,femmine,denuncia,2015,277
+sud,femmine,denuncia,2016,276
+sud,femmine,denuncia,2017,248
+sud,femmine,denuncia,2018,299
+sud,femmine,denuncia,2019,318
+sud,femmine,denuncia,2020,365
+sud,femmine,denuncia,2021,468
+sud,femmine,denuncia,2022,327
+sud,femmine,denuncia,2023,394
+sud,femmine,denuncia,2024,396
+sud,femmine,ritira la denuncia,2015,85
+sud,femmine,ritira la denuncia,2016,88
+sud,femmine,ritira la denuncia,2017,48
+sud,femmine,ritira la denuncia,2018,90
+sud,femmine,ritira la denuncia,2019,77
+sud,femmine,ritira la denuncia,2020,71
+sud,femmine,ritira la denuncia,2021,86
+sud,femmine,ritira la denuncia,2022,70
+sud,femmine,ritira la denuncia,2023,67
+sud,femmine,ritira la denuncia,2024,98
+sud,femmine,non denuncia,2015,1312
+sud,femmine,non denuncia,2016,1215
+sud,femmine,non denuncia,2017,1111
+sud,femmine,non denuncia,2018,1467
+sud,femmine,non denuncia,2019,1275
+sud,femmine,non denuncia,2020,1816
+sud,femmine,non denuncia,2021,2009
+sud,femmine,non denuncia,2022,1626
+sud,femmine,non denuncia,2023,1657
+sud,femmine,non denuncia,2024,2156
+sud,femmine,non risponde,2015,13
+sud,femmine,non risponde,2016,10
+sud,femmine,non risponde,2017,6
+sud,femmine,non risponde,2018,3
+sud,femmine,non risponde,2019,7
+sud,femmine,non risponde,2020,26
+sud,femmine,non risponde,2021,40
+sud,femmine,non risponde,2022,33
+sud,femmine,non risponde,2023,230
+sud,femmine,non risponde,2024,125
+sud,femmine,non disponibile,2015,123
+sud,femmine,non disponibile,2016,121
+sud,femmine,non disponibile,2017,128
+sud,femmine,non disponibile,2018,178
+sud,femmine,non disponibile,2019,129
+sud,femmine,non disponibile,2020,604
+sud,femmine,non disponibile,2021,402
+sud,femmine,non disponibile,2022,140
+sud,femmine,non disponibile,2023,29
+sud,femmine,non disponibile,2024,62
+sud,non indicato,denuncia,2023,1
+sud,non indicato,denuncia,2024,3
+sud,non indicato,non denuncia,2023,1
+sud,non indicato,non denuncia,2024,5
+sud,non indicato,non risponde,2023,7
+sud,non indicato,non risponde,2024,1
+sud,non indicato,non disponibile,2023,41
+sud,non indicato,non disponibile,2024,43
+abruzzo,maschi,denuncia,2016,1
+abruzzo,maschi,denuncia,2017,3
+abruzzo,maschi,denuncia,2020,3
+abruzzo,maschi,non denuncia,2015,8
+abruzzo,maschi,non denuncia,2016,7
+abruzzo,maschi,non denuncia,2017,3
+abruzzo,maschi,non denuncia,2018,5
+abruzzo,maschi,non denuncia,2020,6
+abruzzo,maschi,non denuncia,2021,7
+abruzzo,maschi,non denuncia,2022,4
+abruzzo,maschi,non denuncia,2023,4
+abruzzo,maschi,non denuncia,2024,11
+abruzzo,maschi,non risponde,2021,1
+abruzzo,maschi,non risponde,2023,1
+abruzzo,maschi,non disponibile,2015,4
+abruzzo,maschi,non disponibile,2016,3
+abruzzo,maschi,non disponibile,2017,1
+abruzzo,maschi,non disponibile,2018,2
+abruzzo,maschi,non disponibile,2020,1
+abruzzo,maschi,non disponibile,2021,1
+abruzzo,femmine,denuncia,2015,20
+abruzzo,femmine,denuncia,2016,23
+abruzzo,femmine,denuncia,2017,26
+abruzzo,femmine,denuncia,2018,22
+abruzzo,femmine,denuncia,2019,32
+abruzzo,femmine,denuncia,2020,26
+abruzzo,femmine,denuncia,2021,48
+abruzzo,femmine,denuncia,2022,26
+abruzzo,femmine,denuncia,2023,41
+abruzzo,femmine,denuncia,2024,37
+abruzzo,femmine,ritira la denuncia,2015,5
+abruzzo,femmine,ritira la denuncia,2016,10
+abruzzo,femmine,ritira la denuncia,2017,3
+abruzzo,femmine,ritira la denuncia,2018,4
+abruzzo,femmine,ritira la denuncia,2019,5
+abruzzo,femmine,ritira la denuncia,2020,10
+abruzzo,femmine,ritira la denuncia,2021,8
+abruzzo,femmine,ritira la denuncia,2022,5
+abruzzo,femmine,ritira la denuncia,2023,15
+abruzzo,femmine,ritira la denuncia,2024,10
+abruzzo,femmine,non denuncia,2015,128
+abruzzo,femmine,non denuncia,2016,129
+abruzzo,femmine,non denuncia,2017,135
+abruzzo,femmine,non denuncia,2018,169
+abruzzo,femmine,non denuncia,2019,131
+abruzzo,femmine,non denuncia,2020,199
+abruzzo,femmine,non denuncia,2021,193
+abruzzo,femmine,non denuncia,2022,184
+abruzzo,femmine,non denuncia,2023,187
+abruzzo,femmine,non denuncia,2024,196
+abruzzo,femmine,non risponde,2015,2
+abruzzo,femmine,non risponde,2016,2
+abruzzo,femmine,non risponde,2019,1
+abruzzo,femmine,non risponde,2020,1
+abruzzo,femmine,non risponde,2021,4
+abruzzo,femmine,non risponde,2022,7
+abruzzo,femmine,non risponde,2023,25
+abruzzo,femmine,non risponde,2024,11
+abruzzo,femmine,non disponibile,2015,16
+abruzzo,femmine,non disponibile,2016,11
+abruzzo,femmine,non disponibile,2017,10
+abruzzo,femmine,non disponibile,2018,22
+abruzzo,femmine,non disponibile,2019,19
+abruzzo,femmine,non disponibile,2020,53
+abruzzo,femmine,non disponibile,2021,37
+abruzzo,femmine,non disponibile,2022,13
+abruzzo,femmine,non disponibile,2023,4
+abruzzo,femmine,non disponibile,2024,4
+abruzzo,non indicato,non denuncia,2024,1
+abruzzo,non indicato,non risponde,2023,1
+abruzzo,non indicato,non disponibile,2023,4
+abruzzo,non indicato,non disponibile,2024,5
+molise,maschi,denuncia,2015,1
+molise,maschi,denuncia,2017,1
+molise,maschi,denuncia,2018,1
+molise,maschi,denuncia,2019,1
+molise,maschi,ritira la denuncia,2020,2
+molise,maschi,non denuncia,2016,1
+molise,maschi,non denuncia,2017,1
+molise,maschi,non denuncia,2019,1
+molise,maschi,non denuncia,2020,2
+molise,maschi,non denuncia,2021,1
+molise,maschi,non denuncia,2024,2
+molise,femmine,denuncia,2015,5
+molise,femmine,denuncia,2016,2
+molise,femmine,denuncia,2017,6
+molise,femmine,denuncia,2018,1
+molise,femmine,denuncia,2019,2
+molise,femmine,denuncia,2020,8
+molise,femmine,denuncia,2021,8
+molise,femmine,denuncia,2022,6
+molise,femmine,denuncia,2023,10
+molise,femmine,denuncia,2024,8
+molise,femmine,ritira la denuncia,2015,1
+molise,femmine,ritira la denuncia,2016,1
+molise,femmine,ritira la denuncia,2019,2
+molise,femmine,ritira la denuncia,2020,2
+molise,femmine,ritira la denuncia,2022,3
+molise,femmine,ritira la denuncia,2024,3
+molise,femmine,non denuncia,2015,26
+molise,femmine,non denuncia,2016,26
+molise,femmine,non denuncia,2017,10
+molise,femmine,non denuncia,2018,21
+molise,femmine,non denuncia,2019,25
+molise,femmine,non denuncia,2020,29
+molise,femmine,non denuncia,2021,24
+molise,femmine,non denuncia,2022,24
+molise,femmine,non denuncia,2023,35
+molise,femmine,non denuncia,2024,44
+molise,femmine,non risponde,2015,1
+molise,femmine,non risponde,2021,2
+molise,femmine,non risponde,2023,2
+molise,femmine,non risponde,2024,1
+molise,femmine,non disponibile,2015,4
+molise,femmine,non disponibile,2016,2
+molise,femmine,non disponibile,2017,2
+molise,femmine,non disponibile,2018,1
+molise,femmine,non disponibile,2019,2
+molise,femmine,non disponibile,2020,6
+molise,femmine,non disponibile,2021,6
+molise,femmine,non disponibile,2022,2
+molise,non indicato,denuncia,2024,1
+molise,non indicato,non disponibile,2023,1
+molise,non indicato,non disponibile,2024,2
+campania,maschi,denuncia,2015,10
+campania,maschi,denuncia,2016,3
+campania,maschi,denuncia,2017,5
+campania,maschi,denuncia,2018,3
+campania,maschi,denuncia,2020,2
+campania,maschi,denuncia,2021,6
+campania,maschi,denuncia,2022,4
+campania,maschi,denuncia,2023,2
+campania,maschi,denuncia,2024,3
+campania,maschi,ritira la denuncia,2015,1
+campania,maschi,ritira la denuncia,2016,1
+campania,maschi,ritira la denuncia,2023,1
+campania,maschi,non denuncia,2015,19
+campania,maschi,non denuncia,2016,24
+campania,maschi,non denuncia,2017,14
+campania,maschi,non denuncia,2018,18
+campania,maschi,non denuncia,2019,18
+campania,maschi,non denuncia,2020,15
+campania,maschi,non denuncia,2021,22
+campania,maschi,non denuncia,2022,11
+campania,maschi,non denuncia,2023,17
+campania,maschi,non denuncia,2024,29
+campania,maschi,non risponde,2022,1
+campania,maschi,non risponde,2023,2
+campania,maschi,non risponde,2024,6
+campania,maschi,non disponibile,2016,4
+campania,maschi,non disponibile,2017,4
+campania,maschi,non disponibile,2018,9
+campania,maschi,non disponibile,2019,1
+campania,maschi,non disponibile,2020,11
+campania,maschi,non disponibile,2021,7
+campania,maschi,non disponibile,2022,7
+campania,maschi,non disponibile,2024,1
+campania,femmine,denuncia,2015,133
+campania,femmine,denuncia,2016,146
+campania,femmine,denuncia,2017,114
+campania,femmine,denuncia,2018,151
+campania,femmine,denuncia,2019,159
+campania,femmine,denuncia,2020,158
+campania,femmine,denuncia,2021,223
+campania,femmine,denuncia,2022,158
+campania,femmine,denuncia,2023,185
+campania,femmine,denuncia,2024,189
+campania,femmine,ritira la denuncia,2015,46
+campania,femmine,ritira la denuncia,2016,47
+campania,femmine,ritira la denuncia,2017,29
+campania,femmine,ritira la denuncia,2018,50
+campania,femmine,ritira la denuncia,2019,35
+campania,femmine,ritira la denuncia,2020,28
+campania,femmine,ritira la denuncia,2021,50
+campania,femmine,ritira la denuncia,2022,37
+campania,femmine,ritira la denuncia,2023,28
+campania,femmine,ritira la denuncia,2024,47
+campania,femmine,non denuncia,2015,628
+campania,femmine,non denuncia,2016,559
+campania,femmine,non denuncia,2017,510
+campania,femmine,non denuncia,2018,680
+campania,femmine,non denuncia,2019,591
+campania,femmine,non denuncia,2020,811
+campania,femmine,non denuncia,2021,892
+campania,femmine,non denuncia,2022,694
+campania,femmine,non denuncia,2023,703
+campania,femmine,non denuncia,2024,972
+campania,femmine,non risponde,2015,5
+campania,femmine,non risponde,2016,5
+campania,femmine,non risponde,2017,4
+campania,femmine,non risponde,2018,2
+campania,femmine,non risponde,2019,1
+campania,femmine,non risponde,2020,16
+campania,femmine,non risponde,2021,18
+campania,femmine,non risponde,2022,11
+campania,femmine,non risponde,2023,99
+campania,femmine,non risponde,2024,49
+campania,femmine,non disponibile,2015,62
+campania,femmine,non disponibile,2016,73
+campania,femmine,non disponibile,2017,65
+campania,femmine,non disponibile,2018,77
+campania,femmine,non disponibile,2019,59
+campania,femmine,non disponibile,2020,282
+campania,femmine,non disponibile,2021,189
+campania,femmine,non disponibile,2022,68
+campania,femmine,non disponibile,2023,18
+campania,femmine,non disponibile,2024,30
+campania,non indicato,denuncia,2024,1
+campania,non indicato,non denuncia,2023,1
+campania,non indicato,non denuncia,2024,3
+campania,non indicato,non risponde,2023,4
+campania,non indicato,non disponibile,2023,23
+campania,non indicato,non disponibile,2024,15
+puglia,maschi,denuncia,2015,2
+puglia,maschi,denuncia,2016,2
+puglia,maschi,denuncia,2018,3
+puglia,maschi,denuncia,2019,2
+puglia,maschi,denuncia,2020,1
+puglia,maschi,denuncia,2021,3
+puglia,maschi,denuncia,2024,8
+puglia,maschi,ritira la denuncia,2016,1
+puglia,maschi,ritira la denuncia,2018,1
+puglia,maschi,ritira la denuncia,2020,2
+puglia,maschi,ritira la denuncia,2021,2
+puglia,maschi,ritira la denuncia,2024,1
+puglia,maschi,non denuncia,2015,16
+puglia,maschi,non denuncia,2016,9
+puglia,maschi,non denuncia,2017,11
+puglia,maschi,non denuncia,2018,16
+puglia,maschi,non denuncia,2019,12
+puglia,maschi,non denuncia,2020,15
+puglia,maschi,non denuncia,2021,11
+puglia,maschi,non denuncia,2022,6
+puglia,maschi,non denuncia,2023,17
+puglia,maschi,non denuncia,2024,14
+puglia,maschi,non risponde,2023,2
+puglia,maschi,non disponibile,2015,6
+puglia,maschi,non disponibile,2016,2
+puglia,maschi,non disponibile,2017,3
+puglia,maschi,non disponibile,2018,1
+puglia,maschi,non disponibile,2019,2
+puglia,maschi,non disponibile,2020,14
+puglia,maschi,non disponibile,2021,7
+puglia,maschi,non disponibile,2022,1
+puglia,femmine,denuncia,2015,83
+puglia,femmine,denuncia,2016,66
+puglia,femmine,denuncia,2017,67
+puglia,femmine,denuncia,2018,90
+puglia,femmine,denuncia,2019,73
+puglia,femmine,denuncia,2020,95
+puglia,femmine,denuncia,2021,108
+puglia,femmine,denuncia,2022,82
+puglia,femmine,denuncia,2023,86
+puglia,femmine,denuncia,2024,94
+puglia,femmine,ritira la denuncia,2015,27
+puglia,femmine,ritira la denuncia,2016,21
+puglia,femmine,ritira la denuncia,2017,9
+puglia,femmine,ritira la denuncia,2018,28
+puglia,femmine,ritira la denuncia,2019,20
+puglia,femmine,ritira la denuncia,2020,19
+puglia,femmine,ritira la denuncia,2021,20
+puglia,femmine,ritira la denuncia,2022,15
+puglia,femmine,ritira la denuncia,2023,15
+puglia,femmine,ritira la denuncia,2024,30
+puglia,femmine,non denuncia,2015,352
+puglia,femmine,non denuncia,2016,330
+puglia,femmine,non denuncia,2017,302
+puglia,femmine,non denuncia,2018,418
+puglia,femmine,non denuncia,2019,336
+puglia,femmine,non denuncia,2020,522
+puglia,femmine,non denuncia,2021,627
+puglia,femmine,non denuncia,2022,483
+puglia,femmine,non denuncia,2023,502
+puglia,femmine,non denuncia,2024,694
+puglia,femmine,non risponde,2015,3
+puglia,femmine,non risponde,2016,2
+puglia,femmine,non risponde,2017,2
+puglia,femmine,non risponde,2018,1
+puglia,femmine,non risponde,2019,2
+puglia,femmine,non risponde,2020,9
+puglia,femmine,non risponde,2021,12
+puglia,femmine,non risponde,2022,11
+puglia,femmine,non risponde,2023,71
+puglia,femmine,non risponde,2024,49
+puglia,femmine,non disponibile,2015,30
+puglia,femmine,non disponibile,2016,29
+puglia,femmine,non disponibile,2017,34
+puglia,femmine,non disponibile,2018,53
+puglia,femmine,non disponibile,2019,33
+puglia,femmine,non disponibile,2020,175
+puglia,femmine,non disponibile,2021,112
+puglia,femmine,non disponibile,2022,44
+puglia,femmine,non disponibile,2023,4
+puglia,femmine,non disponibile,2024,22
+puglia,non indicato,denuncia,2023,1
+puglia,non indicato,non risponde,2023,2
+puglia,non indicato,non risponde,2024,1
+puglia,non indicato,non disponibile,2023,6
+puglia,non indicato,non disponibile,2024,16
+basilicata,maschi,denuncia,2022,1
+basilicata,maschi,non denuncia,2015,2
+basilicata,maschi,non denuncia,2016,3
+basilicata,maschi,non denuncia,2019,2
+basilicata,maschi,non denuncia,2022,1
+basilicata,maschi,non denuncia,2023,4
+basilicata,maschi,non denuncia,2024,1
+basilicata,maschi,non risponde,2024,1
+basilicata,maschi,non disponibile,2019,1
+basilicata,femmine,denuncia,2015,11
+basilicata,femmine,denuncia,2016,7
+basilicata,femmine,denuncia,2017,9
+basilicata,femmine,denuncia,2018,5
+basilicata,femmine,denuncia,2019,13
+basilicata,femmine,denuncia,2020,14
+basilicata,femmine,denuncia,2021,14
+basilicata,femmine,denuncia,2022,9
+basilicata,femmine,denuncia,2023,20
+basilicata,femmine,denuncia,2024,19
+basilicata,femmine,ritira la denuncia,2015,2
+basilicata,femmine,ritira la denuncia,2016,2
+basilicata,femmine,ritira la denuncia,2017,3
+basilicata,femmine,ritira la denuncia,2018,3
+basilicata,femmine,ritira la denuncia,2019,5
+basilicata,femmine,ritira la denuncia,2020,5
+basilicata,femmine,ritira la denuncia,2021,3
+basilicata,femmine,ritira la denuncia,2023,3
+basilicata,femmine,ritira la denuncia,2024,1
+basilicata,femmine,non denuncia,2015,32
+basilicata,femmine,non denuncia,2016,29
+basilicata,femmine,non denuncia,2017,36
+basilicata,femmine,non denuncia,2018,38
+basilicata,femmine,non denuncia,2019,44
+basilicata,femmine,non denuncia,2020,50
+basilicata,femmine,non denuncia,2021,70
+basilicata,femmine,non denuncia,2022,66
+basilicata,femmine,non denuncia,2023,57
+basilicata,femmine,non denuncia,2024,57
+basilicata,femmine,non risponde,2019,2
+basilicata,femmine,non risponde,2021,1
+basilicata,femmine,non risponde,2023,3
+basilicata,femmine,non risponde,2024,4
+basilicata,femmine,non disponibile,2015,2
+basilicata,femmine,non disponibile,2017,2
+basilicata,femmine,non disponibile,2018,10
+basilicata,femmine,non disponibile,2019,2
+basilicata,femmine,non disponibile,2020,13
+basilicata,femmine,non disponibile,2021,12
+basilicata,femmine,non disponibile,2022,3
+basilicata,femmine,non disponibile,2023,1
+basilicata,non indicato,non disponibile,2024,1
+calabria,maschi,denuncia,2015,1
+calabria,maschi,denuncia,2018,1
+calabria,maschi,denuncia,2019,1
+calabria,maschi,denuncia,2020,3
+calabria,maschi,denuncia,2021,1
+calabria,maschi,denuncia,2022,1
+calabria,maschi,denuncia,2023,1
+calabria,maschi,non denuncia,2015,1
+calabria,maschi,non denuncia,2016,5
+calabria,maschi,non denuncia,2017,4
+calabria,maschi,non denuncia,2018,2
+calabria,maschi,non denuncia,2019,2
+calabria,maschi,non denuncia,2020,5
+calabria,maschi,non denuncia,2021,11
+calabria,maschi,non denuncia,2022,1
+calabria,maschi,non denuncia,2023,3
+calabria,maschi,non denuncia,2024,3
+calabria,maschi,non disponibile,2015,2
+calabria,maschi,non disponibile,2017,2
+calabria,maschi,non disponibile,2021,4
+calabria,femmine,denuncia,2015,25
+calabria,femmine,denuncia,2016,32
+calabria,femmine,denuncia,2017,26
+calabria,femmine,denuncia,2018,30
+calabria,femmine,denuncia,2019,39
+calabria,femmine,denuncia,2020,64
+calabria,femmine,denuncia,2021,67
+calabria,femmine,denuncia,2022,46
+calabria,femmine,denuncia,2023,52
+calabria,femmine,denuncia,2024,49
+calabria,femmine,ritira la denuncia,2015,4
+calabria,femmine,ritira la denuncia,2016,7
+calabria,femmine,ritira la denuncia,2017,4
+calabria,femmine,ritira la denuncia,2018,5
+calabria,femmine,ritira la denuncia,2019,10
+calabria,femmine,ritira la denuncia,2020,7
+calabria,femmine,ritira la denuncia,2021,5
+calabria,femmine,ritira la denuncia,2022,10
+calabria,femmine,ritira la denuncia,2023,6
+calabria,femmine,ritira la denuncia,2024,7
+calabria,femmine,non denuncia,2015,146
+calabria,femmine,non denuncia,2016,142
+calabria,femmine,non denuncia,2017,118
+calabria,femmine,non denuncia,2018,141
+calabria,femmine,non denuncia,2019,148
+calabria,femmine,non denuncia,2020,205
+calabria,femmine,non denuncia,2021,203
+calabria,femmine,non denuncia,2022,175
+calabria,femmine,non denuncia,2023,173
+calabria,femmine,non denuncia,2024,193
+calabria,femmine,non risponde,2015,2
+calabria,femmine,non risponde,2016,1
+calabria,femmine,non risponde,2019,1
+calabria,femmine,non risponde,2021,3
+calabria,femmine,non risponde,2022,4
+calabria,femmine,non risponde,2023,30
+calabria,femmine,non risponde,2024,11
+calabria,femmine,non disponibile,2015,9
+calabria,femmine,non disponibile,2016,6
+calabria,femmine,non disponibile,2017,15
+calabria,femmine,non disponibile,2018,15
+calabria,femmine,non disponibile,2019,14
+calabria,femmine,non disponibile,2020,75
+calabria,femmine,non disponibile,2021,46
+calabria,femmine,non disponibile,2022,10
+calabria,femmine,non disponibile,2023,2
+calabria,femmine,non disponibile,2024,6
+calabria,non indicato,denuncia,2024,1
+calabria,non indicato,non denuncia,2024,1
+calabria,non indicato,non disponibile,2023,7
+calabria,non indicato,non disponibile,2024,4
+isole,maschi,denuncia,2015,3
+isole,maschi,denuncia,2016,4
+isole,maschi,denuncia,2017,2
+isole,maschi,denuncia,2018,5
+isole,maschi,denuncia,2020,5
+isole,maschi,denuncia,2021,6
+isole,maschi,denuncia,2022,2
+isole,maschi,denuncia,2023,6
+isole,maschi,denuncia,2024,5
+isole,maschi,ritira la denuncia,2017,1
+isole,maschi,non denuncia,2015,15
+isole,maschi,non denuncia,2016,19
+isole,maschi,non denuncia,2017,14
+isole,maschi,non denuncia,2018,16
+isole,maschi,non denuncia,2019,13
+isole,maschi,non denuncia,2020,25
+isole,maschi,non denuncia,2021,22
+isole,maschi,non denuncia,2022,10
+isole,maschi,non denuncia,2023,15
+isole,maschi,non denuncia,2024,18
+isole,maschi,non risponde,2015,1
+isole,maschi,non risponde,2016,1
+isole,maschi,non risponde,2021,1
+isole,maschi,non risponde,2024,2
+isole,maschi,non disponibile,2015,7
+isole,maschi,non disponibile,2016,1
+isole,maschi,non disponibile,2017,2
+isole,maschi,non disponibile,2018,2
+isole,maschi,non disponibile,2019,3
+isole,maschi,non disponibile,2020,12
+isole,maschi,non disponibile,2021,6
+isole,maschi,non disponibile,2022,4
+isole,maschi,non disponibile,2023,1
+isole,femmine,denuncia,2015,108
+isole,femmine,denuncia,2016,118
+isole,femmine,denuncia,2017,126
+isole,femmine,denuncia,2018,144
+isole,femmine,denuncia,2019,136
+isole,femmine,denuncia,2020,118
+isole,femmine,denuncia,2021,194
+isole,femmine,denuncia,2022,123
+isole,femmine,denuncia,2023,157
+isole,femmine,denuncia,2024,131
+isole,femmine,ritira la denuncia,2015,29
+isole,femmine,ritira la denuncia,2016,50
+isole,femmine,ritira la denuncia,2017,24
+isole,femmine,ritira la denuncia,2018,25
+isole,femmine,ritira la denuncia,2019,21
+isole,femmine,ritira la denuncia,2020,29
+isole,femmine,ritira la denuncia,2021,28
+isole,femmine,ritira la denuncia,2022,27
+isole,femmine,ritira la denuncia,2023,19
+isole,femmine,ritira la denuncia,2024,36
+isole,femmine,non denuncia,2015,537
+isole,femmine,non denuncia,2016,563
+isole,femmine,non denuncia,2017,506
+isole,femmine,non denuncia,2018,550
+isole,femmine,non denuncia,2019,492
+isole,femmine,non denuncia,2020,728
+isole,femmine,non denuncia,2021,763
+isole,femmine,non denuncia,2022,626
+isole,femmine,non denuncia,2023,622
+isole,femmine,non denuncia,2024,838
+isole,femmine,non risponde,2015,2
+isole,femmine,non risponde,2017,2
+isole,femmine,non risponde,2018,2
+isole,femmine,non risponde,2020,7
+isole,femmine,non risponde,2021,17
+isole,femmine,non risponde,2022,13
+isole,femmine,non risponde,2023,74
+isole,femmine,non risponde,2024,65
+isole,femmine,non disponibile,2015,45
+isole,femmine,non disponibile,2016,46
+isole,femmine,non disponibile,2017,63
+isole,femmine,non disponibile,2018,63
+isole,femmine,non disponibile,2019,51
+isole,femmine,non disponibile,2020,235
+isole,femmine,non disponibile,2021,195
+isole,femmine,non disponibile,2022,56
+isole,femmine,non disponibile,2023,10
+isole,femmine,non disponibile,2024,18
+isole,non indicato,denuncia,2023,3
+isole,non indicato,non denuncia,2023,3
+isole,non indicato,non denuncia,2024,2
+isole,non indicato,non risponde,2023,3
+isole,non indicato,non risponde,2024,1
+isole,non indicato,non disponibile,2023,7
+isole,non indicato,non disponibile,2024,14
+sicilia,maschi,denuncia,2015,2
+sicilia,maschi,denuncia,2016,2
+sicilia,maschi,denuncia,2017,1
+sicilia,maschi,denuncia,2018,4
+sicilia,maschi,denuncia,2020,3
+sicilia,maschi,denuncia,2021,4
+sicilia,maschi,denuncia,2022,1
+sicilia,maschi,denuncia,2023,5
+sicilia,maschi,denuncia,2024,5
+sicilia,maschi,non denuncia,2015,11
+sicilia,maschi,non denuncia,2016,11
+sicilia,maschi,non denuncia,2017,8
+sicilia,maschi,non denuncia,2018,12
+sicilia,maschi,non denuncia,2019,8
+sicilia,maschi,non denuncia,2020,18
+sicilia,maschi,non denuncia,2021,15
+sicilia,maschi,non denuncia,2022,8
+sicilia,maschi,non denuncia,2023,11
+sicilia,maschi,non denuncia,2024,15
+sicilia,maschi,non risponde,2016,1
+sicilia,maschi,non risponde,2021,1
+sicilia,maschi,non risponde,2024,2
+sicilia,maschi,non disponibile,2015,5
+sicilia,maschi,non disponibile,2016,1
+sicilia,maschi,non disponibile,2017,2
+sicilia,maschi,non disponibile,2019,2
+sicilia,maschi,non disponibile,2020,8
+sicilia,maschi,non disponibile,2021,5
+sicilia,maschi,non disponibile,2022,4
+sicilia,femmine,denuncia,2015,73
+sicilia,femmine,denuncia,2016,89
+sicilia,femmine,denuncia,2017,93
+sicilia,femmine,denuncia,2018,96
+sicilia,femmine,denuncia,2019,104
+sicilia,femmine,denuncia,2020,76
+sicilia,femmine,denuncia,2021,141
+sicilia,femmine,denuncia,2022,82
+sicilia,femmine,denuncia,2023,115
+sicilia,femmine,denuncia,2024,92
+sicilia,femmine,ritira la denuncia,2015,22
+sicilia,femmine,ritira la denuncia,2016,40
+sicilia,femmine,ritira la denuncia,2017,20
+sicilia,femmine,ritira la denuncia,2018,19
+sicilia,femmine,ritira la denuncia,2019,17
+sicilia,femmine,ritira la denuncia,2020,23
+sicilia,femmine,ritira la denuncia,2021,23
+sicilia,femmine,ritira la denuncia,2022,21
+sicilia,femmine,ritira la denuncia,2023,15
+sicilia,femmine,ritira la denuncia,2024,28
+sicilia,femmine,non denuncia,2015,378
+sicilia,femmine,non denuncia,2016,394
+sicilia,femmine,non denuncia,2017,344
+sicilia,femmine,non denuncia,2018,392
+sicilia,femmine,non denuncia,2019,359
+sicilia,femmine,non denuncia,2020,521
+sicilia,femmine,non denuncia,2021,551
+sicilia,femmine,non denuncia,2022,432
+sicilia,femmine,non denuncia,2023,456
+sicilia,femmine,non denuncia,2024,605
+sicilia,femmine,non risponde,2015,2
+sicilia,femmine,non risponde,2017,1
+sicilia,femmine,non risponde,2018,2
+sicilia,femmine,non risponde,2020,3
+sicilia,femmine,non risponde,2021,7
+sicilia,femmine,non risponde,2022,8
+sicilia,femmine,non risponde,2023,56
+sicilia,femmine,non risponde,2024,48
+sicilia,femmine,non disponibile,2015,29
+sicilia,femmine,non disponibile,2016,32
+sicilia,femmine,non disponibile,2017,46
+sicilia,femmine,non disponibile,2018,40
+sicilia,femmine,non disponibile,2019,35
+sicilia,femmine,non disponibile,2020,163
+sicilia,femmine,non disponibile,2021,141
+sicilia,femmine,non disponibile,2022,40
+sicilia,femmine,non disponibile,2023,10
+sicilia,femmine,non disponibile,2024,12
+sicilia,non indicato,denuncia,2023,3
+sicilia,non indicato,non denuncia,2023,3
+sicilia,non indicato,non denuncia,2024,2
+sicilia,non indicato,non risponde,2023,3
+sicilia,non indicato,non risponde,2024,1
+sicilia,non indicato,non disponibile,2023,5
+sicilia,non indicato,non disponibile,2024,9
+sardegna,maschi,denuncia,2015,1
+sardegna,maschi,denuncia,2016,2
+sardegna,maschi,denuncia,2017,1
+sardegna,maschi,denuncia,2018,1
+sardegna,maschi,denuncia,2020,2
+sardegna,maschi,denuncia,2021,2
+sardegna,maschi,denuncia,2022,1
+sardegna,maschi,denuncia,2023,1
+sardegna,maschi,ritira la denuncia,2017,1
+sardegna,maschi,non denuncia,2015,4
+sardegna,maschi,non denuncia,2016,8
+sardegna,maschi,non denuncia,2017,6
+sardegna,maschi,non denuncia,2018,4
+sardegna,maschi,non denuncia,2019,5
+sardegna,maschi,non denuncia,2020,7
+sardegna,maschi,non denuncia,2021,7
+sardegna,maschi,non denuncia,2022,2
+sardegna,maschi,non denuncia,2023,4
+sardegna,maschi,non denuncia,2024,3
+sardegna,maschi,non risponde,2015,1
+sardegna,maschi,non disponibile,2015,2
+sardegna,maschi,non disponibile,2018,2
+sardegna,maschi,non disponibile,2019,1
+sardegna,maschi,non disponibile,2020,4
+sardegna,maschi,non disponibile,2021,1
+sardegna,maschi,non disponibile,2023,1
+sardegna,femmine,denuncia,2015,35
+sardegna,femmine,denuncia,2016,29
+sardegna,femmine,denuncia,2017,33
+sardegna,femmine,denuncia,2018,48
+sardegna,femmine,denuncia,2019,32
+sardegna,femmine,denuncia,2020,42
+sardegna,femmine,denuncia,2021,53
+sardegna,femmine,denuncia,2022,41
+sardegna,femmine,denuncia,2023,42
+sardegna,femmine,denuncia,2024,39
+sardegna,femmine,ritira la denuncia,2015,7
+sardegna,femmine,ritira la denuncia,2016,10
+sardegna,femmine,ritira la denuncia,2017,4
+sardegna,femmine,ritira la denuncia,2018,6
+sardegna,femmine,ritira la denuncia,2019,4
+sardegna,femmine,ritira la denuncia,2020,6
+sardegna,femmine,ritira la denuncia,2021,5
+sardegna,femmine,ritira la denuncia,2022,6
+sardegna,femmine,ritira la denuncia,2023,4
+sardegna,femmine,ritira la denuncia,2024,8
+sardegna,femmine,non denuncia,2015,159
+sardegna,femmine,non denuncia,2016,169
+sardegna,femmine,non denuncia,2017,162
+sardegna,femmine,non denuncia,2018,158
+sardegna,femmine,non denuncia,2019,133
+sardegna,femmine,non denuncia,2020,207
+sardegna,femmine,non denuncia,2021,212
+sardegna,femmine,non denuncia,2022,194
+sardegna,femmine,non denuncia,2023,166
+sardegna,femmine,non denuncia,2024,233
+sardegna,femmine,non risponde,2017,1
+sardegna,femmine,non risponde,2020,4
+sardegna,femmine,non risponde,2021,10
+sardegna,femmine,non risponde,2022,5
+sardegna,femmine,non risponde,2023,18
+sardegna,femmine,non risponde,2024,17
+sardegna,femmine,non disponibile,2015,16
+sardegna,femmine,non disponibile,2016,14
+sardegna,femmine,non disponibile,2017,17
+sardegna,femmine,non disponibile,2018,23
+sardegna,femmine,non disponibile,2019,16
+sardegna,femmine,non disponibile,2020,72
+sardegna,femmine,non disponibile,2021,54
+sardegna,femmine,non disponibile,2022,16
+sardegna,femmine,non disponibile,2024,6
+sardegna,non indicato,non disponibile,2023,2
+sardegna,non indicato,non disponibile,2024,5
+non indicato,maschi,denuncia,2015,1
+non indicato,maschi,denuncia,2016,2
+non indicato,maschi,denuncia,2017,4
+non indicato,maschi,denuncia,2018,1
+non indicato,maschi,denuncia,2019,2
+non indicato,maschi,denuncia,2020,1
+non indicato,maschi,denuncia,2021,7
+non indicato,maschi,denuncia,2022,2
+non indicato,maschi,denuncia,2023,5
+non indicato,maschi,denuncia,2024,4
+non indicato,maschi,ritira la denuncia,2016,1
+non indicato,maschi,ritira la denuncia,2017,1
+non indicato,maschi,ritira la denuncia,2018,1
+non indicato,maschi,ritira la denuncia,2020,1
+non indicato,maschi,ritira la denuncia,2021,2
+non indicato,maschi,non denuncia,2015,8
+non indicato,maschi,non denuncia,2016,14
+non indicato,maschi,non denuncia,2017,15
+non indicato,maschi,non denuncia,2018,11
+non indicato,maschi,non denuncia,2019,5
+non indicato,maschi,non denuncia,2020,30
+non indicato,maschi,non denuncia,2021,50
+non indicato,maschi,non denuncia,2022,30
+non indicato,maschi,non denuncia,2023,85
+non indicato,maschi,non denuncia,2024,80
+non indicato,maschi,non risponde,2017,1
+non indicato,maschi,non risponde,2019,1
+non indicato,maschi,non risponde,2020,3
+non indicato,maschi,non risponde,2021,3
+non indicato,maschi,non risponde,2023,21
+non indicato,maschi,non risponde,2024,9
+non indicato,maschi,non disponibile,2015,19
+non indicato,maschi,non disponibile,2016,5
+non indicato,maschi,non disponibile,2017,22
+non indicato,maschi,non disponibile,2018,11
+non indicato,maschi,non disponibile,2019,15
+non indicato,maschi,non disponibile,2020,92
+non indicato,maschi,non disponibile,2021,81
+non indicato,maschi,non disponibile,2022,23
+non indicato,maschi,non disponibile,2023,6
+non indicato,maschi,non disponibile,2024,8
+non indicato,femmine,denuncia,2015,34
+non indicato,femmine,denuncia,2016,30
+non indicato,femmine,denuncia,2017,106
+non indicato,femmine,denuncia,2018,64
+non indicato,femmine,denuncia,2019,37
+non indicato,femmine,denuncia,2020,129
+non indicato,femmine,denuncia,2021,103
+non indicato,femmine,denuncia,2022,43
+non indicato,femmine,denuncia,2023,229
+non indicato,femmine,denuncia,2024,87
+non indicato,femmine,ritira la denuncia,2015,8
+non indicato,femmine,ritira la denuncia,2016,13
+non indicato,femmine,ritira la denuncia,2017,26
+non indicato,femmine,ritira la denuncia,2018,22
+non indicato,femmine,ritira la denuncia,2019,6
+non indicato,femmine,ritira la denuncia,2020,25
+non indicato,femmine,ritira la denuncia,2021,17
+non indicato,femmine,ritira la denuncia,2022,10
+non indicato,femmine,ritira la denuncia,2023,39
+non indicato,femmine,ritira la denuncia,2024,25
+non indicato,femmine,non denuncia,2015,157
+non indicato,femmine,non denuncia,2016,208
+non indicato,femmine,non denuncia,2017,512
+non indicato,femmine,non denuncia,2018,394
+non indicato,femmine,non denuncia,2019,254
+non indicato,femmine,non denuncia,2020,794
+non indicato,femmine,non denuncia,2021,823
+non indicato,femmine,non denuncia,2022,383
+non indicato,femmine,non denuncia,2023,1629
+non indicato,femmine,non denuncia,2024,852
+non indicato,femmine,non risponde,2015,2
+non indicato,femmine,non risponde,2017,8
+non indicato,femmine,non risponde,2018,5
+non indicato,femmine,non risponde,2019,3
+non indicato,femmine,non risponde,2020,16
+non indicato,femmine,non risponde,2021,48
+non indicato,femmine,non risponde,2022,48
+non indicato,femmine,non risponde,2023,479
+non indicato,femmine,non risponde,2024,157
+non indicato,femmine,non disponibile,2015,172
+non indicato,femmine,non disponibile,2016,137
+non indicato,femmine,non disponibile,2017,235
+non indicato,femmine,non disponibile,2018,293
+non indicato,femmine,non disponibile,2019,244
+non indicato,femmine,non disponibile,2020,1431
+non indicato,femmine,non disponibile,2021,1181
+non indicato,femmine,non disponibile,2022,921
+non indicato,femmine,non disponibile,2023,199
+non indicato,femmine,non disponibile,2024,151
+non indicato,non indicato,denuncia,2023,2
+non indicato,non indicato,non denuncia,2023,7
+non indicato,non indicato,non denuncia,2024,4
+non indicato,non indicato,non risponde,2023,22
+non indicato,non indicato,non risponde,2024,10
+non indicato,non indicato,non disponibile,2015,1
+non indicato,non indicato,non disponibile,2019,2
+non indicato,non indicato,non disponibile,2020,9
+non indicato,non indicato,non disponibile,2021,11
+non indicato,non indicato,non disponibile,2022,15
+non indicato,non indicato,non disponibile,2023,1125
+non indicato,non indicato,non disponibile,2024,832

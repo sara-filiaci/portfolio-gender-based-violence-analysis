@@ -1,0 +1,3536 @@
+﻿territorio,sesso,tipo_violenza,periodo,numero_vittime
+italia,maschi,violenza fisica,2015,67
+italia,maschi,violenza fisica,2016,80
+italia,maschi,violenza fisica,2017,66
+italia,maschi,violenza fisica,2018,82
+italia,maschi,violenza fisica,2019,62
+italia,maschi,violenza fisica,2020,189
+italia,maschi,violenza fisica,2021,158
+italia,maschi,violenza fisica,2022,80
+italia,maschi,violenza fisica,2023,146
+italia,maschi,violenza fisica,2024,162
+italia,maschi,violenza sessuale,2015,23
+italia,maschi,violenza sessuale,2016,29
+italia,maschi,violenza sessuale,2017,45
+italia,maschi,violenza sessuale,2018,25
+italia,maschi,violenza sessuale,2019,25
+italia,maschi,violenza sessuale,2020,94
+italia,maschi,violenza sessuale,2021,116
+italia,maschi,violenza sessuale,2022,42
+italia,maschi,violenza sessuale,2023,24
+italia,maschi,violenza sessuale,2024,14
+italia,maschi,minacce,2015,25
+italia,maschi,minacce,2016,25
+italia,maschi,minacce,2017,19
+italia,maschi,minacce,2018,13
+italia,maschi,minacce,2019,12
+italia,maschi,minacce,2020,26
+italia,maschi,minacce,2021,32
+italia,maschi,minacce,2022,21
+italia,maschi,minacce,2023,5
+italia,maschi,minacce,2024,8
+italia,maschi,mobbing,2015,3
+italia,maschi,mobbing,2016,1
+italia,maschi,mobbing,2017,4
+italia,maschi,mobbing,2018,3
+italia,maschi,mobbing,2019,1
+italia,maschi,mobbing,2020,4
+italia,maschi,mobbing,2021,5
+italia,maschi,mobbing,2022,1
+italia,maschi,diffusione illecita di immagini o di video sessualmente espliciti,2023,7
+italia,maschi,diffusione illecita di immagini o di video sessualmente espliciti,2024,5
+italia,maschi,violenza psicologica,2015,134
+italia,maschi,violenza psicologica,2016,128
+italia,maschi,violenza psicologica,2017,107
+italia,maschi,violenza psicologica,2018,107
+italia,maschi,violenza psicologica,2019,80
+italia,maschi,violenza psicologica,2020,182
+italia,maschi,violenza psicologica,2021,148
+italia,maschi,violenza psicologica,2022,74
+italia,maschi,violenza psicologica,2023,140
+italia,maschi,violenza psicologica,2024,154
+italia,maschi,violenza economica,2015,1
+italia,maschi,violenza economica,2016,4
+italia,maschi,violenza economica,2017,2
+italia,maschi,violenza economica,2018,1
+italia,maschi,violenza economica,2019,5
+italia,maschi,violenza economica,2020,5
+italia,maschi,violenza economica,2021,9
+italia,maschi,violenza economica,2022,2
+italia,maschi,violenza economica,2023,7
+italia,maschi,violenza economica,2024,2
+italia,maschi,atti persecutori/stalking,2023,82
+italia,maschi,atti persecutori/stalking,2024,76
+italia,maschi,violenza digitale,2023,1
+italia,maschi,altro,2023,5
+italia,maschi,altro,2024,1
+italia,maschi,non risponde,2015,20
+italia,maschi,non risponde,2016,10
+italia,maschi,non risponde,2017,11
+italia,maschi,non risponde,2018,7
+italia,maschi,non risponde,2019,6
+italia,maschi,non risponde,2020,27
+italia,maschi,non risponde,2021,8
+italia,maschi,non risponde,2022,14
+italia,maschi,non risponde,2023,1
+italia,maschi,non risponde,2024,4
+italia,maschi,non disponibile,2015,38
+italia,maschi,non disponibile,2016,18
+italia,maschi,non disponibile,2017,32
+italia,maschi,non disponibile,2018,23
+italia,maschi,non disponibile,2019,27
+italia,maschi,non disponibile,2020,44
+italia,maschi,non disponibile,2021,64
+italia,maschi,non disponibile,2022,28
+italia,maschi,non disponibile,2023,7
+italia,maschi,non disponibile,2024,7
+italia,femmine,violenza fisica,2015,3693
+italia,femmine,violenza fisica,2016,3727
+italia,femmine,violenza fisica,2017,3553
+italia,femmine,violenza fisica,2018,4166
+italia,femmine,violenza fisica,2019,3698
+italia,femmine,violenza fisica,2020,7250
+italia,femmine,violenza fisica,2021,6949
+italia,femmine,violenza fisica,2022,5024
+italia,femmine,violenza fisica,2023,6662
+italia,femmine,violenza fisica,2024,7126
+italia,femmine,violenza sessuale,2015,258
+italia,femmine,violenza sessuale,2016,327
+italia,femmine,violenza sessuale,2017,493
+italia,femmine,violenza sessuale,2018,412
+italia,femmine,violenza sessuale,2019,479
+italia,femmine,violenza sessuale,2020,1040
+italia,femmine,violenza sessuale,2021,1406
+italia,femmine,violenza sessuale,2022,857
+italia,femmine,violenza sessuale,2023,673
+italia,femmine,violenza sessuale,2024,598
+italia,femmine,minacce,2015,281
+italia,femmine,minacce,2016,325
+italia,femmine,minacce,2017,337
+italia,femmine,minacce,2018,362
+italia,femmine,minacce,2019,311
+italia,femmine,minacce,2020,482
+italia,femmine,minacce,2021,755
+italia,femmine,minacce,2022,610
+italia,femmine,minacce,2023,119
+italia,femmine,minacce,2024,162
+italia,femmine,mobbing,2015,24
+italia,femmine,mobbing,2016,19
+italia,femmine,mobbing,2017,29
+italia,femmine,mobbing,2018,28
+italia,femmine,mobbing,2019,15
+italia,femmine,mobbing,2020,59
+italia,femmine,mobbing,2021,74
+italia,femmine,mobbing,2022,40
+italia,femmine,mobbing,2023,22
+italia,femmine,mobbing,2024,29
+italia,femmine,tratta,2021,4
+italia,femmine,tratta,2022,1
+italia,femmine,tratta,2023,1
+italia,femmine,tratta,2024,5
+italia,femmine,diffusione illecita di immagini o di video sessualmente espliciti,2021,1
+italia,femmine,diffusione illecita di immagini o di video sessualmente espliciti,2023,30
+italia,femmine,diffusione illecita di immagini o di video sessualmente espliciti,2024,32
+italia,femmine,sfruttamento della prostituzione,2023,11
+italia,femmine,sfruttamento della prostituzione,2024,12
+italia,femmine,violenza psicologica,2015,2784
+italia,femmine,violenza psicologica,2016,2837
+italia,femmine,violenza psicologica,2017,2732
+italia,femmine,violenza psicologica,2018,3640
+italia,femmine,violenza psicologica,2019,3263
+italia,femmine,violenza psicologica,2020,5134
+italia,femmine,violenza psicologica,2021,5240
+italia,femmine,violenza psicologica,2022,3818
+italia,femmine,violenza psicologica,2023,5267
+italia,femmine,violenza psicologica,2024,6194
+italia,femmine,violenza economica,2015,139
+italia,femmine,violenza economica,2016,147
+italia,femmine,violenza economica,2017,143
+italia,femmine,violenza economica,2018,122
+italia,femmine,violenza economica,2019,113
+italia,femmine,violenza economica,2020,180
+italia,femmine,violenza economica,2021,147
+italia,femmine,violenza economica,2022,125
+italia,femmine,violenza economica,2023,94
+italia,femmine,violenza economica,2024,125
+italia,femmine,atti persecutori/stalking,2023,1090
+italia,femmine,atti persecutori/stalking,2024,1513
+italia,femmine,violenza digitale,2023,44
+italia,femmine,violenza digitale,2024,25
+italia,femmine,matrimonio forzato,2023,6
+italia,femmine,matrimonio forzato,2024,8
+italia,femmine,altro,2023,14
+italia,femmine,altro,2024,18
+italia,femmine,non risponde,2015,141
+italia,femmine,non risponde,2016,96
+italia,femmine,non risponde,2017,80
+italia,femmine,non risponde,2018,68
+italia,femmine,non risponde,2019,47
+italia,femmine,non risponde,2020,199
+italia,femmine,non risponde,2021,155
+italia,femmine,non risponde,2022,153
+italia,femmine,non risponde,2023,78
+italia,femmine,non risponde,2024,19
+italia,femmine,non disponibile,2015,450
+italia,femmine,non disponibile,2016,352
+italia,femmine,non disponibile,2017,432
+italia,femmine,non disponibile,2018,543
+italia,femmine,non disponibile,2019,501
+italia,femmine,non disponibile,2020,784
+italia,femmine,non disponibile,2021,989
+italia,femmine,non disponibile,2022,1004
+italia,femmine,non disponibile,2023,344
+italia,femmine,non disponibile,2024,251
+italia,non indicato,violenza fisica,2023,68
+italia,non indicato,violenza fisica,2024,42
+italia,non indicato,violenza sessuale,2023,3
+italia,non indicato,violenza sessuale,2024,1
+italia,non indicato,minacce,2023,2
+italia,non indicato,diffusione illecita di immagini o di video sessualmente espliciti,2024,1
+italia,non indicato,violenza psicologica,2023,14
+italia,non indicato,violenza psicologica,2024,9
+italia,non indicato,atti persecutori/stalking,2023,8
+italia,non indicato,atti persecutori/stalking,2024,5
+italia,non indicato,altro,2023,1
+italia,non indicato,non risponde,2023,11
+italia,non indicato,non risponde,2024,6
+italia,non indicato,non disponibile,2015,1
+italia,non indicato,non disponibile,2019,2
+italia,non indicato,non disponibile,2020,9
+italia,non indicato,non disponibile,2021,12
+italia,non indicato,non disponibile,2022,15
+italia,non indicato,non disponibile,2023,1296
+italia,non indicato,non disponibile,2024,1017
+nord ovest,maschi,violenza fisica,2015,14
+nord ovest,maschi,violenza fisica,2016,22
+nord ovest,maschi,violenza fisica,2017,25
+nord ovest,maschi,violenza fisica,2018,17
+nord ovest,maschi,violenza fisica,2019,18
+nord ovest,maschi,violenza fisica,2020,29
+nord ovest,maschi,violenza fisica,2021,33
+nord ovest,maschi,violenza fisica,2022,14
+nord ovest,maschi,violenza fisica,2023,32
+nord ovest,maschi,violenza fisica,2024,28
+nord ovest,maschi,violenza sessuale,2015,3
+nord ovest,maschi,violenza sessuale,2016,5
+nord ovest,maschi,violenza sessuale,2017,8
+nord ovest,maschi,violenza sessuale,2018,7
+nord ovest,maschi,violenza sessuale,2019,7
+nord ovest,maschi,violenza sessuale,2020,15
+nord ovest,maschi,violenza sessuale,2021,23
+nord ovest,maschi,violenza sessuale,2022,4
+nord ovest,maschi,violenza sessuale,2023,7
+nord ovest,maschi,violenza sessuale,2024,2
+nord ovest,maschi,minacce,2015,8
+nord ovest,maschi,minacce,2016,6
+nord ovest,maschi,minacce,2017,7
+nord ovest,maschi,minacce,2018,3
+nord ovest,maschi,minacce,2019,2
+nord ovest,maschi,minacce,2020,4
+nord ovest,maschi,minacce,2021,7
+nord ovest,maschi,minacce,2022,3
+nord ovest,maschi,minacce,2023,3
+nord ovest,maschi,minacce,2024,1
+nord ovest,maschi,mobbing,2017,2
+nord ovest,maschi,mobbing,2018,1
+nord ovest,maschi,mobbing,2021,1
+nord ovest,maschi,diffusione illecita di immagini o di video sessualmente espliciti,2023,2
+nord ovest,maschi,diffusione illecita di immagini o di video sessualmente espliciti,2024,1
+nord ovest,maschi,violenza psicologica,2015,38
+nord ovest,maschi,violenza psicologica,2016,27
+nord ovest,maschi,violenza psicologica,2017,18
+nord ovest,maschi,violenza psicologica,2018,27
+nord ovest,maschi,violenza psicologica,2019,22
+nord ovest,maschi,violenza psicologica,2020,45
+nord ovest,maschi,violenza psicologica,2021,31
+nord ovest,maschi,violenza psicologica,2022,14
+nord ovest,maschi,violenza psicologica,2023,32
+nord ovest,maschi,violenza psicologica,2024,37
+nord ovest,maschi,violenza economica,2019,1
+nord ovest,maschi,violenza economica,2020,3
+nord ovest,maschi,violenza economica,2021,1
+nord ovest,maschi,violenza economica,2022,1
+nord ovest,maschi,violenza economica,2023,3
+nord ovest,maschi,violenza economica,2024,2
+nord ovest,maschi,atti persecutori/stalking,2023,14
+nord ovest,maschi,atti persecutori/stalking,2024,18
+nord ovest,maschi,altro,2023,2
+nord ovest,maschi,non risponde,2015,6
+nord ovest,maschi,non risponde,2016,4
+nord ovest,maschi,non risponde,2017,3
+nord ovest,maschi,non risponde,2018,2
+nord ovest,maschi,non risponde,2019,2
+nord ovest,maschi,non risponde,2020,2
+nord ovest,maschi,non risponde,2022,8
+nord ovest,maschi,non risponde,2023,1
+nord ovest,maschi,non disponibile,2015,3
+nord ovest,maschi,non disponibile,2017,8
+nord ovest,maschi,non disponibile,2018,4
+nord ovest,maschi,non disponibile,2019,4
+nord ovest,maschi,non disponibile,2020,4
+nord ovest,maschi,non disponibile,2021,7
+nord ovest,maschi,non disponibile,2022,7
+nord ovest,maschi,non disponibile,2024,1
+nord ovest,femmine,violenza fisica,2015,964
+nord ovest,femmine,violenza fisica,2016,1080
+nord ovest,femmine,violenza fisica,2017,952
+nord ovest,femmine,violenza fisica,2018,1045
+nord ovest,femmine,violenza fisica,2019,939
+nord ovest,femmine,violenza fisica,2020,1741
+nord ovest,femmine,violenza fisica,2021,1631
+nord ovest,femmine,violenza fisica,2022,1264
+nord ovest,femmine,violenza fisica,2023,1506
+nord ovest,femmine,violenza fisica,2024,1904
+nord ovest,femmine,violenza sessuale,2015,67
+nord ovest,femmine,violenza sessuale,2016,89
+nord ovest,femmine,violenza sessuale,2017,118
+nord ovest,femmine,violenza sessuale,2018,112
+nord ovest,femmine,violenza sessuale,2019,134
+nord ovest,femmine,violenza sessuale,2020,245
+nord ovest,femmine,violenza sessuale,2021,334
+nord ovest,femmine,violenza sessuale,2022,231
+nord ovest,femmine,violenza sessuale,2023,165
+nord ovest,femmine,violenza sessuale,2024,195
+nord ovest,femmine,minacce,2015,73
+nord ovest,femmine,minacce,2016,84
+nord ovest,femmine,minacce,2017,88
+nord ovest,femmine,minacce,2018,88
+nord ovest,femmine,minacce,2019,77
+nord ovest,femmine,minacce,2020,109
+nord ovest,femmine,minacce,2021,181
+nord ovest,femmine,minacce,2022,160
+nord ovest,femmine,minacce,2023,23
+nord ovest,femmine,minacce,2024,51
+nord ovest,femmine,mobbing,2015,9
+nord ovest,femmine,mobbing,2016,9
+nord ovest,femmine,mobbing,2017,10
+nord ovest,femmine,mobbing,2018,7
+nord ovest,femmine,mobbing,2019,4
+nord ovest,femmine,mobbing,2020,16
+nord ovest,femmine,mobbing,2021,24
+nord ovest,femmine,mobbing,2022,11
+nord ovest,femmine,mobbing,2023,7
+nord ovest,femmine,mobbing,2024,15
+nord ovest,femmine,tratta,2021,1
+nord ovest,femmine,tratta,2022,1
+nord ovest,femmine,tratta,2024,2
+nord ovest,femmine,diffusione illecita di immagini o di video sessualmente espliciti,2023,5
+nord ovest,femmine,diffusione illecita di immagini o di video sessualmente espliciti,2024,8
+nord ovest,femmine,sfruttamento della prostituzione,2024,1
+nord ovest,femmine,violenza psicologica,2015,785
+nord ovest,femmine,violenza psicologica,2016,846
+nord ovest,femmine,violenza psicologica,2017,778
+nord ovest,femmine,violenza psicologica,2018,932
+nord ovest,femmine,violenza psicologica,2019,887
+nord ovest,femmine,violenza psicologica,2020,1310
+nord ovest,femmine,violenza psicologica,2021,1223
+nord ovest,femmine,violenza psicologica,2022,1005
+nord ovest,femmine,violenza psicologica,2023,1317
+nord ovest,femmine,violenza psicologica,2024,1630
+nord ovest,femmine,violenza economica,2015,43
+nord ovest,femmine,violenza economica,2016,38
+nord ovest,femmine,violenza economica,2017,40
+nord ovest,femmine,violenza economica,2018,32
+nord ovest,femmine,violenza economica,2019,37
+nord ovest,femmine,violenza economica,2020,47
+nord ovest,femmine,violenza economica,2021,33
+nord ovest,femmine,violenza economica,2022,27
+nord ovest,femmine,violenza economica,2023,19
+nord ovest,femmine,violenza economica,2024,35
+nord ovest,femmine,atti persecutori/stalking,2023,273
+nord ovest,femmine,atti persecutori/stalking,2024,446
+nord ovest,femmine,violenza digitale,2023,12
+nord ovest,femmine,violenza digitale,2024,4
+nord ovest,femmine,matrimonio forzato,2023,1
+nord ovest,femmine,matrimonio forzato,2024,2
+nord ovest,femmine,altro,2023,2
+nord ovest,femmine,altro,2024,4
+nord ovest,femmine,non risponde,2015,51
+nord ovest,femmine,non risponde,2016,23
+nord ovest,femmine,non risponde,2017,17
+nord ovest,femmine,non risponde,2018,26
+nord ovest,femmine,non risponde,2019,12
+nord ovest,femmine,non risponde,2020,26
+nord ovest,femmine,non risponde,2021,34
+nord ovest,femmine,non risponde,2022,30
+nord ovest,femmine,non risponde,2023,13
+nord ovest,femmine,non risponde,2024,4
+nord ovest,femmine,non disponibile,2015,85
+nord ovest,femmine,non disponibile,2016,44
+nord ovest,femmine,non disponibile,2017,72
+nord ovest,femmine,non disponibile,2018,78
+nord ovest,femmine,non disponibile,2019,69
+nord ovest,femmine,non disponibile,2020,78
+nord ovest,femmine,non disponibile,2021,71
+nord ovest,femmine,non disponibile,2022,65
+nord ovest,femmine,non disponibile,2023,41
+nord ovest,femmine,non disponibile,2024,34
+nord ovest,non indicato,violenza fisica,2023,13
+nord ovest,non indicato,violenza fisica,2024,10
+nord ovest,non indicato,violenza sessuale,2023,1
+nord ovest,non indicato,violenza psicologica,2023,4
+nord ovest,non indicato,atti persecutori/stalking,2024,1
+nord ovest,non indicato,altro,2023,1
+nord ovest,non indicato,non risponde,2023,1
+nord ovest,non indicato,non disponibile,2023,50
+nord ovest,non indicato,non disponibile,2024,39
+piemonte,maschi,violenza fisica,2015,6
+piemonte,maschi,violenza fisica,2016,11
+piemonte,maschi,violenza fisica,2017,11
+piemonte,maschi,violenza fisica,2018,2
+piemonte,maschi,violenza fisica,2019,7
+piemonte,maschi,violenza fisica,2020,9
+piemonte,maschi,violenza fisica,2021,13
+piemonte,maschi,violenza fisica,2022,4
+piemonte,maschi,violenza fisica,2023,7
+piemonte,maschi,violenza fisica,2024,5
+piemonte,maschi,violenza sessuale,2016,1
+piemonte,maschi,violenza sessuale,2017,1
+piemonte,maschi,violenza sessuale,2019,1
+piemonte,maschi,violenza sessuale,2020,7
+piemonte,maschi,violenza sessuale,2021,4
+piemonte,maschi,violenza sessuale,2023,1
+piemonte,maschi,minacce,2015,3
+piemonte,maschi,minacce,2016,1
+piemonte,maschi,minacce,2017,2
+piemonte,maschi,minacce,2018,2
+piemonte,maschi,minacce,2020,1
+piemonte,maschi,minacce,2023,1
+piemonte,maschi,mobbing,2017,1
+piemonte,maschi,diffusione illecita di immagini o di video sessualmente espliciti,2024,1
+piemonte,maschi,violenza psicologica,2015,13
+piemonte,maschi,violenza psicologica,2016,5
+piemonte,maschi,violenza psicologica,2017,6
+piemonte,maschi,violenza psicologica,2018,7
+piemonte,maschi,violenza psicologica,2019,6
+piemonte,maschi,violenza psicologica,2020,6
+piemonte,maschi,violenza psicologica,2021,14
+piemonte,maschi,violenza psicologica,2022,3
+piemonte,maschi,violenza psicologica,2023,8
+piemonte,maschi,violenza psicologica,2024,10
+piemonte,maschi,violenza economica,2020,1
+piemonte,maschi,violenza economica,2023,1
+piemonte,maschi,violenza economica,2024,1
+piemonte,maschi,atti persecutori/stalking,2023,1
+piemonte,maschi,atti persecutori/stalking,2024,9
+piemonte,maschi,non risponde,2015,2
+piemonte,maschi,non risponde,2016,1
+piemonte,maschi,non risponde,2017,1
+piemonte,maschi,non risponde,2022,2
+piemonte,maschi,non disponibile,2017,6
+piemonte,maschi,non disponibile,2018,2
+piemonte,maschi,non disponibile,2019,1
+piemonte,maschi,non disponibile,2020,2
+piemonte,maschi,non disponibile,2021,5
+piemonte,maschi,non disponibile,2022,3
+piemonte,femmine,violenza fisica,2015,295
+piemonte,femmine,violenza fisica,2016,332
+piemonte,femmine,violenza fisica,2017,283
+piemonte,femmine,violenza fisica,2018,296
+piemonte,femmine,violenza fisica,2019,281
+piemonte,femmine,violenza fisica,2020,491
+piemonte,femmine,violenza fisica,2021,429
+piemonte,femmine,violenza fisica,2022,312
+piemonte,femmine,violenza fisica,2023,392
+piemonte,femmine,violenza fisica,2024,490
+piemonte,femmine,violenza sessuale,2015,12
+piemonte,femmine,violenza sessuale,2016,23
+piemonte,femmine,violenza sessuale,2017,42
+piemonte,femmine,violenza sessuale,2018,30
+piemonte,femmine,violenza sessuale,2019,33
+piemonte,femmine,violenza sessuale,2020,61
+piemonte,femmine,violenza sessuale,2021,84
+piemonte,femmine,violenza sessuale,2022,54
+piemonte,femmine,violenza sessuale,2023,41
+piemonte,femmine,violenza sessuale,2024,44
+piemonte,femmine,minacce,2015,19
+piemonte,femmine,minacce,2016,23
+piemonte,femmine,minacce,2017,28
+piemonte,femmine,minacce,2018,32
+piemonte,femmine,minacce,2019,17
+piemonte,femmine,minacce,2020,25
+piemonte,femmine,minacce,2021,48
+piemonte,femmine,minacce,2022,46
+piemonte,femmine,minacce,2023,7
+piemonte,femmine,minacce,2024,13
+piemonte,femmine,mobbing,2015,3
+piemonte,femmine,mobbing,2016,6
+piemonte,femmine,mobbing,2017,1
+piemonte,femmine,mobbing,2018,4
+piemonte,femmine,mobbing,2019,1
+piemonte,femmine,mobbing,2020,6
+piemonte,femmine,mobbing,2021,12
+piemonte,femmine,mobbing,2022,3
+piemonte,femmine,mobbing,2023,1
+piemonte,femmine,mobbing,2024,5
+piemonte,femmine,diffusione illecita di immagini o di video sessualmente espliciti,2023,1
+piemonte,femmine,diffusione illecita di immagini o di video sessualmente espliciti,2024,1
+piemonte,femmine,violenza psicologica,2015,257
+piemonte,femmine,violenza psicologica,2016,271
+piemonte,femmine,violenza psicologica,2017,230
+piemonte,femmine,violenza psicologica,2018,309
+piemonte,femmine,violenza psicologica,2019,260
+piemonte,femmine,violenza psicologica,2020,351
+piemonte,femmine,violenza psicologica,2021,350
+piemonte,femmine,violenza psicologica,2022,299
+piemonte,femmine,violenza psicologica,2023,374
+piemonte,femmine,violenza psicologica,2024,399
+piemonte,femmine,violenza economica,2015,15
+piemonte,femmine,violenza economica,2016,14
+piemonte,femmine,violenza economica,2017,16
+piemonte,femmine,violenza economica,2018,11
+piemonte,femmine,violenza economica,2019,14
+piemonte,femmine,violenza economica,2020,18
+piemonte,femmine,violenza economica,2021,8
+piemonte,femmine,violenza economica,2022,11
+piemonte,femmine,violenza economica,2023,5
+piemonte,femmine,violenza economica,2024,8
+piemonte,femmine,atti persecutori/stalking,2023,64
+piemonte,femmine,atti persecutori/stalking,2024,102
+piemonte,femmine,violenza digitale,2023,6
+piemonte,femmine,violenza digitale,2024,2
+piemonte,femmine,matrimonio forzato,2023,1
+piemonte,femmine,altro,2024,1
+piemonte,femmine,non risponde,2015,18
+piemonte,femmine,non risponde,2016,4
+piemonte,femmine,non risponde,2017,3
+piemonte,femmine,non risponde,2018,7
+piemonte,femmine,non risponde,2019,5
+piemonte,femmine,non risponde,2020,6
+piemonte,femmine,non risponde,2021,8
+piemonte,femmine,non risponde,2022,4
+piemonte,femmine,non risponde,2023,4
+piemonte,femmine,non risponde,2024,3
+piemonte,femmine,non disponibile,2015,26
+piemonte,femmine,non disponibile,2016,11
+piemonte,femmine,non disponibile,2017,20
+piemonte,femmine,non disponibile,2018,20
+piemonte,femmine,non disponibile,2019,21
+piemonte,femmine,non disponibile,2020,27
+piemonte,femmine,non disponibile,2021,13
+piemonte,femmine,non disponibile,2022,18
+piemonte,femmine,non disponibile,2023,15
+piemonte,femmine,non disponibile,2024,8
+piemonte,non indicato,violenza fisica,2023,3
+piemonte,non indicato,violenza fisica,2024,1
+piemonte,non indicato,violenza psicologica,2023,2
+piemonte,non indicato,altro,2023,1
+piemonte,non indicato,non disponibile,2023,12
+piemonte,non indicato,non disponibile,2024,9
+liguria,maschi,violenza fisica,2015,1
+liguria,maschi,violenza fisica,2016,3
+liguria,maschi,violenza fisica,2017,1
+liguria,maschi,violenza fisica,2018,1
+liguria,maschi,violenza fisica,2022,2
+liguria,maschi,violenza fisica,2023,3
+liguria,maschi,violenza fisica,2024,2
+liguria,maschi,violenza sessuale,2017,1
+liguria,maschi,violenza sessuale,2018,2
+liguria,maschi,violenza sessuale,2020,2
+liguria,maschi,violenza sessuale,2021,3
+liguria,maschi,violenza sessuale,2023,1
+liguria,maschi,minacce,2015,1
+liguria,maschi,minacce,2017,1
+liguria,maschi,minacce,2019,1
+liguria,maschi,minacce,2021,1
+liguria,maschi,violenza psicologica,2015,4
+liguria,maschi,violenza psicologica,2016,3
+liguria,maschi,violenza psicologica,2017,1
+liguria,maschi,violenza psicologica,2018,3
+liguria,maschi,violenza psicologica,2019,2
+liguria,maschi,violenza psicologica,2020,12
+liguria,maschi,violenza psicologica,2021,4
+liguria,maschi,violenza psicologica,2022,1
+liguria,maschi,violenza psicologica,2023,3
+liguria,maschi,violenza psicologica,2024,5
+liguria,maschi,violenza economica,2019,1
+liguria,maschi,violenza economica,2020,1
+liguria,maschi,violenza economica,2021,1
+liguria,maschi,violenza economica,2023,1
+liguria,maschi,non risponde,2015,1
+liguria,maschi,non risponde,2017,1
+liguria,maschi,non risponde,2022,1
+liguria,maschi,non disponibile,2019,1
+liguria,femmine,violenza fisica,2015,105
+liguria,femmine,violenza fisica,2016,94
+liguria,femmine,violenza fisica,2017,69
+liguria,femmine,violenza fisica,2018,118
+liguria,femmine,violenza fisica,2019,78
+liguria,femmine,violenza fisica,2020,142
+liguria,femmine,violenza fisica,2021,140
+liguria,femmine,violenza fisica,2022,101
+liguria,femmine,violenza fisica,2023,115
+liguria,femmine,violenza fisica,2024,164
+liguria,femmine,violenza sessuale,2015,5
+liguria,femmine,violenza sessuale,2016,11
+liguria,femmine,violenza sessuale,2017,12
+liguria,femmine,violenza sessuale,2018,4
+liguria,femmine,violenza sessuale,2019,11
+liguria,femmine,violenza sessuale,2020,21
+liguria,femmine,violenza sessuale,2021,34
+liguria,femmine,violenza sessuale,2022,23
+liguria,femmine,violenza sessuale,2023,13
+liguria,femmine,violenza sessuale,2024,20
+liguria,femmine,minacce,2015,9
+liguria,femmine,minacce,2016,5
+liguria,femmine,minacce,2017,6
+liguria,femmine,minacce,2018,8
+liguria,femmine,minacce,2019,8
+liguria,femmine,minacce,2020,11
+liguria,femmine,minacce,2021,13
+liguria,femmine,minacce,2022,12
+liguria,femmine,minacce,2024,6
+liguria,femmine,mobbing,2017,3
+liguria,femmine,mobbing,2022,1
+liguria,femmine,mobbing,2023,1
+liguria,femmine,diffusione illecita di immagini o di video sessualmente espliciti,2024,2
+liguria,femmine,violenza psicologica,2015,72
+liguria,femmine,violenza psicologica,2016,88
+liguria,femmine,violenza psicologica,2017,86
+liguria,femmine,violenza psicologica,2018,82
+liguria,femmine,violenza psicologica,2019,78
+liguria,femmine,violenza psicologica,2020,116
+liguria,femmine,violenza psicologica,2021,110
+liguria,femmine,violenza psicologica,2022,87
+liguria,femmine,violenza psicologica,2023,102
+liguria,femmine,violenza psicologica,2024,136
+liguria,femmine,violenza economica,2015,3
+liguria,femmine,violenza economica,2016,4
+liguria,femmine,violenza economica,2017,3
+liguria,femmine,violenza economica,2018,6
+liguria,femmine,violenza economica,2019,4
+liguria,femmine,violenza economica,2020,9
+liguria,femmine,violenza economica,2021,5
+liguria,femmine,violenza economica,2022,1
+liguria,femmine,violenza economica,2023,3
+liguria,femmine,violenza economica,2024,2
+liguria,femmine,atti persecutori/stalking,2023,23
+liguria,femmine,atti persecutori/stalking,2024,26
+liguria,femmine,violenza digitale,2023,1
+liguria,femmine,non risponde,2015,4
+liguria,femmine,non risponde,2017,1
+liguria,femmine,non risponde,2018,4
+liguria,femmine,non risponde,2020,4
+liguria,femmine,non risponde,2021,1
+liguria,femmine,non risponde,2022,3
+liguria,femmine,non risponde,2023,1
+liguria,femmine,non disponibile,2015,7
+liguria,femmine,non disponibile,2016,7
+liguria,femmine,non disponibile,2017,3
+liguria,femmine,non disponibile,2018,6
+liguria,femmine,non disponibile,2019,5
+liguria,femmine,non disponibile,2020,4
+liguria,femmine,non disponibile,2021,7
+liguria,femmine,non disponibile,2022,3
+liguria,femmine,non disponibile,2023,4
+liguria,femmine,non disponibile,2024,4
+liguria,non indicato,violenza fisica,2023,2
+liguria,non indicato,non disponibile,2023,4
+liguria,non indicato,non disponibile,2024,3
+lombardia,maschi,violenza fisica,2015,7
+lombardia,maschi,violenza fisica,2016,8
+lombardia,maschi,violenza fisica,2017,13
+lombardia,maschi,violenza fisica,2018,13
+lombardia,maschi,violenza fisica,2019,11
+lombardia,maschi,violenza fisica,2020,20
+lombardia,maschi,violenza fisica,2021,20
+lombardia,maschi,violenza fisica,2022,8
+lombardia,maschi,violenza fisica,2023,22
+lombardia,maschi,violenza fisica,2024,20
+lombardia,maschi,violenza sessuale,2015,3
+lombardia,maschi,violenza sessuale,2016,4
+lombardia,maschi,violenza sessuale,2017,6
+lombardia,maschi,violenza sessuale,2018,5
+lombardia,maschi,violenza sessuale,2019,6
+lombardia,maschi,violenza sessuale,2020,6
+lombardia,maschi,violenza sessuale,2021,16
+lombardia,maschi,violenza sessuale,2022,4
+lombardia,maschi,violenza sessuale,2023,5
+lombardia,maschi,violenza sessuale,2024,2
+lombardia,maschi,minacce,2015,4
+lombardia,maschi,minacce,2016,5
+lombardia,maschi,minacce,2017,4
+lombardia,maschi,minacce,2018,1
+lombardia,maschi,minacce,2019,1
+lombardia,maschi,minacce,2020,3
+lombardia,maschi,minacce,2021,6
+lombardia,maschi,minacce,2022,3
+lombardia,maschi,minacce,2023,2
+lombardia,maschi,minacce,2024,1
+lombardia,maschi,mobbing,2017,1
+lombardia,maschi,mobbing,2018,1
+lombardia,maschi,mobbing,2021,1
+lombardia,maschi,diffusione illecita di immagini o di video sessualmente espliciti,2023,2
+lombardia,maschi,violenza psicologica,2015,21
+lombardia,maschi,violenza psicologica,2016,19
+lombardia,maschi,violenza psicologica,2017,10
+lombardia,maschi,violenza psicologica,2018,17
+lombardia,maschi,violenza psicologica,2019,14
+lombardia,maschi,violenza psicologica,2020,27
+lombardia,maschi,violenza psicologica,2021,13
+lombardia,maschi,violenza psicologica,2022,10
+lombardia,maschi,violenza psicologica,2023,21
+lombardia,maschi,violenza psicologica,2024,21
+lombardia,maschi,violenza economica,2020,1
+lombardia,maschi,violenza economica,2023,1
+lombardia,maschi,violenza economica,2024,1
+lombardia,maschi,atti persecutori/stalking,2023,13
+lombardia,maschi,atti persecutori/stalking,2024,9
+lombardia,maschi,altro,2023,2
+lombardia,maschi,non risponde,2015,3
+lombardia,maschi,non risponde,2016,3
+lombardia,maschi,non risponde,2017,1
+lombardia,maschi,non risponde,2018,2
+lombardia,maschi,non risponde,2019,2
+lombardia,maschi,non risponde,2020,2
+lombardia,maschi,non risponde,2022,5
+lombardia,maschi,non risponde,2023,1
+lombardia,maschi,non disponibile,2015,3
+lombardia,maschi,non disponibile,2017,2
+lombardia,maschi,non disponibile,2018,2
+lombardia,maschi,non disponibile,2019,2
+lombardia,maschi,non disponibile,2020,2
+lombardia,maschi,non disponibile,2021,2
+lombardia,maschi,non disponibile,2022,3
+lombardia,maschi,non disponibile,2024,1
+lombardia,femmine,violenza fisica,2015,558
+lombardia,femmine,violenza fisica,2016,649
+lombardia,femmine,violenza fisica,2017,597
+lombardia,femmine,violenza fisica,2018,628
+lombardia,femmine,violenza fisica,2019,578
+lombardia,femmine,violenza fisica,2020,1104
+lombardia,femmine,violenza fisica,2021,1057
+lombardia,femmine,violenza fisica,2022,845
+lombardia,femmine,violenza fisica,2023,998
+lombardia,femmine,violenza fisica,2024,1241
+lombardia,femmine,violenza sessuale,2015,49
+lombardia,femmine,violenza sessuale,2016,55
+lombardia,femmine,violenza sessuale,2017,64
+lombardia,femmine,violenza sessuale,2018,78
+lombardia,femmine,violenza sessuale,2019,88
+lombardia,femmine,violenza sessuale,2020,162
+lombardia,femmine,violenza sessuale,2021,216
+lombardia,femmine,violenza sessuale,2022,150
+lombardia,femmine,violenza sessuale,2023,111
+lombardia,femmine,violenza sessuale,2024,130
+lombardia,femmine,minacce,2015,44
+lombardia,femmine,minacce,2016,55
+lombardia,femmine,minacce,2017,54
+lombardia,femmine,minacce,2018,48
+lombardia,femmine,minacce,2019,52
+lombardia,femmine,minacce,2020,72
+lombardia,femmine,minacce,2021,120
+lombardia,femmine,minacce,2022,100
+lombardia,femmine,minacce,2023,15
+lombardia,femmine,minacce,2024,31
+lombardia,femmine,mobbing,2015,6
+lombardia,femmine,mobbing,2016,3
+lombardia,femmine,mobbing,2017,6
+lombardia,femmine,mobbing,2018,3
+lombardia,femmine,mobbing,2019,3
+lombardia,femmine,mobbing,2020,10
+lombardia,femmine,mobbing,2021,12
+lombardia,femmine,mobbing,2022,7
+lombardia,femmine,mobbing,2023,5
+lombardia,femmine,mobbing,2024,9
+lombardia,femmine,tratta,2021,1
+lombardia,femmine,tratta,2022,1
+lombardia,femmine,tratta,2024,2
+lombardia,femmine,diffusione illecita di immagini o di video sessualmente espliciti,2023,4
+lombardia,femmine,diffusione illecita di immagini o di video sessualmente espliciti,2024,5
+lombardia,femmine,sfruttamento della prostituzione,2024,1
+lombardia,femmine,violenza psicologica,2015,452
+lombardia,femmine,violenza psicologica,2016,482
+lombardia,femmine,violenza psicologica,2017,457
+lombardia,femmine,violenza psicologica,2018,535
+lombardia,femmine,violenza psicologica,2019,544
+lombardia,femmine,violenza psicologica,2020,833
+lombardia,femmine,violenza psicologica,2021,762
+lombardia,femmine,violenza psicologica,2022,617
+lombardia,femmine,violenza psicologica,2023,839
+lombardia,femmine,violenza psicologica,2024,1086
+lombardia,femmine,violenza economica,2015,25
+lombardia,femmine,violenza economica,2016,20
+lombardia,femmine,violenza economica,2017,21
+lombardia,femmine,violenza economica,2018,15
+lombardia,femmine,violenza economica,2019,19
+lombardia,femmine,violenza economica,2020,20
+lombardia,femmine,violenza economica,2021,20
+lombardia,femmine,violenza economica,2022,15
+lombardia,femmine,violenza economica,2023,11
+lombardia,femmine,violenza economica,2024,25
+lombardia,femmine,atti persecutori/stalking,2023,184
+lombardia,femmine,atti persecutori/stalking,2024,317
+lombardia,femmine,violenza digitale,2023,5
+lombardia,femmine,violenza digitale,2024,2
+lombardia,femmine,matrimonio forzato,2024,2
+lombardia,femmine,altro,2023,2
+lombardia,femmine,altro,2024,3
+lombardia,femmine,non risponde,2015,29
+lombardia,femmine,non risponde,2016,19
+lombardia,femmine,non risponde,2017,13
+lombardia,femmine,non risponde,2018,15
+lombardia,femmine,non risponde,2019,7
+lombardia,femmine,non risponde,2020,16
+lombardia,femmine,non risponde,2021,25
+lombardia,femmine,non risponde,2022,23
+lombardia,femmine,non risponde,2023,8
+lombardia,femmine,non risponde,2024,1
+lombardia,femmine,non disponibile,2015,52
+lombardia,femmine,non disponibile,2016,26
+lombardia,femmine,non disponibile,2017,48
+lombardia,femmine,non disponibile,2018,52
+lombardia,femmine,non disponibile,2019,43
+lombardia,femmine,non disponibile,2020,46
+lombardia,femmine,non disponibile,2021,51
+lombardia,femmine,non disponibile,2022,44
+lombardia,femmine,non disponibile,2023,22
+lombardia,femmine,non disponibile,2024,22
+lombardia,non indicato,violenza fisica,2023,8
+lombardia,non indicato,violenza fisica,2024,9
+lombardia,non indicato,violenza sessuale,2023,1
+lombardia,non indicato,violenza psicologica,2023,2
+lombardia,non indicato,atti persecutori/stalking,2024,1
+lombardia,non indicato,non risponde,2023,1
+lombardia,non indicato,non disponibile,2023,33
+lombardia,non indicato,non disponibile,2024,27
+nord est,maschi,violenza fisica,2015,9
+nord est,maschi,violenza fisica,2016,5
+nord est,maschi,violenza fisica,2017,4
+nord est,maschi,violenza fisica,2018,13
+nord est,maschi,violenza fisica,2019,12
+nord est,maschi,violenza fisica,2020,22
+nord est,maschi,violenza fisica,2021,19
+nord est,maschi,violenza fisica,2022,11
+nord est,maschi,violenza fisica,2023,20
+nord est,maschi,violenza fisica,2024,20
+nord est,maschi,violenza sessuale,2015,6
+nord est,maschi,violenza sessuale,2016,3
+nord est,maschi,violenza sessuale,2017,5
+nord est,maschi,violenza sessuale,2018,4
+nord est,maschi,violenza sessuale,2019,5
+nord est,maschi,violenza sessuale,2020,20
+nord est,maschi,violenza sessuale,2021,17
+nord est,maschi,violenza sessuale,2022,3
+nord est,maschi,violenza sessuale,2023,3
+nord est,maschi,violenza sessuale,2024,3
+nord est,maschi,minacce,2015,3
+nord est,maschi,minacce,2016,3
+nord est,maschi,minacce,2017,2
+nord est,maschi,minacce,2018,2
+nord est,maschi,minacce,2019,3
+nord est,maschi,minacce,2020,6
+nord est,maschi,minacce,2021,3
+nord est,maschi,minacce,2022,1
+nord est,maschi,mobbing,2015,1
+nord est,maschi,mobbing,2016,1
+nord est,maschi,mobbing,2020,2
+nord est,maschi,mobbing,2021,3
+nord est,maschi,diffusione illecita di immagini o di video sessualmente espliciti,2023,2
+nord est,maschi,violenza psicologica,2015,23
+nord est,maschi,violenza psicologica,2016,23
+nord est,maschi,violenza psicologica,2017,19
+nord est,maschi,violenza psicologica,2018,7
+nord est,maschi,violenza psicologica,2019,10
+nord est,maschi,violenza psicologica,2020,21
+nord est,maschi,violenza psicologica,2021,12
+nord est,maschi,violenza psicologica,2022,11
+nord est,maschi,violenza psicologica,2023,20
+nord est,maschi,violenza psicologica,2024,14
+nord est,maschi,violenza economica,2015,1
+nord est,maschi,violenza economica,2016,1
+nord est,maschi,violenza economica,2017,1
+nord est,maschi,violenza economica,2018,1
+nord est,maschi,violenza economica,2019,1
+nord est,maschi,violenza economica,2020,1
+nord est,maschi,atti persecutori/stalking,2023,15
+nord est,maschi,atti persecutori/stalking,2024,11
+nord est,maschi,altro,2024,1
+nord est,maschi,non risponde,2015,4
+nord est,maschi,non risponde,2016,1
+nord est,maschi,non risponde,2017,2
+nord est,maschi,non risponde,2018,3
+nord est,maschi,non risponde,2020,2
+nord est,maschi,non risponde,2021,1
+nord est,maschi,non risponde,2022,2
+nord est,maschi,non disponibile,2015,2
+nord est,maschi,non disponibile,2016,2
+nord est,maschi,non disponibile,2017,3
+nord est,maschi,non disponibile,2018,1
+nord est,maschi,non disponibile,2019,1
+nord est,maschi,non disponibile,2020,4
+nord est,maschi,non disponibile,2021,6
+nord est,maschi,non disponibile,2022,1
+nord est,maschi,non disponibile,2024,1
+nord est,femmine,violenza fisica,2015,488
+nord est,femmine,violenza fisica,2016,474
+nord est,femmine,violenza fisica,2017,436
+nord est,femmine,violenza fisica,2018,545
+nord est,femmine,violenza fisica,2019,527
+nord est,femmine,violenza fisica,2020,948
+nord est,femmine,violenza fisica,2021,1036
+nord est,femmine,violenza fisica,2022,771
+nord est,femmine,violenza fisica,2023,974
+nord est,femmine,violenza fisica,2024,1289
+nord est,femmine,violenza sessuale,2015,41
+nord est,femmine,violenza sessuale,2016,42
+nord est,femmine,violenza sessuale,2017,78
+nord est,femmine,violenza sessuale,2018,56
+nord est,femmine,violenza sessuale,2019,84
+nord est,femmine,violenza sessuale,2020,160
+nord est,femmine,violenza sessuale,2021,240
+nord est,femmine,violenza sessuale,2022,144
+nord est,femmine,violenza sessuale,2023,114
+nord est,femmine,violenza sessuale,2024,111
+nord est,femmine,minacce,2015,47
+nord est,femmine,minacce,2016,54
+nord est,femmine,minacce,2017,46
+nord est,femmine,minacce,2018,53
+nord est,femmine,minacce,2019,54
+nord est,femmine,minacce,2020,57
+nord est,femmine,minacce,2021,106
+nord est,femmine,minacce,2022,88
+nord est,femmine,minacce,2023,20
+nord est,femmine,minacce,2024,28
+nord est,femmine,mobbing,2015,4
+nord est,femmine,mobbing,2016,3
+nord est,femmine,mobbing,2017,3
+nord est,femmine,mobbing,2018,6
+nord est,femmine,mobbing,2019,1
+nord est,femmine,mobbing,2020,10
+nord est,femmine,mobbing,2021,8
+nord est,femmine,mobbing,2022,9
+nord est,femmine,mobbing,2023,5
+nord est,femmine,mobbing,2024,5
+nord est,femmine,tratta,2021,3
+nord est,femmine,diffusione illecita di immagini o di video sessualmente espliciti,2023,3
+nord est,femmine,diffusione illecita di immagini o di video sessualmente espliciti,2024,5
+nord est,femmine,sfruttamento della prostituzione,2023,1
+nord est,femmine,sfruttamento della prostituzione,2024,2
+nord est,femmine,violenza psicologica,2015,374
+nord est,femmine,violenza psicologica,2016,374
+nord est,femmine,violenza psicologica,2017,352
+nord est,femmine,violenza psicologica,2018,525
+nord est,femmine,violenza psicologica,2019,461
+nord est,femmine,violenza psicologica,2020,719
+nord est,femmine,violenza psicologica,2021,789
+nord est,femmine,violenza psicologica,2022,607
+nord est,femmine,violenza psicologica,2023,822
+nord est,femmine,violenza psicologica,2024,1192
+nord est,femmine,violenza economica,2015,17
+nord est,femmine,violenza economica,2016,16
+nord est,femmine,violenza economica,2017,25
+nord est,femmine,violenza economica,2018,18
+nord est,femmine,violenza economica,2019,7
+nord est,femmine,violenza economica,2020,35
+nord est,femmine,violenza economica,2021,24
+nord est,femmine,violenza economica,2022,22
+nord est,femmine,violenza economica,2023,21
+nord est,femmine,violenza economica,2024,16
+nord est,femmine,atti persecutori/stalking,2023,175
+nord est,femmine,atti persecutori/stalking,2024,330
+nord est,femmine,violenza digitale,2023,7
+nord est,femmine,violenza digitale,2024,5
+nord est,femmine,matrimonio forzato,2023,2
+nord est,femmine,matrimonio forzato,2024,1
+nord est,femmine,altro,2023,2
+nord est,femmine,altro,2024,3
+nord est,femmine,non risponde,2015,18
+nord est,femmine,non risponde,2016,16
+nord est,femmine,non risponde,2017,12
+nord est,femmine,non risponde,2018,9
+nord est,femmine,non risponde,2019,7
+nord est,femmine,non risponde,2020,20
+nord est,femmine,non risponde,2021,19
+nord est,femmine,non risponde,2022,29
+nord est,femmine,non risponde,2023,6
+nord est,femmine,non risponde,2024,1
+nord est,femmine,non disponibile,2015,37
+nord est,femmine,non disponibile,2016,30
+nord est,femmine,non disponibile,2017,23
+nord est,femmine,non disponibile,2018,43
+nord est,femmine,non disponibile,2019,55
+nord est,femmine,non disponibile,2020,56
+nord est,femmine,non disponibile,2021,53
+nord est,femmine,non disponibile,2022,32
+nord est,femmine,non disponibile,2023,23
+nord est,femmine,non disponibile,2024,24
+nord est,non indicato,violenza fisica,2023,12
+nord est,non indicato,violenza fisica,2024,9
+nord est,non indicato,violenza sessuale,2024,1
+nord est,non indicato,minacce,2023,1
+nord est,non indicato,violenza psicologica,2023,1
+nord est,non indicato,violenza psicologica,2024,2
+nord est,non indicato,atti persecutori/stalking,2024,1
+nord est,non indicato,non disponibile,2023,22
+nord est,non indicato,non disponibile,2024,39
+trentino alto adige,maschi,violenza fisica,2024,1
+trentino alto adige,maschi,violenza sessuale,2020,1
+trentino alto adige,maschi,violenza sessuale,2023,1
+trentino alto adige,maschi,violenza sessuale,2024,1
+trentino alto adige,maschi,violenza psicologica,2023,1
+trentino alto adige,maschi,violenza psicologica,2024,1
+trentino alto adige,maschi,atti persecutori/stalking,2023,2
+trentino alto adige,maschi,atti persecutori/stalking,2024,1
+trentino alto adige,femmine,violenza fisica,2020,4
+trentino alto adige,femmine,violenza fisica,2021,1
+trentino alto adige,femmine,violenza fisica,2023,49
+trentino alto adige,femmine,violenza fisica,2024,61
+trentino alto adige,femmine,violenza sessuale,2020,1
+trentino alto adige,femmine,violenza sessuale,2023,13
+trentino alto adige,femmine,violenza sessuale,2024,3
+trentino alto adige,femmine,minacce,2023,2
+trentino alto adige,femmine,mobbing,2023,2
+trentino alto adige,femmine,mobbing,2024,2
+trentino alto adige,femmine,violenza psicologica,2020,1
+trentino alto adige,femmine,violenza psicologica,2021,1
+trentino alto adige,femmine,violenza psicologica,2022,1
+trentino alto adige,femmine,violenza psicologica,2023,56
+trentino alto adige,femmine,violenza psicologica,2024,62
+trentino alto adige,femmine,violenza economica,2023,2
+trentino alto adige,femmine,atti persecutori/stalking,2023,11
+trentino alto adige,femmine,atti persecutori/stalking,2024,20
+trentino alto adige,femmine,altro,2023,1
+trentino alto adige,femmine,non disponibile,2021,1
+trentino alto adige,femmine,non disponibile,2023,4
+trentino alto adige,femmine,non disponibile,2024,2
+trentino alto adige,non indicato,violenza fisica,2023,2
+bolzano,maschi,violenza fisica,2021,1
+bolzano,maschi,violenza sessuale,2015,1
+bolzano,maschi,violenza sessuale,2020,3
+bolzano,maschi,violenza sessuale,2021,2
+bolzano,maschi,minacce,2015,1
+bolzano,maschi,violenza psicologica,2022,2
+bolzano,maschi,non disponibile,2020,1
+bolzano,femmine,violenza fisica,2015,7
+bolzano,femmine,violenza fisica,2016,7
+bolzano,femmine,violenza fisica,2017,2
+bolzano,femmine,violenza fisica,2018,5
+bolzano,femmine,violenza fisica,2019,3
+bolzano,femmine,violenza fisica,2020,16
+bolzano,femmine,violenza fisica,2021,15
+bolzano,femmine,violenza fisica,2022,18
+bolzano,femmine,violenza sessuale,2017,2
+bolzano,femmine,violenza sessuale,2018,4
+bolzano,femmine,violenza sessuale,2019,3
+bolzano,femmine,violenza sessuale,2020,1
+bolzano,femmine,violenza sessuale,2021,3
+bolzano,femmine,violenza sessuale,2022,4
+bolzano,femmine,minacce,2015,1
+bolzano,femmine,minacce,2020,2
+bolzano,femmine,minacce,2021,5
+bolzano,femmine,minacce,2022,2
+bolzano,femmine,mobbing,2021,1
+bolzano,femmine,violenza psicologica,2015,1
+bolzano,femmine,violenza psicologica,2016,7
+bolzano,femmine,violenza psicologica,2017,3
+bolzano,femmine,violenza psicologica,2018,4
+bolzano,femmine,violenza psicologica,2019,12
+bolzano,femmine,violenza psicologica,2020,8
+bolzano,femmine,violenza psicologica,2021,14
+bolzano,femmine,violenza psicologica,2022,17
+bolzano,femmine,violenza economica,2015,2
+bolzano,femmine,non risponde,2015,1
+bolzano,femmine,non risponde,2019,1
+bolzano,femmine,non risponde,2020,1
+bolzano,femmine,non disponibile,2018,1
+bolzano,femmine,non disponibile,2022,1
+trento,maschi,violenza fisica,2015,1
+trento,maschi,violenza fisica,2018,1
+trento,maschi,violenza fisica,2020,4
+trento,maschi,violenza fisica,2021,4
+trento,maschi,violenza fisica,2022,1
+trento,maschi,violenza sessuale,2021,2
+trento,maschi,violenza psicologica,2015,1
+trento,maschi,violenza psicologica,2016,3
+trento,maschi,violenza psicologica,2017,2
+trento,maschi,violenza psicologica,2018,1
+trento,maschi,violenza psicologica,2020,2
+trento,maschi,violenza psicologica,2021,3
+trento,maschi,non disponibile,2015,3
+trento,maschi,non disponibile,2018,1
+trento,maschi,non disponibile,2021,1
+trento,femmine,violenza fisica,2015,16
+trento,femmine,violenza fisica,2016,18
+trento,femmine,violenza fisica,2017,14
+trento,femmine,violenza fisica,2018,16
+trento,femmine,violenza fisica,2019,31
+trento,femmine,violenza fisica,2020,40
+trento,femmine,violenza fisica,2021,50
+trento,femmine,violenza fisica,2022,34
+trento,femmine,violenza sessuale,2015,1
+trento,femmine,violenza sessuale,2016,3
+trento,femmine,violenza sessuale,2018,4
+trento,femmine,violenza sessuale,2019,7
+trento,femmine,violenza sessuale,2020,8
+trento,femmine,violenza sessuale,2021,12
+trento,femmine,violenza sessuale,2022,8
+trento,femmine,minacce,2015,2
+trento,femmine,minacce,2018,3
+trento,femmine,minacce,2019,2
+trento,femmine,minacce,2020,2
+trento,femmine,minacce,2021,2
+trento,femmine,minacce,2022,1
+trento,femmine,mobbing,2021,1
+trento,femmine,mobbing,2022,1
+trento,femmine,violenza psicologica,2015,15
+trento,femmine,violenza psicologica,2016,15
+trento,femmine,violenza psicologica,2017,7
+trento,femmine,violenza psicologica,2018,28
+trento,femmine,violenza psicologica,2019,18
+trento,femmine,violenza psicologica,2020,25
+trento,femmine,violenza psicologica,2021,40
+trento,femmine,violenza psicologica,2022,28
+trento,femmine,violenza economica,2016,2
+trento,femmine,violenza economica,2018,1
+trento,femmine,violenza economica,2019,3
+trento,femmine,violenza economica,2020,1
+trento,femmine,violenza economica,2021,4
+trento,femmine,violenza economica,2022,1
+trento,femmine,non risponde,2015,1
+trento,femmine,non risponde,2016,2
+trento,femmine,non risponde,2017,1
+trento,femmine,non risponde,2018,1
+trento,femmine,non risponde,2021,2
+trento,femmine,non disponibile,2015,1
+trento,femmine,non disponibile,2016,1
+trento,femmine,non disponibile,2017,1
+trento,femmine,non disponibile,2018,4
+trento,femmine,non disponibile,2019,1
+trento,femmine,non disponibile,2021,2
+trento,femmine,non disponibile,2022,2
+veneto,maschi,violenza fisica,2015,7
+veneto,maschi,violenza fisica,2016,3
+veneto,maschi,violenza fisica,2017,1
+veneto,maschi,violenza fisica,2018,7
+veneto,maschi,violenza fisica,2019,7
+veneto,maschi,violenza fisica,2020,11
+veneto,maschi,violenza fisica,2021,7
+veneto,maschi,violenza fisica,2022,4
+veneto,maschi,violenza fisica,2023,10
+veneto,maschi,violenza fisica,2024,10
+veneto,maschi,violenza sessuale,2015,4
+veneto,maschi,violenza sessuale,2016,2
+veneto,maschi,violenza sessuale,2017,1
+veneto,maschi,violenza sessuale,2018,1
+veneto,maschi,violenza sessuale,2019,2
+veneto,maschi,violenza sessuale,2020,11
+veneto,maschi,violenza sessuale,2021,9
+veneto,maschi,violenza sessuale,2022,1
+veneto,maschi,violenza sessuale,2023,2
+veneto,maschi,violenza sessuale,2024,2
+veneto,maschi,minacce,2017,2
+veneto,maschi,minacce,2018,1
+veneto,maschi,minacce,2019,1
+veneto,maschi,minacce,2020,1
+veneto,maschi,minacce,2021,1
+veneto,maschi,mobbing,2015,1
+veneto,maschi,mobbing,2020,1
+veneto,maschi,mobbing,2021,1
+veneto,maschi,diffusione illecita di immagini o di video sessualmente espliciti,2023,1
+veneto,maschi,violenza psicologica,2015,10
+veneto,maschi,violenza psicologica,2016,10
+veneto,maschi,violenza psicologica,2017,8
+veneto,maschi,violenza psicologica,2018,4
+veneto,maschi,violenza psicologica,2019,5
+veneto,maschi,violenza psicologica,2020,9
+veneto,maschi,violenza psicologica,2021,6
+veneto,maschi,violenza psicologica,2022,4
+veneto,maschi,violenza psicologica,2023,10
+veneto,maschi,violenza psicologica,2024,3
+veneto,maschi,violenza economica,2016,1
+veneto,maschi,violenza economica,2017,1
+veneto,maschi,violenza economica,2018,1
+veneto,maschi,atti persecutori/stalking,2023,5
+veneto,maschi,atti persecutori/stalking,2024,5
+veneto,maschi,non risponde,2015,1
+veneto,maschi,non risponde,2017,2
+veneto,maschi,non risponde,2018,3
+veneto,maschi,non risponde,2020,1
+veneto,maschi,non risponde,2022,1
+veneto,maschi,non disponibile,2015,1
+veneto,maschi,non disponibile,2016,2
+veneto,maschi,non disponibile,2018,1
+veneto,maschi,non disponibile,2020,2
+veneto,maschi,non disponibile,2021,4
+veneto,femmine,violenza fisica,2015,238
+veneto,femmine,violenza fisica,2016,216
+veneto,femmine,violenza fisica,2017,223
+veneto,femmine,violenza fisica,2018,273
+veneto,femmine,violenza fisica,2019,274
+veneto,femmine,violenza fisica,2020,482
+veneto,femmine,violenza fisica,2021,530
+veneto,femmine,violenza fisica,2022,412
+veneto,femmine,violenza fisica,2023,494
+veneto,femmine,violenza fisica,2024,619
+veneto,femmine,violenza sessuale,2015,21
+veneto,femmine,violenza sessuale,2016,22
+veneto,femmine,violenza sessuale,2017,34
+veneto,femmine,violenza sessuale,2018,25
+veneto,femmine,violenza sessuale,2019,44
+veneto,femmine,violenza sessuale,2020,69
+veneto,femmine,violenza sessuale,2021,130
+veneto,femmine,violenza sessuale,2022,76
+veneto,femmine,violenza sessuale,2023,44
+veneto,femmine,violenza sessuale,2024,54
+veneto,femmine,minacce,2015,23
+veneto,femmine,minacce,2016,30
+veneto,femmine,minacce,2017,22
+veneto,femmine,minacce,2018,28
+veneto,femmine,minacce,2019,26
+veneto,femmine,minacce,2020,21
+veneto,femmine,minacce,2021,61
+veneto,femmine,minacce,2022,48
+veneto,femmine,minacce,2023,7
+veneto,femmine,minacce,2024,13
+veneto,femmine,mobbing,2015,1
+veneto,femmine,mobbing,2016,1
+veneto,femmine,mobbing,2017,2
+veneto,femmine,mobbing,2018,3
+veneto,femmine,mobbing,2020,3
+veneto,femmine,mobbing,2021,3
+veneto,femmine,mobbing,2022,5
+veneto,femmine,mobbing,2023,2
+veneto,femmine,mobbing,2024,2
+veneto,femmine,tratta,2021,2
+veneto,femmine,diffusione illecita di immagini o di video sessualmente espliciti,2023,1
+veneto,femmine,diffusione illecita di immagini o di video sessualmente espliciti,2024,1
+veneto,femmine,sfruttamento della prostituzione,2023,1
+veneto,femmine,violenza psicologica,2015,164
+veneto,femmine,violenza psicologica,2016,179
+veneto,femmine,violenza psicologica,2017,159
+veneto,femmine,violenza psicologica,2018,247
+veneto,femmine,violenza psicologica,2019,230
+veneto,femmine,violenza psicologica,2020,328
+veneto,femmine,violenza psicologica,2021,370
+veneto,femmine,violenza psicologica,2022,278
+veneto,femmine,violenza psicologica,2023,366
+veneto,femmine,violenza psicologica,2024,528
+veneto,femmine,violenza economica,2015,6
+veneto,femmine,violenza economica,2016,7
+veneto,femmine,violenza economica,2017,18
+veneto,femmine,violenza economica,2018,10
+veneto,femmine,violenza economica,2019,3
+veneto,femmine,violenza economica,2020,17
+veneto,femmine,violenza economica,2021,9
+veneto,femmine,violenza economica,2022,15
+veneto,femmine,violenza economica,2023,9
+veneto,femmine,violenza economica,2024,11
+veneto,femmine,atti persecutori/stalking,2023,77
+veneto,femmine,atti persecutori/stalking,2024,148
+veneto,femmine,violenza digitale,2023,5
+veneto,femmine,violenza digitale,2024,2
+veneto,femmine,altro,2024,2
+veneto,femmine,non risponde,2015,7
+veneto,femmine,non risponde,2016,3
+veneto,femmine,non risponde,2017,7
+veneto,femmine,non risponde,2018,7
+veneto,femmine,non risponde,2019,3
+veneto,femmine,non risponde,2020,8
+veneto,femmine,non risponde,2021,13
+veneto,femmine,non risponde,2022,12
+veneto,femmine,non risponde,2023,2
+veneto,femmine,non risponde,2024,1
+veneto,femmine,non disponibile,2015,20
+veneto,femmine,non disponibile,2016,10
+veneto,femmine,non disponibile,2017,10
+veneto,femmine,non disponibile,2018,21
+veneto,femmine,non disponibile,2019,31
+veneto,femmine,non disponibile,2020,28
+veneto,femmine,non disponibile,2021,23
+veneto,femmine,non disponibile,2022,15
+veneto,femmine,non disponibile,2023,6
+veneto,femmine,non disponibile,2024,12
+veneto,non indicato,violenza fisica,2023,5
+veneto,non indicato,violenza fisica,2024,5
+veneto,non indicato,violenza psicologica,2024,1
+veneto,non indicato,atti persecutori/stalking,2024,1
+veneto,non indicato,non disponibile,2023,9
+veneto,non indicato,non disponibile,2024,16
+friuli venezia giulia,maschi,violenza fisica,2018,3
+friuli venezia giulia,maschi,violenza fisica,2019,3
+friuli venezia giulia,maschi,violenza fisica,2020,4
+friuli venezia giulia,maschi,violenza fisica,2021,1
+friuli venezia giulia,maschi,violenza fisica,2022,1
+friuli venezia giulia,maschi,violenza sessuale,2015,1
+friuli venezia giulia,maschi,violenza sessuale,2020,2
+friuli venezia giulia,maschi,violenza sessuale,2021,1
+friuli venezia giulia,maschi,minacce,2015,2
+friuli venezia giulia,maschi,minacce,2018,1
+friuli venezia giulia,maschi,minacce,2019,1
+friuli venezia giulia,maschi,minacce,2020,2
+friuli venezia giulia,maschi,mobbing,2016,1
+friuli venezia giulia,maschi,mobbing,2021,1
+friuli venezia giulia,maschi,violenza psicologica,2015,2
+friuli venezia giulia,maschi,violenza psicologica,2017,2
+friuli venezia giulia,maschi,violenza psicologica,2019,1
+friuli venezia giulia,maschi,violenza psicologica,2020,2
+friuli venezia giulia,maschi,violenza psicologica,2022,1
+friuli venezia giulia,maschi,violenza psicologica,2023,3
+friuli venezia giulia,maschi,violenza psicologica,2024,2
+friuli venezia giulia,maschi,atti persecutori/stalking,2023,1
+friuli venezia giulia,maschi,non risponde,2015,1
+friuli venezia giulia,maschi,non disponibile,2021,1
+friuli venezia giulia,femmine,violenza fisica,2015,49
+friuli venezia giulia,femmine,violenza fisica,2016,56
+friuli venezia giulia,femmine,violenza fisica,2017,43
+friuli venezia giulia,femmine,violenza fisica,2018,52
+friuli venezia giulia,femmine,violenza fisica,2019,49
+friuli venezia giulia,femmine,violenza fisica,2020,61
+friuli venezia giulia,femmine,violenza fisica,2021,76
+friuli venezia giulia,femmine,violenza fisica,2022,58
+friuli venezia giulia,femmine,violenza fisica,2023,70
+friuli venezia giulia,femmine,violenza fisica,2024,83
+friuli venezia giulia,femmine,violenza sessuale,2015,6
+friuli venezia giulia,femmine,violenza sessuale,2016,4
+friuli venezia giulia,femmine,violenza sessuale,2017,9
+friuli venezia giulia,femmine,violenza sessuale,2018,6
+friuli venezia giulia,femmine,violenza sessuale,2019,3
+friuli venezia giulia,femmine,violenza sessuale,2020,19
+friuli venezia giulia,femmine,violenza sessuale,2021,20
+friuli venezia giulia,femmine,violenza sessuale,2022,11
+friuli venezia giulia,femmine,violenza sessuale,2023,8
+friuli venezia giulia,femmine,violenza sessuale,2024,11
+friuli venezia giulia,femmine,minacce,2015,3
+friuli venezia giulia,femmine,minacce,2016,4
+friuli venezia giulia,femmine,minacce,2017,4
+friuli venezia giulia,femmine,minacce,2018,2
+friuli venezia giulia,femmine,minacce,2019,3
+friuli venezia giulia,femmine,minacce,2020,4
+friuli venezia giulia,femmine,minacce,2021,1
+friuli venezia giulia,femmine,minacce,2022,4
+friuli venezia giulia,femmine,minacce,2024,3
+friuli venezia giulia,femmine,mobbing,2018,1
+friuli venezia giulia,femmine,mobbing,2020,2
+friuli venezia giulia,femmine,diffusione illecita di immagini o di video sessualmente espliciti,2024,1
+friuli venezia giulia,femmine,violenza psicologica,2015,41
+friuli venezia giulia,femmine,violenza psicologica,2016,45
+friuli venezia giulia,femmine,violenza psicologica,2017,42
+friuli venezia giulia,femmine,violenza psicologica,2018,59
+friuli venezia giulia,femmine,violenza psicologica,2019,44
+friuli venezia giulia,femmine,violenza psicologica,2020,67
+friuli venezia giulia,femmine,violenza psicologica,2021,61
+friuli venezia giulia,femmine,violenza psicologica,2022,52
+friuli venezia giulia,femmine,violenza psicologica,2023,74
+friuli venezia giulia,femmine,violenza psicologica,2024,135
+friuli venezia giulia,femmine,violenza economica,2015,1
+friuli venezia giulia,femmine,violenza economica,2016,1
+friuli venezia giulia,femmine,violenza economica,2017,2
+friuli venezia giulia,femmine,violenza economica,2018,3
+friuli venezia giulia,femmine,violenza economica,2019,2
+friuli venezia giulia,femmine,violenza economica,2020,5
+friuli venezia giulia,femmine,violenza economica,2021,2
+friuli venezia giulia,femmine,violenza economica,2022,1
+friuli venezia giulia,femmine,violenza economica,2024,1
+friuli venezia giulia,femmine,atti persecutori/stalking,2023,13
+friuli venezia giulia,femmine,atti persecutori/stalking,2024,25
+friuli venezia giulia,femmine,violenza digitale,2023,1
+friuli venezia giulia,femmine,matrimonio forzato,2023,1
+friuli venezia giulia,femmine,altro,2024,1
+friuli venezia giulia,femmine,non risponde,2015,1
+friuli venezia giulia,femmine,non risponde,2016,6
+friuli venezia giulia,femmine,non risponde,2017,2
+friuli venezia giulia,femmine,non risponde,2018,1
+friuli venezia giulia,femmine,non risponde,2019,1
+friuli venezia giulia,femmine,non risponde,2020,2
+friuli venezia giulia,femmine,non risponde,2021,2
+friuli venezia giulia,femmine,non risponde,2022,3
+friuli venezia giulia,femmine,non disponibile,2015,8
+friuli venezia giulia,femmine,non disponibile,2016,2
+friuli venezia giulia,femmine,non disponibile,2017,4
+friuli venezia giulia,femmine,non disponibile,2018,4
+friuli venezia giulia,femmine,non disponibile,2019,4
+friuli venezia giulia,femmine,non disponibile,2020,1
+friuli venezia giulia,femmine,non disponibile,2021,7
+friuli venezia giulia,femmine,non disponibile,2022,1
+friuli venezia giulia,femmine,non disponibile,2023,1
+friuli venezia giulia,femmine,non disponibile,2024,1
+friuli venezia giulia,non indicato,violenza fisica,2023,2
+friuli venezia giulia,non indicato,violenza fisica,2024,1
+friuli venezia giulia,non indicato,non disponibile,2023,1
+friuli venezia giulia,non indicato,non disponibile,2024,5
+emilia romagna,maschi,violenza fisica,2015,2
+emilia romagna,maschi,violenza fisica,2016,2
+emilia romagna,maschi,violenza fisica,2017,3
+emilia romagna,maschi,violenza fisica,2018,3
+emilia romagna,maschi,violenza fisica,2019,2
+emilia romagna,maschi,violenza fisica,2020,7
+emilia romagna,maschi,violenza fisica,2021,11
+emilia romagna,maschi,violenza fisica,2022,6
+emilia romagna,maschi,violenza fisica,2023,10
+emilia romagna,maschi,violenza fisica,2024,9
+emilia romagna,maschi,violenza sessuale,2015,1
+emilia romagna,maschi,violenza sessuale,2016,1
+emilia romagna,maschi,violenza sessuale,2017,4
+emilia romagna,maschi,violenza sessuale,2018,3
+emilia romagna,maschi,violenza sessuale,2019,3
+emilia romagna,maschi,violenza sessuale,2020,6
+emilia romagna,maschi,violenza sessuale,2021,7
+emilia romagna,maschi,violenza sessuale,2022,2
+emilia romagna,maschi,minacce,2015,1
+emilia romagna,maschi,minacce,2016,3
+emilia romagna,maschi,minacce,2019,1
+emilia romagna,maschi,minacce,2020,3
+emilia romagna,maschi,minacce,2021,2
+emilia romagna,maschi,minacce,2022,1
+emilia romagna,maschi,mobbing,2020,1
+emilia romagna,maschi,mobbing,2021,1
+emilia romagna,maschi,diffusione illecita di immagini o di video sessualmente espliciti,2023,1
+emilia romagna,maschi,violenza psicologica,2015,11
+emilia romagna,maschi,violenza psicologica,2016,13
+emilia romagna,maschi,violenza psicologica,2017,9
+emilia romagna,maschi,violenza psicologica,2018,3
+emilia romagna,maschi,violenza psicologica,2019,4
+emilia romagna,maschi,violenza psicologica,2020,10
+emilia romagna,maschi,violenza psicologica,2021,6
+emilia romagna,maschi,violenza psicologica,2022,6
+emilia romagna,maschi,violenza psicologica,2023,6
+emilia romagna,maschi,violenza psicologica,2024,8
+emilia romagna,maschi,violenza economica,2015,1
+emilia romagna,maschi,violenza economica,2019,1
+emilia romagna,maschi,violenza economica,2020,1
+emilia romagna,maschi,atti persecutori/stalking,2023,7
+emilia romagna,maschi,atti persecutori/stalking,2024,5
+emilia romagna,maschi,altro,2024,1
+emilia romagna,maschi,non risponde,2015,2
+emilia romagna,maschi,non risponde,2016,1
+emilia romagna,maschi,non risponde,2020,1
+emilia romagna,maschi,non risponde,2021,1
+emilia romagna,maschi,non risponde,2022,1
+emilia romagna,maschi,non disponibile,2015,1
+emilia romagna,maschi,non disponibile,2017,3
+emilia romagna,maschi,non disponibile,2019,1
+emilia romagna,maschi,non disponibile,2020,2
+emilia romagna,maschi,non disponibile,2021,1
+emilia romagna,maschi,non disponibile,2022,1
+emilia romagna,maschi,non disponibile,2024,1
+emilia romagna,femmine,violenza fisica,2015,201
+emilia romagna,femmine,violenza fisica,2016,202
+emilia romagna,femmine,violenza fisica,2017,170
+emilia romagna,femmine,violenza fisica,2018,220
+emilia romagna,femmine,violenza fisica,2019,204
+emilia romagna,femmine,violenza fisica,2020,401
+emilia romagna,femmine,violenza fisica,2021,429
+emilia romagna,femmine,violenza fisica,2022,301
+emilia romagna,femmine,violenza fisica,2023,361
+emilia romagna,femmine,violenza fisica,2024,526
+emilia romagna,femmine,violenza sessuale,2015,14
+emilia romagna,femmine,violenza sessuale,2016,16
+emilia romagna,femmine,violenza sessuale,2017,35
+emilia romagna,femmine,violenza sessuale,2018,25
+emilia romagna,femmine,violenza sessuale,2019,37
+emilia romagna,femmine,violenza sessuale,2020,71
+emilia romagna,femmine,violenza sessuale,2021,90
+emilia romagna,femmine,violenza sessuale,2022,57
+emilia romagna,femmine,violenza sessuale,2023,49
+emilia romagna,femmine,violenza sessuale,2024,43
+emilia romagna,femmine,minacce,2015,21
+emilia romagna,femmine,minacce,2016,20
+emilia romagna,femmine,minacce,2017,20
+emilia romagna,femmine,minacce,2018,23
+emilia romagna,femmine,minacce,2019,25
+emilia romagna,femmine,minacce,2020,32
+emilia romagna,femmine,minacce,2021,44
+emilia romagna,femmine,minacce,2022,36
+emilia romagna,femmine,minacce,2023,11
+emilia romagna,femmine,minacce,2024,12
+emilia romagna,femmine,mobbing,2015,3
+emilia romagna,femmine,mobbing,2016,2
+emilia romagna,femmine,mobbing,2017,1
+emilia romagna,femmine,mobbing,2018,2
+emilia romagna,femmine,mobbing,2019,1
+emilia romagna,femmine,mobbing,2020,5
+emilia romagna,femmine,mobbing,2021,5
+emilia romagna,femmine,mobbing,2022,4
+emilia romagna,femmine,mobbing,2023,1
+emilia romagna,femmine,mobbing,2024,1
+emilia romagna,femmine,tratta,2021,1
+emilia romagna,femmine,diffusione illecita di immagini o di video sessualmente espliciti,2023,2
+emilia romagna,femmine,diffusione illecita di immagini o di video sessualmente espliciti,2024,3
+emilia romagna,femmine,sfruttamento della prostituzione,2024,2
+emilia romagna,femmine,violenza psicologica,2015,169
+emilia romagna,femmine,violenza psicologica,2016,150
+emilia romagna,femmine,violenza psicologica,2017,151
+emilia romagna,femmine,violenza psicologica,2018,219
+emilia romagna,femmine,violenza psicologica,2019,187
+emilia romagna,femmine,violenza psicologica,2020,323
+emilia romagna,femmine,violenza psicologica,2021,357
+emilia romagna,femmine,violenza psicologica,2022,276
+emilia romagna,femmine,violenza psicologica,2023,326
+emilia romagna,femmine,violenza psicologica,2024,467
+emilia romagna,femmine,violenza economica,2015,10
+emilia romagna,femmine,violenza economica,2016,8
+emilia romagna,femmine,violenza economica,2017,5
+emilia romagna,femmine,violenza economica,2018,5
+emilia romagna,femmine,violenza economica,2019,2
+emilia romagna,femmine,violenza economica,2020,13
+emilia romagna,femmine,violenza economica,2021,13
+emilia romagna,femmine,violenza economica,2022,6
+emilia romagna,femmine,violenza economica,2023,10
+emilia romagna,femmine,violenza economica,2024,4
+emilia romagna,femmine,atti persecutori/stalking,2023,74
+emilia romagna,femmine,atti persecutori/stalking,2024,137
+emilia romagna,femmine,violenza digitale,2023,1
+emilia romagna,femmine,violenza digitale,2024,3
+emilia romagna,femmine,matrimonio forzato,2023,1
+emilia romagna,femmine,matrimonio forzato,2024,1
+emilia romagna,femmine,altro,2023,1
+emilia romagna,femmine,non risponde,2015,10
+emilia romagna,femmine,non risponde,2016,7
+emilia romagna,femmine,non risponde,2017,3
+emilia romagna,femmine,non risponde,2018,1
+emilia romagna,femmine,non risponde,2019,3
+emilia romagna,femmine,non risponde,2020,10
+emilia romagna,femmine,non risponde,2021,4
+emilia romagna,femmine,non risponde,2022,14
+emilia romagna,femmine,non risponde,2023,4
+emilia romagna,femmine,non disponibile,2015,9
+emilia romagna,femmine,non disponibile,2016,18
+emilia romagna,femmine,non disponibile,2017,9
+emilia romagna,femmine,non disponibile,2018,18
+emilia romagna,femmine,non disponibile,2019,20
+emilia romagna,femmine,non disponibile,2020,27
+emilia romagna,femmine,non disponibile,2021,22
+emilia romagna,femmine,non disponibile,2022,16
+emilia romagna,femmine,non disponibile,2023,12
+emilia romagna,femmine,non disponibile,2024,9
+emilia romagna,non indicato,violenza fisica,2023,3
+emilia romagna,non indicato,violenza fisica,2024,3
+emilia romagna,non indicato,violenza sessuale,2024,1
+emilia romagna,non indicato,minacce,2023,1
+emilia romagna,non indicato,violenza psicologica,2023,1
+emilia romagna,non indicato,violenza psicologica,2024,1
+emilia romagna,non indicato,non disponibile,2023,12
+emilia romagna,non indicato,non disponibile,2024,18
+centro,maschi,violenza fisica,2015,16
+centro,maschi,violenza fisica,2016,24
+centro,maschi,violenza fisica,2017,16
+centro,maschi,violenza fisica,2018,19
+centro,maschi,violenza fisica,2019,14
+centro,maschi,violenza fisica,2020,46
+centro,maschi,violenza fisica,2021,33
+centro,maschi,violenza fisica,2022,21
+centro,maschi,violenza fisica,2023,33
+centro,maschi,violenza fisica,2024,32
+centro,maschi,violenza sessuale,2015,4
+centro,maschi,violenza sessuale,2016,7
+centro,maschi,violenza sessuale,2017,7
+centro,maschi,violenza sessuale,2018,3
+centro,maschi,violenza sessuale,2019,6
+centro,maschi,violenza sessuale,2020,26
+centro,maschi,violenza sessuale,2021,20
+centro,maschi,violenza sessuale,2022,16
+centro,maschi,violenza sessuale,2023,2
+centro,maschi,violenza sessuale,2024,3
+centro,maschi,minacce,2015,1
+centro,maschi,minacce,2016,6
+centro,maschi,minacce,2017,5
+centro,maschi,minacce,2018,3
+centro,maschi,minacce,2019,3
+centro,maschi,minacce,2020,7
+centro,maschi,minacce,2021,7
+centro,maschi,minacce,2022,8
+centro,maschi,minacce,2023,1
+centro,maschi,minacce,2024,4
+centro,maschi,mobbing,2015,2
+centro,maschi,mobbing,2018,1
+centro,maschi,mobbing,2020,1
+centro,maschi,diffusione illecita di immagini o di video sessualmente espliciti,2024,2
+centro,maschi,violenza psicologica,2015,26
+centro,maschi,violenza psicologica,2016,30
+centro,maschi,violenza psicologica,2017,27
+centro,maschi,violenza psicologica,2018,26
+centro,maschi,violenza psicologica,2019,19
+centro,maschi,violenza psicologica,2020,40
+centro,maschi,violenza psicologica,2021,28
+centro,maschi,violenza psicologica,2022,22
+centro,maschi,violenza psicologica,2023,24
+centro,maschi,violenza psicologica,2024,28
+centro,maschi,violenza economica,2016,2
+centro,maschi,violenza economica,2019,1
+centro,maschi,violenza economica,2020,1
+centro,maschi,violenza economica,2021,1
+centro,maschi,violenza economica,2022,1
+centro,maschi,violenza economica,2023,2
+centro,maschi,atti persecutori/stalking,2023,12
+centro,maschi,atti persecutori/stalking,2024,18
+centro,maschi,altro,2023,2
+centro,maschi,non risponde,2015,4
+centro,maschi,non risponde,2016,1
+centro,maschi,non risponde,2017,5
+centro,maschi,non risponde,2019,3
+centro,maschi,non risponde,2020,3
+centro,maschi,non risponde,2021,3
+centro,maschi,non risponde,2022,1
+centro,maschi,non disponibile,2015,3
+centro,maschi,non disponibile,2016,6
+centro,maschi,non disponibile,2017,3
+centro,maschi,non disponibile,2018,5
+centro,maschi,non disponibile,2019,2
+centro,maschi,non disponibile,2020,6
+centro,maschi,non disponibile,2021,9
+centro,maschi,non disponibile,2022,1
+centro,femmine,violenza fisica,2015,802
+centro,femmine,violenza fisica,2016,775
+centro,femmine,violenza fisica,2017,699
+centro,femmine,violenza fisica,2018,910
+centro,femmine,violenza fisica,2019,829
+centro,femmine,violenza fisica,2020,1534
+centro,femmine,violenza fisica,2021,1552
+centro,femmine,violenza fisica,2022,1216
+centro,femmine,violenza fisica,2023,1497
+centro,femmine,violenza fisica,2024,1653
+centro,femmine,violenza sessuale,2015,57
+centro,femmine,violenza sessuale,2016,77
+centro,femmine,violenza sessuale,2017,84
+centro,femmine,violenza sessuale,2018,102
+centro,femmine,violenza sessuale,2019,115
+centro,femmine,violenza sessuale,2020,188
+centro,femmine,violenza sessuale,2021,326
+centro,femmine,violenza sessuale,2022,177
+centro,femmine,violenza sessuale,2023,154
+centro,femmine,violenza sessuale,2024,124
+centro,femmine,minacce,2015,68
+centro,femmine,minacce,2016,66
+centro,femmine,minacce,2017,81
+centro,femmine,minacce,2018,89
+centro,femmine,minacce,2019,74
+centro,femmine,minacce,2020,87
+centro,femmine,minacce,2021,180
+centro,femmine,minacce,2022,152
+centro,femmine,minacce,2023,30
+centro,femmine,minacce,2024,42
+centro,femmine,mobbing,2015,4
+centro,femmine,mobbing,2016,4
+centro,femmine,mobbing,2017,4
+centro,femmine,mobbing,2018,7
+centro,femmine,mobbing,2019,3
+centro,femmine,mobbing,2020,14
+centro,femmine,mobbing,2021,14
+centro,femmine,mobbing,2022,9
+centro,femmine,mobbing,2023,5
+centro,femmine,mobbing,2024,4
+centro,femmine,tratta,2024,1
+centro,femmine,diffusione illecita di immagini o di video sessualmente espliciti,2023,6
+centro,femmine,diffusione illecita di immagini o di video sessualmente espliciti,2024,5
+centro,femmine,sfruttamento della prostituzione,2023,4
+centro,femmine,sfruttamento della prostituzione,2024,4
+centro,femmine,violenza psicologica,2015,661
+centro,femmine,violenza psicologica,2016,642
+centro,femmine,violenza psicologica,2017,571
+centro,femmine,violenza psicologica,2018,867
+centro,femmine,violenza psicologica,2019,824
+centro,femmine,violenza psicologica,2020,1068
+centro,femmine,violenza psicologica,2021,1179
+centro,femmine,violenza psicologica,2022,877
+centro,femmine,violenza psicologica,2023,1058
+centro,femmine,violenza psicologica,2024,1350
+centro,femmine,violenza economica,2015,34
+centro,femmine,violenza economica,2016,43
+centro,femmine,violenza economica,2017,32
+centro,femmine,violenza economica,2018,24
+centro,femmine,violenza economica,2019,28
+centro,femmine,violenza economica,2020,34
+centro,femmine,violenza economica,2021,32
+centro,femmine,violenza economica,2022,37
+centro,femmine,violenza economica,2023,12
+centro,femmine,violenza economica,2024,27
+centro,femmine,atti persecutori/stalking,2023,236
+centro,femmine,atti persecutori/stalking,2024,323
+centro,femmine,violenza digitale,2023,9
+centro,femmine,violenza digitale,2024,3
+centro,femmine,matrimonio forzato,2024,3
+centro,femmine,altro,2023,3
+centro,femmine,altro,2024,3
+centro,femmine,non risponde,2015,27
+centro,femmine,non risponde,2016,21
+centro,femmine,non risponde,2017,22
+centro,femmine,non risponde,2018,7
+centro,femmine,non risponde,2019,14
+centro,femmine,non risponde,2020,39
+centro,femmine,non risponde,2021,27
+centro,femmine,non risponde,2022,26
+centro,femmine,non risponde,2023,6
+centro,femmine,non risponde,2024,2
+centro,femmine,non disponibile,2015,62
+centro,femmine,non disponibile,2016,50
+centro,femmine,non disponibile,2017,77
+centro,femmine,non disponibile,2018,90
+centro,femmine,non disponibile,2019,54
+centro,femmine,non disponibile,2020,89
+centro,femmine,non disponibile,2021,75
+centro,femmine,non disponibile,2022,79
+centro,femmine,non disponibile,2023,42
+centro,femmine,non disponibile,2024,29
+centro,non indicato,violenza fisica,2023,19
+centro,non indicato,violenza fisica,2024,9
+centro,non indicato,violenza psicologica,2023,3
+centro,non indicato,violenza psicologica,2024,2
+centro,non indicato,atti persecutori/stalking,2023,2
+centro,non indicato,non risponde,2024,1
+centro,non indicato,non disponibile,2021,1
+centro,non indicato,non disponibile,2023,51
+centro,non indicato,non disponibile,2024,52
+toscana,maschi,violenza fisica,2015,5
+toscana,maschi,violenza fisica,2016,11
+toscana,maschi,violenza fisica,2017,7
+toscana,maschi,violenza fisica,2018,8
+toscana,maschi,violenza fisica,2019,1
+toscana,maschi,violenza fisica,2020,14
+toscana,maschi,violenza fisica,2021,13
+toscana,maschi,violenza fisica,2022,7
+toscana,maschi,violenza fisica,2023,6
+toscana,maschi,violenza fisica,2024,5
+toscana,maschi,violenza sessuale,2015,1
+toscana,maschi,violenza sessuale,2016,2
+toscana,maschi,violenza sessuale,2017,3
+toscana,maschi,violenza sessuale,2019,1
+toscana,maschi,violenza sessuale,2020,8
+toscana,maschi,violenza sessuale,2021,9
+toscana,maschi,violenza sessuale,2022,5
+toscana,maschi,violenza sessuale,2023,2
+toscana,maschi,violenza sessuale,2024,2
+toscana,maschi,minacce,2016,1
+toscana,maschi,minacce,2017,2
+toscana,maschi,minacce,2020,4
+toscana,maschi,minacce,2021,1
+toscana,maschi,minacce,2022,4
+toscana,maschi,minacce,2023,1
+toscana,maschi,minacce,2024,1
+toscana,maschi,mobbing,2015,2
+toscana,maschi,violenza psicologica,2015,1
+toscana,maschi,violenza psicologica,2016,5
+toscana,maschi,violenza psicologica,2017,9
+toscana,maschi,violenza psicologica,2018,5
+toscana,maschi,violenza psicologica,2019,1
+toscana,maschi,violenza psicologica,2020,13
+toscana,maschi,violenza psicologica,2021,6
+toscana,maschi,violenza psicologica,2022,5
+toscana,maschi,violenza psicologica,2023,7
+toscana,maschi,violenza psicologica,2024,9
+toscana,maschi,violenza economica,2016,1
+toscana,maschi,violenza economica,2021,1
+toscana,maschi,atti persecutori/stalking,2023,3
+toscana,maschi,atti persecutori/stalking,2024,5
+toscana,maschi,non risponde,2017,1
+toscana,maschi,non risponde,2022,1
+toscana,maschi,non disponibile,2015,1
+toscana,maschi,non disponibile,2016,1
+toscana,maschi,non disponibile,2017,1
+toscana,maschi,non disponibile,2018,1
+toscana,maschi,non disponibile,2020,1
+toscana,maschi,non disponibile,2021,1
+toscana,femmine,violenza fisica,2015,183
+toscana,femmine,violenza fisica,2016,135
+toscana,femmine,violenza fisica,2017,189
+toscana,femmine,violenza fisica,2018,227
+toscana,femmine,violenza fisica,2019,208
+toscana,femmine,violenza fisica,2020,416
+toscana,femmine,violenza fisica,2021,374
+toscana,femmine,violenza fisica,2022,290
+toscana,femmine,violenza fisica,2023,353
+toscana,femmine,violenza fisica,2024,455
+toscana,femmine,violenza sessuale,2015,13
+toscana,femmine,violenza sessuale,2016,19
+toscana,femmine,violenza sessuale,2017,31
+toscana,femmine,violenza sessuale,2018,25
+toscana,femmine,violenza sessuale,2019,38
+toscana,femmine,violenza sessuale,2020,49
+toscana,femmine,violenza sessuale,2021,80
+toscana,femmine,violenza sessuale,2022,48
+toscana,femmine,violenza sessuale,2023,35
+toscana,femmine,violenza sessuale,2024,41
+toscana,femmine,minacce,2015,7
+toscana,femmine,minacce,2016,14
+toscana,femmine,minacce,2017,22
+toscana,femmine,minacce,2018,35
+toscana,femmine,minacce,2019,18
+toscana,femmine,minacce,2020,32
+toscana,femmine,minacce,2021,42
+toscana,femmine,minacce,2022,39
+toscana,femmine,minacce,2023,7
+toscana,femmine,minacce,2024,14
+toscana,femmine,mobbing,2015,2
+toscana,femmine,mobbing,2016,1
+toscana,femmine,mobbing,2017,2
+toscana,femmine,mobbing,2018,1
+toscana,femmine,mobbing,2020,5
+toscana,femmine,mobbing,2021,1
+toscana,femmine,mobbing,2022,1
+toscana,femmine,mobbing,2023,1
+toscana,femmine,mobbing,2024,1
+toscana,femmine,diffusione illecita di immagini o di video sessualmente espliciti,2023,2
+toscana,femmine,violenza psicologica,2015,147
+toscana,femmine,violenza psicologica,2016,125
+toscana,femmine,violenza psicologica,2017,154
+toscana,femmine,violenza psicologica,2018,238
+toscana,femmine,violenza psicologica,2019,225
+toscana,femmine,violenza psicologica,2020,290
+toscana,femmine,violenza psicologica,2021,304
+toscana,femmine,violenza psicologica,2022,204
+toscana,femmine,violenza psicologica,2023,252
+toscana,femmine,violenza psicologica,2024,380
+toscana,femmine,violenza economica,2015,10
+toscana,femmine,violenza economica,2016,15
+toscana,femmine,violenza economica,2017,11
+toscana,femmine,violenza economica,2018,6
+toscana,femmine,violenza economica,2019,7
+toscana,femmine,violenza economica,2020,8
+toscana,femmine,violenza economica,2021,4
+toscana,femmine,violenza economica,2022,8
+toscana,femmine,violenza economica,2023,4
+toscana,femmine,violenza economica,2024,6
+toscana,femmine,atti persecutori/stalking,2023,55
+toscana,femmine,atti persecutori/stalking,2024,92
+toscana,femmine,violenza digitale,2023,3
+toscana,femmine,violenza digitale,2024,1
+toscana,femmine,matrimonio forzato,2024,1
+toscana,femmine,altro,2023,1
+toscana,femmine,non risponde,2015,6
+toscana,femmine,non risponde,2016,6
+toscana,femmine,non risponde,2017,5
+toscana,femmine,non risponde,2019,5
+toscana,femmine,non risponde,2020,10
+toscana,femmine,non risponde,2021,5
+toscana,femmine,non risponde,2022,10
+toscana,femmine,non risponde,2023,2
+toscana,femmine,non risponde,2024,1
+toscana,femmine,non disponibile,2015,11
+toscana,femmine,non disponibile,2016,8
+toscana,femmine,non disponibile,2017,13
+toscana,femmine,non disponibile,2018,27
+toscana,femmine,non disponibile,2019,15
+toscana,femmine,non disponibile,2020,19
+toscana,femmine,non disponibile,2021,17
+toscana,femmine,non disponibile,2022,16
+toscana,femmine,non disponibile,2023,9
+toscana,femmine,non disponibile,2024,3
+toscana,non indicato,violenza fisica,2023,3
+toscana,non indicato,violenza fisica,2024,3
+toscana,non indicato,atti persecutori/stalking,2023,1
+toscana,non indicato,non disponibile,2023,12
+toscana,non indicato,non disponibile,2024,14
+umbria,maschi,violenza fisica,2015,2
+umbria,maschi,violenza fisica,2016,1
+umbria,maschi,violenza fisica,2017,1
+umbria,maschi,violenza fisica,2021,1
+umbria,maschi,violenza fisica,2022,2
+umbria,maschi,violenza fisica,2023,1
+umbria,maschi,violenza fisica,2024,2
+umbria,maschi,violenza sessuale,2015,1
+umbria,maschi,violenza sessuale,2018,1
+umbria,maschi,violenza sessuale,2020,1
+umbria,maschi,violenza sessuale,2022,1
+umbria,maschi,minacce,2016,1
+umbria,maschi,minacce,2017,1
+umbria,maschi,minacce,2022,2
+umbria,maschi,mobbing,2020,1
+umbria,maschi,violenza psicologica,2015,1
+umbria,maschi,violenza psicologica,2016,1
+umbria,maschi,violenza psicologica,2017,2
+umbria,maschi,violenza psicologica,2018,1
+umbria,maschi,violenza psicologica,2019,2
+umbria,maschi,violenza psicologica,2023,2
+umbria,maschi,atti persecutori/stalking,2024,1
+umbria,maschi,non risponde,2017,1
+umbria,maschi,non risponde,2019,1
+umbria,maschi,non disponibile,2019,1
+umbria,femmine,violenza fisica,2015,46
+umbria,femmine,violenza fisica,2016,47
+umbria,femmine,violenza fisica,2017,50
+umbria,femmine,violenza fisica,2018,50
+umbria,femmine,violenza fisica,2019,51
+umbria,femmine,violenza fisica,2020,71
+umbria,femmine,violenza fisica,2021,68
+umbria,femmine,violenza fisica,2022,73
+umbria,femmine,violenza fisica,2023,111
+umbria,femmine,violenza fisica,2024,99
+umbria,femmine,violenza sessuale,2015,5
+umbria,femmine,violenza sessuale,2016,2
+umbria,femmine,violenza sessuale,2017,4
+umbria,femmine,violenza sessuale,2018,2
+umbria,femmine,violenza sessuale,2019,7
+umbria,femmine,violenza sessuale,2020,13
+umbria,femmine,violenza sessuale,2021,21
+umbria,femmine,violenza sessuale,2022,11
+umbria,femmine,violenza sessuale,2023,8
+umbria,femmine,violenza sessuale,2024,11
+umbria,femmine,minacce,2015,4
+umbria,femmine,minacce,2016,5
+umbria,femmine,minacce,2017,3
+umbria,femmine,minacce,2018,2
+umbria,femmine,minacce,2019,3
+umbria,femmine,minacce,2020,3
+umbria,femmine,minacce,2021,10
+umbria,femmine,minacce,2022,7
+umbria,femmine,minacce,2024,5
+umbria,femmine,mobbing,2015,1
+umbria,femmine,mobbing,2017,1
+umbria,femmine,mobbing,2018,1
+umbria,femmine,tratta,2024,1
+umbria,femmine,diffusione illecita di immagini o di video sessualmente espliciti,2024,1
+umbria,femmine,violenza psicologica,2015,51
+umbria,femmine,violenza psicologica,2016,38
+umbria,femmine,violenza psicologica,2017,28
+umbria,femmine,violenza psicologica,2018,57
+umbria,femmine,violenza psicologica,2019,34
+umbria,femmine,violenza psicologica,2020,48
+umbria,femmine,violenza psicologica,2021,66
+umbria,femmine,violenza psicologica,2022,53
+umbria,femmine,violenza psicologica,2023,61
+umbria,femmine,violenza psicologica,2024,78
+umbria,femmine,violenza economica,2015,1
+umbria,femmine,violenza economica,2016,1
+umbria,femmine,violenza economica,2017,3
+umbria,femmine,violenza economica,2018,1
+umbria,femmine,violenza economica,2019,3
+umbria,femmine,violenza economica,2020,1
+umbria,femmine,violenza economica,2021,1
+umbria,femmine,violenza economica,2022,2
+umbria,femmine,atti persecutori/stalking,2023,14
+umbria,femmine,atti persecutori/stalking,2024,15
+umbria,femmine,altro,2023,1
+umbria,femmine,non risponde,2015,2
+umbria,femmine,non risponde,2017,2
+umbria,femmine,non risponde,2020,2
+umbria,femmine,non risponde,2021,2
+umbria,femmine,non disponibile,2015,2
+umbria,femmine,non disponibile,2016,1
+umbria,femmine,non disponibile,2017,9
+umbria,femmine,non disponibile,2018,3
+umbria,femmine,non disponibile,2019,1
+umbria,femmine,non disponibile,2020,4
+umbria,femmine,non disponibile,2021,3
+umbria,femmine,non disponibile,2022,3
+umbria,femmine,non disponibile,2023,1
+umbria,femmine,non disponibile,2024,2
+umbria,non indicato,non disponibile,2023,1
+umbria,non indicato,non disponibile,2024,5
+marche,maschi,violenza fisica,2015,2
+marche,maschi,violenza fisica,2016,1
+marche,maschi,violenza fisica,2017,1
+marche,maschi,violenza fisica,2018,2
+marche,maschi,violenza fisica,2019,1
+marche,maschi,violenza fisica,2020,7
+marche,maschi,violenza fisica,2021,1
+marche,maschi,violenza fisica,2022,2
+marche,maschi,violenza fisica,2023,3
+marche,maschi,violenza fisica,2024,4
+marche,maschi,violenza sessuale,2016,1
+marche,maschi,violenza sessuale,2020,3
+marche,maschi,violenza sessuale,2021,1
+marche,maschi,violenza sessuale,2022,1
+marche,maschi,minacce,2020,1
+marche,maschi,minacce,2021,1
+marche,maschi,minacce,2022,1
+marche,maschi,minacce,2024,1
+marche,maschi,diffusione illecita di immagini o di video sessualmente espliciti,2024,1
+marche,maschi,violenza psicologica,2015,2
+marche,maschi,violenza psicologica,2016,5
+marche,maschi,violenza psicologica,2017,1
+marche,maschi,violenza psicologica,2018,2
+marche,maschi,violenza psicologica,2019,2
+marche,maschi,violenza psicologica,2020,5
+marche,maschi,violenza psicologica,2021,6
+marche,maschi,violenza psicologica,2022,4
+marche,maschi,violenza psicologica,2023,3
+marche,maschi,violenza psicologica,2024,3
+marche,maschi,violenza economica,2016,1
+marche,maschi,violenza economica,2019,1
+marche,maschi,violenza economica,2023,1
+marche,maschi,atti persecutori/stalking,2024,1
+marche,maschi,non risponde,2015,2
+marche,maschi,non disponibile,2016,1
+marche,maschi,non disponibile,2021,1
+marche,femmine,violenza fisica,2015,101
+marche,femmine,violenza fisica,2016,106
+marche,femmine,violenza fisica,2017,86
+marche,femmine,violenza fisica,2018,96
+marche,femmine,violenza fisica,2019,78
+marche,femmine,violenza fisica,2020,147
+marche,femmine,violenza fisica,2021,145
+marche,femmine,violenza fisica,2022,121
+marche,femmine,violenza fisica,2023,135
+marche,femmine,violenza fisica,2024,162
+marche,femmine,violenza sessuale,2015,7
+marche,femmine,violenza sessuale,2016,6
+marche,femmine,violenza sessuale,2017,7
+marche,femmine,violenza sessuale,2018,13
+marche,femmine,violenza sessuale,2019,7
+marche,femmine,violenza sessuale,2020,6
+marche,femmine,violenza sessuale,2021,31
+marche,femmine,violenza sessuale,2022,21
+marche,femmine,violenza sessuale,2023,19
+marche,femmine,violenza sessuale,2024,4
+marche,femmine,minacce,2015,9
+marche,femmine,minacce,2016,5
+marche,femmine,minacce,2017,6
+marche,femmine,minacce,2018,7
+marche,femmine,minacce,2019,4
+marche,femmine,minacce,2020,6
+marche,femmine,minacce,2021,11
+marche,femmine,minacce,2022,13
+marche,femmine,minacce,2023,3
+marche,femmine,minacce,2024,5
+marche,femmine,mobbing,2015,1
+marche,femmine,mobbing,2016,2
+marche,femmine,mobbing,2019,1
+marche,femmine,mobbing,2020,3
+marche,femmine,mobbing,2022,1
+marche,femmine,mobbing,2023,1
+marche,femmine,sfruttamento della prostituzione,2024,1
+marche,femmine,violenza psicologica,2015,81
+marche,femmine,violenza psicologica,2016,75
+marche,femmine,violenza psicologica,2017,59
+marche,femmine,violenza psicologica,2018,99
+marche,femmine,violenza psicologica,2019,82
+marche,femmine,violenza psicologica,2020,109
+marche,femmine,violenza psicologica,2021,139
+marche,femmine,violenza psicologica,2022,85
+marche,femmine,violenza psicologica,2023,83
+marche,femmine,violenza psicologica,2024,147
+marche,femmine,violenza economica,2015,5
+marche,femmine,violenza economica,2016,3
+marche,femmine,violenza economica,2017,1
+marche,femmine,violenza economica,2018,2
+marche,femmine,violenza economica,2019,2
+marche,femmine,violenza economica,2020,2
+marche,femmine,violenza economica,2021,4
+marche,femmine,violenza economica,2022,4
+marche,femmine,violenza economica,2023,1
+marche,femmine,violenza economica,2024,3
+marche,femmine,atti persecutori/stalking,2023,20
+marche,femmine,atti persecutori/stalking,2024,37
+marche,femmine,altro,2024,1
+marche,femmine,non risponde,2015,2
+marche,femmine,non risponde,2016,1
+marche,femmine,non risponde,2017,3
+marche,femmine,non risponde,2018,1
+marche,femmine,non risponde,2019,1
+marche,femmine,non risponde,2020,5
+marche,femmine,non risponde,2021,2
+marche,femmine,non risponde,2022,2
+marche,femmine,non disponibile,2015,9
+marche,femmine,non disponibile,2016,5
+marche,femmine,non disponibile,2017,9
+marche,femmine,non disponibile,2018,8
+marche,femmine,non disponibile,2019,6
+marche,femmine,non disponibile,2020,7
+marche,femmine,non disponibile,2021,11
+marche,femmine,non disponibile,2022,9
+marche,femmine,non disponibile,2023,5
+marche,femmine,non disponibile,2024,1
+marche,non indicato,violenza fisica,2024,1
+marche,non indicato,violenza psicologica,2023,1
+marche,non indicato,non disponibile,2023,4
+marche,non indicato,non disponibile,2024,6
+lazio,maschi,violenza fisica,2015,7
+lazio,maschi,violenza fisica,2016,11
+lazio,maschi,violenza fisica,2017,7
+lazio,maschi,violenza fisica,2018,9
+lazio,maschi,violenza fisica,2019,12
+lazio,maschi,violenza fisica,2020,25
+lazio,maschi,violenza fisica,2021,18
+lazio,maschi,violenza fisica,2022,10
+lazio,maschi,violenza fisica,2023,23
+lazio,maschi,violenza fisica,2024,21
+lazio,maschi,violenza sessuale,2015,2
+lazio,maschi,violenza sessuale,2016,4
+lazio,maschi,violenza sessuale,2017,4
+lazio,maschi,violenza sessuale,2018,2
+lazio,maschi,violenza sessuale,2019,5
+lazio,maschi,violenza sessuale,2020,14
+lazio,maschi,violenza sessuale,2021,10
+lazio,maschi,violenza sessuale,2022,9
+lazio,maschi,violenza sessuale,2024,1
+lazio,maschi,minacce,2015,1
+lazio,maschi,minacce,2016,4
+lazio,maschi,minacce,2017,2
+lazio,maschi,minacce,2018,3
+lazio,maschi,minacce,2019,3
+lazio,maschi,minacce,2020,2
+lazio,maschi,minacce,2021,5
+lazio,maschi,minacce,2022,1
+lazio,maschi,minacce,2024,2
+lazio,maschi,mobbing,2018,1
+lazio,maschi,diffusione illecita di immagini o di video sessualmente espliciti,2024,1
+lazio,maschi,violenza psicologica,2015,22
+lazio,maschi,violenza psicologica,2016,19
+lazio,maschi,violenza psicologica,2017,15
+lazio,maschi,violenza psicologica,2018,18
+lazio,maschi,violenza psicologica,2019,14
+lazio,maschi,violenza psicologica,2020,22
+lazio,maschi,violenza psicologica,2021,16
+lazio,maschi,violenza psicologica,2022,13
+lazio,maschi,violenza psicologica,2023,12
+lazio,maschi,violenza psicologica,2024,16
+lazio,maschi,violenza economica,2020,1
+lazio,maschi,violenza economica,2022,1
+lazio,maschi,violenza economica,2023,1
+lazio,maschi,atti persecutori/stalking,2023,9
+lazio,maschi,atti persecutori/stalking,2024,11
+lazio,maschi,altro,2023,2
+lazio,maschi,non risponde,2015,2
+lazio,maschi,non risponde,2016,1
+lazio,maschi,non risponde,2017,3
+lazio,maschi,non risponde,2019,2
+lazio,maschi,non risponde,2020,3
+lazio,maschi,non risponde,2021,3
+lazio,maschi,non disponibile,2015,2
+lazio,maschi,non disponibile,2016,4
+lazio,maschi,non disponibile,2017,2
+lazio,maschi,non disponibile,2018,4
+lazio,maschi,non disponibile,2019,1
+lazio,maschi,non disponibile,2020,5
+lazio,maschi,non disponibile,2021,7
+lazio,maschi,non disponibile,2022,1
+lazio,femmine,violenza fisica,2015,472
+lazio,femmine,violenza fisica,2016,487
+lazio,femmine,violenza fisica,2017,374
+lazio,femmine,violenza fisica,2018,537
+lazio,femmine,violenza fisica,2019,492
+lazio,femmine,violenza fisica,2020,900
+lazio,femmine,violenza fisica,2021,965
+lazio,femmine,violenza fisica,2022,732
+lazio,femmine,violenza fisica,2023,898
+lazio,femmine,violenza fisica,2024,937
+lazio,femmine,violenza sessuale,2015,32
+lazio,femmine,violenza sessuale,2016,50
+lazio,femmine,violenza sessuale,2017,42
+lazio,femmine,violenza sessuale,2018,62
+lazio,femmine,violenza sessuale,2019,63
+lazio,femmine,violenza sessuale,2020,120
+lazio,femmine,violenza sessuale,2021,194
+lazio,femmine,violenza sessuale,2022,97
+lazio,femmine,violenza sessuale,2023,92
+lazio,femmine,violenza sessuale,2024,68
+lazio,femmine,minacce,2015,48
+lazio,femmine,minacce,2016,42
+lazio,femmine,minacce,2017,50
+lazio,femmine,minacce,2018,45
+lazio,femmine,minacce,2019,49
+lazio,femmine,minacce,2020,46
+lazio,femmine,minacce,2021,117
+lazio,femmine,minacce,2022,93
+lazio,femmine,minacce,2023,20
+lazio,femmine,minacce,2024,18
+lazio,femmine,mobbing,2016,1
+lazio,femmine,mobbing,2017,1
+lazio,femmine,mobbing,2018,5
+lazio,femmine,mobbing,2019,2
+lazio,femmine,mobbing,2020,6
+lazio,femmine,mobbing,2021,13
+lazio,femmine,mobbing,2022,7
+lazio,femmine,mobbing,2023,3
+lazio,femmine,mobbing,2024,3
+lazio,femmine,diffusione illecita di immagini o di video sessualmente espliciti,2023,4
+lazio,femmine,diffusione illecita di immagini o di video sessualmente espliciti,2024,4
+lazio,femmine,sfruttamento della prostituzione,2023,4
+lazio,femmine,sfruttamento della prostituzione,2024,3
+lazio,femmine,violenza psicologica,2015,382
+lazio,femmine,violenza psicologica,2016,404
+lazio,femmine,violenza psicologica,2017,330
+lazio,femmine,violenza psicologica,2018,473
+lazio,femmine,violenza psicologica,2019,483
+lazio,femmine,violenza psicologica,2020,621
+lazio,femmine,violenza psicologica,2021,670
+lazio,femmine,violenza psicologica,2022,535
+lazio,femmine,violenza psicologica,2023,662
+lazio,femmine,violenza psicologica,2024,745
+lazio,femmine,violenza economica,2015,18
+lazio,femmine,violenza economica,2016,24
+lazio,femmine,violenza economica,2017,17
+lazio,femmine,violenza economica,2018,15
+lazio,femmine,violenza economica,2019,16
+lazio,femmine,violenza economica,2020,23
+lazio,femmine,violenza economica,2021,23
+lazio,femmine,violenza economica,2022,23
+lazio,femmine,violenza economica,2023,7
+lazio,femmine,violenza economica,2024,18
+lazio,femmine,atti persecutori/stalking,2023,147
+lazio,femmine,atti persecutori/stalking,2024,179
+lazio,femmine,violenza digitale,2023,6
+lazio,femmine,violenza digitale,2024,2
+lazio,femmine,matrimonio forzato,2024,2
+lazio,femmine,altro,2023,1
+lazio,femmine,altro,2024,2
+lazio,femmine,non risponde,2015,17
+lazio,femmine,non risponde,2016,14
+lazio,femmine,non risponde,2017,12
+lazio,femmine,non risponde,2018,6
+lazio,femmine,non risponde,2019,8
+lazio,femmine,non risponde,2020,22
+lazio,femmine,non risponde,2021,18
+lazio,femmine,non risponde,2022,14
+lazio,femmine,non risponde,2023,4
+lazio,femmine,non risponde,2024,1
+lazio,femmine,non disponibile,2015,40
+lazio,femmine,non disponibile,2016,36
+lazio,femmine,non disponibile,2017,46
+lazio,femmine,non disponibile,2018,52
+lazio,femmine,non disponibile,2019,32
+lazio,femmine,non disponibile,2020,59
+lazio,femmine,non disponibile,2021,44
+lazio,femmine,non disponibile,2022,51
+lazio,femmine,non disponibile,2023,27
+lazio,femmine,non disponibile,2024,23
+lazio,non indicato,violenza fisica,2023,16
+lazio,non indicato,violenza fisica,2024,5
+lazio,non indicato,violenza psicologica,2023,2
+lazio,non indicato,violenza psicologica,2024,2
+lazio,non indicato,atti persecutori/stalking,2023,1
+lazio,non indicato,non risponde,2024,1
+lazio,non indicato,non disponibile,2021,1
+lazio,non indicato,non disponibile,2023,34
+lazio,non indicato,non disponibile,2024,27
+sud,maschi,violenza fisica,2015,18
+sud,maschi,violenza fisica,2016,14
+sud,maschi,violenza fisica,2017,9
+sud,maschi,violenza fisica,2018,19
+sud,maschi,violenza fisica,2019,10
+sud,maschi,violenza fisica,2020,34
+sud,maschi,violenza fisica,2021,24
+sud,maschi,violenza fisica,2022,13
+sud,maschi,violenza fisica,2023,15
+sud,maschi,violenza fisica,2024,42
+sud,maschi,violenza sessuale,2015,6
+sud,maschi,violenza sessuale,2016,8
+sud,maschi,violenza sessuale,2017,12
+sud,maschi,violenza sessuale,2018,4
+sud,maschi,violenza sessuale,2019,5
+sud,maschi,violenza sessuale,2020,11
+sud,maschi,violenza sessuale,2021,15
+sud,maschi,violenza sessuale,2022,8
+sud,maschi,violenza sessuale,2024,1
+sud,maschi,minacce,2015,9
+sud,maschi,minacce,2016,8
+sud,maschi,minacce,2017,5
+sud,maschi,minacce,2018,4
+sud,maschi,minacce,2019,2
+sud,maschi,minacce,2020,4
+sud,maschi,minacce,2021,5
+sud,maschi,minacce,2022,4
+sud,maschi,minacce,2023,1
+sud,maschi,minacce,2024,3
+sud,maschi,mobbing,2017,2
+sud,maschi,mobbing,2018,1
+sud,maschi,mobbing,2019,1
+sud,maschi,mobbing,2021,1
+sud,maschi,violenza psicologica,2015,32
+sud,maschi,violenza psicologica,2016,28
+sud,maschi,violenza psicologica,2017,19
+sud,maschi,violenza psicologica,2018,29
+sud,maschi,violenza psicologica,2019,20
+sud,maschi,violenza psicologica,2020,29
+sud,maschi,violenza psicologica,2021,30
+sud,maschi,violenza psicologica,2022,8
+sud,maschi,violenza psicologica,2023,23
+sud,maschi,violenza psicologica,2024,27
+sud,maschi,violenza economica,2017,1
+sud,maschi,violenza economica,2019,1
+sud,maschi,violenza economica,2021,6
+sud,maschi,violenza economica,2023,1
+sud,maschi,atti persecutori/stalking,2023,14
+sud,maschi,atti persecutori/stalking,2024,7
+sud,maschi,non risponde,2015,3
+sud,maschi,non risponde,2016,3
+sud,maschi,non risponde,2018,1
+sud,maschi,non risponde,2019,1
+sud,maschi,non risponde,2020,3
+sud,maschi,non risponde,2022,1
+sud,maschi,non disponibile,2015,5
+sud,maschi,non disponibile,2016,5
+sud,maschi,non disponibile,2017,4
+sud,maschi,non disponibile,2018,4
+sud,maschi,non disponibile,2019,3
+sud,maschi,non disponibile,2020,1
+sud,maschi,non disponibile,2021,3
+sud,maschi,non disponibile,2022,4
+sud,femmine,violenza fisica,2015,927
+sud,femmine,violenza fisica,2016,860
+sud,femmine,violenza fisica,2017,797
+sud,femmine,violenza fisica,2018,1006
+sud,femmine,violenza fisica,2019,846
+sud,femmine,violenza fisica,2020,1502
+sud,femmine,violenza fisica,2021,1464
+sud,femmine,violenza fisica,2022,1039
+sud,femmine,violenza fisica,2023,1223
+sud,femmine,violenza fisica,2024,1361
+sud,femmine,violenza sessuale,2015,58
+sud,femmine,violenza sessuale,2016,70
+sud,femmine,violenza sessuale,2017,78
+sud,femmine,violenza sessuale,2018,66
+sud,femmine,violenza sessuale,2019,82
+sud,femmine,violenza sessuale,2020,169
+sud,femmine,violenza sessuale,2021,218
+sud,femmine,violenza sessuale,2022,118
+sud,femmine,violenza sessuale,2023,87
+sud,femmine,violenza sessuale,2024,84
+sud,femmine,minacce,2015,67
+sud,femmine,minacce,2016,78
+sud,femmine,minacce,2017,58
+sud,femmine,minacce,2018,76
+sud,femmine,minacce,2019,63
+sud,femmine,minacce,2020,85
+sud,femmine,minacce,2021,141
+sud,femmine,minacce,2022,126
+sud,femmine,minacce,2023,14
+sud,femmine,minacce,2024,14
+sud,femmine,mobbing,2015,5
+sud,femmine,mobbing,2016,1
+sud,femmine,mobbing,2017,3
+sud,femmine,mobbing,2018,5
+sud,femmine,mobbing,2019,2
+sud,femmine,mobbing,2020,7
+sud,femmine,mobbing,2021,13
+sud,femmine,mobbing,2022,7
+sud,femmine,mobbing,2023,1
+sud,femmine,mobbing,2024,1
+sud,femmine,tratta,2024,1
+sud,femmine,diffusione illecita di immagini o di video sessualmente espliciti,2023,7
+sud,femmine,diffusione illecita di immagini o di video sessualmente espliciti,2024,8
+sud,femmine,sfruttamento della prostituzione,2023,5
+sud,femmine,sfruttamento della prostituzione,2024,3
+sud,femmine,violenza psicologica,2015,615
+sud,femmine,violenza psicologica,2016,578
+sud,femmine,violenza psicologica,2017,493
+sud,femmine,violenza psicologica,2018,757
+sud,femmine,violenza psicologica,2019,700
+sud,femmine,violenza psicologica,2020,959
+sud,femmine,violenza psicologica,2021,1045
+sud,femmine,violenza psicologica,2022,782
+sud,femmine,violenza psicologica,2023,810
+sud,femmine,violenza psicologica,2024,1066
+sud,femmine,violenza economica,2015,24
+sud,femmine,violenza economica,2016,25
+sud,femmine,violenza economica,2017,21
+sud,femmine,violenza economica,2018,29
+sud,femmine,violenza economica,2019,25
+sud,femmine,violenza economica,2020,36
+sud,femmine,violenza economica,2021,27
+sud,femmine,violenza economica,2022,19
+sud,femmine,violenza economica,2023,20
+sud,femmine,violenza economica,2024,33
+sud,femmine,atti persecutori/stalking,2023,160
+sud,femmine,atti persecutori/stalking,2024,218
+sud,femmine,violenza digitale,2023,9
+sud,femmine,violenza digitale,2024,6
+sud,femmine,altro,2024,3
+sud,femmine,non risponde,2015,30
+sud,femmine,non risponde,2016,21
+sud,femmine,non risponde,2017,16
+sud,femmine,non risponde,2018,14
+sud,femmine,non risponde,2019,8
+sud,femmine,non risponde,2020,28
+sud,femmine,non risponde,2021,22
+sud,femmine,non risponde,2022,30
+sud,femmine,non risponde,2023,12
+sud,femmine,non risponde,2024,2
+sud,femmine,non disponibile,2015,84
+sud,femmine,non disponibile,2016,77
+sud,femmine,non disponibile,2017,75
+sud,femmine,non disponibile,2018,84
+sud,femmine,non disponibile,2019,80
+sud,femmine,non disponibile,2020,96
+sud,femmine,non disponibile,2021,75
+sud,femmine,non disponibile,2022,75
+sud,femmine,non disponibile,2023,29
+sud,femmine,non disponibile,2024,37
+sud,non indicato,violenza fisica,2023,8
+sud,non indicato,violenza fisica,2024,6
+sud,non indicato,minacce,2023,1
+sud,non indicato,violenza psicologica,2024,1
+sud,non indicato,atti persecutori/stalking,2024,1
+sud,non indicato,non risponde,2024,1
+sud,non indicato,non disponibile,2023,41
+sud,non indicato,non disponibile,2024,43
+abruzzo,maschi,violenza fisica,2015,5
+abruzzo,maschi,violenza fisica,2016,4
+abruzzo,maschi,violenza fisica,2017,1
+abruzzo,maschi,violenza fisica,2018,2
+abruzzo,maschi,violenza fisica,2020,5
+abruzzo,maschi,violenza fisica,2021,4
+abruzzo,maschi,violenza fisica,2022,2
+abruzzo,maschi,violenza fisica,2023,2
+abruzzo,maschi,violenza fisica,2024,2
+abruzzo,maschi,violenza sessuale,2015,2
+abruzzo,maschi,violenza sessuale,2016,1
+abruzzo,maschi,violenza sessuale,2020,1
+abruzzo,maschi,violenza sessuale,2021,1
+abruzzo,maschi,minacce,2015,1
+abruzzo,maschi,minacce,2016,2
+abruzzo,maschi,minacce,2017,3
+abruzzo,maschi,minacce,2021,1
+abruzzo,maschi,minacce,2022,2
+abruzzo,maschi,minacce,2024,1
+abruzzo,maschi,violenza psicologica,2015,1
+abruzzo,maschi,violenza psicologica,2016,2
+abruzzo,maschi,violenza psicologica,2017,2
+abruzzo,maschi,violenza psicologica,2018,4
+abruzzo,maschi,violenza psicologica,2020,4
+abruzzo,maschi,violenza psicologica,2021,2
+abruzzo,maschi,violenza psicologica,2024,8
+abruzzo,maschi,violenza economica,2017,1
+abruzzo,maschi,violenza economica,2023,1
+abruzzo,maschi,atti persecutori/stalking,2023,2
+abruzzo,maschi,non risponde,2016,1
+abruzzo,maschi,non disponibile,2015,3
+abruzzo,maschi,non disponibile,2016,1
+abruzzo,maschi,non disponibile,2018,1
+abruzzo,maschi,non disponibile,2021,1
+abruzzo,femmine,violenza fisica,2015,81
+abruzzo,femmine,violenza fisica,2016,74
+abruzzo,femmine,violenza fisica,2017,81
+abruzzo,femmine,violenza fisica,2018,102
+abruzzo,femmine,violenza fisica,2019,80
+abruzzo,femmine,violenza fisica,2020,149
+abruzzo,femmine,violenza fisica,2021,151
+abruzzo,femmine,violenza fisica,2022,107
+abruzzo,femmine,violenza fisica,2023,146
+abruzzo,femmine,violenza fisica,2024,129
+abruzzo,femmine,violenza sessuale,2015,3
+abruzzo,femmine,violenza sessuale,2016,8
+abruzzo,femmine,violenza sessuale,2017,11
+abruzzo,femmine,violenza sessuale,2018,5
+abruzzo,femmine,violenza sessuale,2019,10
+abruzzo,femmine,violenza sessuale,2020,17
+abruzzo,femmine,violenza sessuale,2021,24
+abruzzo,femmine,violenza sessuale,2022,13
+abruzzo,femmine,violenza sessuale,2023,8
+abruzzo,femmine,violenza sessuale,2024,10
+abruzzo,femmine,minacce,2015,5
+abruzzo,femmine,minacce,2016,10
+abruzzo,femmine,minacce,2017,7
+abruzzo,femmine,minacce,2018,7
+abruzzo,femmine,minacce,2019,2
+abruzzo,femmine,minacce,2020,11
+abruzzo,femmine,minacce,2021,14
+abruzzo,femmine,minacce,2022,8
+abruzzo,femmine,minacce,2023,1
+abruzzo,femmine,minacce,2024,2
+abruzzo,femmine,mobbing,2017,1
+abruzzo,femmine,mobbing,2020,1
+abruzzo,femmine,mobbing,2021,1
+abruzzo,femmine,diffusione illecita di immagini o di video sessualmente espliciti,2023,1
+abruzzo,femmine,diffusione illecita di immagini o di video sessualmente espliciti,2024,1
+abruzzo,femmine,violenza psicologica,2015,61
+abruzzo,femmine,violenza psicologica,2016,76
+abruzzo,femmine,violenza psicologica,2017,63
+abruzzo,femmine,violenza psicologica,2018,91
+abruzzo,femmine,violenza psicologica,2019,81
+abruzzo,femmine,violenza psicologica,2020,95
+abruzzo,femmine,violenza psicologica,2021,90
+abruzzo,femmine,violenza psicologica,2022,90
+abruzzo,femmine,violenza psicologica,2023,97
+abruzzo,femmine,violenza psicologica,2024,92
+abruzzo,femmine,violenza economica,2015,3
+abruzzo,femmine,violenza economica,2016,1
+abruzzo,femmine,violenza economica,2017,4
+abruzzo,femmine,violenza economica,2018,2
+abruzzo,femmine,violenza economica,2019,2
+abruzzo,femmine,violenza economica,2020,7
+abruzzo,femmine,violenza economica,2021,1
+abruzzo,femmine,violenza economica,2022,4
+abruzzo,femmine,violenza economica,2023,1
+abruzzo,femmine,violenza economica,2024,3
+abruzzo,femmine,atti persecutori/stalking,2023,12
+abruzzo,femmine,atti persecutori/stalking,2024,19
+abruzzo,femmine,non risponde,2015,6
+abruzzo,femmine,non risponde,2016,3
+abruzzo,femmine,non risponde,2017,1
+abruzzo,femmine,non risponde,2019,1
+abruzzo,femmine,non risponde,2020,3
+abruzzo,femmine,non risponde,2022,7
+abruzzo,femmine,non risponde,2023,2
+abruzzo,femmine,non disponibile,2015,12
+abruzzo,femmine,non disponibile,2016,3
+abruzzo,femmine,non disponibile,2017,6
+abruzzo,femmine,non disponibile,2018,10
+abruzzo,femmine,non disponibile,2019,12
+abruzzo,femmine,non disponibile,2020,6
+abruzzo,femmine,non disponibile,2021,9
+abruzzo,femmine,non disponibile,2022,6
+abruzzo,femmine,non disponibile,2023,4
+abruzzo,femmine,non disponibile,2024,2
+abruzzo,non indicato,violenza fisica,2023,1
+abruzzo,non indicato,violenza fisica,2024,1
+abruzzo,non indicato,non disponibile,2023,4
+abruzzo,non indicato,non disponibile,2024,5
+molise,maschi,violenza fisica,2015,1
+molise,maschi,violenza fisica,2016,1
+molise,maschi,violenza fisica,2018,1
+molise,maschi,violenza fisica,2020,3
+molise,maschi,violenza fisica,2024,2
+molise,maschi,minacce,2017,1
+molise,maschi,mobbing,2019,1
+molise,maschi,violenza psicologica,2017,1
+molise,maschi,violenza psicologica,2019,1
+molise,maschi,violenza psicologica,2020,1
+molise,maschi,violenza psicologica,2021,1
+molise,femmine,violenza fisica,2015,19
+molise,femmine,violenza fisica,2016,13
+molise,femmine,violenza fisica,2017,10
+molise,femmine,violenza fisica,2018,11
+molise,femmine,violenza fisica,2019,18
+molise,femmine,violenza fisica,2020,27
+molise,femmine,violenza fisica,2021,14
+molise,femmine,violenza fisica,2022,16
+molise,femmine,violenza fisica,2023,30
+molise,femmine,violenza fisica,2024,25
+molise,femmine,violenza sessuale,2016,1
+molise,femmine,violenza sessuale,2017,1
+molise,femmine,violenza sessuale,2021,2
+molise,femmine,violenza sessuale,2022,4
+molise,femmine,violenza sessuale,2023,3
+molise,femmine,violenza sessuale,2024,3
+molise,femmine,minacce,2015,1
+molise,femmine,minacce,2016,2
+molise,femmine,minacce,2017,1
+molise,femmine,minacce,2018,2
+molise,femmine,minacce,2020,1
+molise,femmine,minacce,2021,4
+molise,femmine,minacce,2022,1
+molise,femmine,violenza psicologica,2015,12
+molise,femmine,violenza psicologica,2016,12
+molise,femmine,violenza psicologica,2017,5
+molise,femmine,violenza psicologica,2018,9
+molise,femmine,violenza psicologica,2019,11
+molise,femmine,violenza psicologica,2020,16
+molise,femmine,violenza psicologica,2021,18
+molise,femmine,violenza psicologica,2022,12
+molise,femmine,violenza psicologica,2023,10
+molise,femmine,violenza psicologica,2024,22
+molise,femmine,violenza economica,2016,1
+molise,femmine,violenza economica,2020,1
+molise,femmine,violenza economica,2022,1
+molise,femmine,violenza economica,2023,1
+molise,femmine,atti persecutori/stalking,2023,3
+molise,femmine,atti persecutori/stalking,2024,6
+molise,femmine,non risponde,2015,1
+molise,femmine,non risponde,2016,1
+molise,femmine,non risponde,2022,1
+molise,femmine,non disponibile,2015,4
+molise,femmine,non disponibile,2016,1
+molise,femmine,non disponibile,2017,1
+molise,femmine,non disponibile,2018,1
+molise,femmine,non disponibile,2019,2
+molise,femmine,non disponibile,2021,2
+molise,non indicato,atti persecutori/stalking,2024,1
+molise,non indicato,non disponibile,2023,1
+molise,non indicato,non disponibile,2024,2
+campania,maschi,violenza fisica,2015,4
+campania,maschi,violenza fisica,2016,4
+campania,maschi,violenza fisica,2017,4
+campania,maschi,violenza fisica,2018,10
+campania,maschi,violenza fisica,2019,2
+campania,maschi,violenza fisica,2020,11
+campania,maschi,violenza fisica,2021,6
+campania,maschi,violenza fisica,2022,8
+campania,maschi,violenza fisica,2023,7
+campania,maschi,violenza fisica,2024,21
+campania,maschi,violenza sessuale,2015,3
+campania,maschi,violenza sessuale,2016,6
+campania,maschi,violenza sessuale,2017,5
+campania,maschi,violenza sessuale,2018,2
+campania,maschi,violenza sessuale,2019,5
+campania,maschi,violenza sessuale,2020,3
+campania,maschi,violenza sessuale,2021,7
+campania,maschi,violenza sessuale,2022,6
+campania,maschi,violenza sessuale,2024,1
+campania,maschi,minacce,2015,5
+campania,maschi,minacce,2016,3
+campania,maschi,minacce,2018,2
+campania,maschi,minacce,2019,2
+campania,maschi,minacce,2020,1
+campania,maschi,minacce,2021,2
+campania,maschi,minacce,2024,2
+campania,maschi,mobbing,2017,1
+campania,maschi,violenza psicologica,2015,16
+campania,maschi,violenza psicologica,2016,14
+campania,maschi,violenza psicologica,2017,11
+campania,maschi,violenza psicologica,2018,13
+campania,maschi,violenza psicologica,2019,10
+campania,maschi,violenza psicologica,2020,10
+campania,maschi,violenza psicologica,2021,14
+campania,maschi,violenza psicologica,2022,5
+campania,maschi,violenza psicologica,2023,8
+campania,maschi,violenza psicologica,2024,9
+campania,maschi,violenza economica,2021,4
+campania,maschi,atti persecutori/stalking,2023,7
+campania,maschi,atti persecutori/stalking,2024,6
+campania,maschi,non risponde,2015,2
+campania,maschi,non risponde,2016,2
+campania,maschi,non risponde,2018,1
+campania,maschi,non risponde,2020,3
+campania,maschi,non disponibile,2016,3
+campania,maschi,non disponibile,2017,2
+campania,maschi,non disponibile,2018,2
+campania,maschi,non disponibile,2021,2
+campania,maschi,non disponibile,2022,4
+campania,femmine,violenza fisica,2015,462
+campania,femmine,violenza fisica,2016,437
+campania,femmine,violenza fisica,2017,395
+campania,femmine,violenza fisica,2018,519
+campania,femmine,violenza fisica,2019,386
+campania,femmine,violenza fisica,2020,693
+campania,femmine,violenza fisica,2021,685
+campania,femmine,violenza fisica,2022,494
+campania,femmine,violenza fisica,2023,552
+campania,femmine,violenza fisica,2024,631
+campania,femmine,violenza sessuale,2015,27
+campania,femmine,violenza sessuale,2016,28
+campania,femmine,violenza sessuale,2017,31
+campania,femmine,violenza sessuale,2018,23
+campania,femmine,violenza sessuale,2019,39
+campania,femmine,violenza sessuale,2020,68
+campania,femmine,violenza sessuale,2021,91
+campania,femmine,violenza sessuale,2022,43
+campania,femmine,violenza sessuale,2023,32
+campania,femmine,violenza sessuale,2024,37
+campania,femmine,minacce,2015,31
+campania,femmine,minacce,2016,39
+campania,femmine,minacce,2017,27
+campania,femmine,minacce,2018,36
+campania,femmine,minacce,2019,39
+campania,femmine,minacce,2020,36
+campania,femmine,minacce,2021,66
+campania,femmine,minacce,2022,48
+campania,femmine,minacce,2023,6
+campania,femmine,minacce,2024,6
+campania,femmine,mobbing,2015,3
+campania,femmine,mobbing,2016,1
+campania,femmine,mobbing,2018,3
+campania,femmine,mobbing,2019,1
+campania,femmine,mobbing,2020,5
+campania,femmine,mobbing,2021,8
+campania,femmine,mobbing,2022,4
+campania,femmine,mobbing,2023,1
+campania,femmine,tratta,2024,1
+campania,femmine,diffusione illecita di immagini o di video sessualmente espliciti,2023,3
+campania,femmine,diffusione illecita di immagini o di video sessualmente espliciti,2024,4
+campania,femmine,sfruttamento della prostituzione,2023,2
+campania,femmine,sfruttamento della prostituzione,2024,1
+campania,femmine,violenza psicologica,2015,287
+campania,femmine,violenza psicologica,2016,258
+campania,femmine,violenza psicologica,2017,209
+campania,femmine,violenza psicologica,2018,319
+campania,femmine,violenza psicologica,2019,325
+campania,femmine,violenza psicologica,2020,409
+campania,femmine,violenza psicologica,2021,465
+campania,femmine,violenza psicologica,2022,325
+campania,femmine,violenza psicologica,2023,326
+campania,femmine,violenza psicologica,2024,487
+campania,femmine,violenza economica,2015,15
+campania,femmine,violenza economica,2016,13
+campania,femmine,violenza economica,2017,11
+campania,femmine,violenza economica,2018,15
+campania,femmine,violenza economica,2019,13
+campania,femmine,violenza economica,2020,16
+campania,femmine,violenza economica,2021,15
+campania,femmine,violenza economica,2022,6
+campania,femmine,violenza economica,2023,9
+campania,femmine,violenza economica,2024,20
+campania,femmine,atti persecutori/stalking,2023,73
+campania,femmine,atti persecutori/stalking,2024,78
+campania,femmine,violenza digitale,2023,3
+campania,femmine,violenza digitale,2024,3
+campania,femmine,non risponde,2015,8
+campania,femmine,non risponde,2016,5
+campania,femmine,non risponde,2017,6
+campania,femmine,non risponde,2018,5
+campania,femmine,non risponde,2019,4
+campania,femmine,non risponde,2020,14
+campania,femmine,non risponde,2021,10
+campania,femmine,non risponde,2022,5
+campania,femmine,non risponde,2023,8
+campania,femmine,non disponibile,2015,41
+campania,femmine,non disponibile,2016,49
+campania,femmine,non disponibile,2017,43
+campania,femmine,non disponibile,2018,40
+campania,femmine,non disponibile,2019,38
+campania,femmine,non disponibile,2020,54
+campania,femmine,non disponibile,2021,32
+campania,femmine,non disponibile,2022,43
+campania,femmine,non disponibile,2023,18
+campania,femmine,non disponibile,2024,19
+campania,non indicato,violenza fisica,2023,5
+campania,non indicato,violenza fisica,2024,4
+campania,non indicato,non disponibile,2023,23
+campania,non indicato,non disponibile,2024,15
+puglia,maschi,violenza fisica,2015,7
+puglia,maschi,violenza fisica,2016,2
+puglia,maschi,violenza fisica,2017,1
+puglia,maschi,violenza fisica,2018,5
+puglia,maschi,violenza fisica,2019,7
+puglia,maschi,violenza fisica,2020,12
+puglia,maschi,violenza fisica,2021,11
+puglia,maschi,violenza fisica,2022,2
+puglia,maschi,violenza fisica,2023,4
+puglia,maschi,violenza fisica,2024,15
+puglia,maschi,violenza sessuale,2015,1
+puglia,maschi,violenza sessuale,2016,1
+puglia,maschi,violenza sessuale,2017,6
+puglia,maschi,violenza sessuale,2018,2
+puglia,maschi,violenza sessuale,2020,5
+puglia,maschi,violenza sessuale,2021,5
+puglia,maschi,violenza sessuale,2022,2
+puglia,maschi,minacce,2015,2
+puglia,maschi,minacce,2016,1
+puglia,maschi,minacce,2017,1
+puglia,maschi,minacce,2018,2
+puglia,maschi,minacce,2020,2
+puglia,maschi,minacce,2021,1
+puglia,maschi,minacce,2022,1
+puglia,maschi,minacce,2023,1
+puglia,maschi,mobbing,2017,1
+puglia,maschi,mobbing,2018,1
+puglia,maschi,violenza psicologica,2015,11
+puglia,maschi,violenza psicologica,2016,9
+puglia,maschi,violenza psicologica,2017,4
+puglia,maschi,violenza psicologica,2018,10
+puglia,maschi,violenza psicologica,2019,5
+puglia,maschi,violenza psicologica,2020,12
+puglia,maschi,violenza psicologica,2021,6
+puglia,maschi,violenza psicologica,2022,2
+puglia,maschi,violenza psicologica,2023,11
+puglia,maschi,violenza psicologica,2024,7
+puglia,maschi,violenza economica,2019,1
+puglia,maschi,atti persecutori/stalking,2023,3
+puglia,maschi,atti persecutori/stalking,2024,1
+puglia,maschi,non risponde,2015,1
+puglia,maschi,non risponde,2019,1
+puglia,maschi,non disponibile,2015,2
+puglia,maschi,non disponibile,2016,1
+puglia,maschi,non disponibile,2017,1
+puglia,maschi,non disponibile,2018,1
+puglia,maschi,non disponibile,2019,2
+puglia,maschi,non disponibile,2020,1
+puglia,femmine,violenza fisica,2015,248
+puglia,femmine,violenza fisica,2016,219
+puglia,femmine,violenza fisica,2017,204
+puglia,femmine,violenza fisica,2018,259
+puglia,femmine,violenza fisica,2019,223
+puglia,femmine,violenza fisica,2020,406
+puglia,femmine,violenza fisica,2021,417
+puglia,femmine,violenza fisica,2022,273
+puglia,femmine,violenza fisica,2023,317
+puglia,femmine,violenza fisica,2024,418
+puglia,femmine,violenza sessuale,2015,16
+puglia,femmine,violenza sessuale,2016,20
+puglia,femmine,violenza sessuale,2017,23
+puglia,femmine,violenza sessuale,2018,23
+puglia,femmine,violenza sessuale,2019,24
+puglia,femmine,violenza sessuale,2020,52
+puglia,femmine,violenza sessuale,2021,62
+puglia,femmine,violenza sessuale,2022,37
+puglia,femmine,violenza sessuale,2023,27
+puglia,femmine,violenza sessuale,2024,26
+puglia,femmine,minacce,2015,18
+puglia,femmine,minacce,2016,20
+puglia,femmine,minacce,2017,15
+puglia,femmine,minacce,2018,24
+puglia,femmine,minacce,2019,17
+puglia,femmine,minacce,2020,26
+puglia,femmine,minacce,2021,36
+puglia,femmine,minacce,2022,49
+puglia,femmine,minacce,2023,4
+puglia,femmine,minacce,2024,3
+puglia,femmine,mobbing,2015,2
+puglia,femmine,mobbing,2017,2
+puglia,femmine,mobbing,2018,2
+puglia,femmine,mobbing,2021,4
+puglia,femmine,mobbing,2022,3
+puglia,femmine,diffusione illecita di immagini o di video sessualmente espliciti,2023,3
+puglia,femmine,diffusione illecita di immagini o di video sessualmente espliciti,2024,2
+puglia,femmine,sfruttamento della prostituzione,2023,3
+puglia,femmine,sfruttamento della prostituzione,2024,2
+puglia,femmine,violenza psicologica,2015,175
+puglia,femmine,violenza psicologica,2016,155
+puglia,femmine,violenza psicologica,2017,144
+puglia,femmine,violenza psicologica,2018,250
+puglia,femmine,violenza psicologica,2019,174
+puglia,femmine,violenza psicologica,2020,302
+puglia,femmine,violenza psicologica,2021,314
+puglia,femmine,violenza psicologica,2022,239
+puglia,femmine,violenza psicologica,2023,255
+puglia,femmine,violenza psicologica,2024,335
+puglia,femmine,violenza economica,2015,5
+puglia,femmine,violenza economica,2016,8
+puglia,femmine,violenza economica,2017,4
+puglia,femmine,violenza economica,2018,5
+puglia,femmine,violenza economica,2019,7
+puglia,femmine,violenza economica,2020,5
+puglia,femmine,violenza economica,2021,10
+puglia,femmine,violenza economica,2022,2
+puglia,femmine,violenza economica,2023,6
+puglia,femmine,violenza economica,2024,9
+puglia,femmine,atti persecutori/stalking,2023,55
+puglia,femmine,atti persecutori/stalking,2024,75
+puglia,femmine,violenza digitale,2023,3
+puglia,femmine,violenza digitale,2024,2
+puglia,femmine,altro,2024,3
+puglia,femmine,non risponde,2015,12
+puglia,femmine,non risponde,2016,6
+puglia,femmine,non risponde,2017,7
+puglia,femmine,non risponde,2018,6
+puglia,femmine,non risponde,2019,2
+puglia,femmine,non risponde,2020,7
+puglia,femmine,non risponde,2021,10
+puglia,femmine,non risponde,2022,12
+puglia,femmine,non risponde,2023,1
+puglia,femmine,non risponde,2024,1
+puglia,femmine,non disponibile,2015,19
+puglia,femmine,non disponibile,2016,20
+puglia,femmine,non disponibile,2017,15
+puglia,femmine,non disponibile,2018,21
+puglia,femmine,non disponibile,2019,17
+puglia,femmine,non disponibile,2020,22
+puglia,femmine,non disponibile,2021,26
+puglia,femmine,non disponibile,2022,20
+puglia,femmine,non disponibile,2023,4
+puglia,femmine,non disponibile,2024,13
+puglia,non indicato,violenza fisica,2023,2
+puglia,non indicato,minacce,2023,1
+puglia,non indicato,non risponde,2024,1
+puglia,non indicato,non disponibile,2023,6
+puglia,non indicato,non disponibile,2024,16
+basilicata,maschi,violenza fisica,2016,1
+basilicata,maschi,violenza fisica,2022,1
+basilicata,maschi,violenza fisica,2023,1
+basilicata,maschi,minacce,2016,2
+basilicata,maschi,violenza psicologica,2015,2
+basilicata,maschi,violenza psicologica,2019,2
+basilicata,maschi,violenza psicologica,2023,1
+basilicata,maschi,violenza psicologica,2024,2
+basilicata,maschi,atti persecutori/stalking,2023,2
+basilicata,maschi,non risponde,2022,1
+basilicata,maschi,non disponibile,2019,1
+basilicata,femmine,violenza fisica,2015,20
+basilicata,femmine,violenza fisica,2016,14
+basilicata,femmine,violenza fisica,2017,22
+basilicata,femmine,violenza fisica,2018,23
+basilicata,femmine,violenza fisica,2019,36
+basilicata,femmine,violenza fisica,2020,42
+basilicata,femmine,violenza fisica,2021,43
+basilicata,femmine,violenza fisica,2022,30
+basilicata,femmine,violenza fisica,2023,46
+basilicata,femmine,violenza fisica,2024,41
+basilicata,femmine,violenza sessuale,2015,1
+basilicata,femmine,violenza sessuale,2016,1
+basilicata,femmine,violenza sessuale,2017,3
+basilicata,femmine,violenza sessuale,2018,3
+basilicata,femmine,violenza sessuale,2019,2
+basilicata,femmine,violenza sessuale,2020,2
+basilicata,femmine,violenza sessuale,2021,10
+basilicata,femmine,violenza sessuale,2022,7
+basilicata,femmine,violenza sessuale,2023,1
+basilicata,femmine,violenza sessuale,2024,3
+basilicata,femmine,minacce,2015,4
+basilicata,femmine,minacce,2017,2
+basilicata,femmine,minacce,2018,2
+basilicata,femmine,minacce,2019,1
+basilicata,femmine,minacce,2020,3
+basilicata,femmine,minacce,2021,5
+basilicata,femmine,minacce,2022,4
+basilicata,femmine,mobbing,2019,1
+basilicata,femmine,mobbing,2020,1
+basilicata,femmine,diffusione illecita di immagini o di video sessualmente espliciti,2024,1
+basilicata,femmine,violenza psicologica,2015,20
+basilicata,femmine,violenza psicologica,2016,21
+basilicata,femmine,violenza psicologica,2017,21
+basilicata,femmine,violenza psicologica,2018,24
+basilicata,femmine,violenza psicologica,2019,24
+basilicata,femmine,violenza psicologica,2020,29
+basilicata,femmine,violenza psicologica,2021,40
+basilicata,femmine,violenza psicologica,2022,31
+basilicata,femmine,violenza psicologica,2023,29
+basilicata,femmine,violenza psicologica,2024,25
+basilicata,femmine,violenza economica,2019,1
+basilicata,femmine,violenza economica,2020,3
+basilicata,femmine,violenza economica,2022,3
+basilicata,femmine,violenza economica,2023,1
+basilicata,femmine,atti persecutori/stalking,2023,6
+basilicata,femmine,atti persecutori/stalking,2024,10
+basilicata,femmine,non risponde,2016,2
+basilicata,femmine,non risponde,2017,1
+basilicata,femmine,non risponde,2018,2
+basilicata,femmine,non risponde,2024,1
+basilicata,femmine,non disponibile,2015,2
+basilicata,femmine,non disponibile,2017,1
+basilicata,femmine,non disponibile,2018,2
+basilicata,femmine,non disponibile,2019,1
+basilicata,femmine,non disponibile,2020,2
+basilicata,femmine,non disponibile,2021,2
+basilicata,femmine,non disponibile,2022,3
+basilicata,femmine,non disponibile,2023,1
+basilicata,non indicato,non disponibile,2024,1
+calabria,maschi,violenza fisica,2015,1
+calabria,maschi,violenza fisica,2016,2
+calabria,maschi,violenza fisica,2017,3
+calabria,maschi,violenza fisica,2018,1
+calabria,maschi,violenza fisica,2019,1
+calabria,maschi,violenza fisica,2020,3
+calabria,maschi,violenza fisica,2021,3
+calabria,maschi,violenza fisica,2023,1
+calabria,maschi,violenza fisica,2024,2
+calabria,maschi,violenza sessuale,2017,1
+calabria,maschi,violenza sessuale,2020,2
+calabria,maschi,violenza sessuale,2021,2
+calabria,maschi,minacce,2015,1
+calabria,maschi,minacce,2020,1
+calabria,maschi,minacce,2021,1
+calabria,maschi,minacce,2022,1
+calabria,maschi,mobbing,2021,1
+calabria,maschi,violenza psicologica,2015,2
+calabria,maschi,violenza psicologica,2016,3
+calabria,maschi,violenza psicologica,2017,1
+calabria,maschi,violenza psicologica,2018,2
+calabria,maschi,violenza psicologica,2019,2
+calabria,maschi,violenza psicologica,2020,2
+calabria,maschi,violenza psicologica,2021,7
+calabria,maschi,violenza psicologica,2022,1
+calabria,maschi,violenza psicologica,2023,3
+calabria,maschi,violenza psicologica,2024,1
+calabria,maschi,violenza economica,2021,2
+calabria,maschi,non disponibile,2017,1
+calabria,femmine,violenza fisica,2015,97
+calabria,femmine,violenza fisica,2016,103
+calabria,femmine,violenza fisica,2017,85
+calabria,femmine,violenza fisica,2018,92
+calabria,femmine,violenza fisica,2019,103
+calabria,femmine,violenza fisica,2020,185
+calabria,femmine,violenza fisica,2021,154
+calabria,femmine,violenza fisica,2022,119
+calabria,femmine,violenza fisica,2023,132
+calabria,femmine,violenza fisica,2024,117
+calabria,femmine,violenza sessuale,2015,11
+calabria,femmine,violenza sessuale,2016,12
+calabria,femmine,violenza sessuale,2017,9
+calabria,femmine,violenza sessuale,2018,12
+calabria,femmine,violenza sessuale,2019,7
+calabria,femmine,violenza sessuale,2020,30
+calabria,femmine,violenza sessuale,2021,29
+calabria,femmine,violenza sessuale,2022,14
+calabria,femmine,violenza sessuale,2023,16
+calabria,femmine,violenza sessuale,2024,5
+calabria,femmine,minacce,2015,8
+calabria,femmine,minacce,2016,7
+calabria,femmine,minacce,2017,6
+calabria,femmine,minacce,2018,5
+calabria,femmine,minacce,2019,4
+calabria,femmine,minacce,2020,8
+calabria,femmine,minacce,2021,16
+calabria,femmine,minacce,2022,16
+calabria,femmine,minacce,2023,3
+calabria,femmine,minacce,2024,3
+calabria,femmine,mobbing,2024,1
+calabria,femmine,violenza psicologica,2015,60
+calabria,femmine,violenza psicologica,2016,56
+calabria,femmine,violenza psicologica,2017,51
+calabria,femmine,violenza psicologica,2018,64
+calabria,femmine,violenza psicologica,2019,85
+calabria,femmine,violenza psicologica,2020,108
+calabria,femmine,violenza psicologica,2021,118
+calabria,femmine,violenza psicologica,2022,85
+calabria,femmine,violenza psicologica,2023,93
+calabria,femmine,violenza psicologica,2024,105
+calabria,femmine,violenza economica,2015,1
+calabria,femmine,violenza economica,2016,2
+calabria,femmine,violenza economica,2017,2
+calabria,femmine,violenza economica,2018,7
+calabria,femmine,violenza economica,2019,2
+calabria,femmine,violenza economica,2020,4
+calabria,femmine,violenza economica,2021,1
+calabria,femmine,violenza economica,2022,3
+calabria,femmine,violenza economica,2023,2
+calabria,femmine,violenza economica,2024,1
+calabria,femmine,atti persecutori/stalking,2023,11
+calabria,femmine,atti persecutori/stalking,2024,30
+calabria,femmine,violenza digitale,2023,3
+calabria,femmine,violenza digitale,2024,1
+calabria,femmine,non risponde,2015,3
+calabria,femmine,non risponde,2016,4
+calabria,femmine,non risponde,2017,1
+calabria,femmine,non risponde,2018,1
+calabria,femmine,non risponde,2019,1
+calabria,femmine,non risponde,2020,4
+calabria,femmine,non risponde,2021,2
+calabria,femmine,non risponde,2022,5
+calabria,femmine,non risponde,2023,1
+calabria,femmine,non disponibile,2015,6
+calabria,femmine,non disponibile,2016,4
+calabria,femmine,non disponibile,2017,9
+calabria,femmine,non disponibile,2018,10
+calabria,femmine,non disponibile,2019,10
+calabria,femmine,non disponibile,2020,12
+calabria,femmine,non disponibile,2021,4
+calabria,femmine,non disponibile,2022,3
+calabria,femmine,non disponibile,2023,2
+calabria,femmine,non disponibile,2024,3
+calabria,non indicato,violenza fisica,2024,1
+calabria,non indicato,violenza psicologica,2024,1
+calabria,non indicato,non disponibile,2023,7
+calabria,non indicato,non disponibile,2024,4
+isole,maschi,violenza fisica,2015,5
+isole,maschi,violenza fisica,2016,8
+isole,maschi,violenza fisica,2017,7
+isole,maschi,violenza fisica,2018,10
+isole,maschi,violenza fisica,2019,4
+isole,maschi,violenza fisica,2020,17
+isole,maschi,violenza fisica,2021,5
+isole,maschi,violenza fisica,2022,3
+isole,maschi,violenza fisica,2023,5
+isole,maschi,violenza fisica,2024,14
+isole,maschi,violenza sessuale,2015,1
+isole,maschi,violenza sessuale,2016,2
+isole,maschi,violenza sessuale,2017,4
+isole,maschi,violenza sessuale,2018,2
+isole,maschi,violenza sessuale,2020,2
+isole,maschi,violenza sessuale,2021,10
+isole,maschi,violenza sessuale,2022,6
+isole,maschi,violenza sessuale,2023,1
+isole,maschi,minacce,2015,3
+isole,maschi,minacce,2016,2
+isole,maschi,minacce,2019,1
+isole,maschi,minacce,2020,2
+isole,maschi,minacce,2021,4
+isole,maschi,minacce,2022,2
+isole,maschi,diffusione illecita di immagini o di video sessualmente espliciti,2023,1
+isole,maschi,violenza psicologica,2015,10
+isole,maschi,violenza psicologica,2016,11
+isole,maschi,violenza psicologica,2017,8
+isole,maschi,violenza psicologica,2018,9
+isole,maschi,violenza psicologica,2019,8
+isole,maschi,violenza psicologica,2020,18
+isole,maschi,violenza psicologica,2021,11
+isole,maschi,violenza psicologica,2022,4
+isole,maschi,violenza psicologica,2023,8
+isole,maschi,violenza psicologica,2024,6
+isole,maschi,violenza economica,2019,1
+isole,maschi,violenza economica,2021,1
+isole,maschi,atti persecutori/stalking,2023,5
+isole,maschi,atti persecutori/stalking,2024,5
+isole,maschi,violenza digitale,2023,1
+isole,maschi,non risponde,2015,3
+isole,maschi,non risponde,2016,1
+isole,maschi,non risponde,2020,1
+isole,maschi,non risponde,2021,1
+isole,maschi,non disponibile,2015,4
+isole,maschi,non disponibile,2016,1
+isole,maschi,non disponibile,2018,2
+isole,maschi,non disponibile,2019,2
+isole,maschi,non disponibile,2020,2
+isole,maschi,non disponibile,2021,3
+isole,maschi,non disponibile,2022,1
+isole,maschi,non disponibile,2023,1
+isole,femmine,violenza fisica,2015,339
+isole,femmine,violenza fisica,2016,365
+isole,femmine,violenza fisica,2017,322
+isole,femmine,violenza fisica,2018,358
+isole,femmine,violenza fisica,2019,321
+isole,femmine,violenza fisica,2020,529
+isole,femmine,violenza fisica,2021,547
+isole,femmine,violenza fisica,2022,372
+isole,femmine,violenza fisica,2023,421
+isole,femmine,violenza fisica,2024,468
+isole,femmine,violenza sessuale,2015,20
+isole,femmine,violenza sessuale,2016,30
+isole,femmine,violenza sessuale,2017,36
+isole,femmine,violenza sessuale,2018,30
+isole,femmine,violenza sessuale,2019,36
+isole,femmine,violenza sessuale,2020,82
+isole,femmine,violenza sessuale,2021,101
+isole,femmine,violenza sessuale,2022,78
+isole,femmine,violenza sessuale,2023,30
+isole,femmine,violenza sessuale,2024,29
+isole,femmine,minacce,2015,16
+isole,femmine,minacce,2016,33
+isole,femmine,minacce,2017,43
+isole,femmine,minacce,2018,31
+isole,femmine,minacce,2019,24
+isole,femmine,minacce,2020,44
+isole,femmine,minacce,2021,61
+isole,femmine,minacce,2022,44
+isole,femmine,minacce,2023,3
+isole,femmine,minacce,2024,15
+isole,femmine,mobbing,2015,2
+isole,femmine,mobbing,2016,1
+isole,femmine,mobbing,2017,2
+isole,femmine,mobbing,2018,1
+isole,femmine,mobbing,2019,4
+isole,femmine,mobbing,2020,3
+isole,femmine,mobbing,2021,7
+isole,femmine,mobbing,2022,2
+isole,femmine,tratta,2024,1
+isole,femmine,diffusione illecita di immagini o di video sessualmente espliciti,2023,1
+isole,femmine,diffusione illecita di immagini o di video sessualmente espliciti,2024,4
+isole,femmine,sfruttamento della prostituzione,2024,1
+isole,femmine,violenza psicologica,2015,284
+isole,femmine,violenza psicologica,2016,291
+isole,femmine,violenza psicologica,2017,273
+isole,femmine,violenza psicologica,2018,317
+isole,femmine,violenza psicologica,2019,270
+isole,femmine,violenza psicologica,2020,409
+isole,femmine,violenza psicologica,2021,417
+isole,femmine,violenza psicologica,2022,292
+isole,femmine,violenza psicologica,2023,345
+isole,femmine,violenza psicologica,2024,451
+isole,femmine,violenza economica,2015,18
+isole,femmine,violenza economica,2016,18
+isole,femmine,violenza economica,2017,18
+isole,femmine,violenza economica,2018,13
+isole,femmine,violenza economica,2019,9
+isole,femmine,violenza economica,2020,10
+isole,femmine,violenza economica,2021,16
+isole,femmine,violenza economica,2022,14
+isole,femmine,violenza economica,2023,8
+isole,femmine,violenza economica,2024,7
+isole,femmine,atti persecutori/stalking,2023,62
+isole,femmine,atti persecutori/stalking,2024,106
+isole,femmine,altro,2023,1
+isole,femmine,non risponde,2015,10
+isole,femmine,non risponde,2016,10
+isole,femmine,non risponde,2017,7
+isole,femmine,non risponde,2018,3
+isole,femmine,non risponde,2019,3
+isole,femmine,non risponde,2020,11
+isole,femmine,non risponde,2021,13
+isole,femmine,non risponde,2022,15
+isole,femmine,non risponde,2023,1
+isole,femmine,non risponde,2024,1
+isole,femmine,non disponibile,2015,32
+isole,femmine,non disponibile,2016,29
+isole,femmine,non disponibile,2017,20
+isole,femmine,non disponibile,2018,31
+isole,femmine,non disponibile,2019,33
+isole,femmine,non disponibile,2020,29
+isole,femmine,non disponibile,2021,35
+isole,femmine,non disponibile,2022,28
+isole,femmine,non disponibile,2023,10
+isole,femmine,non disponibile,2024,5
+isole,non indicato,violenza fisica,2023,4
+isole,non indicato,violenza fisica,2024,1
+isole,non indicato,violenza psicologica,2023,3
+isole,non indicato,violenza psicologica,2024,1
+isole,non indicato,atti persecutori/stalking,2023,1
+isole,non indicato,non risponde,2023,1
+isole,non indicato,non risponde,2024,1
+isole,non indicato,non disponibile,2023,7
+isole,non indicato,non disponibile,2024,14
+sicilia,maschi,violenza fisica,2015,3
+sicilia,maschi,violenza fisica,2016,4
+sicilia,maschi,violenza fisica,2017,3
+sicilia,maschi,violenza fisica,2018,8
+sicilia,maschi,violenza fisica,2019,4
+sicilia,maschi,violenza fisica,2020,11
+sicilia,maschi,violenza fisica,2021,2
+sicilia,maschi,violenza fisica,2022,3
+sicilia,maschi,violenza fisica,2023,4
+sicilia,maschi,violenza fisica,2024,14
+sicilia,maschi,violenza sessuale,2016,1
+sicilia,maschi,violenza sessuale,2017,4
+sicilia,maschi,violenza sessuale,2018,2
+sicilia,maschi,violenza sessuale,2020,2
+sicilia,maschi,violenza sessuale,2021,9
+sicilia,maschi,violenza sessuale,2022,4
+sicilia,maschi,violenza sessuale,2023,1
+sicilia,maschi,minacce,2015,2
+sicilia,maschi,minacce,2019,1
+sicilia,maschi,minacce,2020,1
+sicilia,maschi,minacce,2021,4
+sicilia,maschi,minacce,2022,2
+sicilia,maschi,violenza psicologica,2015,7
+sicilia,maschi,violenza psicologica,2016,8
+sicilia,maschi,violenza psicologica,2017,4
+sicilia,maschi,violenza psicologica,2018,6
+sicilia,maschi,violenza psicologica,2019,4
+sicilia,maschi,violenza psicologica,2020,14
+sicilia,maschi,violenza psicologica,2021,6
+sicilia,maschi,violenza psicologica,2022,3
+sicilia,maschi,violenza psicologica,2023,7
+sicilia,maschi,violenza psicologica,2024,5
+sicilia,maschi,atti persecutori/stalking,2023,3
+sicilia,maschi,atti persecutori/stalking,2024,3
+sicilia,maschi,violenza digitale,2023,1
+sicilia,maschi,non risponde,2015,2
+sicilia,maschi,non risponde,2016,1
+sicilia,maschi,non risponde,2021,1
+sicilia,maschi,non disponibile,2015,4
+sicilia,maschi,non disponibile,2016,1
+sicilia,maschi,non disponibile,2019,1
+sicilia,maschi,non disponibile,2020,1
+sicilia,maschi,non disponibile,2021,3
+sicilia,maschi,non disponibile,2022,1
+sicilia,femmine,violenza fisica,2015,245
+sicilia,femmine,violenza fisica,2016,272
+sicilia,femmine,violenza fisica,2017,238
+sicilia,femmine,violenza fisica,2018,265
+sicilia,femmine,violenza fisica,2019,236
+sicilia,femmine,violenza fisica,2020,379
+sicilia,femmine,violenza fisica,2021,403
+sicilia,femmine,violenza fisica,2022,270
+sicilia,femmine,violenza fisica,2023,310
+sicilia,femmine,violenza fisica,2024,345
+sicilia,femmine,violenza sessuale,2015,13
+sicilia,femmine,violenza sessuale,2016,18
+sicilia,femmine,violenza sessuale,2017,21
+sicilia,femmine,violenza sessuale,2018,16
+sicilia,femmine,violenza sessuale,2019,29
+sicilia,femmine,violenza sessuale,2020,61
+sicilia,femmine,violenza sessuale,2021,66
+sicilia,femmine,violenza sessuale,2022,47
+sicilia,femmine,violenza sessuale,2023,26
+sicilia,femmine,violenza sessuale,2024,17
+sicilia,femmine,minacce,2015,11
+sicilia,femmine,minacce,2016,27
+sicilia,femmine,minacce,2017,31
+sicilia,femmine,minacce,2018,20
+sicilia,femmine,minacce,2019,13
+sicilia,femmine,minacce,2020,26
+sicilia,femmine,minacce,2021,40
+sicilia,femmine,minacce,2022,30
+sicilia,femmine,minacce,2024,9
+sicilia,femmine,mobbing,2015,1
+sicilia,femmine,mobbing,2016,1
+sicilia,femmine,mobbing,2017,2
+sicilia,femmine,mobbing,2019,2
+sicilia,femmine,mobbing,2020,3
+sicilia,femmine,mobbing,2021,6
+sicilia,femmine,mobbing,2022,1
+sicilia,femmine,diffusione illecita di immagini o di video sessualmente espliciti,2023,1
+sicilia,femmine,diffusione illecita di immagini o di video sessualmente espliciti,2024,3
+sicilia,femmine,sfruttamento della prostituzione,2024,1
+sicilia,femmine,violenza psicologica,2015,195
+sicilia,femmine,violenza psicologica,2016,201
+sicilia,femmine,violenza psicologica,2017,184
+sicilia,femmine,violenza psicologica,2018,219
+sicilia,femmine,violenza psicologica,2019,203
+sicilia,femmine,violenza psicologica,2020,282
+sicilia,femmine,violenza psicologica,2021,297
+sicilia,femmine,violenza psicologica,2022,194
+sicilia,femmine,violenza psicologica,2023,256
+sicilia,femmine,violenza psicologica,2024,327
+sicilia,femmine,violenza economica,2015,11
+sicilia,femmine,violenza economica,2016,10
+sicilia,femmine,violenza economica,2017,12
+sicilia,femmine,violenza economica,2018,7
+sicilia,femmine,violenza economica,2019,9
+sicilia,femmine,violenza economica,2020,8
+sicilia,femmine,violenza economica,2021,15
+sicilia,femmine,violenza economica,2022,11
+sicilia,femmine,violenza economica,2023,5
+sicilia,femmine,violenza economica,2024,5
+sicilia,femmine,atti persecutori/stalking,2023,44
+sicilia,femmine,atti persecutori/stalking,2024,73
+sicilia,femmine,non risponde,2015,8
+sicilia,femmine,non risponde,2016,6
+sicilia,femmine,non risponde,2017,1
+sicilia,femmine,non risponde,2018,1
+sicilia,femmine,non risponde,2019,1
+sicilia,femmine,non risponde,2020,6
+sicilia,femmine,non risponde,2021,9
+sicilia,femmine,non risponde,2022,9
+sicilia,femmine,non risponde,2024,1
+sicilia,femmine,non disponibile,2015,20
+sicilia,femmine,non disponibile,2016,20
+sicilia,femmine,non disponibile,2017,15
+sicilia,femmine,non disponibile,2018,21
+sicilia,femmine,non disponibile,2019,22
+sicilia,femmine,non disponibile,2020,21
+sicilia,femmine,non disponibile,2021,27
+sicilia,femmine,non disponibile,2022,21
+sicilia,femmine,non disponibile,2023,10
+sicilia,femmine,non disponibile,2024,4
+sicilia,non indicato,violenza fisica,2023,4
+sicilia,non indicato,violenza fisica,2024,1
+sicilia,non indicato,violenza psicologica,2023,3
+sicilia,non indicato,violenza psicologica,2024,1
+sicilia,non indicato,atti persecutori/stalking,2023,1
+sicilia,non indicato,non risponde,2023,1
+sicilia,non indicato,non risponde,2024,1
+sicilia,non indicato,non disponibile,2023,5
+sicilia,non indicato,non disponibile,2024,9
+sardegna,maschi,violenza fisica,2015,2
+sardegna,maschi,violenza fisica,2016,4
+sardegna,maschi,violenza fisica,2017,4
+sardegna,maschi,violenza fisica,2018,2
+sardegna,maschi,violenza fisica,2020,6
+sardegna,maschi,violenza fisica,2021,3
+sardegna,maschi,violenza fisica,2023,1
+sardegna,maschi,violenza sessuale,2015,1
+sardegna,maschi,violenza sessuale,2016,1
+sardegna,maschi,violenza sessuale,2021,1
+sardegna,maschi,violenza sessuale,2022,2
+sardegna,maschi,minacce,2015,1
+sardegna,maschi,minacce,2016,2
+sardegna,maschi,minacce,2020,1
+sardegna,maschi,diffusione illecita di immagini o di video sessualmente espliciti,2023,1
+sardegna,maschi,violenza psicologica,2015,3
+sardegna,maschi,violenza psicologica,2016,3
+sardegna,maschi,violenza psicologica,2017,4
+sardegna,maschi,violenza psicologica,2018,3
+sardegna,maschi,violenza psicologica,2019,4
+sardegna,maschi,violenza psicologica,2020,4
+sardegna,maschi,violenza psicologica,2021,5
+sardegna,maschi,violenza psicologica,2022,1
+sardegna,maschi,violenza psicologica,2023,1
+sardegna,maschi,violenza psicologica,2024,1
+sardegna,maschi,violenza economica,2019,1
+sardegna,maschi,violenza economica,2021,1
+sardegna,maschi,atti persecutori/stalking,2023,2
+sardegna,maschi,atti persecutori/stalking,2024,2
+sardegna,maschi,non risponde,2015,1
+sardegna,maschi,non risponde,2020,1
+sardegna,maschi,non disponibile,2018,2
+sardegna,maschi,non disponibile,2019,1
+sardegna,maschi,non disponibile,2020,1
+sardegna,maschi,non disponibile,2023,1
+sardegna,femmine,violenza fisica,2015,94
+sardegna,femmine,violenza fisica,2016,93
+sardegna,femmine,violenza fisica,2017,84
+sardegna,femmine,violenza fisica,2018,93
+sardegna,femmine,violenza fisica,2019,85
+sardegna,femmine,violenza fisica,2020,150
+sardegna,femmine,violenza fisica,2021,144
+sardegna,femmine,violenza fisica,2022,102
+sardegna,femmine,violenza fisica,2023,111
+sardegna,femmine,violenza fisica,2024,123
+sardegna,femmine,violenza sessuale,2015,7
+sardegna,femmine,violenza sessuale,2016,12
+sardegna,femmine,violenza sessuale,2017,15
+sardegna,femmine,violenza sessuale,2018,14
+sardegna,femmine,violenza sessuale,2019,7
+sardegna,femmine,violenza sessuale,2020,21
+sardegna,femmine,violenza sessuale,2021,35
+sardegna,femmine,violenza sessuale,2022,31
+sardegna,femmine,violenza sessuale,2023,4
+sardegna,femmine,violenza sessuale,2024,12
+sardegna,femmine,minacce,2015,5
+sardegna,femmine,minacce,2016,6
+sardegna,femmine,minacce,2017,12
+sardegna,femmine,minacce,2018,11
+sardegna,femmine,minacce,2019,11
+sardegna,femmine,minacce,2020,18
+sardegna,femmine,minacce,2021,21
+sardegna,femmine,minacce,2022,14
+sardegna,femmine,minacce,2023,3
+sardegna,femmine,minacce,2024,6
+sardegna,femmine,mobbing,2015,1
+sardegna,femmine,mobbing,2018,1
+sardegna,femmine,mobbing,2019,2
+sardegna,femmine,mobbing,2021,1
+sardegna,femmine,mobbing,2022,1
+sardegna,femmine,tratta,2024,1
+sardegna,femmine,diffusione illecita di immagini o di video sessualmente espliciti,2024,1
+sardegna,femmine,violenza psicologica,2015,89
+sardegna,femmine,violenza psicologica,2016,90
+sardegna,femmine,violenza psicologica,2017,89
+sardegna,femmine,violenza psicologica,2018,98
+sardegna,femmine,violenza psicologica,2019,67
+sardegna,femmine,violenza psicologica,2020,127
+sardegna,femmine,violenza psicologica,2021,120
+sardegna,femmine,violenza psicologica,2022,98
+sardegna,femmine,violenza psicologica,2023,89
+sardegna,femmine,violenza psicologica,2024,124
+sardegna,femmine,violenza economica,2015,7
+sardegna,femmine,violenza economica,2016,8
+sardegna,femmine,violenza economica,2017,6
+sardegna,femmine,violenza economica,2018,6
+sardegna,femmine,violenza economica,2020,2
+sardegna,femmine,violenza economica,2021,1
+sardegna,femmine,violenza economica,2022,3
+sardegna,femmine,violenza economica,2023,3
+sardegna,femmine,violenza economica,2024,2
+sardegna,femmine,atti persecutori/stalking,2023,18
+sardegna,femmine,atti persecutori/stalking,2024,33
+sardegna,femmine,altro,2023,1
+sardegna,femmine,non risponde,2015,2
+sardegna,femmine,non risponde,2016,4
+sardegna,femmine,non risponde,2017,6
+sardegna,femmine,non risponde,2018,2
+sardegna,femmine,non risponde,2019,2
+sardegna,femmine,non risponde,2020,5
+sardegna,femmine,non risponde,2021,4
+sardegna,femmine,non risponde,2022,6
+sardegna,femmine,non risponde,2023,1
+sardegna,femmine,non disponibile,2015,12
+sardegna,femmine,non disponibile,2016,9
+sardegna,femmine,non disponibile,2017,5
+sardegna,femmine,non disponibile,2018,10
+sardegna,femmine,non disponibile,2019,11
+sardegna,femmine,non disponibile,2020,8
+sardegna,femmine,non disponibile,2021,8
+sardegna,femmine,non disponibile,2022,7
+sardegna,femmine,non disponibile,2024,1
+sardegna,non indicato,non disponibile,2023,2
+sardegna,non indicato,non disponibile,2024,5
+non indicato,maschi,violenza fisica,2015,4
+non indicato,maschi,violenza fisica,2016,7
+non indicato,maschi,violenza fisica,2017,5
+non indicato,maschi,violenza fisica,2018,3
+non indicato,maschi,violenza fisica,2019,4
+non indicato,maschi,violenza fisica,2020,37
+non indicato,maschi,violenza fisica,2021,39
+non indicato,maschi,violenza fisica,2022,17
+non indicato,maschi,violenza fisica,2023,41
+non indicato,maschi,violenza fisica,2024,26
+non indicato,maschi,violenza sessuale,2015,2
+non indicato,maschi,violenza sessuale,2016,4
+non indicato,maschi,violenza sessuale,2017,9
+non indicato,maschi,violenza sessuale,2018,5
+non indicato,maschi,violenza sessuale,2019,2
+non indicato,maschi,violenza sessuale,2020,17
+non indicato,maschi,violenza sessuale,2021,27
+non indicato,maschi,violenza sessuale,2022,5
+non indicato,maschi,violenza sessuale,2023,11
+non indicato,maschi,violenza sessuale,2024,5
+non indicato,maschi,minacce,2018,1
+non indicato,maschi,minacce,2019,1
+non indicato,maschi,minacce,2020,3
+non indicato,maschi,minacce,2021,6
+non indicato,maschi,minacce,2022,3
+non indicato,maschi,mobbing,2020,1
+non indicato,maschi,mobbing,2022,1
+non indicato,maschi,diffusione illecita di immagini o di video sessualmente espliciti,2023,2
+non indicato,maschi,diffusione illecita di immagini o di video sessualmente espliciti,2024,2
+non indicato,maschi,violenza psicologica,2015,4
+non indicato,maschi,violenza psicologica,2016,6
+non indicato,maschi,violenza psicologica,2017,14
+non indicato,maschi,violenza psicologica,2018,8
+non indicato,maschi,violenza psicologica,2019,1
+non indicato,maschi,violenza psicologica,2020,27
+non indicato,maschi,violenza psicologica,2021,33
+non indicato,maschi,violenza psicologica,2022,13
+non indicato,maschi,violenza psicologica,2023,33
+non indicato,maschi,violenza psicologica,2024,42
+non indicato,maschi,violenza economica,2016,1
+non indicato,maschi,violenza economica,2023,1
+non indicato,maschi,atti persecutori/stalking,2023,22
+non indicato,maschi,atti persecutori/stalking,2024,17
+non indicato,maschi,altro,2023,1
+non indicato,maschi,non risponde,2017,1
+non indicato,maschi,non risponde,2018,1
+non indicato,maschi,non risponde,2020,16
+non indicato,maschi,non risponde,2021,3
+non indicato,maschi,non risponde,2022,2
+non indicato,maschi,non risponde,2024,4
+non indicato,maschi,non disponibile,2015,18
+non indicato,maschi,non disponibile,2016,4
+non indicato,maschi,non disponibile,2017,14
+non indicato,maschi,non disponibile,2018,6
+non indicato,maschi,non disponibile,2019,15
+non indicato,maschi,non disponibile,2020,26
+non indicato,maschi,non disponibile,2021,35
+non indicato,maschi,non disponibile,2022,14
+non indicato,maschi,non disponibile,2023,6
+non indicato,maschi,non disponibile,2024,5
+non indicato,femmine,violenza fisica,2015,150
+non indicato,femmine,violenza fisica,2016,148
+non indicato,femmine,violenza fisica,2017,331
+non indicato,femmine,violenza fisica,2018,281
+non indicato,femmine,violenza fisica,2019,202
+non indicato,femmine,violenza fisica,2020,940
+non indicato,femmine,violenza fisica,2021,654
+non indicato,femmine,violenza fisica,2022,310
+non indicato,femmine,violenza fisica,2023,1041
+non indicato,femmine,violenza fisica,2024,451
+non indicato,femmine,violenza sessuale,2015,14
+non indicato,femmine,violenza sessuale,2016,16
+non indicato,femmine,violenza sessuale,2017,97
+non indicato,femmine,violenza sessuale,2018,38
+non indicato,femmine,violenza sessuale,2019,18
+non indicato,femmine,violenza sessuale,2020,187
+non indicato,femmine,violenza sessuale,2021,172
+non indicato,femmine,violenza sessuale,2022,97
+non indicato,femmine,violenza sessuale,2023,123
+non indicato,femmine,violenza sessuale,2024,55
+non indicato,femmine,minacce,2015,7
+non indicato,femmine,minacce,2016,10
+non indicato,femmine,minacce,2017,21
+non indicato,femmine,minacce,2018,22
+non indicato,femmine,minacce,2019,17
+non indicato,femmine,minacce,2020,96
+non indicato,femmine,minacce,2021,79
+non indicato,femmine,minacce,2022,37
+non indicato,femmine,minacce,2023,29
+non indicato,femmine,minacce,2024,12
+non indicato,femmine,mobbing,2016,1
+non indicato,femmine,mobbing,2017,7
+non indicato,femmine,mobbing,2018,2
+non indicato,femmine,mobbing,2019,1
+non indicato,femmine,mobbing,2020,9
+non indicato,femmine,mobbing,2021,6
+non indicato,femmine,mobbing,2022,1
+non indicato,femmine,mobbing,2023,4
+non indicato,femmine,mobbing,2024,4
+non indicato,femmine,tratta,2023,1
+non indicato,femmine,diffusione illecita di immagini o di video sessualmente espliciti,2021,1
+non indicato,femmine,diffusione illecita di immagini o di video sessualmente espliciti,2023,8
+non indicato,femmine,diffusione illecita di immagini o di video sessualmente espliciti,2024,2
+non indicato,femmine,sfruttamento della prostituzione,2023,1
+non indicato,femmine,sfruttamento della prostituzione,2024,1
+non indicato,femmine,violenza psicologica,2015,49
+non indicato,femmine,violenza psicologica,2016,84
+non indicato,femmine,violenza psicologica,2017,255
+non indicato,femmine,violenza psicologica,2018,210
+non indicato,femmine,violenza psicologica,2019,91
+non indicato,femmine,violenza psicologica,2020,636
+non indicato,femmine,violenza psicologica,2021,533
+non indicato,femmine,violenza psicologica,2022,210
+non indicato,femmine,violenza psicologica,2023,915
+non indicato,femmine,violenza psicologica,2024,505
+non indicato,femmine,violenza economica,2015,1
+non indicato,femmine,violenza economica,2016,5
+non indicato,femmine,violenza economica,2017,7
+non indicato,femmine,violenza economica,2018,5
+non indicato,femmine,violenza economica,2019,4
+non indicato,femmine,violenza economica,2020,17
+non indicato,femmine,violenza economica,2021,11
+non indicato,femmine,violenza economica,2022,5
+non indicato,femmine,violenza economica,2023,14
+non indicato,femmine,violenza economica,2024,7
+non indicato,femmine,atti persecutori/stalking,2023,184
+non indicato,femmine,atti persecutori/stalking,2024,90
+non indicato,femmine,violenza digitale,2023,7
+non indicato,femmine,violenza digitale,2024,7
+non indicato,femmine,matrimonio forzato,2023,3
+non indicato,femmine,matrimonio forzato,2024,2
+non indicato,femmine,altro,2023,6
+non indicato,femmine,altro,2024,5
+non indicato,femmine,non risponde,2015,3
+non indicato,femmine,non risponde,2016,3
+non indicato,femmine,non risponde,2017,5
+non indicato,femmine,non risponde,2018,8
+non indicato,femmine,non risponde,2019,2
+non indicato,femmine,non risponde,2020,74
+non indicato,femmine,non risponde,2021,38
+non indicato,femmine,non risponde,2022,23
+non indicato,femmine,non risponde,2023,40
+non indicato,femmine,non risponde,2024,9
+non indicato,femmine,non disponibile,2015,149
+non indicato,femmine,non disponibile,2016,121
+non indicato,femmine,non disponibile,2017,164
+non indicato,femmine,non disponibile,2018,212
+non indicato,femmine,non disponibile,2019,209
+non indicato,femmine,non disponibile,2020,436
+non indicato,femmine,non disponibile,2021,678
+non indicato,femmine,non disponibile,2022,722
+non indicato,femmine,non disponibile,2023,199
+non indicato,femmine,non disponibile,2024,122
+non indicato,non indicato,violenza fisica,2023,12
+non indicato,non indicato,violenza fisica,2024,7
+non indicato,non indicato,violenza sessuale,2023,2
+non indicato,non indicato,diffusione illecita di immagini o di video sessualmente espliciti,2024,1
+non indicato,non indicato,violenza psicologica,2023,3
+non indicato,non indicato,violenza psicologica,2024,3
+non indicato,non indicato,atti persecutori/stalking,2023,5
+non indicato,non indicato,atti persecutori/stalking,2024,2
+non indicato,non indicato,non risponde,2023,9
+non indicato,non indicato,non risponde,2024,3
+non indicato,non indicato,non disponibile,2015,1
+non indicato,non indicato,non disponibile,2019,2
+non indicato,non indicato,non disponibile,2020,9
+non indicato,non indicato,non disponibile,2021,11
+non indicato,non indicato,non disponibile,2022,15
+non indicato,non indicato,non disponibile,2023,1125
+non indicato,non indicato,non disponibile,2024,830

@@ -1,0 +1,1401 @@
+﻿territorio,sesso,imput_affermazione,grado_accordo,percentuale
+italia,maschi,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",molto_d_accordo,5.1
+italia,maschi,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",abbastanza_d_accordo,10.4
+italia,maschi,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",poco_d_accordo,13.3
+italia,maschi,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",per_niente_d_accordo,70.4
+italia,maschi,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",non_risponde,0.8
+italia,maschi,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,molto_d_accordo,11.4
+italia,maschi,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,abbastanza_d_accordo,20.0
+italia,maschi,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,poco_d_accordo,17.1
+italia,maschi,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,per_niente_d_accordo,50.9
+italia,maschi,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,non_risponde,0.6
+italia,maschi,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,molto_d_accordo,4.4
+italia,maschi,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,abbastanza_d_accordo,6.3
+italia,maschi,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,poco_d_accordo,13.4
+italia,maschi,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,per_niente_d_accordo,75.4
+italia,maschi,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,non_risponde,0.5
+italia,maschi,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,molto_d_accordo,10.0
+italia,maschi,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,abbastanza_d_accordo,20.6
+italia,maschi,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,poco_d_accordo,21.8
+italia,maschi,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,per_niente_d_accordo,47.0
+italia,maschi,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,non_risponde,0.7
+italia,maschi,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",molto_d_accordo,9.3
+italia,maschi,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",abbastanza_d_accordo,21.0
+italia,maschi,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",poco_d_accordo,17.1
+italia,maschi,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",per_niente_d_accordo,51.4
+italia,maschi,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",non_risponde,1.2
+italia,femmine,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",molto_d_accordo,4.7
+italia,femmine,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",abbastanza_d_accordo,12.0
+italia,femmine,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",poco_d_accordo,12.1
+italia,femmine,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",per_niente_d_accordo,70.5
+italia,femmine,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",non_risponde,0.7
+italia,femmine,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,molto_d_accordo,7.5
+italia,femmine,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,abbastanza_d_accordo,17.0
+italia,femmine,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,poco_d_accordo,17.8
+italia,femmine,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,per_niente_d_accordo,57.1
+italia,femmine,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,non_risponde,0.6
+italia,femmine,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,molto_d_accordo,2.5
+italia,femmine,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,abbastanza_d_accordo,4.6
+italia,femmine,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,poco_d_accordo,9.6
+italia,femmine,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,per_niente_d_accordo,82.9
+italia,femmine,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,non_risponde,0.5
+italia,femmine,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,molto_d_accordo,11.0
+italia,femmine,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,abbastanza_d_accordo,21.3
+italia,femmine,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,poco_d_accordo,19.8
+italia,femmine,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,per_niente_d_accordo,47.3
+italia,femmine,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,non_risponde,0.7
+italia,femmine,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",molto_d_accordo,10.4
+italia,femmine,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",abbastanza_d_accordo,24.3
+italia,femmine,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",poco_d_accordo,15.3
+italia,femmine,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",per_niente_d_accordo,48.6
+italia,femmine,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",non_risponde,1.4
+nord ovest,maschi,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",molto_d_accordo,2.5
+nord ovest,maschi,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",abbastanza_d_accordo,7.5
+nord ovest,maschi,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",poco_d_accordo,12.3
+nord ovest,maschi,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",per_niente_d_accordo,77.2
+nord ovest,maschi,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",non_risponde,0.6
+nord ovest,maschi,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,molto_d_accordo,6.8
+nord ovest,maschi,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,abbastanza_d_accordo,17.1
+nord ovest,maschi,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,poco_d_accordo,18.5
+nord ovest,maschi,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,per_niente_d_accordo,57.3
+nord ovest,maschi,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,non_risponde,0.3
+nord ovest,maschi,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,molto_d_accordo,2.8
+nord ovest,maschi,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,abbastanza_d_accordo,4.8
+nord ovest,maschi,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,poco_d_accordo,12.5
+nord ovest,maschi,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,per_niente_d_accordo,79.6
+nord ovest,maschi,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,non_risponde,0.3
+nord ovest,maschi,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,molto_d_accordo,8.3
+nord ovest,maschi,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,abbastanza_d_accordo,20.2
+nord ovest,maschi,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,poco_d_accordo,20.6
+nord ovest,maschi,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,per_niente_d_accordo,50.6
+nord ovest,maschi,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,non_risponde,0.3
+nord ovest,maschi,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",molto_d_accordo,6.7
+nord ovest,maschi,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",abbastanza_d_accordo,21.8
+nord ovest,maschi,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",poco_d_accordo,17.8
+nord ovest,maschi,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",per_niente_d_accordo,52.7
+nord ovest,maschi,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",non_risponde,1.1
+nord ovest,femmine,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",molto_d_accordo,2.9
+nord ovest,femmine,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",abbastanza_d_accordo,8.5
+nord ovest,femmine,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",poco_d_accordo,10.0
+nord ovest,femmine,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",per_niente_d_accordo,78.1
+nord ovest,femmine,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",non_risponde,0.5
+nord ovest,femmine,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,molto_d_accordo,4.5
+nord ovest,femmine,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,abbastanza_d_accordo,14.6
+nord ovest,femmine,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,poco_d_accordo,17.2
+nord ovest,femmine,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,per_niente_d_accordo,63.3
+nord ovest,femmine,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,non_risponde,0.4
+nord ovest,femmine,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,molto_d_accordo,1.2
+nord ovest,femmine,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,abbastanza_d_accordo,3.7
+nord ovest,femmine,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,poco_d_accordo,7.2
+nord ovest,femmine,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,per_niente_d_accordo,87.5
+nord ovest,femmine,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,non_risponde,0.3
+nord ovest,femmine,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,molto_d_accordo,8.1
+nord ovest,femmine,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,abbastanza_d_accordo,20.6
+nord ovest,femmine,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,poco_d_accordo,18.9
+nord ovest,femmine,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,per_niente_d_accordo,51.9
+nord ovest,femmine,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,non_risponde,0.6
+nord ovest,femmine,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",molto_d_accordo,8.9
+nord ovest,femmine,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",abbastanza_d_accordo,25.8
+nord ovest,femmine,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",poco_d_accordo,16.7
+nord ovest,femmine,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",per_niente_d_accordo,46.9
+nord ovest,femmine,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",non_risponde,1.7
+piemonte,maschi,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",molto_d_accordo,3.6
+piemonte,maschi,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",abbastanza_d_accordo,7.0
+piemonte,maschi,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",poco_d_accordo,12.6
+piemonte,maschi,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",per_niente_d_accordo,76.1
+piemonte,maschi,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",non_risponde,0.7
+piemonte,maschi,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,molto_d_accordo,7.5
+piemonte,maschi,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,abbastanza_d_accordo,18.6
+piemonte,maschi,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,poco_d_accordo,17.9
+piemonte,maschi,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,per_niente_d_accordo,55.6
+piemonte,maschi,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,non_risponde,0.5
+piemonte,maschi,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,molto_d_accordo,2.1
+piemonte,maschi,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,abbastanza_d_accordo,7.1
+piemonte,maschi,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,poco_d_accordo,13.1
+piemonte,maschi,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,per_niente_d_accordo,77.0
+piemonte,maschi,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,non_risponde,0.7
+piemonte,maschi,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,molto_d_accordo,7.8
+piemonte,maschi,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,abbastanza_d_accordo,24.3
+piemonte,maschi,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,poco_d_accordo,21.5
+piemonte,maschi,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,per_niente_d_accordo,45.9
+piemonte,maschi,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,non_risponde,0.5
+piemonte,maschi,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",molto_d_accordo,4.6
+piemonte,maschi,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",abbastanza_d_accordo,22.9
+piemonte,maschi,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",poco_d_accordo,14.5
+piemonte,maschi,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",per_niente_d_accordo,56.5
+piemonte,maschi,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",non_risponde,1.5
+piemonte,femmine,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",molto_d_accordo,3.0
+piemonte,femmine,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",abbastanza_d_accordo,8.4
+piemonte,femmine,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",poco_d_accordo,11.3
+piemonte,femmine,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",per_niente_d_accordo,76.2
+piemonte,femmine,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",non_risponde,1.1
+piemonte,femmine,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,molto_d_accordo,5.3
+piemonte,femmine,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,abbastanza_d_accordo,11.6
+piemonte,femmine,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,poco_d_accordo,19.1
+piemonte,femmine,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,per_niente_d_accordo,62.9
+piemonte,femmine,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,non_risponde,1.0
+piemonte,femmine,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,molto_d_accordo,1.1
+piemonte,femmine,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,abbastanza_d_accordo,3.4
+piemonte,femmine,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,poco_d_accordo,6.2
+piemonte,femmine,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,per_niente_d_accordo,88.6
+piemonte,femmine,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,non_risponde,0.7
+piemonte,femmine,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,molto_d_accordo,8.4
+piemonte,femmine,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,abbastanza_d_accordo,22.3
+piemonte,femmine,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,poco_d_accordo,16.4
+piemonte,femmine,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,per_niente_d_accordo,52.1
+piemonte,femmine,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,non_risponde,0.7
+piemonte,femmine,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",molto_d_accordo,7.6
+piemonte,femmine,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",abbastanza_d_accordo,23.7
+piemonte,femmine,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",poco_d_accordo,19.6
+piemonte,femmine,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",per_niente_d_accordo,46.1
+piemonte,femmine,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",non_risponde,3.0
+valle d'aosta,maschi,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",molto_d_accordo,2.8
+valle d'aosta,maschi,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",abbastanza_d_accordo,7.7
+valle d'aosta,maschi,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",poco_d_accordo,15.4
+valle d'aosta,maschi,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",per_niente_d_accordo,72.3
+valle d'aosta,maschi,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",non_risponde,1.8
+valle d'aosta,maschi,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,molto_d_accordo,8.9
+valle d'aosta,maschi,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,abbastanza_d_accordo,19.2
+valle d'aosta,maschi,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,poco_d_accordo,15.3
+valle d'aosta,maschi,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,per_niente_d_accordo,56.6
+valle d'aosta,maschi,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,non_risponde,0.0
+valle d'aosta,maschi,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,molto_d_accordo,3.0
+valle d'aosta,maschi,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,abbastanza_d_accordo,7.0
+valle d'aosta,maschi,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,poco_d_accordo,9.6
+valle d'aosta,maschi,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,per_niente_d_accordo,80.3
+valle d'aosta,maschi,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,non_risponde,0.0
+valle d'aosta,maschi,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,molto_d_accordo,13.2
+valle d'aosta,maschi,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,abbastanza_d_accordo,23.0
+valle d'aosta,maschi,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,poco_d_accordo,17.2
+valle d'aosta,maschi,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,per_niente_d_accordo,46.6
+valle d'aosta,maschi,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,non_risponde,0.0
+valle d'aosta,maschi,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",molto_d_accordo,6.2
+valle d'aosta,maschi,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",abbastanza_d_accordo,14.2
+valle d'aosta,maschi,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",poco_d_accordo,15.4
+valle d'aosta,maschi,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",per_niente_d_accordo,63.0
+valle d'aosta,maschi,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",non_risponde,1.1
+valle d'aosta,femmine,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",molto_d_accordo,2.7
+valle d'aosta,femmine,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",abbastanza_d_accordo,3.5
+valle d'aosta,femmine,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",poco_d_accordo,16.1
+valle d'aosta,femmine,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",per_niente_d_accordo,75.6
+valle d'aosta,femmine,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",non_risponde,2.1
+valle d'aosta,femmine,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,molto_d_accordo,3.3
+valle d'aosta,femmine,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,abbastanza_d_accordo,14.1
+valle d'aosta,femmine,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,poco_d_accordo,20.9
+valle d'aosta,femmine,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,per_niente_d_accordo,60.7
+valle d'aosta,femmine,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,non_risponde,1.1
+valle d'aosta,femmine,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,molto_d_accordo,1.7
+valle d'aosta,femmine,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,abbastanza_d_accordo,4.0
+valle d'aosta,femmine,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,poco_d_accordo,7.5
+valle d'aosta,femmine,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,per_niente_d_accordo,85.9
+valle d'aosta,femmine,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,non_risponde,0.9
+valle d'aosta,femmine,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,molto_d_accordo,8.4
+valle d'aosta,femmine,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,abbastanza_d_accordo,19.2
+valle d'aosta,femmine,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,poco_d_accordo,18.6
+valle d'aosta,femmine,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,per_niente_d_accordo,53.0
+valle d'aosta,femmine,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,non_risponde,0.9
+valle d'aosta,femmine,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",molto_d_accordo,7.4
+valle d'aosta,femmine,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",abbastanza_d_accordo,19.4
+valle d'aosta,femmine,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",poco_d_accordo,14.4
+valle d'aosta,femmine,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",per_niente_d_accordo,57.1
+valle d'aosta,femmine,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",non_risponde,1.6
+liguria,maschi,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",molto_d_accordo,3.7
+liguria,maschi,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",abbastanza_d_accordo,7.9
+liguria,maschi,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",poco_d_accordo,11.6
+liguria,maschi,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",per_niente_d_accordo,75.6
+liguria,maschi,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",non_risponde,1.3
+liguria,maschi,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,molto_d_accordo,7.5
+liguria,maschi,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,abbastanza_d_accordo,20.3
+liguria,maschi,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,poco_d_accordo,23.6
+liguria,maschi,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,per_niente_d_accordo,47.8
+liguria,maschi,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,non_risponde,0.8
+liguria,maschi,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,molto_d_accordo,4.8
+liguria,maschi,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,abbastanza_d_accordo,4.4
+liguria,maschi,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,poco_d_accordo,16.9
+liguria,maschi,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,per_niente_d_accordo,73.2
+liguria,maschi,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,non_risponde,0.8
+liguria,maschi,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,molto_d_accordo,5.8
+liguria,maschi,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,abbastanza_d_accordo,22.8
+liguria,maschi,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,poco_d_accordo,24.3
+liguria,maschi,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,per_niente_d_accordo,45.3
+liguria,maschi,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,non_risponde,1.7
+liguria,maschi,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",molto_d_accordo,10.5
+liguria,maschi,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",abbastanza_d_accordo,25.3
+liguria,maschi,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",poco_d_accordo,14.4
+liguria,maschi,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",per_niente_d_accordo,48.0
+liguria,maschi,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",non_risponde,1.8
+liguria,femmine,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",molto_d_accordo,1.3
+liguria,femmine,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",abbastanza_d_accordo,13.3
+liguria,femmine,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",poco_d_accordo,11.7
+liguria,femmine,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",per_niente_d_accordo,72.7
+liguria,femmine,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",non_risponde,1.0
+liguria,femmine,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,molto_d_accordo,2.9
+liguria,femmine,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,abbastanza_d_accordo,19.8
+liguria,femmine,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,poco_d_accordo,12.0
+liguria,femmine,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,per_niente_d_accordo,64.7
+liguria,femmine,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,non_risponde,0.5
+liguria,femmine,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,molto_d_accordo,1.7
+liguria,femmine,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,abbastanza_d_accordo,5.3
+liguria,femmine,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,poco_d_accordo,6.0
+liguria,femmine,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,per_niente_d_accordo,86.5
+liguria,femmine,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,non_risponde,0.5
+liguria,femmine,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,molto_d_accordo,9.6
+liguria,femmine,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,abbastanza_d_accordo,16.1
+liguria,femmine,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,poco_d_accordo,19.4
+liguria,femmine,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,per_niente_d_accordo,54.0
+liguria,femmine,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,non_risponde,0.9
+liguria,femmine,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",molto_d_accordo,7.5
+liguria,femmine,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",abbastanza_d_accordo,23.6
+liguria,femmine,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",poco_d_accordo,16.7
+liguria,femmine,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",per_niente_d_accordo,50.4
+liguria,femmine,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",non_risponde,1.8
+lombardia,maschi,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",molto_d_accordo,1.9
+lombardia,maschi,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",abbastanza_d_accordo,7.6
+lombardia,maschi,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",poco_d_accordo,12.2
+lombardia,maschi,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",per_niente_d_accordo,77.9
+lombardia,maschi,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",non_risponde,0.4
+lombardia,maschi,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,molto_d_accordo,6.3
+lombardia,maschi,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,abbastanza_d_accordo,16.0
+lombardia,maschi,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,poco_d_accordo,18.0
+lombardia,maschi,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,per_niente_d_accordo,59.5
+lombardia,maschi,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,non_risponde,0.1
+lombardia,maschi,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,molto_d_accordo,2.7
+lombardia,maschi,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,abbastanza_d_accordo,3.8
+lombardia,maschi,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,poco_d_accordo,11.7
+lombardia,maschi,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,per_niente_d_accordo,81.7
+lombardia,maschi,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,non_risponde,0.1
+lombardia,maschi,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,molto_d_accordo,8.8
+lombardia,maschi,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,abbastanza_d_accordo,18.0
+lombardia,maschi,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,poco_d_accordo,19.6
+lombardia,maschi,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,per_niente_d_accordo,53.5
+lombardia,maschi,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,non_risponde,0.1
+lombardia,maschi,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",molto_d_accordo,7.0
+lombardia,maschi,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",abbastanza_d_accordo,20.8
+lombardia,maschi,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",poco_d_accordo,19.7
+lombardia,maschi,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",per_niente_d_accordo,51.6
+lombardia,maschi,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",non_risponde,0.9
+lombardia,femmine,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",molto_d_accordo,3.2
+lombardia,femmine,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",abbastanza_d_accordo,7.9
+lombardia,femmine,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",poco_d_accordo,9.0
+lombardia,femmine,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",per_niente_d_accordo,79.7
+lombardia,femmine,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",non_risponde,0.2
+lombardia,femmine,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,molto_d_accordo,4.4
+lombardia,femmine,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,abbastanza_d_accordo,15.0
+lombardia,femmine,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,poco_d_accordo,17.2
+lombardia,femmine,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,per_niente_d_accordo,63.3
+lombardia,femmine,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,non_risponde,0.1
+lombardia,femmine,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,molto_d_accordo,1.2
+lombardia,femmine,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,abbastanza_d_accordo,3.6
+lombardia,femmine,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,poco_d_accordo,7.9
+lombardia,femmine,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,per_niente_d_accordo,87.2
+lombardia,femmine,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,non_risponde,0.1
+lombardia,femmine,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,molto_d_accordo,7.6
+lombardia,femmine,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,abbastanza_d_accordo,20.6
+lombardia,femmine,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,poco_d_accordo,19.9
+lombardia,femmine,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,per_niente_d_accordo,51.4
+lombardia,femmine,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,non_risponde,0.4
+lombardia,femmine,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",molto_d_accordo,9.7
+lombardia,femmine,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",abbastanza_d_accordo,27.1
+lombardia,femmine,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",poco_d_accordo,15.5
+lombardia,femmine,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",per_niente_d_accordo,46.7
+lombardia,femmine,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",non_risponde,1.1
+nord est,maschi,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",molto_d_accordo,2.7
+nord est,maschi,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",abbastanza_d_accordo,8.6
+nord est,maschi,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",poco_d_accordo,13.2
+nord est,maschi,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",per_niente_d_accordo,74.1
+nord est,maschi,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",non_risponde,1.3
+nord est,maschi,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,molto_d_accordo,8.3
+nord est,maschi,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,abbastanza_d_accordo,19.2
+nord est,maschi,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,poco_d_accordo,18.4
+nord est,maschi,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,per_niente_d_accordo,53.2
+nord est,maschi,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,non_risponde,0.8
+nord est,maschi,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,molto_d_accordo,1.7
+nord est,maschi,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,abbastanza_d_accordo,4.7
+nord est,maschi,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,poco_d_accordo,13.4
+nord est,maschi,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,per_niente_d_accordo,79.5
+nord est,maschi,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,non_risponde,0.6
+nord est,maschi,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,molto_d_accordo,9.3
+nord est,maschi,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,abbastanza_d_accordo,21.4
+nord est,maschi,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,poco_d_accordo,18.4
+nord est,maschi,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,per_niente_d_accordo,50.2
+nord est,maschi,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,non_risponde,0.8
+nord est,maschi,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",molto_d_accordo,7.9
+nord est,maschi,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",abbastanza_d_accordo,17.1
+nord est,maschi,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",poco_d_accordo,18.8
+nord est,maschi,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",per_niente_d_accordo,55.0
+nord est,maschi,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",non_risponde,1.2
+nord est,femmine,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",molto_d_accordo,3.0
+nord est,femmine,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",abbastanza_d_accordo,7.8
+nord est,femmine,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",poco_d_accordo,11.4
+nord est,femmine,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",per_niente_d_accordo,77.2
+nord est,femmine,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",non_risponde,0.6
+nord est,femmine,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,molto_d_accordo,5.0
+nord est,femmine,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,abbastanza_d_accordo,14.2
+nord est,femmine,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,poco_d_accordo,18.6
+nord est,femmine,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,per_niente_d_accordo,61.6
+nord est,femmine,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,non_risponde,0.6
+nord est,femmine,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,molto_d_accordo,0.7
+nord est,femmine,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,abbastanza_d_accordo,2.7
+nord est,femmine,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,poco_d_accordo,8.7
+nord est,femmine,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,per_niente_d_accordo,87.6
+nord est,femmine,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,non_risponde,0.4
+nord est,femmine,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,molto_d_accordo,9.1
+nord est,femmine,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,abbastanza_d_accordo,18.2
+nord est,femmine,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,poco_d_accordo,18.0
+nord est,femmine,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,per_niente_d_accordo,54.0
+nord est,femmine,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,non_risponde,0.7
+nord est,femmine,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",molto_d_accordo,7.8
+nord est,femmine,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",abbastanza_d_accordo,20.8
+nord est,femmine,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",poco_d_accordo,18.4
+nord est,femmine,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",per_niente_d_accordo,51.8
+nord est,femmine,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",non_risponde,1.2
+trentino alto adige,maschi,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",molto_d_accordo,2.5
+trentino alto adige,maschi,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",abbastanza_d_accordo,12.8
+trentino alto adige,maschi,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",poco_d_accordo,11.2
+trentino alto adige,maschi,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",per_niente_d_accordo,70.7
+trentino alto adige,maschi,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",non_risponde,2.7
+trentino alto adige,maschi,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,molto_d_accordo,9.3
+trentino alto adige,maschi,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,abbastanza_d_accordo,18.2
+trentino alto adige,maschi,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,poco_d_accordo,15.3
+trentino alto adige,maschi,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,per_niente_d_accordo,55.2
+trentino alto adige,maschi,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,non_risponde,1.9
+trentino alto adige,maschi,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,molto_d_accordo,2.3
+trentino alto adige,maschi,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,abbastanza_d_accordo,3.7
+trentino alto adige,maschi,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,poco_d_accordo,16.5
+trentino alto adige,maschi,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,per_niente_d_accordo,77.0
+trentino alto adige,maschi,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,non_risponde,0.5
+trentino alto adige,maschi,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,molto_d_accordo,9.4
+trentino alto adige,maschi,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,abbastanza_d_accordo,14.2
+trentino alto adige,maschi,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,poco_d_accordo,22.5
+trentino alto adige,maschi,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,per_niente_d_accordo,53.0
+trentino alto adige,maschi,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,non_risponde,0.9
+trentino alto adige,maschi,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",molto_d_accordo,6.0
+trentino alto adige,maschi,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",abbastanza_d_accordo,23.6
+trentino alto adige,maschi,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",poco_d_accordo,15.7
+trentino alto adige,maschi,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",per_niente_d_accordo,53.6
+trentino alto adige,maschi,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",non_risponde,1.1
+trentino alto adige,femmine,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",molto_d_accordo,4.8
+trentino alto adige,femmine,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",abbastanza_d_accordo,10.1
+trentino alto adige,femmine,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",poco_d_accordo,11.2
+trentino alto adige,femmine,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",per_niente_d_accordo,72.6
+trentino alto adige,femmine,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",non_risponde,1.3
+trentino alto adige,femmine,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,molto_d_accordo,8.3
+trentino alto adige,femmine,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,abbastanza_d_accordo,15.7
+trentino alto adige,femmine,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,poco_d_accordo,15.5
+trentino alto adige,femmine,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,per_niente_d_accordo,59.5
+trentino alto adige,femmine,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,non_risponde,1.0
+trentino alto adige,femmine,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,molto_d_accordo,2.0
+trentino alto adige,femmine,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,abbastanza_d_accordo,4.9
+trentino alto adige,femmine,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,poco_d_accordo,10.1
+trentino alto adige,femmine,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,per_niente_d_accordo,82.6
+trentino alto adige,femmine,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,non_risponde,0.3
+trentino alto adige,femmine,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,molto_d_accordo,6.5
+trentino alto adige,femmine,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,abbastanza_d_accordo,19.5
+trentino alto adige,femmine,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,poco_d_accordo,17.7
+trentino alto adige,femmine,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,per_niente_d_accordo,54.4
+trentino alto adige,femmine,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,non_risponde,1.9
+trentino alto adige,femmine,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",molto_d_accordo,9.2
+trentino alto adige,femmine,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",abbastanza_d_accordo,23.1
+trentino alto adige,femmine,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",poco_d_accordo,13.9
+trentino alto adige,femmine,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",per_niente_d_accordo,51.8
+trentino alto adige,femmine,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",non_risponde,2.0
+bolzano,maschi,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",molto_d_accordo,2.4
+bolzano,maschi,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",abbastanza_d_accordo,8.5
+bolzano,maschi,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",poco_d_accordo,13.6
+bolzano,maschi,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",per_niente_d_accordo,73.4
+bolzano,maschi,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",non_risponde,2.1
+bolzano,maschi,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,molto_d_accordo,10.7
+bolzano,maschi,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,abbastanza_d_accordo,16.2
+bolzano,maschi,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,poco_d_accordo,15.8
+bolzano,maschi,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,per_niente_d_accordo,56.8
+bolzano,maschi,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,non_risponde,0.4
+bolzano,maschi,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,molto_d_accordo,2.9
+bolzano,maschi,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,abbastanza_d_accordo,1.5
+bolzano,maschi,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,poco_d_accordo,18.9
+bolzano,maschi,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,per_niente_d_accordo,75.7
+bolzano,maschi,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,non_risponde,1.1
+bolzano,maschi,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,molto_d_accordo,5.3
+bolzano,maschi,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,abbastanza_d_accordo,15.2
+bolzano,maschi,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,poco_d_accordo,21.8
+bolzano,maschi,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,per_niente_d_accordo,56.7
+bolzano,maschi,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,non_risponde,1.1
+bolzano,maschi,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",molto_d_accordo,8.2
+bolzano,maschi,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",abbastanza_d_accordo,24.0
+bolzano,maschi,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",poco_d_accordo,21.9
+bolzano,maschi,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",per_niente_d_accordo,43.5
+bolzano,maschi,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",non_risponde,2.5
+bolzano,femmine,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",molto_d_accordo,4.9
+bolzano,femmine,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",abbastanza_d_accordo,13.7
+bolzano,femmine,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",poco_d_accordo,14.7
+bolzano,femmine,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",per_niente_d_accordo,64.6
+bolzano,femmine,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",non_risponde,2.2
+bolzano,femmine,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,molto_d_accordo,6.9
+bolzano,femmine,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,abbastanza_d_accordo,19.8
+bolzano,femmine,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,poco_d_accordo,15.0
+bolzano,femmine,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,per_niente_d_accordo,57.2
+bolzano,femmine,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,non_risponde,1.0
+bolzano,femmine,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,molto_d_accordo,1.0
+bolzano,femmine,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,abbastanza_d_accordo,6.9
+bolzano,femmine,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,poco_d_accordo,12.1
+bolzano,femmine,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,per_niente_d_accordo,79.6
+bolzano,femmine,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,non_risponde,0.4
+bolzano,femmine,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,molto_d_accordo,5.4
+bolzano,femmine,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,abbastanza_d_accordo,27.1
+bolzano,femmine,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,poco_d_accordo,14.4
+bolzano,femmine,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,per_niente_d_accordo,51.3
+bolzano,femmine,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,non_risponde,1.8
+bolzano,femmine,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",molto_d_accordo,10.3
+bolzano,femmine,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",abbastanza_d_accordo,25.3
+bolzano,femmine,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",poco_d_accordo,15.3
+bolzano,femmine,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",per_niente_d_accordo,46.5
+bolzano,femmine,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",non_risponde,2.5
+trento,maschi,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",molto_d_accordo,2.6
+trento,maschi,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",abbastanza_d_accordo,16.6
+trento,maschi,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",poco_d_accordo,9.2
+trento,maschi,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",per_niente_d_accordo,68.4
+trento,maschi,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",non_risponde,3.3
+trento,maschi,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,molto_d_accordo,9.8
+trento,maschi,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,abbastanza_d_accordo,16.4
+trento,maschi,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,poco_d_accordo,17.7
+trento,maschi,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,per_niente_d_accordo,52.0
+trento,maschi,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,non_risponde,4.1
+trento,maschi,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,molto_d_accordo,1.9
+trento,maschi,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,abbastanza_d_accordo,5.5
+trento,maschi,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,poco_d_accordo,14.5
+trento,maschi,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,per_niente_d_accordo,78.1
+trento,maschi,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,non_risponde,0.0
+trento,maschi,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,molto_d_accordo,12.9
+trento,maschi,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,abbastanza_d_accordo,13.3
+trento,maschi,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,poco_d_accordo,23.2
+trento,maschi,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,per_niente_d_accordo,49.9
+trento,maschi,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,non_risponde,0.7
+trento,maschi,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",molto_d_accordo,4.0
+trento,maschi,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",abbastanza_d_accordo,23.3
+trento,maschi,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",poco_d_accordo,10.3
+trento,maschi,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",per_niente_d_accordo,62.4
+trento,maschi,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",non_risponde,0.0
+trento,femmine,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",molto_d_accordo,4.8
+trento,femmine,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",abbastanza_d_accordo,7.9
+trento,femmine,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",poco_d_accordo,9.1
+trento,femmine,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",per_niente_d_accordo,77.5
+trento,femmine,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",non_risponde,0.8
+trento,femmine,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,molto_d_accordo,9.1
+trento,femmine,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,abbastanza_d_accordo,13.3
+trento,femmine,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,poco_d_accordo,15.8
+trento,femmine,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,per_niente_d_accordo,60.8
+trento,femmine,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,non_risponde,0.9
+trento,femmine,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,molto_d_accordo,2.6
+trento,femmine,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,abbastanza_d_accordo,3.7
+trento,femmine,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,poco_d_accordo,8.9
+trento,femmine,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,per_niente_d_accordo,84.5
+trento,femmine,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,non_risponde,0.3
+trento,femmine,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,molto_d_accordo,7.1
+trento,femmine,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,abbastanza_d_accordo,14.9
+trento,femmine,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,poco_d_accordo,19.7
+trento,femmine,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,per_niente_d_accordo,56.3
+trento,femmine,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,non_risponde,2.0
+trento,femmine,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",molto_d_accordo,8.5
+trento,femmine,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",abbastanza_d_accordo,21.8
+trento,femmine,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",poco_d_accordo,13.0
+trento,femmine,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",per_niente_d_accordo,55.0
+trento,femmine,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",non_risponde,1.7
+veneto,maschi,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",molto_d_accordo,4.2
+veneto,maschi,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",abbastanza_d_accordo,6.4
+veneto,maschi,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",poco_d_accordo,11.1
+veneto,maschi,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",per_niente_d_accordo,77.2
+veneto,maschi,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",non_risponde,1.2
+veneto,maschi,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,molto_d_accordo,8.9
+veneto,maschi,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,abbastanza_d_accordo,19.9
+veneto,maschi,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,poco_d_accordo,13.3
+veneto,maschi,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,per_niente_d_accordo,58.0
+veneto,maschi,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,non_risponde,0.0
+veneto,maschi,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,molto_d_accordo,1.2
+veneto,maschi,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,abbastanza_d_accordo,4.5
+veneto,maschi,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,poco_d_accordo,10.0
+veneto,maschi,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,per_niente_d_accordo,84.2
+veneto,maschi,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,non_risponde,0.0
+veneto,maschi,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,molto_d_accordo,10.0
+veneto,maschi,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,abbastanza_d_accordo,23.1
+veneto,maschi,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,poco_d_accordo,15.5
+veneto,maschi,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,per_niente_d_accordo,51.3
+veneto,maschi,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,non_risponde,0.1
+veneto,maschi,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",molto_d_accordo,10.3
+veneto,maschi,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",abbastanza_d_accordo,16.6
+veneto,maschi,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",poco_d_accordo,17.0
+veneto,maschi,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",per_niente_d_accordo,55.4
+veneto,maschi,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",non_risponde,0.7
+veneto,femmine,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",molto_d_accordo,3.7
+veneto,femmine,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",abbastanza_d_accordo,9.4
+veneto,femmine,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",poco_d_accordo,7.9
+veneto,femmine,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",per_niente_d_accordo,78.3
+veneto,femmine,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",non_risponde,0.7
+veneto,femmine,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,molto_d_accordo,5.0
+veneto,femmine,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,abbastanza_d_accordo,13.0
+veneto,femmine,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,poco_d_accordo,18.7
+veneto,femmine,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,per_niente_d_accordo,62.6
+veneto,femmine,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,non_risponde,0.6
+veneto,femmine,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,molto_d_accordo,0.1
+veneto,femmine,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,abbastanza_d_accordo,2.4
+veneto,femmine,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,poco_d_accordo,6.5
+veneto,femmine,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,per_niente_d_accordo,90.5
+veneto,femmine,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,non_risponde,0.5
+veneto,femmine,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,molto_d_accordo,10.5
+veneto,femmine,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,abbastanza_d_accordo,17.1
+veneto,femmine,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,poco_d_accordo,17.5
+veneto,femmine,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,per_niente_d_accordo,54.2
+veneto,femmine,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,non_risponde,0.7
+veneto,femmine,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",molto_d_accordo,7.3
+veneto,femmine,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",abbastanza_d_accordo,19.4
+veneto,femmine,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",poco_d_accordo,20.0
+veneto,femmine,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",per_niente_d_accordo,52.1
+veneto,femmine,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",non_risponde,1.2
+friuli venezia giulia,maschi,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",molto_d_accordo,2.3
+friuli venezia giulia,maschi,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",abbastanza_d_accordo,11.7
+friuli venezia giulia,maschi,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",poco_d_accordo,8.1
+friuli venezia giulia,maschi,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",per_niente_d_accordo,77.1
+friuli venezia giulia,maschi,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",non_risponde,0.8
+friuli venezia giulia,maschi,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,molto_d_accordo,7.8
+friuli venezia giulia,maschi,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,abbastanza_d_accordo,18.4
+friuli venezia giulia,maschi,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,poco_d_accordo,26.4
+friuli venezia giulia,maschi,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,per_niente_d_accordo,46.9
+friuli venezia giulia,maschi,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,non_risponde,0.5
+friuli venezia giulia,maschi,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,molto_d_accordo,2.8
+friuli venezia giulia,maschi,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,abbastanza_d_accordo,5.7
+friuli venezia giulia,maschi,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,poco_d_accordo,16.0
+friuli venezia giulia,maschi,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,per_niente_d_accordo,74.8
+friuli venezia giulia,maschi,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,non_risponde,0.7
+friuli venezia giulia,maschi,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,molto_d_accordo,6.6
+friuli venezia giulia,maschi,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,abbastanza_d_accordo,16.9
+friuli venezia giulia,maschi,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,poco_d_accordo,26.3
+friuli venezia giulia,maschi,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,per_niente_d_accordo,49.2
+friuli venezia giulia,maschi,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,non_risponde,1.0
+friuli venezia giulia,maschi,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",molto_d_accordo,6.1
+friuli venezia giulia,maschi,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",abbastanza_d_accordo,17.3
+friuli venezia giulia,maschi,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",poco_d_accordo,22.8
+friuli venezia giulia,maschi,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",per_niente_d_accordo,51.8
+friuli venezia giulia,maschi,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",non_risponde,1.9
+friuli venezia giulia,femmine,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",molto_d_accordo,3.5
+friuli venezia giulia,femmine,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",abbastanza_d_accordo,6.3
+friuli venezia giulia,femmine,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",poco_d_accordo,15.1
+friuli venezia giulia,femmine,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",per_niente_d_accordo,74.6
+friuli venezia giulia,femmine,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",non_risponde,0.5
+friuli venezia giulia,femmine,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,molto_d_accordo,2.5
+friuli venezia giulia,femmine,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,abbastanza_d_accordo,14.6
+friuli venezia giulia,femmine,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,poco_d_accordo,18.4
+friuli venezia giulia,femmine,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,per_niente_d_accordo,64.5
+friuli venezia giulia,femmine,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,non_risponde,0.0
+friuli venezia giulia,femmine,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,molto_d_accordo,1.1
+friuli venezia giulia,femmine,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,abbastanza_d_accordo,1.3
+friuli venezia giulia,femmine,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,poco_d_accordo,8.3
+friuli venezia giulia,femmine,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,per_niente_d_accordo,89.3
+friuli venezia giulia,femmine,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,non_risponde,0.0
+friuli venezia giulia,femmine,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,molto_d_accordo,9.2
+friuli venezia giulia,femmine,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,abbastanza_d_accordo,13.5
+friuli venezia giulia,femmine,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,poco_d_accordo,20.0
+friuli venezia giulia,femmine,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,per_niente_d_accordo,57.1
+friuli venezia giulia,femmine,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,non_risponde,0.2
+friuli venezia giulia,femmine,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",molto_d_accordo,10.0
+friuli venezia giulia,femmine,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",abbastanza_d_accordo,21.5
+friuli venezia giulia,femmine,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",poco_d_accordo,16.8
+friuli venezia giulia,femmine,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",per_niente_d_accordo,50.9
+friuli venezia giulia,femmine,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",non_risponde,0.8
+emilia romagna,maschi,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",molto_d_accordo,1.3
+emilia romagna,maschi,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",abbastanza_d_accordo,9.4
+emilia romagna,maschi,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",poco_d_accordo,17.5
+emilia romagna,maschi,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",per_niente_d_accordo,70.5
+emilia romagna,maschi,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",non_risponde,1.4
+emilia romagna,maschi,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,molto_d_accordo,5.5
+emilia romagna,maschi,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,abbastanza_d_accordo,23.0
+emilia romagna,maschi,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,poco_d_accordo,19.9
+emilia romagna,maschi,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,per_niente_d_accordo,50.5
+emilia romagna,maschi,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,non_risponde,1.1
+emilia romagna,maschi,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,molto_d_accordo,1.8
+emilia romagna,maschi,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,abbastanza_d_accordo,4.9
+emilia romagna,maschi,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,poco_d_accordo,15.8
+emilia romagna,maschi,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,per_niente_d_accordo,76.2
+emilia romagna,maschi,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,non_risponde,1.3
+emilia romagna,maschi,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,molto_d_accordo,9.1
+emilia romagna,maschi,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,abbastanza_d_accordo,22.4
+emilia romagna,maschi,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,poco_d_accordo,18.5
+emilia romagna,maschi,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,per_niente_d_accordo,48.5
+emilia romagna,maschi,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,non_risponde,1.4
+emilia romagna,maschi,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",molto_d_accordo,6.2
+emilia romagna,maschi,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",abbastanza_d_accordo,16.0
+emilia romagna,maschi,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",poco_d_accordo,20.5
+emilia romagna,maschi,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",per_niente_d_accordo,55.8
+emilia romagna,maschi,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",non_risponde,1.5
+emilia romagna,femmine,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",molto_d_accordo,1.7
+emilia romagna,femmine,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",abbastanza_d_accordo,6.0
+emilia romagna,femmine,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",poco_d_accordo,14.3
+emilia romagna,femmine,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",per_niente_d_accordo,77.7
+emilia romagna,femmine,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",non_risponde,0.3
+emilia romagna,femmine,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,molto_d_accordo,5.0
+emilia romagna,femmine,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,abbastanza_d_accordo,15.1
+emilia romagna,femmine,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,poco_d_accordo,19.3
+emilia romagna,femmine,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,per_niente_d_accordo,60.1
+emilia romagna,femmine,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,non_risponde,0.5
+emilia romagna,femmine,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,molto_d_accordo,0.9
+emilia romagna,femmine,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,abbastanza_d_accordo,3.0
+emilia romagna,femmine,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,poco_d_accordo,10.8
+emilia romagna,femmine,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,per_niente_d_accordo,85.0
+emilia romagna,femmine,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,non_risponde,0.2
+emilia romagna,femmine,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,molto_d_accordo,8.2
+emilia romagna,femmine,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,abbastanza_d_accordo,20.4
+emilia romagna,femmine,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,poco_d_accordo,18.1
+emilia romagna,femmine,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,per_niente_d_accordo,52.9
+emilia romagna,femmine,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,non_risponde,0.4
+emilia romagna,femmine,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",molto_d_accordo,7.3
+emilia romagna,femmine,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",abbastanza_d_accordo,21.7
+emilia romagna,femmine,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",poco_d_accordo,18.1
+emilia romagna,femmine,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",per_niente_d_accordo,51.7
+emilia romagna,femmine,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",non_risponde,1.2
+centro,maschi,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",molto_d_accordo,4.0
+centro,maschi,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",abbastanza_d_accordo,8.1
+centro,maschi,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",poco_d_accordo,12.6
+centro,maschi,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",per_niente_d_accordo,74.6
+centro,maschi,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",non_risponde,0.7
+centro,maschi,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,molto_d_accordo,9.1
+centro,maschi,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,abbastanza_d_accordo,18.4
+centro,maschi,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,poco_d_accordo,15.3
+centro,maschi,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,per_niente_d_accordo,56.6
+centro,maschi,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,non_risponde,0.7
+centro,maschi,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,molto_d_accordo,3.0
+centro,maschi,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,abbastanza_d_accordo,6.2
+centro,maschi,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,poco_d_accordo,13.0
+centro,maschi,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,per_niente_d_accordo,77.0
+centro,maschi,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,non_risponde,0.7
+centro,maschi,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,molto_d_accordo,9.1
+centro,maschi,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,abbastanza_d_accordo,20.6
+centro,maschi,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,poco_d_accordo,22.5
+centro,maschi,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,per_niente_d_accordo,46.8
+centro,maschi,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,non_risponde,1.0
+centro,maschi,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",molto_d_accordo,5.5
+centro,maschi,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",abbastanza_d_accordo,22.8
+centro,maschi,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",poco_d_accordo,17.0
+centro,maschi,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",per_niente_d_accordo,53.3
+centro,maschi,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",non_risponde,1.4
+centro,femmine,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",molto_d_accordo,3.5
+centro,femmine,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",abbastanza_d_accordo,12.7
+centro,femmine,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",poco_d_accordo,11.0
+centro,femmine,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",per_niente_d_accordo,72.4
+centro,femmine,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",non_risponde,0.4
+centro,femmine,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,molto_d_accordo,5.8
+centro,femmine,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,abbastanza_d_accordo,15.1
+centro,femmine,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,poco_d_accordo,17.8
+centro,femmine,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,per_niente_d_accordo,60.8
+centro,femmine,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,non_risponde,0.4
+centro,femmine,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,molto_d_accordo,1.2
+centro,femmine,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,abbastanza_d_accordo,3.3
+centro,femmine,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,poco_d_accordo,10.4
+centro,femmine,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,per_niente_d_accordo,84.7
+centro,femmine,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,non_risponde,0.4
+centro,femmine,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,molto_d_accordo,9.5
+centro,femmine,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,abbastanza_d_accordo,20.8
+centro,femmine,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,poco_d_accordo,21.0
+centro,femmine,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,per_niente_d_accordo,48.1
+centro,femmine,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,non_risponde,0.5
+centro,femmine,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",molto_d_accordo,7.9
+centro,femmine,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",abbastanza_d_accordo,24.2
+centro,femmine,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",poco_d_accordo,15.6
+centro,femmine,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",per_niente_d_accordo,51.2
+centro,femmine,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",non_risponde,1.0
+toscana,maschi,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",molto_d_accordo,2.4
+toscana,maschi,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",abbastanza_d_accordo,8.7
+toscana,maschi,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",poco_d_accordo,13.2
+toscana,maschi,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",per_niente_d_accordo,75.4
+toscana,maschi,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",non_risponde,0.4
+toscana,maschi,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,molto_d_accordo,4.2
+toscana,maschi,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,abbastanza_d_accordo,19.2
+toscana,maschi,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,poco_d_accordo,19.4
+toscana,maschi,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,per_niente_d_accordo,57.1
+toscana,maschi,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,non_risponde,0.1
+toscana,maschi,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,molto_d_accordo,2.9
+toscana,maschi,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,abbastanza_d_accordo,3.5
+toscana,maschi,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,poco_d_accordo,13.7
+toscana,maschi,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,per_niente_d_accordo,79.5
+toscana,maschi,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,non_risponde,0.4
+toscana,maschi,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,molto_d_accordo,7.3
+toscana,maschi,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,abbastanza_d_accordo,22.5
+toscana,maschi,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,poco_d_accordo,20.4
+toscana,maschi,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,per_niente_d_accordo,48.8
+toscana,maschi,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,non_risponde,0.9
+toscana,maschi,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",molto_d_accordo,7.5
+toscana,maschi,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",abbastanza_d_accordo,20.2
+toscana,maschi,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",poco_d_accordo,17.2
+toscana,maschi,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",per_niente_d_accordo,54.2
+toscana,maschi,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",non_risponde,0.9
+toscana,femmine,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",molto_d_accordo,1.7
+toscana,femmine,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",abbastanza_d_accordo,6.9
+toscana,femmine,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",poco_d_accordo,11.0
+toscana,femmine,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",per_niente_d_accordo,79.6
+toscana,femmine,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",non_risponde,0.9
+toscana,femmine,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,molto_d_accordo,4.3
+toscana,femmine,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,abbastanza_d_accordo,12.8
+toscana,femmine,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,poco_d_accordo,15.5
+toscana,femmine,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,per_niente_d_accordo,66.9
+toscana,femmine,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,non_risponde,0.6
+toscana,femmine,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,molto_d_accordo,0.8
+toscana,femmine,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,abbastanza_d_accordo,2.1
+toscana,femmine,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,poco_d_accordo,10.0
+toscana,femmine,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,per_niente_d_accordo,86.5
+toscana,femmine,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,non_risponde,0.6
+toscana,femmine,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,molto_d_accordo,7.8
+toscana,femmine,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,abbastanza_d_accordo,23.2
+toscana,femmine,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,poco_d_accordo,19.1
+toscana,femmine,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,per_niente_d_accordo,49.1
+toscana,femmine,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,non_risponde,0.8
+toscana,femmine,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",molto_d_accordo,6.5
+toscana,femmine,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",abbastanza_d_accordo,24.7
+toscana,femmine,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",poco_d_accordo,10.6
+toscana,femmine,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",per_niente_d_accordo,56.8
+toscana,femmine,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",non_risponde,1.4
+umbria,maschi,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",molto_d_accordo,6.3
+umbria,maschi,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",abbastanza_d_accordo,10.7
+umbria,maschi,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",poco_d_accordo,13.3
+umbria,maschi,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",per_niente_d_accordo,69.7
+umbria,maschi,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",non_risponde,0.0
+umbria,maschi,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,molto_d_accordo,15.8
+umbria,maschi,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,abbastanza_d_accordo,19.7
+umbria,maschi,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,poco_d_accordo,14.8
+umbria,maschi,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,per_niente_d_accordo,49.3
+umbria,maschi,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,non_risponde,0.4
+umbria,maschi,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,molto_d_accordo,7.5
+umbria,maschi,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,abbastanza_d_accordo,7.5
+umbria,maschi,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,poco_d_accordo,10.3
+umbria,maschi,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,per_niente_d_accordo,74.7
+umbria,maschi,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,non_risponde,0.0
+umbria,maschi,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,molto_d_accordo,13.8
+umbria,maschi,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,abbastanza_d_accordo,16.6
+umbria,maschi,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,poco_d_accordo,22.0
+umbria,maschi,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,per_niente_d_accordo,47.6
+umbria,maschi,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,non_risponde,0.0
+umbria,maschi,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",molto_d_accordo,9.4
+umbria,maschi,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",abbastanza_d_accordo,25.0
+umbria,maschi,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",poco_d_accordo,12.1
+umbria,maschi,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",per_niente_d_accordo,53.2
+umbria,maschi,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",non_risponde,0.3
+umbria,femmine,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",molto_d_accordo,4.1
+umbria,femmine,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",abbastanza_d_accordo,15.5
+umbria,femmine,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",poco_d_accordo,9.0
+umbria,femmine,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",per_niente_d_accordo,71.0
+umbria,femmine,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",non_risponde,0.3
+umbria,femmine,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,molto_d_accordo,6.2
+umbria,femmine,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,abbastanza_d_accordo,15.8
+umbria,femmine,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,poco_d_accordo,13.8
+umbria,femmine,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,per_niente_d_accordo,63.8
+umbria,femmine,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,non_risponde,0.3
+umbria,femmine,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,molto_d_accordo,0.5
+umbria,femmine,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,abbastanza_d_accordo,3.5
+umbria,femmine,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,poco_d_accordo,10.9
+umbria,femmine,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,per_niente_d_accordo,84.8
+umbria,femmine,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,non_risponde,0.3
+umbria,femmine,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,molto_d_accordo,13.5
+umbria,femmine,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,abbastanza_d_accordo,16.9
+umbria,femmine,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,poco_d_accordo,21.8
+umbria,femmine,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,per_niente_d_accordo,47.3
+umbria,femmine,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,non_risponde,0.5
+umbria,femmine,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",molto_d_accordo,8.0
+umbria,femmine,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",abbastanza_d_accordo,24.2
+umbria,femmine,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",poco_d_accordo,15.2
+umbria,femmine,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",per_niente_d_accordo,51.1
+umbria,femmine,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",non_risponde,1.5
+marche,maschi,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",molto_d_accordo,3.5
+marche,maschi,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",abbastanza_d_accordo,5.7
+marche,maschi,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",poco_d_accordo,13.5
+marche,maschi,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",per_niente_d_accordo,77.0
+marche,maschi,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",non_risponde,0.3
+marche,maschi,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,molto_d_accordo,7.0
+marche,maschi,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,abbastanza_d_accordo,24.8
+marche,maschi,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,poco_d_accordo,9.9
+marche,maschi,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,per_niente_d_accordo,58.3
+marche,maschi,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,non_risponde,0.0
+marche,maschi,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,molto_d_accordo,3.5
+marche,maschi,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,abbastanza_d_accordo,7.1
+marche,maschi,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,poco_d_accordo,14.7
+marche,maschi,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,per_niente_d_accordo,74.8
+marche,maschi,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,non_risponde,0.0
+marche,maschi,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,molto_d_accordo,6.0
+marche,maschi,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,abbastanza_d_accordo,27.2
+marche,maschi,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,poco_d_accordo,24.7
+marche,maschi,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,per_niente_d_accordo,41.6
+marche,maschi,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,non_risponde,0.6
+marche,maschi,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",molto_d_accordo,3.4
+marche,maschi,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",abbastanza_d_accordo,20.6
+marche,maschi,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",poco_d_accordo,14.0
+marche,maschi,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",per_niente_d_accordo,60.5
+marche,maschi,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",non_risponde,1.4
+marche,femmine,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",molto_d_accordo,3.2
+marche,femmine,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",abbastanza_d_accordo,15.1
+marche,femmine,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",poco_d_accordo,11.3
+marche,femmine,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",per_niente_d_accordo,69.5
+marche,femmine,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",non_risponde,0.8
+marche,femmine,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,molto_d_accordo,6.8
+marche,femmine,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,abbastanza_d_accordo,21.6
+marche,femmine,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,poco_d_accordo,16.8
+marche,femmine,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,per_niente_d_accordo,53.4
+marche,femmine,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,non_risponde,1.4
+marche,femmine,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,molto_d_accordo,0.7
+marche,femmine,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,abbastanza_d_accordo,4.9
+marche,femmine,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,poco_d_accordo,10.3
+marche,femmine,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,per_niente_d_accordo,82.8
+marche,femmine,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,non_risponde,1.4
+marche,femmine,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,molto_d_accordo,11.5
+marche,femmine,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,abbastanza_d_accordo,13.6
+marche,femmine,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,poco_d_accordo,21.1
+marche,femmine,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,per_niente_d_accordo,52.4
+marche,femmine,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,non_risponde,1.4
+marche,femmine,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",molto_d_accordo,5.7
+marche,femmine,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",abbastanza_d_accordo,24.4
+marche,femmine,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",poco_d_accordo,11.3
+marche,femmine,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",per_niente_d_accordo,56.5
+marche,femmine,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",non_risponde,2.1
+lazio,maschi,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",molto_d_accordo,4.8
+lazio,maschi,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",abbastanza_d_accordo,8.0
+lazio,maschi,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",poco_d_accordo,11.9
+lazio,maschi,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",per_niente_d_accordo,74.2
+lazio,maschi,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",non_risponde,1.2
+lazio,maschi,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,molto_d_accordo,11.6
+lazio,maschi,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,abbastanza_d_accordo,16.0
+lazio,maschi,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,poco_d_accordo,14.2
+lazio,maschi,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,per_niente_d_accordo,56.9
+lazio,maschi,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,non_risponde,1.2
+lazio,maschi,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,molto_d_accordo,2.2
+lazio,maschi,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,abbastanza_d_accordo,7.6
+lazio,maschi,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,poco_d_accordo,12.6
+lazio,maschi,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,per_niente_d_accordo,76.4
+lazio,maschi,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,non_risponde,1.2
+lazio,maschi,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,molto_d_accordo,10.3
+lazio,maschi,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,abbastanza_d_accordo,18.3
+lazio,maschi,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,poco_d_accordo,23.2
+lazio,maschi,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,per_niente_d_accordo,46.8
+lazio,maschi,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,non_risponde,1.4
+lazio,maschi,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",molto_d_accordo,4.3
+lazio,maschi,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",abbastanza_d_accordo,24.7
+lazio,maschi,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",poco_d_accordo,18.4
+lazio,maschi,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",per_niente_d_accordo,50.8
+lazio,maschi,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",non_risponde,1.8
+lazio,femmine,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",molto_d_accordo,4.6
+lazio,femmine,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",abbastanza_d_accordo,15.2
+lazio,femmine,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",poco_d_accordo,11.3
+lazio,femmine,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",per_niente_d_accordo,68.8
+lazio,femmine,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",non_risponde,0.1
+lazio,femmine,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,molto_d_accordo,6.5
+lazio,femmine,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,abbastanza_d_accordo,14.9
+lazio,femmine,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,poco_d_accordo,20.2
+lazio,femmine,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,per_niente_d_accordo,58.4
+lazio,femmine,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,non_risponde,0.0
+lazio,femmine,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,molto_d_accordo,1.7
+lazio,femmine,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,abbastanza_d_accordo,3.5
+lazio,femmine,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,poco_d_accordo,10.7
+lazio,femmine,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,per_niente_d_accordo,84.1
+lazio,femmine,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,non_risponde,0.0
+lazio,femmine,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,molto_d_accordo,9.5
+lazio,femmine,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,abbastanza_d_accordo,21.7
+lazio,femmine,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,poco_d_accordo,22.1
+lazio,femmine,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,per_niente_d_accordo,46.5
+lazio,femmine,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,non_risponde,0.2
+lazio,femmine,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",molto_d_accordo,9.4
+lazio,femmine,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",abbastanza_d_accordo,23.9
+lazio,femmine,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",poco_d_accordo,19.9
+lazio,femmine,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",per_niente_d_accordo,46.4
+lazio,femmine,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",non_risponde,0.4
+sud,maschi,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",molto_d_accordo,9.3
+sud,maschi,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",abbastanza_d_accordo,16.1
+sud,maschi,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",poco_d_accordo,14.9
+sud,maschi,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",per_niente_d_accordo,59.1
+sud,maschi,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",non_risponde,0.6
+sud,maschi,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,molto_d_accordo,19.2
+sud,maschi,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,abbastanza_d_accordo,24.1
+sud,maschi,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,poco_d_accordo,16.6
+sud,maschi,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,per_niente_d_accordo,39.7
+sud,maschi,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,non_risponde,0.4
+sud,maschi,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,molto_d_accordo,9.6
+sud,maschi,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,abbastanza_d_accordo,9.1
+sud,maschi,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,poco_d_accordo,14.6
+sud,maschi,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,per_niente_d_accordo,66.1
+sud,maschi,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,non_risponde,0.6
+sud,maschi,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,molto_d_accordo,12.5
+sud,maschi,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,abbastanza_d_accordo,22.3
+sud,maschi,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,poco_d_accordo,21.5
+sud,maschi,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,per_niente_d_accordo,42.8
+sud,maschi,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,non_risponde,0.8
+sud,maschi,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",molto_d_accordo,14.7
+sud,maschi,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",abbastanza_d_accordo,22.9
+sud,maschi,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",poco_d_accordo,15.1
+sud,maschi,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",per_niente_d_accordo,46.3
+sud,maschi,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",non_risponde,1.0
+sud,femmine,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",molto_d_accordo,8.2
+sud,femmine,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",abbastanza_d_accordo,17.7
+sud,femmine,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",poco_d_accordo,15.7
+sud,femmine,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",per_niente_d_accordo,57.1
+sud,femmine,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",non_risponde,1.3
+sud,femmine,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,molto_d_accordo,12.7
+sud,femmine,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,abbastanza_d_accordo,22.5
+sud,femmine,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,poco_d_accordo,17.8
+sud,femmine,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,per_niente_d_accordo,46.1
+sud,femmine,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,non_risponde,0.9
+sud,femmine,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,molto_d_accordo,5.7
+sud,femmine,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,abbastanza_d_accordo,7.8
+sud,femmine,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,poco_d_accordo,11.4
+sud,femmine,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,per_niente_d_accordo,74.3
+sud,femmine,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,non_risponde,0.8
+sud,femmine,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,molto_d_accordo,15.2
+sud,femmine,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,abbastanza_d_accordo,25.3
+sud,femmine,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,poco_d_accordo,20.7
+sud,femmine,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,per_niente_d_accordo,38.0
+sud,femmine,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,non_risponde,0.9
+sud,femmine,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",molto_d_accordo,14.7
+sud,femmine,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",abbastanza_d_accordo,24.3
+sud,femmine,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",poco_d_accordo,12.6
+sud,femmine,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",per_niente_d_accordo,47.0
+sud,femmine,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",non_risponde,1.4
+abruzzo,maschi,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",molto_d_accordo,3.5
+abruzzo,maschi,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",abbastanza_d_accordo,18.4
+abruzzo,maschi,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",poco_d_accordo,13.2
+abruzzo,maschi,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",per_niente_d_accordo,64.6
+abruzzo,maschi,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",non_risponde,0.3
+abruzzo,maschi,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,molto_d_accordo,11.8
+abruzzo,maschi,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,abbastanza_d_accordo,32.4
+abruzzo,maschi,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,poco_d_accordo,25.0
+abruzzo,maschi,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,per_niente_d_accordo,30.5
+abruzzo,maschi,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,non_risponde,0.3
+abruzzo,maschi,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,molto_d_accordo,7.9
+abruzzo,maschi,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,abbastanza_d_accordo,4.8
+abruzzo,maschi,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,poco_d_accordo,15.3
+abruzzo,maschi,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,per_niente_d_accordo,71.7
+abruzzo,maschi,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,non_risponde,0.3
+abruzzo,maschi,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,molto_d_accordo,12.2
+abruzzo,maschi,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,abbastanza_d_accordo,22.3
+abruzzo,maschi,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,poco_d_accordo,19.8
+abruzzo,maschi,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,per_niente_d_accordo,45.0
+abruzzo,maschi,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,non_risponde,0.6
+abruzzo,maschi,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",molto_d_accordo,13.0
+abruzzo,maschi,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",abbastanza_d_accordo,12.9
+abruzzo,maschi,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",poco_d_accordo,15.0
+abruzzo,maschi,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",per_niente_d_accordo,56.6
+abruzzo,maschi,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",non_risponde,2.6
+abruzzo,femmine,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",molto_d_accordo,4.9
+abruzzo,femmine,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",abbastanza_d_accordo,12.5
+abruzzo,femmine,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",poco_d_accordo,21.0
+abruzzo,femmine,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",per_niente_d_accordo,60.5
+abruzzo,femmine,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",non_risponde,1.2
+abruzzo,femmine,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,molto_d_accordo,12.3
+abruzzo,femmine,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,abbastanza_d_accordo,20.5
+abruzzo,femmine,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,poco_d_accordo,26.4
+abruzzo,femmine,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,per_niente_d_accordo,40.9
+abruzzo,femmine,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,non_risponde,0.0
+abruzzo,femmine,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,molto_d_accordo,7.0
+abruzzo,femmine,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,abbastanza_d_accordo,4.6
+abruzzo,femmine,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,poco_d_accordo,15.1
+abruzzo,femmine,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,per_niente_d_accordo,73.3
+abruzzo,femmine,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,non_risponde,0.0
+abruzzo,femmine,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,molto_d_accordo,12.5
+abruzzo,femmine,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,abbastanza_d_accordo,22.9
+abruzzo,femmine,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,poco_d_accordo,22.6
+abruzzo,femmine,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,per_niente_d_accordo,42.0
+abruzzo,femmine,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,non_risponde,0.0
+abruzzo,femmine,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",molto_d_accordo,7.7
+abruzzo,femmine,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",abbastanza_d_accordo,23.5
+abruzzo,femmine,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",poco_d_accordo,21.2
+abruzzo,femmine,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",per_niente_d_accordo,45.0
+abruzzo,femmine,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",non_risponde,2.6
+molise,maschi,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",molto_d_accordo,2.6
+molise,maschi,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",abbastanza_d_accordo,9.4
+molise,maschi,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",poco_d_accordo,25.0
+molise,maschi,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",per_niente_d_accordo,61.3
+molise,maschi,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",non_risponde,1.8
+molise,maschi,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,molto_d_accordo,8.7
+molise,maschi,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,abbastanza_d_accordo,34.8
+molise,maschi,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,poco_d_accordo,15.3
+molise,maschi,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,per_niente_d_accordo,38.4
+molise,maschi,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,non_risponde,2.7
+molise,maschi,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,molto_d_accordo,1.8
+molise,maschi,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,abbastanza_d_accordo,10.1
+molise,maschi,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,poco_d_accordo,17.5
+molise,maschi,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,per_niente_d_accordo,67.9
+molise,maschi,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,non_risponde,2.7
+molise,maschi,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,molto_d_accordo,4.9
+molise,maschi,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,abbastanza_d_accordo,31.4
+molise,maschi,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,poco_d_accordo,22.8
+molise,maschi,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,per_niente_d_accordo,39.1
+molise,maschi,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,non_risponde,1.8
+molise,maschi,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",molto_d_accordo,5.2
+molise,maschi,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",abbastanza_d_accordo,31.6
+molise,maschi,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",poco_d_accordo,15.8
+molise,maschi,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",per_niente_d_accordo,43.7
+molise,maschi,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",non_risponde,3.7
+molise,femmine,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",molto_d_accordo,7.6
+molise,femmine,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",abbastanza_d_accordo,13.1
+molise,femmine,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",poco_d_accordo,18.6
+molise,femmine,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",per_niente_d_accordo,56.9
+molise,femmine,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",non_risponde,3.8
+molise,femmine,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,molto_d_accordo,10.6
+molise,femmine,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,abbastanza_d_accordo,19.0
+molise,femmine,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,poco_d_accordo,17.0
+molise,femmine,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,per_niente_d_accordo,51.2
+molise,femmine,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,non_risponde,2.3
+molise,femmine,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,molto_d_accordo,7.1
+molise,femmine,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,abbastanza_d_accordo,5.5
+molise,femmine,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,poco_d_accordo,8.1
+molise,femmine,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,per_niente_d_accordo,77.0
+molise,femmine,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,non_risponde,2.3
+molise,femmine,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,molto_d_accordo,14.4
+molise,femmine,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,abbastanza_d_accordo,28.1
+molise,femmine,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,poco_d_accordo,19.9
+molise,femmine,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,per_niente_d_accordo,34.3
+molise,femmine,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,non_risponde,3.4
+molise,femmine,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",molto_d_accordo,15.2
+molise,femmine,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",abbastanza_d_accordo,14.5
+molise,femmine,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",poco_d_accordo,15.1
+molise,femmine,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",per_niente_d_accordo,52.9
+molise,femmine,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",non_risponde,2.3
+campania,maschi,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",molto_d_accordo,10.0
+campania,maschi,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",abbastanza_d_accordo,15.6
+campania,maschi,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",poco_d_accordo,14.2
+campania,maschi,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",per_niente_d_accordo,59.6
+campania,maschi,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",non_risponde,0.6
+campania,maschi,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,molto_d_accordo,22.4
+campania,maschi,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,abbastanza_d_accordo,21.3
+campania,maschi,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,poco_d_accordo,14.0
+campania,maschi,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,per_niente_d_accordo,41.7
+campania,maschi,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,non_risponde,0.6
+campania,maschi,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,molto_d_accordo,11.9
+campania,maschi,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,abbastanza_d_accordo,9.1
+campania,maschi,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,poco_d_accordo,13.7
+campania,maschi,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,per_niente_d_accordo,64.7
+campania,maschi,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,non_risponde,0.6
+campania,maschi,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,molto_d_accordo,13.2
+campania,maschi,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,abbastanza_d_accordo,24.3
+campania,maschi,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,poco_d_accordo,18.6
+campania,maschi,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,per_niente_d_accordo,43.4
+campania,maschi,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,non_risponde,0.6
+campania,maschi,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",molto_d_accordo,19.2
+campania,maschi,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",abbastanza_d_accordo,21.4
+campania,maschi,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",poco_d_accordo,17.8
+campania,maschi,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",per_niente_d_accordo,40.8
+campania,maschi,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",non_risponde,0.8
+campania,femmine,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",molto_d_accordo,10.4
+campania,femmine,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",abbastanza_d_accordo,20.7
+campania,femmine,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",poco_d_accordo,13.4
+campania,femmine,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",per_niente_d_accordo,54.5
+campania,femmine,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",non_risponde,1.0
+campania,femmine,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,molto_d_accordo,15.8
+campania,femmine,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,abbastanza_d_accordo,24.6
+campania,femmine,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,poco_d_accordo,16.7
+campania,femmine,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,per_niente_d_accordo,41.8
+campania,femmine,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,non_risponde,1.1
+campania,femmine,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,molto_d_accordo,8.0
+campania,femmine,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,abbastanza_d_accordo,10.8
+campania,femmine,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,poco_d_accordo,12.5
+campania,femmine,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,per_niente_d_accordo,67.7
+campania,femmine,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,non_risponde,0.9
+campania,femmine,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,molto_d_accordo,19.9
+campania,femmine,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,abbastanza_d_accordo,23.9
+campania,femmine,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,poco_d_accordo,21.5
+campania,femmine,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,per_niente_d_accordo,33.9
+campania,femmine,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,non_risponde,0.9
+campania,femmine,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",molto_d_accordo,18.8
+campania,femmine,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",abbastanza_d_accordo,28.8
+campania,femmine,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",poco_d_accordo,7.8
+campania,femmine,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",per_niente_d_accordo,43.2
+campania,femmine,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",non_risponde,1.4
+puglia,maschi,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",molto_d_accordo,10.6
+puglia,maschi,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",abbastanza_d_accordo,18.0
+puglia,maschi,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",poco_d_accordo,15.0
+puglia,maschi,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",per_niente_d_accordo,55.7
+puglia,maschi,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",non_risponde,0.6
+puglia,maschi,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,molto_d_accordo,18.7
+puglia,maschi,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,abbastanza_d_accordo,25.0
+puglia,maschi,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,poco_d_accordo,17.8
+puglia,maschi,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,per_niente_d_accordo,38.2
+puglia,maschi,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,non_risponde,0.2
+puglia,maschi,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,molto_d_accordo,7.5
+puglia,maschi,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,abbastanza_d_accordo,9.1
+puglia,maschi,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,poco_d_accordo,17.8
+puglia,maschi,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,per_niente_d_accordo,64.9
+puglia,maschi,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,non_risponde,0.7
+puglia,maschi,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,molto_d_accordo,12.3
+puglia,maschi,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,abbastanza_d_accordo,18.9
+puglia,maschi,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,poco_d_accordo,25.2
+puglia,maschi,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,per_niente_d_accordo,42.1
+puglia,maschi,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,non_risponde,1.5
+puglia,maschi,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",molto_d_accordo,13.4
+puglia,maschi,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",abbastanza_d_accordo,24.5
+puglia,maschi,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",poco_d_accordo,11.0
+puglia,maschi,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",per_niente_d_accordo,50.0
+puglia,maschi,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",non_risponde,1.1
+puglia,femmine,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",molto_d_accordo,6.9
+puglia,femmine,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",abbastanza_d_accordo,16.4
+puglia,femmine,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",poco_d_accordo,16.7
+puglia,femmine,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",per_niente_d_accordo,58.7
+puglia,femmine,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",non_risponde,1.3
+puglia,femmine,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,molto_d_accordo,10.7
+puglia,femmine,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,abbastanza_d_accordo,20.6
+puglia,femmine,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,poco_d_accordo,17.3
+puglia,femmine,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,per_niente_d_accordo,50.6
+puglia,femmine,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,non_risponde,0.8
+puglia,femmine,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,molto_d_accordo,2.4
+puglia,femmine,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,abbastanza_d_accordo,4.3
+puglia,femmine,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,poco_d_accordo,12.1
+puglia,femmine,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,per_niente_d_accordo,80.6
+puglia,femmine,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,non_risponde,0.6
+puglia,femmine,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,molto_d_accordo,9.7
+puglia,femmine,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,abbastanza_d_accordo,26.0
+puglia,femmine,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,poco_d_accordo,21.3
+puglia,femmine,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,per_niente_d_accordo,42.4
+puglia,femmine,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,non_risponde,0.6
+puglia,femmine,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",molto_d_accordo,13.8
+puglia,femmine,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",abbastanza_d_accordo,20.5
+puglia,femmine,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",poco_d_accordo,15.6
+puglia,femmine,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",per_niente_d_accordo,49.5
+puglia,femmine,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",non_risponde,0.7
+basilicata,maschi,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",molto_d_accordo,6.5
+basilicata,maschi,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",abbastanza_d_accordo,21.5
+basilicata,maschi,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",poco_d_accordo,14.9
+basilicata,maschi,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",per_niente_d_accordo,56.2
+basilicata,maschi,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",non_risponde,0.9
+basilicata,maschi,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,molto_d_accordo,21.8
+basilicata,maschi,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,abbastanza_d_accordo,20.4
+basilicata,maschi,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,poco_d_accordo,11.8
+basilicata,maschi,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,per_niente_d_accordo,46.0
+basilicata,maschi,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,non_risponde,0.0
+basilicata,maschi,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,molto_d_accordo,9.6
+basilicata,maschi,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,abbastanza_d_accordo,10.1
+basilicata,maschi,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,poco_d_accordo,14.2
+basilicata,maschi,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,per_niente_d_accordo,64.9
+basilicata,maschi,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,non_risponde,1.1
+basilicata,maschi,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,molto_d_accordo,13.2
+basilicata,maschi,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,abbastanza_d_accordo,22.9
+basilicata,maschi,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,poco_d_accordo,26.7
+basilicata,maschi,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,per_niente_d_accordo,36.9
+basilicata,maschi,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,non_risponde,0.3
+basilicata,maschi,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",molto_d_accordo,8.0
+basilicata,maschi,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",abbastanza_d_accordo,27.3
+basilicata,maschi,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",poco_d_accordo,19.8
+basilicata,maschi,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",per_niente_d_accordo,44.6
+basilicata,maschi,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",non_risponde,0.2
+basilicata,femmine,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",molto_d_accordo,6.6
+basilicata,femmine,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",abbastanza_d_accordo,16.7
+basilicata,femmine,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",poco_d_accordo,11.5
+basilicata,femmine,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",per_niente_d_accordo,62.1
+basilicata,femmine,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",non_risponde,3.1
+basilicata,femmine,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,molto_d_accordo,8.7
+basilicata,femmine,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,abbastanza_d_accordo,25.3
+basilicata,femmine,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,poco_d_accordo,11.7
+basilicata,femmine,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,per_niente_d_accordo,51.5
+basilicata,femmine,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,non_risponde,2.8
+basilicata,femmine,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,molto_d_accordo,5.0
+basilicata,femmine,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,abbastanza_d_accordo,5.3
+basilicata,femmine,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,poco_d_accordo,11.4
+basilicata,femmine,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,per_niente_d_accordo,76.2
+basilicata,femmine,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,non_risponde,2.2
+basilicata,femmine,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,molto_d_accordo,15.3
+basilicata,femmine,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,abbastanza_d_accordo,26.5
+basilicata,femmine,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,poco_d_accordo,21.2
+basilicata,femmine,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,per_niente_d_accordo,33.9
+basilicata,femmine,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,non_risponde,3.1
+basilicata,femmine,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",molto_d_accordo,10.7
+basilicata,femmine,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",abbastanza_d_accordo,24.9
+basilicata,femmine,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",poco_d_accordo,8.8
+basilicata,femmine,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",per_niente_d_accordo,52.6
+basilicata,femmine,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",non_risponde,3.0
+calabria,maschi,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",molto_d_accordo,10.5
+calabria,maschi,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",abbastanza_d_accordo,11.9
+calabria,maschi,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",poco_d_accordo,16.4
+calabria,maschi,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",per_niente_d_accordo,61.1
+calabria,maschi,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",non_risponde,0.0
+calabria,maschi,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,molto_d_accordo,16.3
+calabria,maschi,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,abbastanza_d_accordo,24.7
+calabria,maschi,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,poco_d_accordo,17.8
+calabria,maschi,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,per_niente_d_accordo,41.1
+calabria,maschi,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,non_risponde,0.0
+calabria,maschi,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,molto_d_accordo,9.8
+calabria,maschi,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,abbastanza_d_accordo,11.4
+calabria,maschi,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,poco_d_accordo,9.7
+calabria,maschi,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,per_niente_d_accordo,69.1
+calabria,maschi,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,non_risponde,0.0
+calabria,maschi,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,molto_d_accordo,12.0
+calabria,maschi,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,abbastanza_d_accordo,21.9
+calabria,maschi,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,poco_d_accordo,22.3
+calabria,maschi,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,per_niente_d_accordo,43.7
+calabria,maschi,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,non_risponde,0.0
+calabria,maschi,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",molto_d_accordo,8.8
+calabria,maschi,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",abbastanza_d_accordo,28.0
+calabria,maschi,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",poco_d_accordo,14.2
+calabria,maschi,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",per_niente_d_accordo,48.9
+calabria,maschi,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",non_risponde,0.0
+calabria,femmine,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",molto_d_accordo,7.2
+calabria,femmine,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",abbastanza_d_accordo,15.6
+calabria,femmine,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",poco_d_accordo,17.9
+calabria,femmine,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",per_niente_d_accordo,57.7
+calabria,femmine,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",non_risponde,1.7
+calabria,femmine,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,molto_d_accordo,9.3
+calabria,femmine,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,abbastanza_d_accordo,21.0
+calabria,femmine,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,poco_d_accordo,17.9
+calabria,femmine,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,per_niente_d_accordo,51.0
+calabria,femmine,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,non_risponde,0.7
+calabria,femmine,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,molto_d_accordo,4.8
+calabria,femmine,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,abbastanza_d_accordo,9.0
+calabria,femmine,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,poco_d_accordo,4.5
+calabria,femmine,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,per_niente_d_accordo,80.7
+calabria,femmine,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,non_risponde,1.0
+calabria,femmine,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,molto_d_accordo,14.3
+calabria,femmine,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,abbastanza_d_accordo,28.7
+calabria,femmine,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,poco_d_accordo,15.6
+calabria,femmine,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,per_niente_d_accordo,40.4
+calabria,femmine,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,non_risponde,1.0
+calabria,femmine,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",molto_d_accordo,10.3
+calabria,femmine,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",abbastanza_d_accordo,20.1
+calabria,femmine,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",poco_d_accordo,15.8
+calabria,femmine,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",per_niente_d_accordo,52.3
+calabria,femmine,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",non_risponde,1.5
+isole,maschi,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",molto_d_accordo,8.2
+isole,maschi,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",abbastanza_d_accordo,12.3
+isole,maschi,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",poco_d_accordo,13.8
+isole,maschi,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",per_niente_d_accordo,64.3
+isole,maschi,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",non_risponde,1.4
+isole,maschi,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,molto_d_accordo,15.4
+isole,maschi,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,abbastanza_d_accordo,22.0
+isole,maschi,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,poco_d_accordo,16.1
+isole,maschi,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,per_niente_d_accordo,45.6
+isole,maschi,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,non_risponde,0.9
+isole,maschi,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,molto_d_accordo,4.6
+isole,maschi,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,abbastanza_d_accordo,6.5
+isole,maschi,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,poco_d_accordo,13.7
+isole,maschi,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,per_niente_d_accordo,74.6
+isole,maschi,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,non_risponde,0.6
+isole,maschi,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,molto_d_accordo,11.6
+isole,maschi,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,abbastanza_d_accordo,16.6
+isole,maschi,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,poco_d_accordo,29.8
+isole,maschi,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,per_niente_d_accordo,41.5
+isole,maschi,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,non_risponde,0.6
+isole,maschi,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",molto_d_accordo,13.2
+isole,maschi,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",abbastanza_d_accordo,18.9
+isole,maschi,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",poco_d_accordo,16.8
+isole,maschi,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",per_niente_d_accordo,49.3
+isole,maschi,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",non_risponde,1.7
+isole,femmine,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",molto_d_accordo,6.4
+isole,femmine,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",abbastanza_d_accordo,14.0
+isole,femmine,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",poco_d_accordo,13.1
+isole,femmine,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",per_niente_d_accordo,66.2
+isole,femmine,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",non_risponde,0.4
+isole,femmine,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,molto_d_accordo,10.9
+isole,femmine,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,abbastanza_d_accordo,19.5
+isole,femmine,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,poco_d_accordo,17.7
+isole,femmine,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,per_niente_d_accordo,51.4
+isole,femmine,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,non_risponde,0.5
+isole,femmine,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,molto_d_accordo,3.8
+isole,femmine,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,abbastanza_d_accordo,5.2
+isole,femmine,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,poco_d_accordo,11.5
+isole,femmine,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,per_niente_d_accordo,79.1
+isole,femmine,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,non_risponde,0.4
+isole,femmine,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,molto_d_accordo,15.2
+isole,femmine,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,abbastanza_d_accordo,20.6
+isole,femmine,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,poco_d_accordo,20.6
+isole,femmine,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,per_niente_d_accordo,43.0
+isole,femmine,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,non_risponde,0.5
+isole,femmine,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",molto_d_accordo,13.3
+isole,femmine,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",abbastanza_d_accordo,27.0
+isole,femmine,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",poco_d_accordo,12.1
+isole,femmine,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",per_niente_d_accordo,46.1
+isole,femmine,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",non_risponde,1.4
+sicilia,maschi,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",molto_d_accordo,8.9
+sicilia,maschi,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",abbastanza_d_accordo,14.5
+sicilia,maschi,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",poco_d_accordo,14.2
+sicilia,maschi,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",per_niente_d_accordo,61.3
+sicilia,maschi,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",non_risponde,1.1
+sicilia,maschi,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,molto_d_accordo,16.7
+sicilia,maschi,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,abbastanza_d_accordo,25.2
+sicilia,maschi,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,poco_d_accordo,16.6
+sicilia,maschi,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,per_niente_d_accordo,40.7
+sicilia,maschi,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,non_risponde,0.8
+sicilia,maschi,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,molto_d_accordo,5.4
+sicilia,maschi,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,abbastanza_d_accordo,6.9
+sicilia,maschi,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,poco_d_accordo,15.3
+sicilia,maschi,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,per_niente_d_accordo,71.9
+sicilia,maschi,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,non_risponde,0.5
+sicilia,maschi,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,molto_d_accordo,13.8
+sicilia,maschi,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,abbastanza_d_accordo,18.0
+sicilia,maschi,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,poco_d_accordo,28.3
+sicilia,maschi,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,per_niente_d_accordo,39.4
+sicilia,maschi,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,non_risponde,0.5
+sicilia,maschi,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",molto_d_accordo,14.8
+sicilia,maschi,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",abbastanza_d_accordo,19.2
+sicilia,maschi,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",poco_d_accordo,18.2
+sicilia,maschi,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",per_niente_d_accordo,46.0
+sicilia,maschi,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",non_risponde,1.8
+sicilia,femmine,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",molto_d_accordo,7.5
+sicilia,femmine,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",abbastanza_d_accordo,15.7
+sicilia,femmine,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",poco_d_accordo,14.3
+sicilia,femmine,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",per_niente_d_accordo,62.4
+sicilia,femmine,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",non_risponde,0.1
+sicilia,femmine,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,molto_d_accordo,12.4
+sicilia,femmine,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,abbastanza_d_accordo,22.3
+sicilia,femmine,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,poco_d_accordo,18.5
+sicilia,femmine,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,per_niente_d_accordo,46.5
+sicilia,femmine,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,non_risponde,0.3
+sicilia,femmine,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,molto_d_accordo,4.8
+sicilia,femmine,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,abbastanza_d_accordo,6.7
+sicilia,femmine,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,poco_d_accordo,13.8
+sicilia,femmine,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,per_niente_d_accordo,74.2
+sicilia,femmine,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,non_risponde,0.4
+sicilia,femmine,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,molto_d_accordo,17.8
+sicilia,femmine,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,abbastanza_d_accordo,22.9
+sicilia,femmine,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,poco_d_accordo,22.2
+sicilia,femmine,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,per_niente_d_accordo,36.6
+sicilia,femmine,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,non_risponde,0.5
+sicilia,femmine,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",molto_d_accordo,14.0
+sicilia,femmine,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",abbastanza_d_accordo,27.7
+sicilia,femmine,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",poco_d_accordo,13.6
+sicilia,femmine,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",per_niente_d_accordo,43.1
+sicilia,femmine,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",non_risponde,1.6
+sardegna,maschi,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",molto_d_accordo,6.3
+sardegna,maschi,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",abbastanza_d_accordo,5.8
+sardegna,maschi,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",poco_d_accordo,12.7
+sardegna,maschi,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",per_niente_d_accordo,73.0
+sardegna,maschi,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",non_risponde,2.2
+sardegna,maschi,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,molto_d_accordo,11.5
+sardegna,maschi,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,abbastanza_d_accordo,12.9
+sardegna,maschi,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,poco_d_accordo,14.7
+sardegna,maschi,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,per_niente_d_accordo,59.8
+sardegna,maschi,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,non_risponde,1.0
+sardegna,maschi,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,molto_d_accordo,2.0
+sardegna,maschi,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,abbastanza_d_accordo,5.2
+sardegna,maschi,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,poco_d_accordo,9.2
+sardegna,maschi,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,per_niente_d_accordo,82.7
+sardegna,maschi,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,non_risponde,0.9
+sardegna,maschi,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,molto_d_accordo,5.2
+sardegna,maschi,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,abbastanza_d_accordo,12.3
+sardegna,maschi,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,poco_d_accordo,34.0
+sardegna,maschi,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,per_niente_d_accordo,47.6
+sardegna,maschi,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,non_risponde,0.9
+sardegna,maschi,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",molto_d_accordo,8.4
+sardegna,maschi,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",abbastanza_d_accordo,18.1
+sardegna,maschi,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",poco_d_accordo,12.7
+sardegna,maschi,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",per_niente_d_accordo,59.1
+sardegna,maschi,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",non_risponde,1.6
+sardegna,femmine,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",molto_d_accordo,3.1
+sardegna,femmine,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",abbastanza_d_accordo,8.6
+sardegna,femmine,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",poco_d_accordo,9.5
+sardegna,femmine,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",per_niente_d_accordo,77.6
+sardegna,femmine,"In condizioni di scarsità di lavoro, i datori di lavoro dovrebbero dare la precedenza agli uomini rispetto alle donne",non_risponde,1.1
+sardegna,femmine,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,molto_d_accordo,6.5
+sardegna,femmine,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,abbastanza_d_accordo,10.7
+sardegna,femmine,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,poco_d_accordo,15.4
+sardegna,femmine,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,per_niente_d_accordo,66.1
+sardegna,femmine,È soprattutto l'uomo che deve provvedere alle necessità economiche della famiglia,non_risponde,1.3
+sardegna,femmine,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,molto_d_accordo,0.6
+sardegna,femmine,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,abbastanza_d_accordo,0.7
+sardegna,femmine,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,poco_d_accordo,4.4
+sardegna,femmine,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,per_niente_d_accordo,94.0
+sardegna,femmine,È l'uomo che deve prendere le decisioni più importanti riguardanti la famiglia,non_risponde,0.3
+sardegna,femmine,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,molto_d_accordo,7.3
+sardegna,femmine,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,abbastanza_d_accordo,13.7
+sardegna,femmine,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,poco_d_accordo,16.0
+sardegna,femmine,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,per_niente_d_accordo,62.4
+sardegna,femmine,Gli uomini sono meno adatti ad occuparsi delle faccende domestiche,non_risponde,0.6
+sardegna,femmine,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",molto_d_accordo,11.1
+sardegna,femmine,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",abbastanza_d_accordo,25.1
+sardegna,femmine,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",poco_d_accordo,7.7
+sardegna,femmine,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",per_niente_d_accordo,55.3
+sardegna,femmine,"Per l’uomo, più che per la donna, è molto importante avere successo nel lavoro",non_risponde,0.8
