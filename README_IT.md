@@ -1,30 +1,35 @@
-# Portfolio Data Cleaning – Violenza di genere
+# Portfolio di Data Cleaning – Violenza di genere
 
-Questa repository documenta la fase di **pulizia e standardizzazione dei dati** di un progetto di analisi sul tema della **violenza di genere** in Italia.
+Questo repository documenta la fase di **pulizia e standardizzazione dei dati** di un progetto di analisi dedicato alla **violenza di genere** in Italia.
 
-I dataset utilizzati sono stati scaricati da **ISTAT** e preparati per le fasi successive del lavoro, in particolare **analisi SQL**, esplorazione dei dati e costruzione del portfolio.
+I dataset sono stati scaricati da **ISTAT** e preparati per le fasi successive del progetto, in particolare per **analisi SQL**, analisi esplorativa e sviluppo del portfolio.
 
 ## Obiettivo del progetto
 
-L’obiettivo di questa fase non è stato solo rendere i file utilizzabili, ma costruire una base dati **pulita, coerente e riproducibile** per l’analisi.
+L’obiettivo di questa fase è stato costruire un insieme di dati **pulito, coerente e riproducibile** per l’analisi.
 
-La pulizia è stata svolta con attenzione a:
+Il processo di pulizia si è concentrato su:
 
-- coerenza strutturale tra file diversi
-- standardizzazione di colonne, categorie e formati
-- rimozione di elementi non utili all’analisi
-- validazione finale degli output puliti
+- coerenza strutturale tra dataset  
+- standardizzazione di colonne, categorie e formati  
+- rimozione di elementi non utili all’analisi  
+- validazione finale degli output puliti  
 
 ## Ambito del lavoro
 
-La repository include attualmente la pulizia di:
+Il repository attualmente include la pulizia di:
 
 - **18 file CSV**
-- **1 file XLSX aggiuntivo**, gestito separatamente in **Google Fogli** per la sua dimensione ridotta e poi preparato per l’esportazione in CSV
+- **1 file XLSX**, gestito separatamente in **Google Sheets** per le sue dimensioni ridotte
 
-Questa fase rappresenta la base del progetto; l’analisi vera e propria verrà sviluppata successivamente.
+Dal file XLSX sono stati poi estratti e preparati **3 file CSV distinti**, corrispondenti a tre tavole diverse relative alle **Case rifugio**.
+
+Questa fase rappresenta la base del progetto. La fase analitica sarà sviluppata nello step successivo.
 
 ## Dataset puliti
+
+La cartella `data_clean` contiene i dataset puliti utilizzati per l’analisi e la visualizzazione.  
+Attualmente il progetto include i seguenti file:
 
 ### 1522
 - `1522_modalità_conoscenza.csv`
@@ -33,24 +38,34 @@ Questa fase rappresenta la base del progetto; l’analisi vera e propria verrà 
 - `1522_tipologia_utenti.csv`
 
 ### Opinioni
-- `Opinioni_ruoli_tradizionali_età.csv`
-- `Opinioni_ruoli_tradizionali_reg.csv`
-- `Opinioni_ruoli_tradizionali_titolo_studio.csv`
-- `Opinioni_violenza_sessuale_età.csv`
-- `Opinioni_violenza_sessuale_reg.csv`
-- `Opinioni_violenza_sessuale_titolo_studio.csv`
+- `opinioni_ruoli_tradizionali_clean.csv`
+
+### Case rifugio
+- `case_rifugio_2023_motivo_uscita_clean.csv`
+- `case_rifugio_2023_posti_letto_clean.csv`
+- `case_rifugio_2023_quantita_donne_accolte_clean.csv`
 
 ### Altri dataset
-- `Orientamento_sessuale.csv`
+- `orientamento_sessuale.xlsx`
 - `popolazione_regione.csv`
 
 ### Vittime
-- `vittime.disabilità.csv`
-- `vittime.età.csv`
-- `vittime.motivo_chiamata.csv`
-- `vittime.stato_civile.csv`
-- `vittime.stato_denuncia.csv`
-- `vittime.tipo_violenza.csv`
+- `vittime_reato_regione_eta_clean.csv`
+- `vittime_reato_regione_titolo_studio_clean.csv`
+- `vittime_reato_regione_stato_civile_clean.csv`
+- `vittime_reato_regione_cittadinanza_clean.csv`
+- `vittime_tipo_autore_reato_clean.csv`
+- `vittime_tipo_violenza_clean.csv`
+- `vittime_rivolte_istituzioni.csv`
+- `vittime_rivolte_centri.csv`
+- `vittime_denunce.csv`
+- `vittime_notte_luogo_pubblico_clean.csv`
+- `vittime_notte_mezzo_pubblico_clean.csv`
+- `vittime_contesto_familiare_clean.csv`
+- `vittime_partner_ex_partner_clean.csv`
+- `vittime_partner_ex_partner_motivo_non_denuncia_clean.csv`
+- `vittime_preoccupazione_violenza_clean.csv`
+- `vittime_preoccupazione_reati.csv`
 
 ## Strumenti utilizzati
 
@@ -58,13 +73,13 @@ Questa fase rappresenta la base del progetto; l’analisi vera e propria verrà 
 - **pandas**
 - **Jupyter Notebook**
 - **Visual Studio Code**
-- **Google Fogli** per il file XLSX con poche righe
+- **Google Sheets** per il file XLSX di piccole dimensioni
 
 ## Workflow di pulizia
 
-La pulizia è stata realizzata tramite notebook Python dedicati, applicando una metodologia coerente tra i diversi file.
+Il processo di pulizia è stato implementato attraverso notebook Python dedicati, applicando una metodologia coerente ai diversi dataset.
 
-Le principali operazioni svolte sono state:
+Le principali operazioni hanno incluso:
 
 1. **Ispezione iniziale dei dati**
    - controllo delle colonne
@@ -78,45 +93,47 @@ Le principali operazioni svolte sono state:
 
 3. **Pulizia delle righe**
    - rimozione di righe completamente vuote
-   - esclusione di voci non analitiche, dove necessario
+   - esclusione di categorie non analitiche dove necessario
    - gestione di categorie aggregate quando non utili all’analisi
 
 4. **Standardizzazione dei valori**
    - normalizzazione delle stringhe
-   - rimozione di spazi superflui
+   - rimozione di spazi inutili
    - uniformazione del testo
-   - standardizzazione dei nomi territoriali dove necessario
+   - standardizzazione delle etichette territoriali dove necessario
 
 5. **Normalizzazione dei tipi**
-   - conversione dei campi numerici nei tipi corretti
-   - controllo di coerenza su anno, conteggi e percentuali
+   - conversione dei campi numerici nel tipo corretto
+   - controlli di coerenza su conteggi, percentuali e variabili categoriali
 
 6. **Validazione finale**
    - controllo dei valori mancanti
    - controllo dei duplicati
-   - verifica della coerenza strutturale dei file
-   - esportazione finale in CSV
+   - verifica della coerenza strutturale
+   - esportazione finale in formato CSV
 
 ## Output finale
 
-Il risultato di questa fase è un insieme di file puliti progettati per essere:
+Il risultato di questa fase è un insieme di dataset puliti progettati per essere:
 
-- più facili da interrogare
-- più coerenti tra loro
-- adatti ad analisi successive
-- riproducibili a partire dai notebook
+- più facili da interrogare  
+- più coerenti tra file  
+- adatti ad analisi successive  
+- riproducibili a partire dai notebook  
 
 ## Riproducibilità
 
-I file CSV puliti sono stati ottenuti rieseguendo i notebook da zero e salvando gli output finali dopo i controlli conclusivi.
+I file CSV puliti sono stati ottenuti rieseguendo i notebook da zero ed esportando gli output finali dopo i controlli di validazione.
+
+Nel caso del file XLSX, la preparazione iniziale è stata svolta in **Google Sheets**, da cui sono stati ricavati i tre CSV poi puliti nei notebook.
 
 Questo rende il processo di pulizia:
 
-- trasparente
-- tracciabile
-- riproducibile
+- trasparente  
+- tracciabile  
+- riproducibile  
 
 ## Fase successiva
 
-Questa repository copre la fase di **data cleaning**.  
-La fase successiva del progetto sarà dedicata all’**analisi SQL** e all’esplorazione dei pattern presenti nei dati sulla violenza di genere.
+Questo repository copre la fase di **data cleaning**.  
+La fase successiva del progetto sarà dedicata all’**analisi SQL** e all’esplorazione di pattern legati alla violenza di genere.

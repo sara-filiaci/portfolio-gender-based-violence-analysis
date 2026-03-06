@@ -6,11 +6,11 @@ The datasets were downloaded from **ISTAT** and prepared for the subsequent stag
 
 ## Project Objective
 
-The objective of this phase was not only to make the files usable, but to build a **clean, consistent, and reproducible dataset** for analysis.
+The objective of this phase was to build a **clean, consistent, and reproducible dataset** for analysis.
 
 The cleaning process focused on:
 
-- structural consistency across different datasets  
+- structural consistency across datasets  
 - standardization of columns, categories, and formats  
 - removal of elements not useful for analysis  
 - final validation of cleaned outputs  
@@ -20,11 +20,16 @@ The cleaning process focused on:
 The repository currently includes the cleaning of:
 
 - **18 CSV files**
-- **1 additional XLSX file**, handled separately in **Google Sheets** due to its small size and then prepared for export as CSV
+- **1 XLSX file**, handled separately in **Google Sheets** due to its small size
 
-This phase represents the foundation of the project; the actual analysis will be developed in the next stage.
+From the XLSX file, **3 separate CSV files** were then extracted and prepared, corresponding to three different tables related to **shelter houses**.
+
+This phase represents the foundation of the project. The analytical phase will be developed in the next stage.
 
 ## Cleaned Datasets
+
+The `data_clean` folder contains the cleaned datasets used for analysis and visualization.  
+At this stage, the project includes the following files:
 
 ### 1522
 - `1522_modalità_conoscenza.csv`
@@ -33,24 +38,34 @@ This phase represents the foundation of the project; the actual analysis will be
 - `1522_tipologia_utenti.csv`
 
 ### Opinions
-- `Opinioni_ruoli_tradizionali_età.csv`
-- `Opinioni_ruoli_tradizionali_reg.csv`
-- `Opinioni_ruoli_tradizionali_titolo_studio.csv`
-- `Opinioni_violenza_sessuale_età.csv`
-- `Opinioni_violenza_sessuale_reg.csv`
-- `Opinioni_violenza_sessuale_titolo_studio.csv`
+- `opinioni_ruoli_tradizionali_clean.csv`
+
+### Shelter houses
+- `case_rifugio_2023_motivo_uscita_clean.csv`
+- `case_rifugio_2023_posti_letto_clean.csv`
+- `case_rifugio_2023_quantita_donne_accolte_clean.csv`
 
 ### Other datasets
-- `Orientamento_sessuale.csv`
+- `orientamento_sessuale.xlsx`
 - `popolazione_regione.csv`
 
 ### Victims
-- `vittime.disabilità.csv`
-- `vittime.età.csv`
-- `vittime.motivo_chiamata.csv`
-- `vittime.stato_civile.csv`
-- `vittime.stato_denuncia.csv`
-- `vittime.tipo_violenza.csv`
+- `vittime_reato_regione_eta_clean.csv`
+- `vittime_reato_regione_titolo_studio_clean.csv`
+- `vittime_reato_regione_stato_civile_clean.csv`
+- `vittime_reato_regione_cittadinanza_clean.csv`
+- `vittime_tipo_autore_reato_clean.csv`
+- `vittime_tipo_violenza_clean.csv`
+- `vittime_rivolte_istituzioni.csv`
+- `vittime_rivolte_centri.csv`
+- `vittime_denunce.csv`
+- `vittime_notte_luogo_pubblico_clean.csv`
+- `vittime_notte_mezzo_pubblico_clean.csv`
+- `vittime_contesto_familiare_clean.csv`
+- `vittime_partner_ex_partner_clean.csv`
+- `vittime_partner_ex_partner_motivo_non_denuncia_clean.csv`
+- `vittime_preoccupazione_violenza_clean.csv`
+- `vittime_preoccupazione_reati.csv`
 
 ## Tools Used
 
@@ -88,8 +103,8 @@ The main operations included:
    - territorial label standardization where necessary
 
 5. **Type normalization**
-   - conversion of numeric fields to appropriate types
-   - consistency checks on year, counts, and percentages
+   - conversion of numeric fields to the correct type
+   - consistency checks on counts, percentages, and categorical variables
 
 6. **Final validation**
    - missing value checks
@@ -108,7 +123,9 @@ The result of this phase is a set of cleaned datasets designed to be:
 
 ## Reproducibility
 
-The cleaned CSV files were obtained by re-running the notebooks from scratch and exporting the final outputs after the final validation checks.
+The cleaned CSV files were obtained by re-running the notebooks from scratch and exporting the final outputs after the validation checks.
+
+In the case of the XLSX file, the initial preparation was carried out in **Google Sheets**, from which the three CSV files were extracted and then cleaned in the notebooks.
 
 This makes the cleaning process:
 
