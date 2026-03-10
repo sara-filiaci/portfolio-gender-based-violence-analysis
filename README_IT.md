@@ -1,8 +1,8 @@
-# Portfolio di Data Cleaning – Violenza di genere
+# Violenza di genere in Italia – Pulizia dei dati e analisi SQL
 
-Questo repository documenta la fase di **pulizia e standardizzazione dei dati** di un progetto di analisi dedicato alla **violenza di genere** in Italia.
+Questo repository documenta la fase di **pulizia, standardizzazione e prima analisi SQL** di un progetto dedicato alla **violenza di genere** in Italia.
 
-I dataset sono stati scaricati da **ISTAT** e preparati per le fasi successive del progetto, in particolare per **analisi SQL**, analisi esplorativa e sviluppo del portfolio.
+I dataset sono stati scaricati da **ISTAT** e preparati per le successive fasi del progetto, in particolare per **analisi SQL**, analisi esplorativa e sviluppo del portfolio.
 
 ## Obiettivo del progetto
 
@@ -22,9 +22,9 @@ Il repository attualmente include la pulizia di:
 - **18 file CSV**
 - **1 file XLSX**, gestito separatamente in **Google Sheets** per le sue dimensioni ridotte
 
-Dal file XLSX sono stati poi estratti e preparati **3 file CSV distinti**, corrispondenti a tre tavole diverse relative alle **Case rifugio**.
+Dal file XLSX sono stati poi estratti e preparati **3 file CSV distinti**, corrispondenti a tre tavole diverse relative alle **case rifugio**.
 
-Questa fase rappresenta la base del progetto. La fase analitica sarà sviluppata nello step successivo.
+Questa fase rappresenta la base del progetto e include anche una prima esplorazione analitica in SQL.
 
 ## Dataset puliti
 
@@ -74,6 +74,7 @@ Attualmente il progetto include i seguenti file:
 - **Jupyter Notebook**
 - **Visual Studio Code**
 - **Google Sheets** per il file XLSX di piccole dimensioni
+- **SQLite** per la prima fase di analisi SQL
 
 ## Workflow di pulizia
 
@@ -133,7 +134,31 @@ Questo rende il processo di pulizia:
 - tracciabile  
 - riproducibile  
 
+## Analisi SQL
+
+Dopo la fase di pulizia, i dataset puliti sono stati importati in un database SQLite ed esplorati tramite query SQL.
+
+Il primo passaggio analitico si concentra sulla costruzione di un **profilo demografico delle vittime** a livello regionale.
+
+L’analisi SQL include:
+
+- numero totale di vittime per regione  
+- distribuzione delle vittime per sesso  
+- distribuzione delle tipologie di violenza  
+- distribuzione delle vittime per fascia d’età  
+- distribuzione delle vittime per stato civile  
+
+Le query sono disponibili in:
+
+`sql/victims_profile_analysis.sql`
+
+Questo script rappresenta una prima esplorazione del dataset e prepara la base per analisi successive, come confronti territoriali, pattern di violenza e analisi dei servizi di supporto.
+
 ## Fase successiva
 
-Questo repository copre la fase di **data cleaning**.  
-La fase successiva del progetto sarà dedicata all’**analisi SQL** e all’esplorazione di pattern legati alla violenza di genere.
+Dopo la prima esplorazione SQL del profilo delle vittime, la fase successiva del progetto sarà dedicata a domande analitiche più approfondite, tra cui:
+
+- confronto dei pattern di violenza tra regioni  
+- relazione tra numero di vittime e servizi di supporto disponibili  
+- analisi delle chiamate al 1522  
+- costruzione di indicatori regionali basati sulla popolazione

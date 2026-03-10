@@ -1,4 +1,4 @@
-# Data Cleaning Portfolio – Gender-Based Violence
+# Gender-Based Violence in Italy – Data Cleaning and SQL Analysis
 
 This repository documents the **data cleaning and standardization phase** of a data analysis project focused on **gender-based violence** in Italy.
 
@@ -133,7 +133,31 @@ This makes the cleaning process:
 - traceable  
 - reproducible  
 
+## SQL Analysis
+
+After the data cleaning phase, the cleaned datasets were imported into a SQLite database and explored through SQL queries.
+
+The first analytical step focuses on building a **demographic profile of victims** across Italian regions.
+
+The SQL analysis includes:
+
+- total victims by region  
+- victims by gender  
+- distribution of violence types  
+- victims by age group  
+- victims by marital status  
+
+The queries are available in:
+
+`sql/victims_profile_analysis.sql`
+
+This script provides an initial exploration of the data and prepares the ground for further analytical steps such as regional comparisons, violence patterns, and service-related analysis.
+
 ## Next Phase
 
-This repository covers the **data cleaning phase**.  
-The next stage of the project will focus on **SQL analysis** and the exploration of patterns related to gender-based violence.
+After the initial SQL exploration of the victims profile, the next stage of the project will focus on deeper analytical questions, including:
+
+- comparison of violence patterns across regions  
+- relationship between victims and available support services  
+- analysis of calls to the 1522 anti-violence hotline  
+- regional indicators based on population data
