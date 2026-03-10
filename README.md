@@ -141,17 +141,20 @@ The first analytical step focuses on building a **demographic profile of victims
 
 The SQL analysis includes:
 
-- total victims by region  
-- victims by gender  
-- distribution of violence types  
+- total victims by region, including percentage share of the national total  
+- victims by gender and region  
+- distribution of violence types across regions  
 - victims by age group  
 - victims by marital status  
+- distribution of violence types by gender  
 
 The queries are available in:
 
 `sql/victims_profile_analysis.sql`
 
-This script provides an initial exploration of the data and prepares the ground for further analytical steps such as regional comparisons, violence patterns, and service-related analysis.
+All queries include percentage calculations to facilitate comparison across regions and demographic categories.
+
+A methodological note is included in the SQL script to clarify the limitations of the available aggregated datasets.
 
 ## Next Phase
 

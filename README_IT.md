@@ -136,23 +136,26 @@ Questo rende il processo di pulizia:
 
 ## Analisi SQL
 
-Dopo la fase di pulizia, i dataset puliti sono stati importati in un database SQLite ed esplorati tramite query SQL.
+Dopo la fase di data cleaning, i dataset puliti sono stati importati in un database SQLite ed esplorati attraverso query SQL.
 
-Il primo passaggio analitico si concentra sulla costruzione di un **profilo demografico delle vittime** a livello regionale.
+Il primo passo dell’analisi si concentra sulla costruzione di un **profilo demografico delle vittime** nelle diverse regioni italiane.
 
 L’analisi SQL include:
 
-- numero totale di vittime per regione  
-- distribuzione delle vittime per sesso  
-- distribuzione delle tipologie di violenza  
-- distribuzione delle vittime per fascia d’età  
+- numero totale di vittime per regione, con quota percentuale sul totale  
+- distribuzione delle vittime per sesso e regione  
+- distribuzione delle tipologie di violenza tra le regioni  
+- distribuzione delle vittime per fascia di età  
 - distribuzione delle vittime per stato civile  
+- distribuzione delle tipologie di violenza per sesso  
 
-Le query sono disponibili in:
+Le query sono disponibili nel file:
 
 `sql/victims_profile_analysis.sql`
 
-Questo script rappresenta una prima esplorazione del dataset e prepara la base per analisi successive, come confronti territoriali, pattern di violenza e analisi dei servizi di supporto.
+Tutte le query includono il calcolo delle percentuali per facilitare il confronto tra regioni e tra diverse categorie demografiche.
+
+Nel file SQL è inoltre presente una breve **nota metodologica** che chiarisce alcune limitazioni dei dataset disponibili, in particolare il fatto che le tabelle sono già aggregate e non consentono alcuni incroci tra variabili (ad esempio tra tipologia di violenza ed età o stato civile).
 
 ## Fase successiva
 
