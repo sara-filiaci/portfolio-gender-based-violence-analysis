@@ -134,34 +134,53 @@ Questo rende il processo di pulizia:
 - tracciabile  
 - riproducibile  
 
-## Analisi SQL
+## Prima fase di analisi SQL
 
 Dopo la fase di data cleaning, i dataset puliti sono stati importati in un database SQLite ed esplorati attraverso query SQL.
 
-Il primo passo dell’analisi si concentra sulla costruzione di un **profilo demografico delle vittime** nelle diverse regioni italiane.
+L’analisi è attualmente organizzata in due script principali.
 
-L’analisi SQL include:
+### 1. Victims profile analysis
 
-- numero totale di vittime per regione, con quota percentuale sul totale  
-- distribuzione delle vittime per sesso e regione  
-- distribuzione delle tipologie di violenza tra le regioni  
-- distribuzione delle vittime per fascia di età  
-- distribuzione delle vittime per stato civile  
-- distribuzione delle tipologie di violenza per sesso  
+Il primo script costruisce un profilo demografico delle vittime nelle diverse regioni italiane.
 
-Le query sono disponibili nel file:
+Le analisi includono:
+
+- numero totale di vittime per regione, con quota percentuale sul totale
+- distribuzione delle vittime per sesso e regione
+- distribuzione delle tipologie di violenza tra le regioni
+- distribuzione delle vittime per fascia di età
+- distribuzione delle vittime per stato civile
+- distribuzione delle tipologie di violenza per sesso
+
+Script:
 
 `sql/victims_profile_analysis.sql`
 
-Tutte le query includono il calcolo delle percentuali per facilitare il confronto tra regioni e tra diverse categorie demografiche.
+---
 
-Nel file SQL è inoltre presente una breve **nota metodologica** che chiarisce alcune limitazioni dei dataset disponibili, in particolare il fatto che le tabelle sono già aggregate e non consentono alcuni incroci tra variabili (ad esempio tra tipologia di violenza ed età o stato civile).
+### 2. Support services analysis
+
+Il secondo script esplora la disponibilità e l’utilizzo dei servizi di supporto.
+
+Le analisi includono:
+
+- capacità delle case rifugio (posti letto autorizzati e utilizzati)
+- numero di donne accolte nelle strutture
+- modalità di uscita dai percorsi nelle case rifugio
+- motivi di contatto con la hotline nazionale 1522
+- tipologie di utenti che contattano il servizio
+- canali attraverso cui le persone vengono a conoscenza del 1522
+
+Script:
+
+`sql/services_and_support_analysis.sql`
 
 ## Fase successiva
 
-Dopo la prima esplorazione SQL del profilo delle vittime, la fase successiva del progetto sarà dedicata a domande analitiche più approfondite, tra cui:
+Le prossime fasi del progetto includeranno:
 
-- confronto dei pattern di violenza tra regioni  
-- relazione tra numero di vittime e servizi di supporto disponibili  
-- analisi delle chiamate al 1522  
-- costruzione di indicatori regionali basati sulla popolazione
+- costruzione di indicatori regionali normalizzati per popolazione (ad esempio vittime per 100.000 abitanti)
+- confronto tra violenza registrata e disponibilità di servizi di supporto
+- analisi dell’utilizzo del servizio 1522 in relazione alle caratteristiche territoriali
+- esplorazione delle opinioni sociali sui ruoli di genere e sulla violenza

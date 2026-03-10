@@ -1,6 +1,6 @@
 # Gender-Based Violence in Italy – Data Cleaning and SQL Analysis
 
-This repository documents the **data cleaning and standardization phase** of a data analysis project focused on **gender-based violence** in Italy.
+This repository documents the **data cleaning, standardization, and first SQL analysis phase** of a data analysis project focused on **gender-based violence** in Italy.
 
 The datasets were downloaded from **ISTAT** and prepared for the subsequent stages of the project, particularly **SQL analysis**, exploratory analysis, and portfolio development.
 
@@ -22,9 +22,9 @@ The repository currently includes the cleaning of:
 - **18 CSV files**
 - **1 XLSX file**, handled separately in **Google Sheets** due to its small size
 
-From the XLSX file, **3 separate CSV files** were then extracted and prepared, corresponding to three different tables related to **shelter houses**.
+From the XLSX file, **3 separate CSV files** were extracted and prepared, corresponding to three different tables related to **shelter houses**.
 
-This phase represents the foundation of the project. The analytical phase will be developed in the next stage.
+This phase represents the foundation of the project and already includes a **first SQL analytical exploration**.
 
 ## Cleaned Datasets
 
@@ -74,6 +74,7 @@ At this stage, the project includes the following files:
 - **Jupyter Notebook**
 - **Visual Studio Code**
 - **Google Sheets** for the small XLSX file
+- **SQLite** for the first SQL analysis phase
 
 ## Cleaning Workflow
 
@@ -81,36 +82,36 @@ The cleaning process was implemented through dedicated Python notebooks, applyin
 
 The main operations included:
 
-1. **Initial data inspection**
-   - column review
-   - analysis of distinct values
-   - identification of empty, redundant, or technical fields
+### 1. Initial data inspection
+- column review  
+- analysis of distinct values  
+- identification of empty, redundant, or technical fields  
 
-2. **Column cleaning**
-   - removal of irrelevant or completely empty columns
-   - removal of technical fields not necessary for analysis
-   - standardization of column names
+### 2. Column cleaning
+- removal of irrelevant or completely empty columns  
+- removal of technical fields not necessary for analysis  
+- standardization of column names  
 
-3. **Row cleaning**
-   - removal of completely empty rows
-   - exclusion of non-analytical categories where necessary
-   - handling of aggregated categories when not useful for analysis
+### 3. Row cleaning
+- removal of completely empty rows  
+- exclusion of non-analytical categories where necessary  
+- handling of aggregated categories when not useful for analysis  
 
-4. **Value standardization**
-   - string normalization
-   - removal of unnecessary whitespace
-   - text normalization
-   - territorial label standardization where necessary
+### 4. Value standardization
+- string normalization  
+- removal of unnecessary whitespace  
+- text normalization  
+- territorial label standardization where necessary  
 
-5. **Type normalization**
-   - conversion of numeric fields to the correct type
-   - consistency checks on counts, percentages, and categorical variables
+### 5. Type normalization
+- conversion of numeric fields to the correct type  
+- consistency checks on counts, percentages, and categorical variables  
 
-6. **Final validation**
-   - missing value checks
-   - duplicate checks
-   - structural consistency verification
-   - final export to CSV format
+### 6. Final validation
+- missing value checks  
+- duplicate checks  
+- structural consistency verification  
+- final export to CSV format  
 
 ## Final Output
 
@@ -133,13 +134,17 @@ This makes the cleaning process:
 - traceable  
 - reproducible  
 
-## SQL Analysis
+## First SQL Analysis Phase
 
 After the data cleaning phase, the cleaned datasets were imported into a SQLite database and explored through SQL queries.
 
-The first analytical step focuses on building a **demographic profile of victims** across Italian regions.
+The analysis is currently organized into **two main scripts**.
 
-The SQL analysis includes:
+### 1. Victims Profile Analysis
+
+The first script builds a demographic profile of victims across Italian regions.
+
+The analysis includes:
 
 - total victims by region, including percentage share of the national total  
 - victims by gender and region  
@@ -148,19 +153,34 @@ The SQL analysis includes:
 - victims by marital status  
 - distribution of violence types by gender  
 
-The queries are available in:
+Script:
 
 `sql/victims_profile_analysis.sql`
 
-All queries include percentage calculations to facilitate comparison across regions and demographic categories.
+---
 
-A methodological note is included in the SQL script to clarify the limitations of the available aggregated datasets.
+### 2. Support Services Analysis
+
+The second script explores the **availability and use of support services**.
+
+The analysis includes:
+
+- shelter house capacity (authorized and used beds)  
+- number of women hosted in shelter houses  
+- outcomes of shelter house stays  
+- reasons for contacting the national 1522 hotline  
+- types of users contacting the service  
+- channels through which people discover the 1522 hotline  
+
+Script:
+
+`sql/services_and_support_analysis.sql`
 
 ## Next Phase
 
-After the initial SQL exploration of the victims profile, the next stage of the project will focus on deeper analytical questions, including:
+The next stages of the project will focus on:
 
-- comparison of violence patterns across regions  
-- relationship between victims and available support services  
-- analysis of calls to the 1522 anti-violence hotline  
-- regional indicators based on population data
+- building **population-normalized regional indicators** (for example, victims per 100,000 inhabitants)  
+- comparing recorded violence with the availability of support services  
+- analyzing the use of the **1522 hotline** in relation to territorial characteristics  
+- exploring **social attitudes toward gender roles and violence** using opinion datasets  
