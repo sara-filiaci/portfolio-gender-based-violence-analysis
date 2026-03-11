@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?><sqlb_project><db path="C:/Users/Sara Filiaci/Desktop/Data Scientist/Portfolio/Violenza di genere/violenza_genere.db" readonly="0" foreign_keys="1" case_sensitive_like="0" temp_store="0" wal_autocheckpoint="1000" synchronous="2"/><attached/><window><main_tabs open="structure browser pragmas query" current="3"/></window><tab_structure><column_width id="0" width="300"/><column_width id="1" width="0"/><column_width id="2" width="100"/><column_width id="3" width="3146"/><column_width id="4" width="0"/><expanded_item id="0" parent="1"/><expanded_item id="1" parent="1"/><expanded_item id="2" parent="1"/><expanded_item id="3" parent="1"/></tab_structure><tab_browse><table title="1522_modalita_conoscenza" custom_title="0" dock_id="1" table="4,24:main1522_modalita_conoscenza"/><dock_state state="000000ff00000000fd00000001000000020000000000000000fc0100000001fb000000160064006f0063006b00420072006f00770073006500310100000000ffffffff0000011b00ffffff000000000000000000000004000000040000000800000008fc00000000"/><default_encoding codec=""/><browse_table_settings/></tab_browse><tab_sql><sql name="04_social_attitudes_analysis.sql*">-- =========================================================
+-- 04_social_attitudes_analysis.sql
+-- =========================================================
+-- Purpose:
+-- Analyze opinions on:
+-- 1. traditional gender roles
+-- 2. statements related to sexual violence
+--
+-- The analysis is organized by:
+-- - region
+-- - age group
+-- - education level
+--
+-- Methodological note:
+-- These datasets contain percentages, not raw counts.
+-- Therefore, the queries display the reported percentages
+-- and do not aggregate them across different groups.
+-- =========================================================
+
+
+
+-- =========================================================
+-- 1. Traditional gender roles by region
+-- Purpose:
+-- Show how agreement levels vary across regions
+-- for each statement on traditional gender roles.
+-- =========================================================
+
+SELECT
+    territorio AS region,
+    sesso AS gender,
+    imput_affermazione AS statement,
+    grado_accordo AS agreement_level,
+    percentuale
+FROM &quot;Opinioni_ruoli_tradizionali_reg&quot;
+ORDER BY region, statement, gender, percentuale DESC;
+
+
+
+-- =========================================================
+-- 2. Traditional gender roles by age group
+-- Purpose:
+-- Show how agreement levels vary across age groups
+-- for each statement on traditional gender roles.
+-- =========================================================
+
+SELECT
+    età AS age_group,
+    sesso AS gender,
+    imput_affermazione AS statement,
+    grado_accordo AS agreement_level,
+    percentuale
+FROM &quot;Opinioni_ruoli_tradizionali_età&quot;
+ORDER BY age_group, statement, gender, percentuale DESC;
+
+
+
+-- =========================================================
+-- 3. Traditional gender roles by education level
+-- Purpose:
+-- Show how agreement levels vary across education levels
+-- for each statement on traditional gender roles.
+-- =========================================================
+
+SELECT
+    titolo_studio AS education_level,
+    sesso AS gender,
+    imput_affermazione AS statement,
+    grado_accordo AS agreement_level,
+    percentuale
+FROM &quot;Opinioni_ruoli_tradizionali_titolo_studio&quot;
+ORDER BY education_level, statement, gender, percentuale DESC;
+
+
+
+-- =========================================================
+-- 4. Opinions on sexual violence statements by region
+-- Purpose:
+-- Show how agreement levels vary across regions
+-- for each statement related to sexual violence.
+-- =========================================================
+
+SELECT
+    territorio AS region,
+    sesso AS gender,
+    imput_affermazione AS statement,
+    grado_accordo AS agreement_level,
+    percentuale
+FROM &quot;Opinioni_violenza_sessuale_reg&quot;
+ORDER BY region, statement, gender, percentuale DESC;
+
+
+
+-- =========================================================
+-- 5. Opinions on sexual violence statements by age group
+-- Purpose:
+-- Show how agreement levels vary across age groups
+-- for each statement related to sexual violence.
+-- =========================================================
+
+SELECT
+    età AS age_group,
+    sesso AS gender,
+    imput_affermazione AS statement,
+    grado_accordo AS agreement_level,
+    percentuale
+FROM &quot;Opinioni_violenza_sessuale_età&quot;
+ORDER BY age_group, statement, gender, percentuale DESC;
+
+
+
+-- =========================================================
+-- 6. Opinions on sexual violence statements by education level
+-- Purpose:
+-- Show how agreement levels vary across education levels
+-- for each statement related to sexual violence.
+-- =========================================================
+
+SELECT
+    titolo_studio AS education_level,
+    sesso AS gender,
+    imput_affermazione AS statement,
+    grado_accordo AS agreement_level,
+    percentuale
+FROM &quot;Opinioni_violenza_sessuale_titolo_s&quot;
+ORDER BY education_level, statement, gender, percentuale DESC;
+
+
+
+-- =========================================================
+-- 7. Comparison between the two themes by statement
+-- Purpose:
+-- Keep the two topics separated but readable in one output,
+-- so it is easier to compare whether patterns are similar
+-- across groups.
+--
+-- Note:
+-- This query does not merge percentages across datasets.
+-- It only stacks the two themes into one comparable output.
+-- =========================================================
+
+SELECT
+    'traditional_gender_roles' AS topic,
+    territorio AS group_value,
+    sesso AS gender,
+    imput_affermazione AS statement,
+    grado_accordo AS agreement_level,
+    percentuale
+FROM &quot;Opinioni_ruoli_tradizionali_reg&quot;
+
+UNION ALL
+
+SELECT
+    'sexual_violence_opinions' AS topic,
+    territorio AS group_value,
+    sesso AS gender,
+    imput_affermazione AS statement,
+    grado_accordo AS agreement_level,
+    percentuale
+FROM &quot;Opinioni_violenza_sessuale_reg&quot;
+
+ORDER BY topic, group_value, statement, gender, percentuale DESC;</sql><current_tab id="0"/></tab_sql></sqlb_project>
