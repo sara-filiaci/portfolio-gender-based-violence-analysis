@@ -6,7 +6,7 @@ This repository documents the full analytical workflow of a project focused on *
 - **SQL analysis**
 - **data visualization**
 
-The datasets were sourced from **ISTAT** and the national anti-violence hotline **1522 – Numero antiviolenza e stalking**.
+The datasets were sourced from **ISTAT**.
 
 ---
 
@@ -48,7 +48,7 @@ The cleaned datasets were then imported into a **SQLite** database for SQL analy
 
 # Cleaned Datasets
 
-The `data_clean` folder contains all datasets used for the analysis.
+The `Violenza di genere/data_clean` folder contains all datasets used for the analysis.
 
 ## 1522 Hotline
 - `1522_modalità_conoscenza.csv`
@@ -57,7 +57,12 @@ The `data_clean` folder contains all datasets used for the analysis.
 - `1522_tipologia_utenti.csv`
 
 ## Social Attitudes
-- `opinioni_ruoli_tradizionali_clean.csv`
+- `Opinioni_ruoli_tradizionali_età.csv`
+- `Opinioni_ruoli_tradizionali_reg.csv`
+- `Opinioni_ruoli_tradizionali_titolo_studio.csv`
+- `Opinioni_violenza_sessuale_età.csv`
+- `Opinioni_violenza_sessuale_reg.csv`
+- `Opinioni_violenza_sessuale_titolo_studio.csv`
 
 ## Shelter Houses
 - `case_rifugio_2023_motivo_uscita_clean.csv`
@@ -65,26 +70,16 @@ The `data_clean` folder contains all datasets used for the analysis.
 - `case_rifugio_2023_quantita_donne_accolte_clean.csv`
 
 ## Other Datasets
-- `orientamento_sessuale.xlsx`
 - `popolazione_regione.csv`
 
 ## Victims
-- `vittime_reato_regione_eta_clean.csv`
-- `vittime_reato_regione_titolo_studio_clean.csv`
-- `vittime_reato_regione_stato_civile_clean.csv`
-- `vittime_reato_regione_cittadinanza_clean.csv`
-- `vittime_tipo_autore_reato_clean.csv`
-- `vittime_tipo_violenza_clean.csv`
-- `vittime_rivolte_istituzioni.csv`
-- `vittime_rivolte_centri.csv`
-- `vittime_denunce.csv`
-- `vittime_notte_luogo_pubblico_clean.csv`
-- `vittime_notte_mezzo_pubblico_clean.csv`
-- `vittime_contesto_familiare_clean.csv`
-- `vittime_partner_ex_partner_clean.csv`
-- `vittime_partner_ex_partner_motivo_non_denuncia_clean.csv`
-- `vittime_preoccupazione_violenza_clean.csv`
-- `vittime_preoccupazione_reati.csv`
+- `vittime.disabilità.csv`
+- `vittime.età.csv`
+- `vittime.motivo_chiamata.csv`
+- `vittime.stato_civile.csv`
+- `vittime.stato_denuncia.csv`
+- `vittime.tipo_violenza.csv`
+- `Orientamento_sessuale.csv`
 
 ---
 
@@ -156,7 +151,7 @@ The datasets were imported into a **SQLite** database and analyzed through SQL q
 ---
 
 ## 1. Victims Profile  
-`sql/01_victims_profile_analysis.sql`
+`Violenza di genere/sql/01_victims_profile_analysis.sql`
 
 - total number of victims by region  
 - regional percentage distribution  
@@ -168,7 +163,7 @@ The datasets were imported into a **SQLite** database and analyzed through SQL q
 ---
 
 ## 2. 1522 Hotline Analysis  
-`sql/02_hotline_1522_analysis.sql`
+`Violenza di genere/sql/02_hotline_1522_analysis.sql`
 
 - reasons for contacting the service  
 - user types  
@@ -179,7 +174,7 @@ The datasets were imported into a **SQLite** database and analyzed through SQL q
 ---
 
 ## 3. Shelter Houses Analysis  
-`sql/03_shelter_houses_analysis.sql`
+`Violenza di genere/sql/03_shelter_houses_analysis.sql`
 
 - authorized beds by region  
 - usage level of facilities  
@@ -190,7 +185,7 @@ The datasets were imported into a **SQLite** database and analyzed through SQL q
 ---
 
 ## 4. Social Attitudes Analysis  
-`sql/04_social_attitudes_analysis.sql`
+`Violenza di genere/sql/04_social_attitudes_analysis.sql`
 
 - comparison by gender  
 - comparison by age group  
@@ -203,7 +198,7 @@ The datasets were imported into a **SQLite** database and analyzed through SQL q
 ---
 
 ## 5. Integrated Regional Comparison  
-`sql/05_integrated_regional_comparison.sql`
+`Violenza di genere/sql/05_gender_based_violence_italy.sql`
 
 Final integrated table combining:
 
@@ -246,7 +241,7 @@ The dashboard highlights:
 
 Final output used for visualization:
 
-`sql/05_results.csv`
+`Violenza di genere/sql/05_results.csv`
 
 👉 **Tableau Public Dashboard:**  
 https://public.tableau.com/app/profile/sara.filiaci4225/viz/portfolio-gender-based-violence-analysis/Dashboard1

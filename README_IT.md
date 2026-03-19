@@ -6,7 +6,7 @@ Questo repository documenta l’intero processo di analisi di un progetto dedica
 - **analisi SQL**
 - **visualizzazione dei risultati**
 
-I dataset utilizzati provengono da **ISTAT** e dal servizio nazionale **1522 – Numero antiviolenza e stalking**.
+I dataset utilizzati provengono da **ISTAT**.
 
 ---
 
@@ -48,7 +48,7 @@ I dataset puliti sono stati poi importati in un database **SQLite** per la fase 
 
 # Dataset puliti
 
-La cartella `data_clean` contiene i dataset utilizzati per l’analisi.
+La cartella `Violenza di genere/data_clean` contiene i dataset utilizzati per l’analisi.
 
 ## Servizio 1522
 - `1522_modalità_conoscenza.csv`
@@ -57,7 +57,12 @@ La cartella `data_clean` contiene i dataset utilizzati per l’analisi.
 - `1522_tipologia_utenti.csv`
 
 ## Opinioni sociali
-- `opinioni_ruoli_tradizionali_clean.csv`
+- `Opinioni_ruoli_tradizionali_età.csv`
+- `Opinioni_ruoli_tradizionali_reg.csv`
+- `Opinioni_ruoli_tradizionali_titolo_studio.csv`
+- `Opinioni_violenza_sessuale_età.csv`
+- `Opinioni_violenza_sessuale_reg.csv`
+- `Opinioni_violenza_sessuale_titolo_studio.csv`
 
 ## Case rifugio
 - `case_rifugio_2023_motivo_uscita_clean.csv`
@@ -65,26 +70,16 @@ La cartella `data_clean` contiene i dataset utilizzati per l’analisi.
 - `case_rifugio_2023_quantita_donne_accolte_clean.csv`
 
 ## Altri dataset
-- `orientamento_sessuale.xlsx`
 - `popolazione_regione.csv`
 
 ## Vittime
-- `vittime_reato_regione_eta_clean.csv`
-- `vittime_reato_regione_titolo_studio_clean.csv`
-- `vittime_reato_regione_stato_civile_clean.csv`
-- `vittime_reato_regione_cittadinanza_clean.csv`
-- `vittime_tipo_autore_reato_clean.csv`
-- `vittime_tipo_violenza_clean.csv`
-- `vittime_rivolte_istituzioni.csv`
-- `vittime_rivolte_centri.csv`
-- `vittime_denunce.csv`
-- `vittime_notte_luogo_pubblico_clean.csv`
-- `vittime_notte_mezzo_pubblico_clean.csv`
-- `vittime_contesto_familiare_clean.csv`
-- `vittime_partner_ex_partner_clean.csv`
-- `vittime_partner_ex_partner_motivo_non_denuncia_clean.csv`
-- `vittime_preoccupazione_violenza_clean.csv`
-- `vittime_preoccupazione_reati.csv`
+- `vittime.disabilità.csv`
+- `vittime.età.csv`
+- `vittime.motivo_chiamata.csv`
+- `vittime.stato_civile.csv`
+- `vittime.stato_denuncia.csv`
+- `vittime.tipo_violenza.csv`
+- `Orientamento_sessuale.csv`
 
 ---
 
@@ -156,7 +151,7 @@ I dataset sono stati importati in un database **SQLite** e analizzati tramite qu
 ---
 
 ## 1. Profilo delle vittime  
-`sql/01_victims_profile_analysis.sql`
+`Violenza di genere/sql/01_victims_profile_analysis.sql`
 
 - numero totale di vittime per regione  
 - distribuzione percentuale territoriale  
@@ -168,7 +163,7 @@ I dataset sono stati importati in un database **SQLite** e analizzati tramite qu
 ---
 
 ## 2. Analisi del servizio 1522  
-`sql/02_hotline_1522_analysis.sql`
+`Violenza di genere/sql/02_hotline_1522_analysis.sql`
 
 - motivi di contatto  
 - tipologia utenti  
@@ -179,7 +174,7 @@ I dataset sono stati importati in un database **SQLite** e analizzati tramite qu
 ---
 
 ## 3. Analisi delle case rifugio  
-`sql/03_shelter_houses_analysis.sql`
+`Violenza di genere/sql/03_shelter_houses_analysis.sql`
 
 - posti letto autorizzati  
 - livello di utilizzo  
@@ -190,7 +185,7 @@ I dataset sono stati importati in un database **SQLite** e analizzati tramite qu
 ---
 
 ## 4. Analisi delle opinioni sociali  
-`sql/04_social_attitudes_analysis.sql`
+`Violenza di genere/sql/04_social_attitudes_analysis.sql`
 
 - confronto per sesso  
 - confronto per età  
@@ -203,7 +198,7 @@ I dataset sono stati importati in un database **SQLite** e analizzati tramite qu
 ---
 
 ## 5. Confronto integrato regionale  
-`sql/05_integrated_regional_comparison.sql`
+`Violenza di genere/sql/05_gender_based_violence_italy.sql`
 
 Tabella finale che integra:
 
@@ -246,7 +241,7 @@ La dashboard mostra:
 
 Output finale utilizzato per la visualizzazione:
 
-`sql/05_results.csv`
+`Violenza di genere/sql/05_results.csv`
 
 👉 **Dashboard Tableau Public:**  
 https://public.tableau.com/app/profile/sara.filiaci4225/viz/portfolio-gender-based-violence-analysis/Dashboard1
