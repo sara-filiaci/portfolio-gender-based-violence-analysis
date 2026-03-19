@@ -1,15 +1,25 @@
-# Violenza di genere in Italia – Data cleaning e analisi SQL
+# Violenza di genere in Italia – Data cleaning, analisi SQL e visualizzazione
 
-Questo repository documenta la fase di **pulizia dei dati, standardizzazione e analisi SQL** di un progetto dedicato alla **violenza di genere in Italia**.
+Questo repository documenta l’intero processo di analisi di un progetto dedicato alla **violenza di genere in Italia**, articolato in tre fasi principali:
 
-I dataset utilizzati provengono da **ISTAT** e dal servizio nazionale **1522 – Numero antiviolenza e stalking**.  
-I dati sono stati preparati per essere utilizzati in **analisi SQL, analisi esplorativa e successive visualizzazioni**.
+- **data cleaning e standardizzazione**
+- **analisi SQL**
+- **visualizzazione dei risultati**
+
+I dataset utilizzati provengono da **ISTAT** e dal servizio nazionale **1522 – Numero antiviolenza e stalking**.
 
 ---
 
 # Obiettivo del progetto
 
-L’obiettivo di questa fase è costruire un insieme di dati **pulito, coerente e interrogabile** per l’analisi del fenomeno della violenza di genere.
+L’obiettivo del progetto è costruire un sistema di dati:
+
+- pulito  
+- coerente  
+- interrogabile  
+- comparabile a livello territoriale  
+
+per analizzare il fenomeno della violenza di genere in modo strutturato.
 
 Il lavoro si è concentrato su:
 
@@ -18,7 +28,8 @@ Il lavoro si è concentrato su:
 - rimozione di elementi non utili all’analisi  
 - preparazione dei dati per interrogazioni SQL  
 - costruzione di indicatori territoriali comparabili  
-- prima esplorazione analitica del fenomeno  
+- integrazione di più fonti informative  
+- rappresentazione visiva dei risultati  
 
 ---
 
@@ -27,11 +38,11 @@ Il lavoro si è concentrato su:
 Il repository include la pulizia di:
 
 - **18 file CSV**
-- **1 file XLSX**, gestito separatamente in **Google Sheets** per la preparazione iniziale
+- **1 file XLSX**, gestito separatamente in **Google Sheets** per la preparazione iniziale  
 
 Dal file XLSX sono stati estratti **3 file CSV distinti**, relativi alle **case rifugio**.
 
-I dataset puliti sono poi stati importati in un database **SQLite** per la fase di analisi SQL.
+I dataset puliti sono stati poi importati in un database **SQLite** per la fase di analisi SQL.
 
 ---
 
@@ -85,6 +96,7 @@ La cartella `data_clean` contiene i dataset utilizzati per l’analisi.
 - **Visual Studio Code**
 - **Google Sheets**
 - **SQLite**
+- **Tableau Public**
 
 ---
 
@@ -126,9 +138,9 @@ La pulizia è stata eseguita tramite notebook Python dedicati, applicando una me
 
 ---
 
-# Output finale
+# Output della fase di data cleaning
 
-Il risultato della fase di data cleaning è un insieme di dataset:
+Il risultato è un insieme di dataset:
 
 - coerenti tra loro  
 - più semplici da interrogare  
@@ -137,193 +149,118 @@ Il risultato della fase di data cleaning è un insieme di dataset:
 
 ---
 
-# Riproducibilità
-
-I dataset finali sono stati generati rieseguendo i notebook Python e verificando gli output finali.
-
-Per il file XLSX, la preparazione iniziale è stata svolta in **Google Sheets**, da cui sono stati estratti i CSV utilizzati nell’analisi.
-
-Il processo di pulizia è quindi:
-
-- tracciabile  
-- documentato  
-- riproducibile  
-
----
-
 # Fase di analisi SQL
 
-Dopo la pulizia dei dati, i dataset sono stati importati in un database **SQLite** e analizzati tramite query SQL.
-
-L’analisi è organizzata in **5 script principali**.
+I dataset sono stati importati in un database **SQLite** e analizzati tramite query SQL organizzate in **5 script principali**.
 
 ---
 
-## 1. Profilo delle vittime
-
-Script:
-
+## 1. Profilo delle vittime  
 `sql/01_victims_profile_analysis.sql`
 
-Questo script costruisce un profilo **territoriale e demografico delle vittime**.
-
-Analisi incluse:
-
 - numero totale di vittime per regione  
-- quota percentuale delle regioni sul totale nazionale  
-- distribuzione delle vittime per sesso  
-- tipologie di violenza più frequenti  
-- distribuzione delle vittime per fascia d’età  
+- distribuzione percentuale territoriale  
+- distribuzione per sesso  
+- tipologie di violenza  
+- distribuzione per età  
 - distribuzione per stato civile  
-- tipologie di violenza per sesso  
 
 ---
 
-## 2. Analisi del servizio 1522
-
-Script:
-
+## 2. Analisi del servizio 1522  
 `sql/02_hotline_1522_analysis.sql`
 
-Questo script analizza l’utilizzo del **numero nazionale antiviolenza 1522**.
-
-Analisi incluse:
-
-- motivi di contatto con il servizio  
-- tipologia di utenti che contattano il servizio  
-- modalità attraverso cui le persone conoscono il 1522  
-- numero totale di contatti per regione e anno  
-- contatti normalizzati per **100.000 abitanti**  
+- motivi di contatto  
+- tipologia utenti  
+- modalità di conoscenza del servizio  
+- contatti per regione e anno  
+- contatti per **100.000 abitanti**  
 
 ---
 
-## 3. Analisi delle case rifugio
-
-Script:
-
+## 3. Analisi delle case rifugio  
 `sql/03_shelter_houses_analysis.sql`
 
-Questo script analizza la **disponibilità e l’utilizzo delle case rifugio nel 2023**.
-
-Analisi incluse:
-
-- numero di posti letto autorizzati per regione  
-- livello di utilizzo delle strutture  
-- numero di donne accolte  
-- posti letto per **100.000 donne**  
-- donne accolte per **100.000 donne**  
-- esiti dei percorsi nelle case rifugio  
+- posti letto autorizzati  
+- livello di utilizzo  
+- donne accolte  
+- indicatori per **100.000 donne**  
+- esiti dei percorsi  
 
 ---
 
-## 4. Analisi delle opinioni sociali
-
-Script:
-
+## 4. Analisi delle opinioni sociali  
 `sql/04_social_attitudes_analysis.sql`
 
-Questo script analizza le **opinioni sociali relative ai ruoli di genere tradizionali** e alle **credenze sulla violenza sessuale**.
-
-Analisi incluse:
-
-- confronto nazionale tra **maschi** e **femmine**
-- confronto per **fascia d’età**
-- confronto per **titolo di studio**
-- confronto per **territorio**
-- analisi separata di:
-  - stereotipi sui **ruoli tradizionali**
-  - stereotipi e credenze sulla **violenza sessuale**
-
-### Nota metodologica
-Per rendere i risultati più leggibili, le risposte sono state riclassificate in 3 categorie:
-
-- `molto_d_accordo`
-- `intermedio` = `abbastanza_d_accordo` + `poco_d_accordo`
-- `per_niente_d_accordo`
-
-La categoria `non_risponde` è stata esclusa dalle tabelle sintetiche.
-
-Nelle query territoriali sono state escluse le categorie aggregate territoriali, come:
-
-- `italia`
-- `nord ovest`
-- `nord est`
-- `centro`
-- `sud`
-- `isole`
-- `trentino alto adige`
-
-in modo da evitare sovrapposizioni con le unità territoriali separate di **Trento** e **Bolzano**.
+- confronto per sesso  
+- confronto per età  
+- confronto per istruzione  
+- confronto territoriale  
+- analisi stereotipi su:
+  - ruoli tradizionali  
+  - violenza sessuale  
 
 ---
 
-## 5. Confronto integrato regionale
-
-Script:
-
+## 5. Confronto integrato regionale  
 `sql/05_integrated_regional_comparison.sql`
 
-Questo script integra i principali risultati emersi nei fogli precedenti in una **tabella finale di confronto regionale**.
+Tabella finale che integra:
 
-L’obiettivo è mettere in relazione, per ciascuna regione:
-
-- livello di violenza registrata  
-- utilizzo del servizio 1522  
-- disponibilità e utilizzo delle case rifugio  
-- intensità degli stereotipi di genere  
-
-Analisi incluse:
-
-- vittime per **100.000 donne**
-- contatti 1522 per **100.000 donne**
-- posti letto nelle case rifugio per **100.000 donne**
-- donne accolte nelle case rifugio per **100.000 donne**
-- indice regionale degli stereotipi sui **ruoli tradizionali**
-- indice regionale degli stereotipi sulla **violenza sessuale**
-- indice stereotipico combinato regionale
+- vittime per **100.000 donne**  
+- contatti 1522 per **100.000 donne**  
+- posti letto per **100.000 donne**  
+- donne accolte per **100.000 donne**  
+- indice stereotipi regionali  
 
 ### Nota metodologica
-La tabella finale è costruita solo sulle **regioni presenti in modo coerente in tutti i blocchi informativi**, così da evitare disallineamenti territoriali tra:
-
-- dataset sulle vittime  
-- dataset sul 1522  
-- dataset sulle case rifugio  
-- dataset sulle opinioni sociali  
-
-Gli indicatori territoriali sono stati normalizzati sulla **popolazione femminile regionale**.
-
-L’indice degli stereotipi è stato costruito a partire dalla media regionale della percentuale di `molto_d_accordo` nelle affermazioni considerate.
+- normalizzazione su popolazione femminile  
+- esclusione territori non comparabili  
+- integrazione solo regioni coerenti tra dataset  
 
 ---
 
-# Principali evidenze emerse dalla fase SQL
+# Principali evidenze
 
-L’analisi SQL ha permesso di evidenziare alcuni aspetti rilevanti del fenomeno:
-
-- differenze territoriali significative nella distribuzione delle vittime  
-- forte variabilità regionale nell’utilizzo del servizio **1522**  
-- differenze marcate nella disponibilità di posti letto e nell’accoglienza delle case rifugio  
-- presenza di stereotipi di genere più elevata in alcune aree del Paese  
-- relazione non lineare tra violenza registrata, accesso ai servizi e contesto culturale  
-
-L’integrazione finale dei dataset ha reso possibile una lettura comparativa del fenomeno, non limitata a una sola dimensione ma estesa a:
-
-- violenza registrata  
-- accesso ai servizi  
-- capacità di accoglienza  
-- atteggiamenti sociali  
+- forti differenze territoriali nella violenza  
+- variabilità nell’utilizzo del 1522  
+- disomogeneità nella disponibilità di servizi  
+- presenza di stereotipi più elevati in alcune aree  
+- relazione non lineare tra violenza, servizi e contesto culturale  
 
 ---
 
-# Fase successiva del progetto
+# Visualizzazione dei risultati
 
-La fase successiva sarà dedicata alla **rappresentazione grafica dei risultati** attraverso visualizzazioni e dashboard.
+Gli output SQL sono stati trasformati in una dashboard interattiva.
 
-L’obiettivo sarà trasformare gli output SQL in una presentazione visiva chiara e leggibile, utile per:
+La dashboard mostra:
 
-- evidenziare i principali pattern territoriali  
-- confrontare le regioni in modo immediato  
-- sintetizzare le relazioni tra violenza, servizi e stereotipi  
-- completare il progetto portfolio con una parte di **data visualization**  
+- distribuzione territoriale della violenza  
+- utilizzo del servizio 1522  
+- disponibilità dei servizi  
+- distribuzione degli stereotipi  
+- relazioni tra variabili  
 
 ---
+
+Output finale utilizzato per la visualizzazione:
+
+`sql/05_results.csv`
+
+👉 **Dashboard Tableau Public:**  
+https://public.tableau.com/app/profile/sara.filiaci4225/viz/portfolio-gender-based-violence-analysis/Dashboard1
+
+---
+
+# Conclusione
+
+Il progetto copre l’intero flusso analitico:
+
+- data cleaning  
+- strutturazione dati  
+- analisi SQL  
+- costruzione indicatori  
+- data visualization  
+
+e rappresenta un esempio completo di **pipeline di analisi dati applicata a un fenomeno sociale complesso**.

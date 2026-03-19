@@ -1,24 +1,35 @@
-# Gender-Based Violence in Italy – Data Cleaning and SQL Analysis
+# Gender-Based Violence in Italy – Data Cleaning, SQL Analysis and Visualization
 
-This repository documents the **data cleaning, standardization, and SQL analysis** phase of a project focused on **gender-based violence in Italy**.
+This repository documents the full analytical workflow of a project focused on **gender-based violence in Italy**, structured into three main phases:
 
-The datasets used in this project come from **ISTAT** and the national **1522 Anti-Violence and Stalking Hotline**.  
-The data were prepared for **SQL analysis, exploratory data analysis, and subsequent visualization stages**.
+- **data cleaning and standardization**
+- **SQL analysis**
+- **data visualization**
+
+The datasets were sourced from **ISTAT** and the national anti-violence hotline **1522 – Numero antiviolenza e stalking**.
 
 ---
 
 # Project Objective
 
-The objective of this phase is to construct a **clean, consistent, and queryable dataset** that enables the analysis of gender-based violence in Italy.
+The goal of the project is to build a dataset that is:
+
+- clean  
+- consistent  
+- query-ready  
+- comparable across regions  
+
+to enable a structured analysis of gender-based violence.
 
 The work focused on:
 
-- cleaning and standardizing multiple datasets  
+- cleaning and standardizing datasets  
 - aligning structures across files  
-- removing elements not relevant for analysis  
-- preparing the data for SQL querying  
-- constructing comparable territorial indicators  
-- conducting an initial analytical exploration of the phenomenon  
+- removing irrelevant elements  
+- preparing data for SQL querying  
+- building comparable territorial indicators  
+- integrating multiple data sources  
+- visually presenting the results  
 
 ---
 
@@ -27,17 +38,17 @@ The work focused on:
 The repository includes the cleaning of:
 
 - **18 CSV files**
-- **1 XLSX file**, initially processed separately in **Google Sheets**
+- **1 XLSX file**, initially processed in **Google Sheets**
 
-From the XLSX file, **three separate CSV datasets** related to **shelter houses** were extracted.
+From the XLSX file, **3 separate CSV files** were extracted, related to **shelter houses**.
 
-All cleaned datasets were subsequently imported into a **SQLite database** for the SQL analysis phase.
+The cleaned datasets were then imported into a **SQLite** database for SQL analysis.
 
 ---
 
 # Cleaned Datasets
 
-The `data_clean` folder contains the datasets used in the analysis.
+The `data_clean` folder contains all datasets used for the analysis.
 
 ## 1522 Hotline
 - `1522_modalità_conoscenza.csv`
@@ -53,7 +64,7 @@ The `data_clean` folder contains the datasets used in the analysis.
 - `case_rifugio_2023_posti_letto_clean.csv`
 - `case_rifugio_2023_quantita_donne_accolte_clean.csv`
 
-## Additional Datasets
+## Other Datasets
 - `orientamento_sessuale.xlsx`
 - `popolazione_regione.csv`
 
@@ -85,245 +96,171 @@ The `data_clean` folder contains the datasets used in the analysis.
 - **Visual Studio Code**
 - **Google Sheets**
 - **SQLite**
+- **Tableau Public**
 
 ---
 
 # Data Cleaning Workflow
 
-Data cleaning was performed through dedicated Python notebooks, applying a consistent methodology across datasets.
+Data cleaning was performed using dedicated Python notebooks, applying a consistent methodology across datasets.
 
 ## 1. Initial Inspection
-- examination of file structures  
+- file structure analysis  
 - column inspection  
-- analysis of distinct values  
-- identification of empty or redundant fields  
+- unique values analysis  
+- identification of missing or redundant fields  
 
 ## 2. Column Cleaning
 - removal of irrelevant or empty columns  
-- elimination of technical or metadata fields not needed for analysis  
+- elimination of unnecessary technical fields  
 - standardization of column names  
 
 ## 3. Row Cleaning
 - removal of empty rows  
-- elimination of categories not relevant to the analytical objectives  
-- handling of aggregated categories when necessary  
+- exclusion of non-relevant categories  
+- handling of aggregated categories when needed  
 
 ## 4. Value Standardization
 - normalization of strings  
-- removal of unnecessary whitespace  
+- trimming unnecessary spaces  
 - standardization of territorial labels  
-- harmonization of categorical values  
+- harmonization of categories  
 
 ## 5. Type Normalization
 - conversion of numeric fields  
-- verification of consistency between counts and categories  
+- validation of consistency between counts and categories  
 
 ## 6. Final Validation
-- checking for missing values  
-- duplicate detection  
-- structural validation of datasets  
-- final export to CSV format  
+- missing values check  
+- duplicate check  
+- dataset structure validation  
+- final export to CSV  
 
 ---
 
-# Final Output
+# Data Cleaning Output
 
-The result of the cleaning phase is a set of datasets that are:
+The result is a set of datasets that are:
 
-- internally consistent  
+- consistent  
 - easier to query  
 - suitable for SQL analysis  
-- reproducible through the provided notebooks  
-
----
-
-# Reproducibility
-
-The final datasets were generated by re-running the Python notebooks and validating the resulting outputs.
-
-For the XLSX file, the initial preparation was performed in **Google Sheets**, from which the CSV files used in the analysis were exported.
-
-The data preparation process is therefore:
-
-- traceable  
-- documented  
-- reproducible  
+- reproducible through notebooks  
 
 ---
 
 # SQL Analysis Phase
 
-After data cleaning, the datasets were imported into a **SQLite database** and analyzed using SQL queries.
-
-The analysis is organized into **five main scripts**.
+The datasets were imported into a **SQLite** database and analyzed through SQL queries organized into **5 main scripts**.
 
 ---
 
-## 1. Victims Profile Analysis
-
-Script:
-
+## 1. Victims Profile  
 `sql/01_victims_profile_analysis.sql`
 
-This script constructs a **territorial and demographic profile of victims**.
-
-Included analyses:
-
 - total number of victims by region  
-- regional share of national victims  
-- gender distribution of victims  
-- most frequent types of violence  
-- distribution of victims by age group  
+- regional percentage distribution  
+- gender distribution  
+- types of violence  
+- age distribution  
 - marital status distribution  
-- types of violence by gender  
 
 ---
 
-## 2. 1522 Hotline Analysis
-
-Script:
-
+## 2. 1522 Hotline Analysis  
 `sql/02_hotline_1522_analysis.sql`
 
-This script analyzes the use of the **1522 national anti-violence hotline**.
-
-Included analyses:
-
-- reasons for contacting the hotline  
-- types of users contacting the hotline  
-- how people discover the hotline  
+- reasons for contacting the service  
+- user types  
+- how users became aware of 1522  
 - total contacts by region and year  
-- contacts normalized per **100,000 inhabitants**
+- contacts per **100,000 inhabitants**  
 
 ---
 
-## 3. Shelter Houses Analysis
-
-Script:
-
+## 3. Shelter Houses Analysis  
 `sql/03_shelter_houses_analysis.sql`
 
-This script examines the **availability and utilization of shelter houses in 2023**.
-
-Included analyses:
-
-- number of authorized shelter beds by region  
-- shelter bed utilization rates  
+- authorized beds by region  
+- usage level of facilities  
 - number of women hosted  
-- shelter beds per **100,000 women**  
-- women hosted per **100,000 women**  
-- outcomes of shelter house support pathways  
+- indicators per **100,000 women**  
+- outcomes of shelter programs  
 
 ---
 
-## 4. Social Attitudes Analysis
-
-Script:
-
+## 4. Social Attitudes Analysis  
 `sql/04_social_attitudes_analysis.sql`
 
-This script analyzes **social attitudes related to traditional gender roles** and **beliefs about sexual violence**.
-
-Included analyses:
-
-- national comparison between **men and women**
-- comparison by **age group**
-- comparison by **education level**
-- comparison by **territorial unit**
-- separate analysis of:
-  - stereotypes related to **traditional gender roles**
-  - beliefs about **sexual violence**
-
-### Methodological Note
-
-To improve interpretability, response categories were recoded into three groups:
-
-- `molto_d_accordo` (strong agreement)  
-- `intermedio` = `abbastanza_d_accordo` + `poco_d_accordo`  
-- `per_niente_d_accordo` (complete disagreement)
-
-The category `non_risponde` was excluded from the summarized tables.
-
-In territorial analyses, aggregated territorial units were excluded, including:
-
-- `italia`
-- `nord ovest`
-- `nord est`
-- `centro`
-- `sud`
-- `isole`
-- `trentino alto adige`
-
-This avoids overlaps with separate territorial units such as **Trento** and **Bolzano**.
+- comparison by gender  
+- comparison by age group  
+- comparison by education level  
+- territorial comparison  
+- analysis of stereotypes on:
+  - traditional gender roles  
+  - sexual violence  
 
 ---
 
-## 5. Integrated Regional Comparison
-
-Script:
-
+## 5. Integrated Regional Comparison  
 `sql/05_integrated_regional_comparison.sql`
 
-This script integrates the key outputs from the previous analyses into a **final regional comparison table**.
+Final integrated table combining:
 
-The objective is to compare, for each region:
-
-- level of recorded violence  
-- use of the 1522 hotline  
-- availability and utilization of shelter houses  
-- intensity of gender stereotypes  
-
-Included indicators:
-
-- victims per **100,000 women**
-- 1522 contacts per **100,000 women**
-- shelter beds per **100,000 women**
-- women hosted in shelters per **100,000 women**
-- regional index of **traditional gender-role stereotypes**
-- regional index of **sexual violence stereotypes**
-- combined stereotype index
+- victims per **100,000 women**  
+- 1522 contacts per **100,000 women**  
+- shelter beds per **100,000 women**  
+- women hosted per **100,000 women**  
+- regional stereotype indices  
 
 ### Methodological Note
-
-The final table includes only **regions consistently represented across all datasets**, in order to avoid territorial misalignment between:
-
-- victim datasets  
-- hotline datasets  
-- shelter house datasets  
-- social attitudes datasets  
-
-All territorial indicators were normalized using the **regional female population**.
-
-The stereotype index was constructed using the **regional mean percentage of strong agreement (`molto_d_accordo`)** across the relevant statements.
+- normalization based on female population  
+- exclusion of non-comparable territorial aggregates  
+- integration limited to regions consistently present across datasets  
 
 ---
 
-# Key Findings from the SQL Analysis
+# Key Findings
 
-The SQL analysis highlighted several relevant patterns:
-
-- significant territorial variation in the distribution of victims  
-- strong regional differences in the use of the **1522 hotline**  
-- notable disparities in shelter bed availability and shelter utilization  
-- higher prevalence of gender stereotypes in certain areas of the country  
-- a non-linear relationship between reported violence, service access, and cultural attitudes  
-
-The final integration of datasets enables a broader interpretation of the phenomenon, combining information on:
-
-- reported violence  
-- access to support services  
-- institutional capacity  
-- social attitudes toward gender roles and sexual violence  
+- significant territorial differences in violence distribution  
+- strong regional variability in 1522 usage  
+- uneven availability of services  
+- higher prevalence of gender stereotypes in specific areas  
+- non-linear relationship between violence, services, and cultural context  
 
 ---
 
-# Next Phase of the Project
+# Data Visualization
 
-The next phase will focus on the **visual representation of results** through charts and dashboards.
+The main SQL outputs were transformed into an interactive dashboard.
 
-The goal is to transform the SQL outputs into clear and interpretable visualizations that will:
+The dashboard highlights:
 
-- highlight key territorial patterns  
-- facilitate regional comparisons  
-- synthesize the relationships between violence, services, and social attitudes  
-- complete the project portfolio with a **data visualization component**
+- territorial distribution of violence  
+- use of the 1522 service  
+- availability of services  
+- distribution of gender stereotypes  
+- relationships between key variables  
+
+---
+
+Final output used for visualization:
+
+`sql/05_results.csv`
+
+👉 **Tableau Public Dashboard:**  
+https://public.tableau.com/app/profile/sara.filiaci4225/viz/portfolio-gender-based-violence-analysis/Dashboard1
+
+---
+
+# Conclusion
+
+This project covers the full data analysis pipeline:
+
+- data cleaning  
+- data structuring  
+- SQL analysis  
+- indicator creation  
+- data visualization  
+
+and represents a complete example of a **data analysis workflow applied to a complex social phenomenon**.
